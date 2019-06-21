@@ -1,0 +1,9 @@
+( /Associate[s]*/ /'s/* /of|in/ /Degree/* )	DEGREE_ASSOC	DEGREE	9.0
+( /Bachelor[s]*/ /'s/* /of|in/ /Degree/* )	DEGREE_BCHLR	DEGREE	9.0
+( /Master[s]*/ /'s/* /of|in/ /Degree/* )	DEGREE_MSTR	DEGREE	9.0
+( /Doctor/ /'s/*  /of|in/* /Degree/* )	DEGREE_PHD	DEGREE	9.0
+( /B\.*[S|A]c*\.*/ )	DEGREE_BCHLR	DEGREE	9.0
+( /M\.*[S|A]c*\.*/ )	DEGREE_MSTR	DEGREE	9.0
+( /Ph\.*D\.*/ )	DEGREE_PHD	DEGREE	9.0
+( /Doctoral/ /degree/* )	DEGREE_PHD	DEGREE	9.0
+( /Doctorate/ )	DEGREE_PHD	DEGREE	9.0

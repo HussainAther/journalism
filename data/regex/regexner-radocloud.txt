@@ -1,0 +1,56 @@
+( (?m){1} /algorithms/ )	RADOCLOUD		5.0
+( (?m){1} /analysis/ )	RADOCLOUD		5.0
+( (?m){1} /analytical/ )	RADOCLOUD		5.0
+( (?m){2} /analytical tools/ )	RADOCLOUD		5.0
+( (?m){1} /apache/ )	RADOCLOUD		5.0
+( (?m){1} /aws/ )	RADOCLOUD		5.0
+( (?m){1} /Bayesian/ )	RADOCLOUD		5.0
+( (?m){1} /big.data/ )	RADOCLOUD		5.0
+( (?m){2} /a\/b testing/ )	RADOCLOUD		5.0
+( (?m){1} /business/ )	RADOCLOUD		5.0
+( (?m){1} /collaborate/ )	RADOCLOUD		5.0
+( (?m){1} /computational/ )	RADOCLOUD		5.0
+( (?m){2} /data processing/ )	RADOCLOUD		5.0
+( (?m){2} /deep learning/ )	RADOCLOUD		5.0
+( (?m){1} /development/ )	RADOCLOUD		5.0
+( (?m){1} /environment/ )	RADOCLOUD		5.0
+( (?m){2} /excellent communication/ )	RADOCLOUD		5.0
+( (?m){2} /fast paced/ )	RADOCLOUD		5.0
+( (?m){1} /frameworks/ )	RADOCLOUD		5.0
+( (?m){1} /hadoop/ )	RADOCLOUD		5.0
+( (?m){2} /industry experience/ )	RADOCLOUD		5.0
+( (?m){1} /java/ )	RADOCLOUD		5.0
+( (?m){2} /machine learning/ )	RADOCLOUD		5.0
+( (?m){1} /methods/ )	RADOCLOUD		5.0
+( (?m){1} /modeling/ )	RADOCLOUD		5.0
+( (?m){1} /models/ )	RADOCLOUD		5.0
+( (?m){2} /naive Bayes/ )	RADOCLOUD		5.0
+( (?m){2} /natural language/ )	RADOCLOUD		5.0
+( (?m){2} /non technical/ )	RADOCLOUD		5.0
+( (?m){1} /optimization/ )	RADOCLOUD		5.0
+( (?m){2} /power point/ )	RADOCLOUD		5.0
+( (?m){2} /problem solving/ )	RADOCLOUD		5.0
+( (?m){1} /programming/ )	RADOCLOUD		5.0
+( (?m){2} /programming language/ )	RADOCLOUD		5.0
+( (?m){2} /programming languages/ )	RADOCLOUD		5.0
+( (?m){1} /projects/ )	RADOCLOUD		5.0
+( (?m){1} /python/ )	RADOCLOUD		5.0
+( (?m){1} /research/ )	RADOCLOUD		5.0
+( (?m){1} /results/ )	RADOCLOUD		5.0
+( (?m){1} /scala/ )	RADOCLOUD		5.0
+( (?m){2} /scikit learn/ )	RADOCLOUD		5.0
+( (?m){1} /Score/ )	RADOCLOUD		5.0
+( (?m){2} /solving skills/ )	RADOCLOUD		5.0
+( (?m){1} /spark/ )	RADOCLOUD		5.0
+( (?m){2} /spl experience/ )	RADOCLOUD		5.0
+( (?m){2} /sql experience/ )	RADOCLOUD		5.0
+( (?m){2} /sql/ )	RADOCLOUD		5.0
+( (?m){2} /statistical modeling/ )	RADOCLOUD		5.0
+( (?m){1} /statistics/ )	RADOCLOUD		5.0
+( (?m){1} /tableau/ )	RADOCLOUD		5.0
+( (?m){1} /technical/ )	RADOCLOUD		5.0
+( (?m){1} /techniques/ )	RADOCLOUD		5.0
+( (?m){1} /technologies/ )	RADOCLOUD		5.0
+( (?m){1} /tools/ )	RADOCLOUD		5.0
+( (?m){2} /verbal communication/ )	RADOCLOUD		5.0
+( (?m){2} /written communication/ )	RADOCLOUD		5.0

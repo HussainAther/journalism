@@ -1,0 +1,49 @@
+UUID,Institution Name,Tab,Done,IPEDS ID,Carnegie Class,Conference,Total Enrollment (2016),URL,,Year Founded,Host Academic Unit,Project List URL,Additional Info
+ec0161d3-702e-47a2-ae41-2c09474720bf,Harvard University,HRVRD,Y,166027,Doctoral/Research Universities--Extensive,Ivy Group,"38,053",https://datascience.harvard.edu/,,2016,Engineering and Applied Science,,https://news.harvard.edu/gazette/story/2017/03/harvard-launches-sweeping-data-science-initiative/
+57b9726f-0435-4b2e-b3c1-bad912d72955,University of California-Irvine,UCI,Y,110653,Doctoral/Research Universities--Extensive,Not applicable,"32,967",http://datascience.uci.edu/,,2014,Statistics,,
+4a66fe44-cce6-4476-befe-c3f2215eac8f,Brown University,BROWN,Y,217156,Doctoral/Research Universities--Extensive,Ivy Group,"10,097",https://www.brown.edu/initiatives/data-science/,,2017,Standalone Collaboration (?),https://www.brown.edu/initiatives/data-science/research/research-projects,https://news.brown.edu/articles/2017/08/tripods
+f1075b0a-7369-48b8-8685-083a2089709a,Stanford University,STAN,Y,243744,Doctoral/Research Universities--Extensive,Pacific-12 Conference,"20,200",https://sdsi.stanford.edu/,,2015,Masters Program offered through Statistics Department,https://sdsi.stanford.edu/projects,
+31d5a7ab-2598-491e-ae70-d499dd0ac2e5,University of North Carolina at Charlotte,UNC@C,Y,199139,Masters Colleges and Universities I,Conference USA,"32,514","https://dsi.uncc.edu/
+https://research.ncsu.edu/dsi/education/unc-c/",Professional Masters Degree,2017,,https://dsi.uncc.edu/industry-research,
+e454dee4-8085-40db-b77f-d1c712e9a0d1,Rice University,N/A,Y,227757,Doctoral/Research Universities--Extensive,Conference USA,"7,104",https://datascience.rice.edu/,"Not an Academic Pgoram
+May have a DS degree; but info was scarce",2017,,,
+fa758340-783a-4b85-ab1c-81ea1295a1f9,University of California-San Francisco,N/A,Y,110699,Doctoral/Research Universities--Intensive,Not applicable,"3,152",https://www.library.ucsf.edu/data-science/,"Not an Academic Program
+Likely through UC Berkeley",,,,This is the library website; may not be the same
+d352ceda-f1ce-46a8-a2bf-a001b45d091d,University of Wisconsin-Madison,WISC,Y,240444,Doctoral/Research Universities--Extensive,Big Ten Conference,"45,931",https://research.wisc.edu/funding/data-science-initiative/,"Not an Academic Program
+DS Degree offered as MS in Statistics",,,,This may not be what we're looking for...
+6308a48d-0f52-443f-89e1-7525144e694e,North Carolina State University at Raleigh,NCSU,Y,199193,Doctoral/Research Universities--Extensive,Atlantic Coast Conference,"38,673",https://research.ncsu.edu/dsi/,Program offered through UNC Charlotte/Chapel Hill,2014,,https://research.ncsu.edu/dsi/projects/,
+93ca2f26-4a83-4e7f-b5c9-d03bc1f600fb,University of California-Davis,UCDAV,,110644,Doctoral/Research Universities--Extensive,Big Sky Conference,"37,381",http://dsi.ucdavis.edu/,Not an Academic Program,2015,,,
+ca393cfc-b62d-476e-8d33-74a21281afd2,University of California-San Diego,UCSD,Y,110680,Doctoral/Research Universities--Extensive,Not applicable,"34,570",http://hdsi.ucsd.edu/,,2017,,http://hdsi.ucsd.edu/research/index.html,
+874b9828-62fc-4804-8e94-9fa1a15e4653,University of Michigan-Ann Arbor,UMICH,Y,170976,Doctoral/Research Universities--Extensive,Big Ten Conference,"45,170",http://midas.umich.edu/dsi/,,2012,,http://midas.umich.edu/challenges/,https://record.umich.edu/articles/u-m-launching-100-million-data-science-initiative
+f6d1e17c-e006-437b-b482-d5f44efafc6c,University of Illinois at Urbana-Champaign,UIUC,Y,145637,Doctoral/Research Universities--Extensive,Big Ten Conference,"49,094",http://idsi.illinois.edu/,"Early
+Not an Academic Program
+ONLINE Professional Graduate Degree",2017,,,
+263eb499-3cb2-4558-99d5-a60bf3836876,Marquette University,MARQ,,239105,Doctoral/Research Universities--Extensive,Not applicable,"11,949",marquette.edu/data/,Undergraduate Program,,,,Partnered with IBM Watson
+79867201-d42f-4216-baee-bc26cbc81105,New York University,NYU,Y,193900,Doctoral/Research Universities--Extensive,Not applicable,"57,321",https://datascience.nyu.edu/,MS and PhD Program,2013,,https://cds.nyu.edu/research/,https://datascience.nyu.edu/nyu-launches-initiative-in-data-science-and-statistics-and-center-for-data-science/
+562880fd-49e6-424a-8c57-d076f3821f52,University of Connecticut,UCONN,Y,129020,Doctoral/Research Universities--Extensive,Big East Conference,"29,499",http://datascience.uconn.edu/,"Not an Academic Program
+Individual DS Degree from Statistics Program",????,,http://datascience.uconn.edu/index.php/projects,
+28ba896c-df13-4fad-9254-7f8a1e30bec5,University of California-Berkeley,UCB,Y,110635,Doctoral/Research Universities--Extensive,Pacific-12 Conference,"40,961",https://data.berkeley.edu/,,2015,,,
+aa10e0f4-9046-4eb7-98a6-622608dc6512,The University of Montana,UMT,Y,180489,Doctoral/Research Universities--Intensive,Big Sky Conference,"15,072",http://www.umt.edu/datascience/,Certificate Program,????,,,
+6632050e-cbe9-4fb6-8b68-ecca3859567e,Wayne State University,WYNE,Y,172644,Doctoral/Research Universities--Extensive,Great Lakes Intercollegiate Ath Conf,"32,519","datascience.wayne.edu/
+https://engineering.wayne.edu/data-analytics/","Not an Academic Program
+DS MS Degree through Engineering",????,,http://datascience.wayne.edu/PROJECT.html,
+9d6864cd-b694-411d-bc17-db8c17d61089,Northwestern University,NU,Y,147767,Doctoral/Research Universities--Extensive,Big Ten Conference,"25,359",https://datascience.northwestern.edu/,"Not an Academic Program
+DS MS Degree through Graduate School",2013,,,
+f1c9503e-4ac1-44b7-9169-74204368136f,Ohio State University-Main Campus,OHIO,Y,204796,Doctoral/Research Universities--Extensive,Big Ten Conference,"63,735",https://news.osu.edu/news/2017/05/16/translational-data-analytics-institute/,"Not An Academic Program
+Early
+Degree through Data Analytics Major
+Certificate Program",2017,,,
+fd04cba4-12f8-435d-a5cb-5d05b9b0f45b,Purdue University-Main Campus,N/A,Y,243780,Doctoral/Research Universities--Extensive,Big Ten Conference,"43,161","http://www.purdue.edu/newsroom/purduetoday/releases/2017/Q3/faculty,-staff-input-sought-to-explore-new-data-science-initiative.html
+https://www.purdue.edu/newsroom/purduetoday/releases/2018/Q1/steering-committee-for-integrative-data-science-initiative-formed.html
+http://www.purdue.edu/newsroom/releases/2018/Q2/purdue-university-launches-robust,-collaborative-integrative-data-science-initiative.html",Early,2018,,,
+cc97ba3c-292e-49d6-b6f3-4855186e0370,Rutgers University-New Brunswick,RUTG,Y,186380,Doctoral/Research Universities--Extensive,Big Ten Conference,"55,215",http://idsla.newark.rutgers.edu/,"DSI seem to be separate from academic program, but perhaps desires to have one multi-disciplenary program.
+Program in CS and Program in Stat
+Syllabi from Stat path",,,,
+5ccc6e58-29a2-437a-9e44-9518dfe9ffa6,University of Nebraska-Lincoln,N/A,Y,181464,Doctoral/Research Universities--Extensive,Big Ten Conference,"27,908",https://bigdata.unl.edu/,Not an Academic Program,2013,,,
+83a4292c-6550-4f64-884e-e20022f07287,Columbia University in the City of New York,COLNY,Y,190150,Doctoral/Research Universities--Extensive,Ivy Group,"30,379",http://datascience.columbia.edu/,"Master Degree
+Certificate Program",2012,,http://datascience.columbia.edu/grant-submission,"http://engineering.columbia.edu/columbia-nyc-launch-new-institute-data-sciences-and-engineering
+http://engineering.columbia.edu/columbia-engineering-names-top-leadership-new-data-sciences-institute"
+c3df65f9-ad9b-426a-bf1e-3052083244b2,Georgetown University,GTOWN,Y,131496,Doctoral/Research Universities--Extensive,Patriot League,"21,817",https://mccourt.georgetown.edu/massive-data-institute#,"Not an Academic Program
+Certificate Program
+Master of Science in Analytics",2013,,https://mccourt.georgetown.edu/massive-data-institute/research#,https://www.georgetown.edu/content/mccourt-school-press-release.html
+15d6bd1c-d359-441e-baea-d52c3b6b4091,University of Virginia-Main Campus,VRGN,Y,234076,Doctoral/Research Universities--Extensive,Atlantic Coast Conference,"27,523",http://dsi.virginia.edu/,,2013,,http://dsi.virginia.edu/research,

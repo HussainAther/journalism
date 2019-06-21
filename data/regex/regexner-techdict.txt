@@ -1,0 +1,47 @@
+( (?m){1} /Python/ )	TECHDICT	PERSON	2.0
+( (?m){1} /R/ )	TECHDICT	PERSON	2.0
+( (?m){1} /SAS/ )	TECHDICT	PERSON	5.0
+( (?m){1} /Scala/ )	TECHDICT	PERSON	2.0
+( (?m){1} /Spark/ )	TECHDICT	PERSON	2.0
+( (?m){1} /C/ )	TECHDICT	PERSON	2.0
+( (?m){1} /C++/ )	TECHDICT	PERSON	2.0
+( (?m){1} /Java/ )	TECHDICT	PERSON	2.0
+( (?m){1} /databases/ )	TECHDICT	PERSON	2.0
+( (?m){2} /database concepts/ )	TECHDICT	PERSON	2.0
+( (?m){2} /database design/ )	TECHDICT	PERSON	2.0
+( (?m){1} /\w*SQL/ )	TECHDICT	PERSON	2.0
+( (?m){1} /Hive/ )	TECHDICT	PERSON	2.0
+( (?m){1} /\w*DBMS/ )	TECHDICT	PERSON	2.0
+( (?m){1} /SSRS/ )	TECHDICT	PERSON	2.0
+( (?m){1} /Perl/ )	TECHDICT	PERSON	2.0
+( (?m){1} /JMP/ )	TECHDICT	PERSON	2.0
+( (?m){1} /Matlab/ )	TECHDICT	PERSON	2.0
+( (?m){1} /NumPy/ )	TECHDICT	PERSON	2.0
+( (?m){1} /SciPy/ )	TECHDICT	PERSON	2.0
+( (?m){1} /Pandas/ )	TECHDICT	PERSON	2.0
+( (?m){1} /Matplotlib/ )	TECHDICT	PERSON	2.0
+( (?m){1} /GGPlot2/ )	TECHDICT	PERSON	2.0
+( (?m){1} /dplyr/ )	TECHDICT	PERSON	2.0
+( (?m){1} /tidyR/ )	TECHDICT	PERSON	2.0
+( (?m){1} /Kafka/ )	TECHDICT	PERSON	2.0
+( (?m){1} /Scala/ )	TECHDICT	PERSON	2.0
+( (?m){1} /Hadoop/ )	TECHDICT	PERSON	2.0
+( (?m){1} /Matlab/ )	TECHDICT	PERSON	2.0
+( (?m){1} /perl/ )	TECHDICT	PERSON	2.0
+( (?m){1} /Splunk/ )	TECHDICT	PERSON	2.0
+( (?m){1} /sqoop/ )	TECHDICT	PERSON	2.0
+( (?m){1} /bayes/ )	TECHDICT	PERSON	2.0
+( (?m){1} /jenkins/ )	TECHDICT	PERSON	2.0
+( (?m){1} /mongo/ )	TECHDICT	PERSON	2.0
+( (?m){1} /cassandra/ )	TECHDICT	PERSON	2.0
+( (?m){1} /lua/ )	TECHDICT	PERSON	2.0
+( (?m){1} /markov/ )	TECHDICT	PERSON	2.0
+( (?m){1} /hortonworks/ )	TECHDICT	PERSON	2.0
+( (?m){1} /scala/ )	TECHDICT	PERSON	2.0
+( (?m){1} /django/ )	TECHDICT	PERSON	2.0
+( (?m){1} /tensorflow/ )	TECHDICT	PERSON	2.0
+( (?m){1} /tensor/ /flow/ )	TECHDICT	PERSON	2.0
+( (?m){1} /Ruby/ )	TECHDICT	PERSON	2.0
+( (?m){1} /gephi/ )	TECHDICT	PERSON	2.0
+( (?m){1} /tableau/ )	TECHDICT	PERSON	2.0
+( (?m){1} /oozie/ )	TECHDICT	PERSON	2.0

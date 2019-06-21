@@ -1,0 +1,90 @@
+# Presentations by the Statistics Living-Learning Center (LLC).
+Felix Francisco-Sanchez*, McKeith Pearson, Michael Young, Walid Sharabati, and R. Claudio Aguilar**, "Quantitative Analysis of Yeast Cell Morphology Defects Induced by Gene De-Regulation", Virtual Brown Bag Research Discussion Series, Center for Science of Information, March 31, 2016.
+Peter Boyd*, Brian Kidd*, Christopher Vincent*, Weston Phillips*, "How Important Is Week One of the NFL Season? A Probability Model and Simulation", Undergraduate Research and Poster Symposium, April 12, 2016.
+Felix Francisco-Sanchez*, McKeith Pearson II, Michael Young, Walid Sharabati, and R. Claudio Aguilar**, "Classifying Yeast Cell Phenotypes Using Cell Morphology", Student Poster Session in Discovery Park at Purdue University, April 21, 2016.
+Patrick Gallagher*, Bruce A Craig**, Tim Luttermoser, and Grzegorz Buczkowski, "Paired Competition Analysis using Mixed Models", Undergraduate Research and Poster Symposium at Purdue University, April 12, 2016.
+Patrick Gallagher*, Bruce A Craig**, Tim Luttermoser, and Grzegorz Buczkowski, "Paired Competition Analysis using Mixed Models", Conference on Applied Statistics in Agriculture at Kansas State University, May 3, 2016.
+Karly Rushmore, Aaron Brehm*, Laura E. D'Acunto, and Patrick Zollner**, "Investigating the Impact of Local Versus Landscape-Level Variables on Bat Species Occupancy in Indiana", 8th Annual Midwest Bat Working Group meetings at The Ohio State University, April 21, 2016.
+Kristen Mori* and Jack VanSchaik*, "Statistical Soundscape Ecology: Entropy and Phase Transition Analysis of Big Sound Data", Rose Hulman Undergraduate Mathematics Conference, on April 22, 2016.
+Kent Gauen*, "An Overview of Machine Learning using MNIST Dataset", Rose Hulman Undergraduate Mathematics Conference, on April 23, 2016.
+Alan Min*, "Population Balance Model for DNA Methylation", Rose Hulman Undergraduate Mathematics Conference, on April 23, 2016.
+Karan Samel*, "Predicting Advertisement Clicks Using Deep Learning", Rose Hulman Undergraduate Mathematics Conference, on April 23, 2016.
+Sameer Manchanda*, Mikaela Meyer*, and Nan Kong**, "On Comprehensive Mass Spectrometry Data Analysis for Proteomic Profiling of Biological Samples, Symposium on Big Data", Human Health and Statistics at the University of Michigan, on July 21, 2016.
+Kent Gauen*, "Fundamental Supervised Machine Learning Models", Symposium on Big Data, Human Health and Statistics at the University of Michigan, on July 21, 2016.
+Abigail Vorhies* and Bailey O'Malley*, "Linking Mesodinium Bloom Timing with River Flow Discharge and Estuarine Classification in the Columbia River Estuary", NSF Center for Coastal Margin Observation and Prediction in Portland, Oregon, 2015.
+Erin Madden, Brian Kidd*, Owen Levin, Jonathon Peterson, Jacob Smith, Kevin Stangl, "Upper and Lower Bounds on the Speed of a One Dimensional Excited Random Walk", Indiana Undergraduate Math Research Conference on July 25, 2016.
+Sameer Manchanda*, Mikaela Meyer*, Nan Kong**, Qianqian Li, Yan Li, "On Comprehensive Mass Spectrometry Data Analysis for Quality Assessment of Biological Samples (Mass Spectrometry Data Analysis for Mass-to-Charge Signature Identification: Applications in Biosample Quality Control)", 2016 INFORMS Undergraduate O.R. (Operations Research) Prize Competition, November 13, 2016.
+Weake, V.M. et al. (includes Christopher Vincent* and Rebecca Doerge**) "Age-related transcription changes in photoreceptor neurons are light-dependent", Genetics Society of America Drosophila Meeting San Diego, March 28-April 2, 2017.
+Sameer Manchanda*, Mikaela Meyer*, Qianqian Li, Nan Kong**, Kai Liang and Yan Li, "On Comprehensive Mass Spectrometry Data Analysis for Proteome Profiling of Human Blood Samples", Data Mining for Medicine and Healthcare with SIAM Data Mining 2017 (SDM 2017), on April 29, 2017.
+Weake, V.M. et al. (includes Christopher Vincent* and Rebecca Doerge**) "Age-related transcription changes in photoreceptor neurons are light-dependent", ARVO, Baltimore, MD, May 8-11, 2017.
+Weake, V.M. et al. (includes Christopher Vincent* and Rebecca Doerge**) "Differential susceptibility of genes to transcriptional decline in aging Drosophila sensory neurons. Gordon Conference on Aging", Les Diablerets, Switzerland, July 9-14, 2017.
+Graciany Lebron Rodriguez*, Vetria Byrd**, and Mark Daniel Ward**, "Exploring Theoretical Foundations of the Underpinnings of Big Data Analytics for Visualizing Heterogeneous Systemic Lupus Erythematosus (SLE) Data", Purdue University's Summer Research Opportunities Program (SROP), on July 26, 2017.
+Bret Benesh, Jamylle Carter, Deidra Coleman, Jack Good*, Michael Smith*, Jennifer Travis, and Mark Daniel Ward**, "Periodicity in Game Theory", Joint Statistical Meetings, on July 31, 2017.
+Maggie Christy*, David Ross**, Pazit Sankey**, Susan Scott**, Sarah Wang**, and Mark Daniel Ward**, "Quality Control of Blood Sample Analysis for Transplant Patients", Joint Statistical Meetings, on July 31, 2017. Preliminary version also Midwest Women in Math Symposium on February 25, 2017 at IUPUI.
+Brian French*, Nicole Markley*, Laszlo Csonka**, and Mark Daniel Ward**, "Rates of DNA Mutation in Genes and Inte-Gene Regions", Joint Statistical Meetings, on July 31, 2017.
+Elle Tigner* and Jennifer Neville**, "An Analysis of Network Discussion Trends in Twitter Using Hashtag Clusters", Joint Statistical Meetings, on July 31, 2017.
+Kent Gauen*, Yuxiang Zi, John Laiman, Nirmal Asokan and Yung-Hsiang Lu**, CAM2 Network Camera Object Detection Dataset and Analysis, Joint Statistical Meetings, on July 31, 2017.
+Brittany Griggs*, Swetha Ramadesikan, and Ruben Claudio Aguilar**, "Changes in Cell Structure and Spreading from Lowe Syndrome", Joint Statistical Meetings, on July 31, 2017.
+Emma Beck*, Zoe Danielle Phillips*, and Bryan Pijanowski**, "Soundscape Ecology and Daily Trends of Acoustic Indices", Joint Statistical Meetings, on July 31, 2017.
+Mark Daniel Ward** and Fulya Gokalp Yavuz, "Fostering Undergraduate Data Science", Joint Statistical Meetings, on July 31, 2017.
+Alan Min* and Doraiswami Ramkrishna**, Diffusion Dependent Methylation Mechanics", Joint Statistical Meetings, on August 1, 2017.
+Manjie Fu* and Brandon E. Boor, "Infant Exposure to Resuspended Particles from Carpeted Flooring: Experimental Chamber Study with a Simplified Mechanical Crawling Infant", Purdue University's Summer Undergraduate Research Fellowship (SURF) Symposium, on August 4, 2016.
+Manjie Fu*, "Crawling-Induced Dust Resuspension as a Major Source of Particulate Matter in the Infant Breathing Zone", Undergraduate Research and Poster Symposium, April 11, 2017.
+Abigael Johnson*, "Alemán and Cervantes: Story Versus Argument", Undergraduate Research and Poster Symposium, April 11, 2017.
+Abigael Johnson* and M. J. Monteith, "The Effects of an Empirically-Based Wise Intervention on Attitudes Toward Diversity", Poster Purdue University 2017 Psychological Sciences Departmental Poster Session and Purdue University Honors College Medallion Ceremony, May 10, 2017.
+Elizabeth Coppola, Sharon Christ**, and Abigael Johnson*, "The Lasting Mental Health Burden of Experiencing Parental Psychological Neglect in Adolescence", Add Health User's Conference, Bethesda, MD, in June 2016. 
+Kent Gauen* and Xiao Wang**, "Fundamental Unsupervised Machine Learning Models",  Undergraduate Mathematics Symposium, at University of Illinois at Chicago, on October 15, 2016
+Kent Gauen* and Xiao Wang**, "Fundamental Unsupervised Machine Learning Models", Undergraduate Statistical Conference, at Howard University, on September 24, 2016
+Kristen Bellisario, Jack Vanschaik*, Zhao Zhao, Hichem Omrani, Amandine Gasc, Bryan Pijanowski**, "Musicological Indices for Soundscape Ecological Analysis", Acoustical Society of America Conference, June 2017.
+Jack VanSchaik*, Kristen Bellisario, Amandine Gasc, and Bryan Pijanowski**, "Spatial Soundscape Ecology: Application in a Paleotropical Rainforest, Research talk given at GSSN Conference", Acoustical Society of America Conference, June 2017.
+Kristen M. Bellisario, Laura Jessup, John B. Dunning, Jack VanSchaik, Laura D'Acunto, Benjamin Gottesman, Cristian Graupe, and Bryan C. Pijanowski, "A rapid assessment monitoring framework to characterize a loud sound event stressor on a vocalizing bird community in a US Midwestern prairie", International Eco-Acoustics Congress in Brisbane, Australia, in June/July 2018.
+Jack VanSchaik* and Steve Bell, "A Real Variable Equivalance of the Riemann Hypothesis Using Step Functions", Purdue University's College of Science Alumni Board, 2017
+Alan Min*, Yuzheng Hu, Thomas Ross, Elliot A. Stein, Betty Jo Salmeron, "Human Subtypes Based on Static and Dynamic rsfMRI Data", National Institutes of Health, summer 2017.
+James Marshall Reber, "Methods for Improving the Lower Bound of R(5,5)", MathFest 2017.
+Bret Benesh, Jamylle Carter, Deidra Coleman, Jack Good*, Michael Smith*, Jennifer Travis, and Mark Daniel Ward**, "Periodicity in Game Theory", MathFest 2017.
+Miranda Champion*, "Applying Big Data Analysis to Particle Physics", Rose Hulman Undergraduate Mathematics Conference, on April 21, 2017.
+Brittany Griggs*, "Changes in Cell Structure and Spreading from Lowe Syndrome", Rose Hulman Undergraduate Mathematics Conference, on April 21, 2017.
+Peyton Puckett*, "Automating the Effective Fragment Potential Method", Rose Hulman Undergraduate Mathematics Conference, on April 21, 2017.
+Michael Smith* and Jack Good*, "Periodicity of Subtraction Games", Rose Hulman Undergraduate Mathematics Conference, on April 22, 2017, First Place (overall conference prize).
+Amber Young*, Donglai Chen, and Jun Xie**, "Reanalysis of Cancer Immunotherapy Clinical Data to Elucidate Genetic information of Immunotherapy Response", Rose Hulman Undergraduate Mathematics Conference, on April 22, 2017.
+Amber Young*, "Comparison of Statistical Procedures to Identify Technicians with Terminal Digit Preference in Blood Pressure Measurements", Rose Hulman Undergraduate Mathematics Conference, on April 20, 2018, one of three overall conference prizes.
+Jack VanSchaik*, "A Real Variable Equivalence of the Riemann Zeta Hypothesis Using Step Functions", Rose Hulman Undergraduate Mathematics Conference, on April 20, 2018.
+Dylan Martin* and Vetria Byrd**, "Big Data Visualization: HoloLens Transforms Users to Data Scientists", Rose Hulman Undergraduate Mathematics Conference, on April 21, 2018.
+Cailey Farrell*, Meera Haridasa*, "Using Time and Location to Analyze the Effectivity of Machine Learning Algorithms", Rose Hulman Undergraduate Mathematics Conference, on April 21, 2018, one of three overall conference prizes.
+Namaluba Malawo*, "Using Boosted Regression Trees to Predict Invasive Species Richness", Rose Hulman Undergraduate Mathematics Conference, on April 21, 2018, one of three overall conference prizes.
+Simon Langowski*, "On the Computation of Wilf Partitions", Rose Hulman Undergraduate Mathematics Conference, on April 21, 2018, one of two overall conference honorable mentions.
+Chris Byran*, "Cell Data Mining and Phenotypic Classification Using Image Analysis of Epigenetic Modifications", Rose Hulman Undergraduate Mathematics Conference, on April 21, 2018.
+A. Bhalgat, R. Ali, M. Wendt, "The impact of differential ligand engagement on downstream signaling of epidermal growth factor receptor", Purdue's Undergraduate Research Symposium, 2018
+Avni Bhalgat, Arindam Bose, Huang Ling, Senthil Muthuswamy, "Overcoming Chemotherapeutic Resistance in Pancreatic Cancer", The Leadership Alliance National Symposium, 2018
+Amber Young and George McCabe, "Comparison of Statistical Procedures to Identify Technicians with Terminal Digit Preference in Blood Pressure Measurements", Purdue Undergraduate Research Conference, 2018.
+Aaron Hoffman, Mikaela Meyer, Prateek Malik, Pablo Balcazar, Erin Hennes, Dwaine Jengelley, and Stefanie Walsh, "How anxiety about Donald Drumpf influences news reporting", Presented at Midwest Political Science Association Annual Conference in Chicago, IL, April 5, 2018
+Mikaela Meyer and David Johnson, "Variability Analysis of Historic Flood Depth Returns in Coastal Louisiana", Purdue Undergraduate Research Symposium, April 10, 2018.
+Jackson Ball, Mikaela Meyer, Baylee Bunce, and David Johnson, "Parametric Sensitivity Analysis of a Coastal Louisiana Flood Risk Model", Purdue Undergraduate Research Symposium, April 10, 2018.
+Luke Francisco, Lei Nie, Ryan Murphy, and Elliot Friedman, "Impact of the Economic Recession on Measures of Health", Purdue Undergraduate Research Conference, 2018.
+Elizabeth Bell, Dennis Buckmaster, Tyler Netherly, and Madison Trout, "Crop Yields Throughout the Decades", Chicago OATS Kickoff meeting (November 17, 2017).
+Elizabeth Bell, Dennis Buckmaster, Tyler Netherly, and Madison Trout, "Impact of Rainfall on Crop Yield", Purdue Undergraduate Research Conference, 2018
+Elizabeth Bell, Dennis Buckmaster, Tyler Netherly, and Madison Trout, "Macroscopic Crop Yield Prediction Using Public Data", Purdue Statistics Symposium, 2018
+Elizabeth Bell, Dennis Buckmaster, Tyler Netherly, and Madison Trout, "Unearthing Correlations Between Crop Yields and Uncontrollable Factors", Joint Statistical Meetings, 2018
+Mark Daniel Ward, "Data Scraping, Parsing, Wrangling, and Cleaning", Joint Statistical Meetings, 2018
+Mark Daniel Ward (Invited Panel), "Are We (Academia) Producing Leaders with Necessary Statistical Skills?", Joint Statistical Meetings, 2018
+Simon Langowski and Mark Daniel Ward, "First Order Asymptotic Variance of a Leader Election Algorithm", Joint Statistical Meetings, 2018
+Bret Benesh, Jamylle Carter, Deidra Coleman, Doug Crabill, Jack Good*, Michael Smith*, Jennifer Travis, and Mark Daniel Ward**, "A Computational, Data-Driven Approach to Game Theory", Joint Statistical Meetings, 2018.
+Hannah Bredikhin and Jun Xie, "Secondary Data Analysis to Predict Therapeutic Outcome of Colorectal Cancer Patients", Joint Statistical Meetings, 2018.
+Namaluba Malawo, Gabriela Nunez, and Songlin Fei, "Predicting Invasive Species Richness with Boosted Regression Trees", Joint Statistical Meetings, 2018.
+Hope Cullers and Mike Baldwin, "Using Error Statistics to Improve Forecasts", Joint Statistical Meetings, 2018.
+Dylan Martin and Vetria Byrd, "Big Data Visualization: User to Data Scientist", Joint Statistical Meetings, 2018.
+Timothy J. Park, "Improving Object Detection with Image Preprocessing", Joint Statistical Meetings, 2018.
+Meera Haridasa and Cailey Farrell, "Analyzing Bias in Object Detection Data Sets", Joint Statistical Meetings, 2018.
+Rafael Lovas and Tom Leinart, "Full-Range Tail Dependence Copulas with Applications in Insurance", Joint Statistical Meetings, 2018.
+Lauren Taylor Washington and Vetria Byrd, "Visualizing Lupus Symptom Clusters", Joint Statistical Meetings, 2018.
+Luke Francisco, Elliot Friedman, Ryan Murphy, and Lei Nie, "Analyzing the Effect of the Great Recession (2007-2009) on Changes in Health", Joint Statistical Meetings, 2018.
+Chris Bryan, "Single Cell Data Mining of Live Cell Epigenetic Modifications", Joint Statistical Meetings, 2018.
+James Marshall Reber, "Mixing Times of Random Walks on Various Combinatorial Objects", Research Experience for Undergraduates Program Research Reports (from REU program at IU Bloomington), 2018.
+Dylan Martin and Vetria Byrd, "Big Data Visualization: HoloLens Transforms Users to Data Scientists", Purdue University Undergraduate Research Symposium, April 2018.
+Dylan Martin and Vetria Byrd, "Big Data Visualization: User to Data Scientist", Broadening Participation in Visualization (BPViz), June 2018.
+Logan Bradley-Trietsch, "Estimating Traffic Intensity with Semantic Segmentation", Rose Hulman Undergraduate Mathematics Conference, April 2019.
+Jessica Gilbert, "Diversity of forest structure across the United States", Rose Hulman Undergraduate Mathematics Conference, April 2019.
+Luke Francisco, "Impact of the Economic Recession on Measures of Health", Rose Hulman Undergraduate Mathematics Conference, April 2019.
+Kali Lacy, "A computational approach to the structure of subtraction games", Rose Hulman Undergraduate Mathematics Conference, April 2019.
+Kevin LaMaster, "Generating interest in Generating Functions (And more word play)", Rose Hulman Undergraduate Mathematics Conference, April 2019.
+Garrett Mulcahy, "Big Bad Matrices: A Constructive Approach", Rose Hulman Undergraduate Mathematics Conference, April 2019.

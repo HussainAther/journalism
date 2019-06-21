@@ -1,0 +1,18 @@
+( (?m){2} /statistical methodology/ )	EDUWORD		2.0
+( (?m){2} /computational science/ )	EDUWORD		2.0
+( (?m){2} /application domains/ )	EDUWORD		2.0
+( (?m){2} /statistical modeling/ )	EDUWORD		2.0
+( (?m){2} /machine learning/ )	EDUWORD		2.0
+( (?m){1} /optimization/ )	EDUWORD		2.0
+( (?m){3} /massive data sets/ )	EDUWORD		2.0
+( (?m){2} /data acquisition/ )	EDUWORD		2.0
+( (?m){3} /reproducible data analysis/ )	EDUWORD		2.0
+( (?m){2} /data analysis/ )	EDUWORD		2.0
+( (?m){3} /collaborative problem solving/ )	EDUWORD		2.0
+( (?m){2} /problem solving/ )	EDUWORD		2.0
+( (?m){1} /problem-solving/ )	EDUWORD		2.0
+( (?m){1} /visualization/ )	EDUWORD		2.0
+( (?m){1} /communication/ )	EDUWORD		2.0
+( (?m){1} /security/ )	EDUWORD		2.0
+( (?m){2} /ethical issues/ )	EDUWORD		2.0
+( (?m){1} /ethics/ )	EDUWORD		2.0

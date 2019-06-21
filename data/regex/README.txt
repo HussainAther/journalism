@@ -1,0 +1,1 @@
+Regular Expression Dictionaries Derived from Data Scientist Positions and Course Curriculum

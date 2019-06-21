@@ -1,0 +1,3 @@
+Top 10 words found via LDA for each topic
+Topic #0:
+0 - 9 4 t / 3 7 d 5

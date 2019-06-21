@@ -1,0 +1,30 @@
+( (?m){1} /data/ )	TANG		9.0
+( (?m){2} /data science/ )	TANG		9.0
+( (?m){1} /analytic/ )	TANG		9.0
+( (?m){1} /business/ )	TANG		9.0
+( (?m){1} /program/ )	TANG		9.0
+( (?m){1} /analyz/ )	TANG		9.0
+( (?m){1} /analyst/ )	TANG		9.0
+( (?m){1} /skill/ )	TANG		9.0
+( (?m){1} /big.data/ )	TANG		9.0
+( (?m){1} /statistic/ )	TANG		9.0
+( (?m){1} /profession/ )	TANG		9.0
+( (?m){1} /data-mining/ )	TANG		9.0
+( (?m){1} /project/ )	TANG		9.0
+( (?m){1} /industr/ )	TANG		9.0
+( (?m){1} /information/ )	TANG		9.0
+( (?m){1} /develop/ )	TANG		9.0
+( (?m){1} /tools/ )	TANG		9.0
+( (?m){1} /organization/ )	TANG		9.0
+( (?m){1} /science/ )	TANG		9.0
+( (?m){1} /data-analytics/ )	TANG		9.0
+( (?m){1} /design/ )	TANG		9.0
+( (?m){1} /field/ )	TANG		9.0
+( (?m){2} /computer science/ )	TANG		9.0
+( (?m){1} /experience/ )	TANG		9.0
+( (?m){1} /model/ )	TANG		9.0
+( (?m){1} /knowing/ )	TANG		9.0
+( (?m){1} /engineering/ )	TANG		9.0
+( (?m){1} /research/ )	TANG		9.0
+( (?m){1} /communicat/ )	TANG		9.0
+( (?m){1} /effective/ )	TANG		9.0

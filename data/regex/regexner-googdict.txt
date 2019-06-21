@@ -1,0 +1,240 @@
+( (?m){2} /A\/B testing/ )	GOOGDICT		4.0
+( (?m){1} /accuracy/ )	GOOGDICT		4.0
+( (?m){2} /activation function/ )	GOOGDICT		4.0
+( (?m){1} /AdaGrad/ )	GOOGDICT		4.0
+( (?m){1} /AUC/ )	GOOGDICT		4.0
+( (?m){5} /Area under the ROC Curve/ )	GOOGDICT		4.0
+( (?m){2} /automation bias / )	GOOGDICT		4.0
+( (?m){1} /backpropagation/ )	GOOGDICT		4.0
+( (?m){1} /baseline/ )	GOOGDICT		4.0
+( (?m){1} /batch/ )	GOOGDICT		4.0
+( (?m){2} /batch size/ )	GOOGDICT		4.0
+( (?m){1} /bias/ )	GOOGDICT		4.0
+( (?m){2} /binary classification/ )	GOOGDICT		4.0
+( (?m){1} /binning/ )	GOOGDICT		4.0
+( (?m){1} /bucketing/ )	GOOGDICT		4.0
+( (?m){2} /calibration layer/ )	GOOGDICT		4.0
+( (?m){2} /candidate sampling/ )	GOOGDICT		4.0
+( (?m){2} /categorical data/ )	GOOGDICT		4.0
+( (?m){1} /centroid/ )	GOOGDICT		4.0
+( (?m){1} /checkpoint/ )	GOOGDICT		4.0
+( (?m){1} /class/ )	GOOGDICT		4.0
+( (?m){3} /class-imbalanced data set/ )	GOOGDICT		4.0
+( (?m){2} /classification model/ )	GOOGDICT		4.0
+( (?m){2} /classification threshold/ )	GOOGDICT		4.0
+( (?m){1} /clustering/ )	GOOGDICT		4.0
+( (?m){2} /collaborative filtering/ )	GOOGDICT		4.0
+( (?m){2} /confirmation bias / )	GOOGDICT		4.0
+( (?m){2} /confusion matrix/ )	GOOGDICT		4.0
+( (?m){2} /continuous feature/ )	GOOGDICT		4.0
+( (?m){1} /convergence/ )	GOOGDICT		4.0
+( (?m){2} /convex function/ )	GOOGDICT		4.0
+( (?m){2} /convex optimization/ )	GOOGDICT		4.0
+( (?m){2} /convex set/ )	GOOGDICT		4.0
+( (?m){1} /convolution/ )	GOOGDICT		4.0
+( (?m){2} /convolutional filter/ )	GOOGDICT		4.0
+( (?m){2} /convolutional layer/ )	GOOGDICT		4.0
+( (?m){3} /convolutional neural network/ )	GOOGDICT		4.0
+( (?m){2} /convolutional operation/ )	GOOGDICT		4.0
+( (?m){1} /cost/ )	GOOGDICT		4.0
+( (?m){2} /coverage bias / )	GOOGDICT		4.0
+( (?m){1} /cross-entropy/ )	GOOGDICT		4.0
+( (?m){2} /custom Estimator/ )	GOOGDICT		4.0
+( (?m){2} /data analysis/ )	GOOGDICT		4.0
+( (?m){1} /DataFrame/ )	GOOGDICT		4.0
+( (?m){2} /data set/ )	GOOGDICT		4.0
+( (?m){2} /Dataset API/ )	GOOGDICT		4.0
+( (?m){2} /decision boundary/ )	GOOGDICT		4.0
+( (?m){2} /dense layer/ )	GOOGDICT		4.0
+( (?m){2} /deep model/ )	GOOGDICT		4.0
+( (?m){2} /dense feature/ )	GOOGDICT		4.0
+( (?m){1} /device/ )	GOOGDICT		4.0
+( (?m){2} /discrete feature/ )	GOOGDICT		4.0
+( (?m){2} /dropout regularization/ )	GOOGDICT		4.0
+( (?m){2} /dynamic model/ )	GOOGDICT		4.0
+( (?m){2} /early stopping/ )	GOOGDICT		4.0
+( (?m){1} /embeddings/ )	GOOGDICT		4.0
+( (?m){3} /empirical risk minimization/ )	GOOGDICT		4.0
+( (?m){1} /ensemble/ )	GOOGDICT		4.0
+( (?m){1} /epoch/ )	GOOGDICT		4.0
+( (?m){1} /Estimator/ )	GOOGDICT		4.0
+( (?m){2} /experimenter's bias / )	GOOGDICT		4.0
+( (?m){2} /false negative/ )	GOOGDICT		4.0
+( (?m){2} /false positive/ )	GOOGDICT		4.0
+( (?m){2} /false positive rate/ )	GOOGDICT		4.0
+( (?m){1} /feature/ )	GOOGDICT		4.0
+( (?m){2} /Feature column/ )	GOOGDICT		4.0
+( (?m){2} /feature cross/ )	GOOGDICT		4.0
+( (?m){2} /feature engineering/ )	GOOGDICT		4.0
+( (?m){2} /feature set/ )	GOOGDICT		4.0
+( (?m){2} /feature spec/ )	GOOGDICT		4.0
+( (?m){2} /few-shot learning/ )	GOOGDICT		4.0
+( (?m){2} /full softmax/ )	GOOGDICT		4.0
+( (?m){3} /fully connected layer/ )	GOOGDICT		4.0
+( (?m){1} /generalization/ )	GOOGDICT		4.0
+( (?m){3} /generalized linear model/ )	GOOGDICT		4.0
+( (?m){1} /gradient/ )	GOOGDICT		4.0
+( (?m){2} /gradient clipping/ )	GOOGDICT		4.0
+( (?m){2} /gradient descent/ )	GOOGDICT		4.0
+( (?m){1} /graph/ )	GOOGDICT		4.0
+( (?m){3} /group attribution bias / )	GOOGDICT		4.0
+( (?m){1} /heuristic/ )	GOOGDICT		4.0
+( (?m){2} /hidden layer/ )	GOOGDICT		4.0
+( (?m){2} /hinge loss/ )	GOOGDICT		4.0
+( (?m){2} /holdout data/ )	GOOGDICT		4.0
+( (?m){1} /hyperparameter/ )	GOOGDICT		4.0
+( (?m){1} /hyperplane/ )	GOOGDICT		4.0
+( (?m){2} /implicit bias / )	GOOGDICT		4.0
+( (?m){4} /independently and identically distributed/ )	GOOGDICT		4.0
+( (?m){1} /inference/ )	GOOGDICT		4.0
+( (?m){2} /in-group bias / )	GOOGDICT		4.0
+( (?m){2} /input function/ )	GOOGDICT		4.0
+( (?m){2} /input layer/ )	GOOGDICT		4.0
+( (?m){1} /instance/ )	GOOGDICT		4.0
+( (?m){1} /interpretability/ )	GOOGDICT		4.0
+( (?m){2} /inter-rater agreement/ )	GOOGDICT		4.0
+( (?m){1} /iteration/ )	GOOGDICT		4.0
+( (?m){1} /k-means/ )	GOOGDICT		4.0
+( (?m){1} /k-median/ )	GOOGDICT		4.0
+( (?m){1} /Keras/ )	GOOGDICT		4.0
+( (?m){4} /Kernel Support Vector Machines/ )	GOOGDICT		4.0
+( (?m){2} /L1 loss/ )	GOOGDICT		4.0
+( (?m){2} /L1 regularization/ )	GOOGDICT		4.0
+( (?m){2} /L2 loss/ )	GOOGDICT		4.0
+( (?m){2} /L2 regularization/ )	GOOGDICT		4.0
+( (?m){1} /label/ )	GOOGDICT		4.0
+( (?m){1} /labeled example/ )	GOOGDICT		4.0
+( (?m){1} /lambda/ )	GOOGDICT		4.0
+( (?m){1} /layer/ )	GOOGDICT		4.0
+( (?m){2} /Layers API/ )	GOOGDICT		4.0
+( (?m){2} /learning rate/ )	GOOGDICT		4.0
+( (?m){3} /least squares regression/ )	GOOGDICT		4.0
+( (?m){2} /linear regression/ )	GOOGDICT		4.0
+( (?m){2} /logistic regression/ )	GOOGDICT		4.0
+( (?m){1} /logits/ )	GOOGDICT		4.0
+( (?m){2} /Log Loss/ )	GOOGDICT		4.0
+( (?m){1} /log-odds/ )	GOOGDICT		4.0
+( (?m){1} /loss/ )	GOOGDICT		4.0
+( (?m){2} /machine learning/ )	GOOGDICT		4.0
+( (?m){3} /Mean Squared Error/ )	GOOGDICT		4.0
+( (?m){1} /metric/ )	GOOGDICT		4.0
+( (?m){2} /Metrics API/ )	GOOGDICT		4.0
+( (?m){1} /mini-batch/ )	GOOGDICT		4.0
+( (?m){4} /mini-batch stochastic gradient descent/ )	GOOGDICT		4.0
+( (?m){1} /ML/ )	GOOGDICT		4.0
+( (?m){1} /model/ )	GOOGDICT		4.0
+( (?m){2} /model function/ )	GOOGDICT		4.0
+( (?m){2} /model training/ )	GOOGDICT		4.0
+( (?m){1} /Momentum/ )	GOOGDICT		4.0
+( (?m){2} /multi-class classification/ )	GOOGDICT		4.0
+( (?m){2} /multinomial classification/ )	GOOGDICT		4.0
+( (?m){2} /NaN trap/ )	GOOGDICT		4.0
+( (?m){2} /negative class/ )	GOOGDICT		4.0
+( (?m){2} /neural network/ )	GOOGDICT		4.0
+( (?m){1} /neuron/ )	GOOGDICT		4.0
+( (?m){1} /node/ )	GOOGDICT		4.0
+( (?m){2} /non-response bias / )	GOOGDICT		4.0
+( (?m){1} /normalization/ )	GOOGDICT		4.0
+( (?m){2} /numerical data/ )	GOOGDICT		4.0
+( (?m){1} /numpy/ )	GOOGDICT		4.0
+( (?m){1} /objective/ )	GOOGDICT		4.0
+( (?m){2} /offline inference/ )	GOOGDICT		4.0
+( (?m){2} /one-hot encoding/ )	GOOGDICT		4.0
+( (?m){2} /one-shot learning/ )	GOOGDICT		4.0
+( (?m){1} /one-vs\.-all/ )	GOOGDICT		4.0
+( (?m){2} /online inference/ )	GOOGDICT		4.0
+( (?m){1} /Operation/ )	GOOGDICT		4.0
+( (?m){1} /optimizer/ )	GOOGDICT		4.0
+( (?m){3} /out-group homogeneity bias / )	GOOGDICT		4.0
+( (?m){1} /outliers/ )	GOOGDICT		4.0
+( (?m){2} /output layer/ )	GOOGDICT		4.0
+( (?m){1} /overfitting/ )	GOOGDICT		4.0
+( (?m){1} /pandas/ )	GOOGDICT		4.0
+( (?m){1} /parameter/ )	GOOGDICT		4.0
+( (?m){2} /Parameter Server/ )	GOOGDICT		4.0
+( (?m){2} /parameter update/ )	GOOGDICT		4.0
+( (?m){2} /partial derivative/ )	GOOGDICT		4.0
+( (?m){2} /participation bias/ )	GOOGDICT		4.0
+( (?m){2} /partitioning strategy/ )	GOOGDICT		4.0
+( (?m){1} /performance/ )	GOOGDICT		4.0
+( (?m){1} /perplexity/ )	GOOGDICT		4.0
+( (?m){1} /pipeline/ )	GOOGDICT		4.0
+( (?m){1} /pooling/ )	GOOGDICT		4.0
+( (?m){2} /positive class/ )	GOOGDICT		4.0
+( (?m){1} /precision/ )	GOOGDICT		4.0
+( (?m){1} /prediction/ )	GOOGDICT		4.0
+( (?m){2} /prediction bias/ )	GOOGDICT		4.0
+( (?m){2} /premade Estimator/ )	GOOGDICT		4.0
+( (?m){2} /pre-trained model/ )	GOOGDICT		4.0
+( (?m){2} /prior belief/ )	GOOGDICT		4.0
+( (?m){2} /proxy labels/ )	GOOGDICT		4.0
+( (?m){1} /queue/ )	GOOGDICT		4.0
+( (?m){1} /rank/ )	GOOGDICT		4.0
+( (?m){1} /rater/ )	GOOGDICT		4.0
+( (?m){1} /recall/ )	GOOGDICT		4.0
+( (?m){3} /Rectified Linear Unit/ )	GOOGDICT		4.0
+( (?m){2} /regression model/ )	GOOGDICT		4.0
+( (?m){1} /regularization/ )	GOOGDICT		4.0
+( (?m){2} /regularization rate/ )	GOOGDICT		4.0
+( (?m){2} /reporting bias / )	GOOGDICT		4.0
+( (?m){1} /ROC/ )	GOOGDICT		4.0
+( (?m){3} /receiver operating characteristic/ )	GOOGDICT		4.0
+( (?m){1} /representation/ )	GOOGDICT		4.0
+( (?m){4} /receiver operating characteristic Curve/ )	GOOGDICT		4.0
+( (?m){2} /root directory/ )	GOOGDICT		4.0
+( (?m){4} /Root Mean Squared Error/ )	GOOGDICT		4.0
+( (?m){2} /rotational invariance/ )	GOOGDICT		4.0
+( (?m){2} /sampling bias / )	GOOGDICT		4.0
+( (?m){1} /SavedModel/ )	GOOGDICT		4.0
+( (?m){1} /Saver/ )	GOOGDICT		4.0
+( (?m){1} /scaling/ )	GOOGDICT		4.0
+( (?m){1} /scikit-learn/ )	GOOGDICT		4.0
+( (?m){2} /selection bias / )	GOOGDICT		4.0
+( (?m){2} /semi-supervised learning/ )	GOOGDICT		4.0
+( (?m){2} /sequence model/ )	GOOGDICT		4.0
+( (?m){2} /sigmoid function/ )	GOOGDICT		4.0
+( (?m){2} /size invariance/ )	GOOGDICT		4.0
+( (?m){1} /softmax/ )	GOOGDICT		4.0
+( (?m){2} /sparse feature/ )	GOOGDICT		4.0
+( (?m){2} /sparse representation/ )	GOOGDICT		4.0
+( (?m){1} /sparsity/ )	GOOGDICT		4.0
+( (?m){2} /spatial pooling/ )	GOOGDICT		4.0
+( (?m){3} /squared hinge loss/ )	GOOGDICT		4.0
+( (?m){2} /squared loss/ )	GOOGDICT		4.0
+( (?m){2} /static model/ )	GOOGDICT		4.0
+( (?m){1} /stationarity/ )	GOOGDICT		4.0
+( (?m){1} /step/ )	GOOGDICT		4.0
+( (?m){2} /step size/ )	GOOGDICT		4.0
+( (?m){3} /stochastic gradient descent/ )	GOOGDICT		4.0
+( (?m){3} /structural risk minimization/ )	GOOGDICT		4.0
+( (?m){1} /stride/ )	GOOGDICT		4.0
+( (?m){1} /subsampling/ )	GOOGDICT		4.0
+( (?m){1} /summary/ )	GOOGDICT		4.0
+( (?m){3} /supervised machine learning/ )	GOOGDICT		4.0
+( (?m){2} /synthetic feature/ )	GOOGDICT		4.0
+( (?m){1} /target/ )	GOOGDICT		4.0
+( (?m){2} /temporal data/ )	GOOGDICT		4.0
+( (?m){1} /Tensor/ )	GOOGDICT		4.0
+( (?m){3} /Tensor Processing Unit/ )	GOOGDICT		4.0
+( (?m){2} /Tensor rank/ )	GOOGDICT		4.0
+( (?m){2} /Tensor shape/ )	GOOGDICT		4.0
+( (?m){2} /Tensor size/ )	GOOGDICT		4.0
+( (?m){1} /TensorBoard/ )	GOOGDICT		4.0
+( (?m){1} /TensorFlow/ )	GOOGDICT		4.0
+( (?m){2} /TensorFlow Playground/ )	GOOGDICT		4.0
+( (?m){2} /TensorFlow Serving/ )	GOOGDICT		4.0
+( (?m){2} /test set/ )	GOOGDICT		4.0
+( (?m){1} /tf\.Example/ )	GOOGDICT		4.0
+( (?m){3} /time series analysis/ )	GOOGDICT		4.0
+( (?m){1} /training/ )	GOOGDICT		4.0
+( (?m){2} /training set/ )	GOOGDICT		4.0
+( (?m){2} /transfer learning/ )	GOOGDICT		4.0
+( (?m){2} /translational invariance/ )	GOOGDICT		4.0
+( (?m){2} /true negative/ )	GOOGDICT		4.0
+( (?m){2} /true positive/ )	GOOGDICT		4.0
+( (?m){3} /true positive rate/ )	GOOGDICT		4.0
+( (?m){2} /unlabeled example/ )	GOOGDICT		4.0
+( (?m){3} /unsupervised machine learning/ )	GOOGDICT		4.0
+( (?m){2} /validation set/ )	GOOGDICT		4.0
+( (?m){1} /weight/ )	GOOGDICT		4.0
+( (?m){2} /wide model/ )	GOOGDICT		4.0

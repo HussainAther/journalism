@@ -1,0 +1,6 @@
+( (?m){1} /Data Science/ )	EDUPROGS		8.0
+( (?m){1} /Computer Science/ )	EDUPROGS		8.0
+( (?m){1} /Statistics/ )	EDUPROGS		8.0
+( (?m){1} /Engineering/ )	EDUPROGS		8.0
+( (?m){1} /Applied Mathematics/ )	EDUPROGS		8.0
+( (?m){1} /Physics/ )	EDUPROGS		8.0
