@@ -80,8 +80,7 @@ for year in x:
 
 # Plot
 plt.bar(x, y) # Plot the data
-plt.title(str(name)[:-1] + " publications by year") # Title the plot
+plt.title(str(name) + "by year") # Title the plot
 plt.xlabel("Years") # Add the x label
 plt.ylabel("Publications") # Add the y label
 plt.savefig(os.path.join("output/", "citation", str(name) + "year.png")) # Save the plot
-
