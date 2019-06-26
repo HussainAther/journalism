@@ -1,6 +1,6 @@
 # Journalism tools
 
-Data journalists and other writers can use these tools in reporting stories. They're primarily designed for research at Purdue University, but anyone from any discipline can use them. The scripts are found in the corresponding language in the `src` directory. Data was obtained from Corey Seliger and Megan Sapp Nelson of Purdue University through the Purdue University Research Repository (PURR). The raw input data files are found in `data`, and the output files are created and stored in `output`.
+These tools are for data journalists and other writrse and researchers to use in reporting stories. The scripts are found in the corresponding language in the `src` directory. Data was obtained from Corey Seliger and Megan Sapp Nelson of Purdue University through the Purdue University Research Repository (PURR). The raw input data files are found in `data`, and the output files are created and stored in `output`.
  
 ## How to use these tools
 
