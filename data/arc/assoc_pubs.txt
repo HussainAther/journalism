@@ -1,0 +1,35 @@
+
+%T Modern aerial gamma-ray spectrometry and regional potassium map of the conterminous United States
+%T International geochemical mapping
+%J Journal of Geochemical Exploration
+%A Duval, Joseph S.
+%A Darnley, Arthur G. (editor)
+%A Garrett, Robert G. (editor)
+%D 1990
+
+
+%T Potassium and thorium maps of the conterminous United States
+%J Open-File Report
+%A Duval, Joseph S.
+%A Jones, William J.
+%A Riggle, Frederick R.
+%A Pitkin, James A.
+%D 1990
+%O Report Number: OF 90-0338
+
+
+%T The role of National Uranium Resource Evaluation aerial gamma-ray data in assessment of radon hazard potential
+%T Proceedings of a U.S. Geological Survey workshop on Environmental geochemistry
+%J Circular
+%A Duval, Joseph S.
+%A Doe, Bruce R. (editor)
+%D 1990
+%O Report Number: C 1033
+
+
+%T Profiles of gamma-ray and magnetic data for aerial surveys over parts of the Western United States from longitude 108 to 126 degrees W. and from latitude 34 to 49 degrees N.
+%J Digital Data Series
+%A Duval, Joseph S.
+%D 1995
+%O Report Number: DDS-0031
+

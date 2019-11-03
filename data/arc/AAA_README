@@ -1,0 +1,70 @@
+
+               U.S. GEOLOGICAL SURVEY DIGITAL DATA SERIES DDS-9
+ 
+                           National Geophysical Data Grids:
+                    Gamma-Ray, Gravity, Magnetic, and Topographic
+                       Data for the Conterminous United States
+                                           
+                                           
+                                          by
+                                           
+                                 Jeffrey D. Phillips
+                                   Joseph S. Duval
+                                         and
+                                 Russell A. Ambroziak
+
+                            ------------------------------
+
+ This directory contains information and grids contained on and derived from
+  the above CD-ROM
+
+  ----------------
+
+  Contents of the following ASCII info files:
+
+    overview.txt - general info of CD-ROM contents (PC software not available
+                      in this directory)
+
+    grids.txt    - details of gridded data formats and content 
+
+  ----------------
+
+  Contents of the following grid directories under GRIDS:
+
+    ODDF      - in-house binary format used by the USGS/GD/MRP 
+
+    PC_binary - in-house binary format contained on CD-ROM
+
+    ARC_INFO  - arc-info e00 format files (compressed with gzip)
+
+    GXF       - ASCII grid exchange format (associated with Geosoft
+                                            & compressed with gzip)
+
+    Geosoft   - binary format used by Geosoft OASIS montaj
+
+    grid_xyz  - ASCII grid point output in longitude, latitude, field
+                (NAD27/Clarke 1866 , compressed with gzip)
+
+
+  Short explanations of grid contents:
+
+  bouguer.*  - complete Bouguer gravity anomaly at 2.67
+  isograv.*  - isostatic residual gravity anomaly 30km,.35 g/cc
+  magnetic.* - magnetic anomaly at original flight specs
+  topo.*     - conterminous US topography
+  topobaty.* - conterminous US plus offshore topography
+  usak.*     - Potassium concentrations
+  usath.*    - Thorium concentrations 
+  usau.*     - Uranium concentrations
+
+------------------
+
+
+  Contents of the METADATA directory:
+
+    FGDC compliant metadata files for two purposes:
+
+      *_SDD   - files generated for Spatial Data Distribution website
+      *_DDS-9 - files generated from cdrom DDS-9
+
+

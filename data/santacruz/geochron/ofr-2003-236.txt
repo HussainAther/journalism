@@ -1,0 +1,2350 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: Sloan, Jan
+      Originator: Henry, Christopher D.
+      Originator: Hopkins, Melanie
+      Originator: Ludington, Stephen D.
+      Originator: Zartman, Robert E.
+      Originator: Bush, Charles A.
+      Originator: Abston, Carl
+      Title: National Geochronological Database
+      Publication_Date: 2003
+      Geospatial_Data_Presentation_Form: relational database
+      Series_Information:
+        Series_Name: Open-File Report
+        Issue_Identification: 03-236
+      Publication_Information:
+        Publication_Place: Menlo Park, California
+        Publisher: U.S. Geological Survey
+      Online_Linkage: http://tin.er.usgs.gov/geochron/
+  Description:
+    Abstract: Radiometric ages of geological materials by K-Ar, Rb-Sr, Sm-Nd, fission track, and U-Th-Pb dating methods.  A revision of DDS-14 correcting locations and providing the data in more convenient formats.
+    Purpose: This database is a minor revision of DDS-14, with some corrections.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Multiple_Dates/Times:
+        Single_Date/Time:
+          Calendar_Date: 1995
+        Single_Date/Time:
+          Calendar_Date: 2003
+    Currentness_Reference: Publication dates of the initial database (DDS-14) and the revision (OFR 2003-236).
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: As needed
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -179.119444
+      East_Bounding_Coordinate: -67.021389
+      North_Bounding_Coordinate: 71
+      South_Bounding_Coordinate: 26.5625
+  Access_Constraints: none
+  Use_Constraints: none
+  Keywords:
+    Place:
+      Place_Keyword_Thesaurus: Augmented FIPS 10-4 and FIPS 6-4
+      Place_Keyword: fUS01 = Alabama
+      Place_Keyword: fUS02 = Alaska
+      Place_Keyword: fUS04 = Arizona
+      Place_Keyword: fUS05 = Arkansas
+      Place_Keyword: fUS06 = California
+      Place_Keyword: fUS08 = Colorado
+      Place_Keyword: fUS09 = Connecticut
+      Place_Keyword: fUS10 = Delaware
+      Place_Keyword: fUS12 = Florida
+      Place_Keyword: fUS13 = Georgia
+      Place_Keyword: fUS16 = Idaho
+      Place_Keyword: fUS17 = Illinois
+      Place_Keyword: fUS18 = Indiana
+      Place_Keyword: fUS19 = Iowa
+      Place_Keyword: fUS20 = Kansas
+      Place_Keyword: fUS21 = Kentucky
+      Place_Keyword: fUS22 = Louisiana
+      Place_Keyword: fUS23 = Maine
+      Place_Keyword: fUS24 = Maryland
+      Place_Keyword: fUS25 = Massachusetts
+      Place_Keyword: fUS26 = Michigan
+      Place_Keyword: fUS27 = Minnesota
+      Place_Keyword: fUS28 = Mississippi
+      Place_Keyword: fUS29 = Missouri
+      Place_Keyword: fUS30 = Montana
+      Place_Keyword: fUS31 = Nebraska
+      Place_Keyword: fUS32 = Nevada
+      Place_Keyword: fUS33 = New Hampshire
+      Place_Keyword: fUS34 = New Jersey
+      Place_Keyword: fUS35 = New Mexico
+      Place_Keyword: fUS36 = New York
+      Place_Keyword: fUS37 = North Carolina
+      Place_Keyword: fUS38 = North Dakota
+      Place_Keyword: fUS39 = Ohio
+      Place_Keyword: fUS40 = Oklahoma
+      Place_Keyword: fUS41 = Oregon
+      Place_Keyword: fUS42 = Pennsylvania
+      Place_Keyword: fUS44 = Rhode Island
+      Place_Keyword: fUS45 = South Carolina
+      Place_Keyword: fUS46 = South Dakota
+      Place_Keyword: fUS47 = Tennessee
+      Place_Keyword: fUS48 = Texas
+      Place_Keyword: fUS49 = Utah
+      Place_Keyword: fUS50 = Vermont
+      Place_Keyword: fUS51 = Virginia
+      Place_Keyword: fUS53 = Washington
+      Place_Keyword: fUS54 = West Virginia
+      Place_Keyword: fUS55 = Wisconsin
+      Place_Keyword: fUS56 = Wyoming
+    Theme:
+      Theme_Keyword_Thesaurus: General glossary for mineral resources spatial data
+      Theme_Keyword: comma-delimited text
+      Theme_Keyword: KML
+      Theme_Keyword: shapefile
+      Theme_Keyword: tab-delimited text
+    Theme:
+      Theme_Keyword_Thesaurus: USGS Thesaurus
+      Theme_Keyword: geochronology
+      Theme_Keyword: geologic history
+      Theme_Keyword: potassium-argon analysis
+      Theme_Keyword: rubidium-strontium analysis
+      Theme_Keyword: uranium-lead analysis
+      Theme_Keyword: uranium-thorium analysis
+  Browse_Graphic:
+    Browse_Graphic_File_Name: http://tin.er.usgs.gov/geochron/ofr-2003-236.png
+    Browse_Graphic_File_Description: Sample locations in the conterminous United States, (768 x 512 pixels)
+    Browse_Graphic_File_Type: PNG
+Data_Quality_Information:
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Zartman, Robert E.
+          Originator: Bush, Charles A.
+          Originator: Abston, C. C.
+          Publication_Date: 1995
+          Title: National geochronological and natural radioelement data bases
+          Series_Information:
+            Series_Name: Data Series
+            Issue_Identification: 14
+          Publication_Information:
+            Publisher: U.S. Geological Survey
+            Publication_Place: Denver, Colorado
+      Type_of_Source_Media: digital files on CD-ROM
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1995
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: DDS-14
+      Source_Contribution:
+        Original database used by compilers of OFR-2003-236; corrections
+        to some of the data are described at
+        http://geopubs.wr.usgs.gov/open-file/of03-236/
+    Process_Step:
+      Process_Description:
+        Copied information from OFR 2003-236, added documentation,
+        reformatted, and in some cases eliminated duplication, eliminated
+        explicit uninformative values (for example "Unk" in many fields).
+        Created specialized interfaces and report formats as well as web
+        services and download packages.
+      Process_Date: 20111221
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: Peter N Schweitzer
+            Contact_Organization: USGS ER GD
+          Contact_Position: Geologist
+          Contact_Address:
+            Address_Type: mailing address
+            Address: 12201 Sunrise Valley Drive
+            City: Reston
+            State_or_Province: VA
+            Postal_Code: 20192-0002
+            Country: USA
+          Contact_Voice_Telephone: 703-648-6533
+          Contact_Facsimile_Telephone: 703-648-6252
+          Contact_Electronic_Mail_Address: pschweitzer@usgs.gov
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Point
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Entity point
+      Point_and_Vector_Object_Count: 18576
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Geographic_Coordinate_Units: decimal degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1927
+      Ellipsoid_Name: Clarke 1866
+      Semi-major_Axis: 6378206.4
+      Denominator_of_Flattening_Ratio: 294.98
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: main
+      Entity_Type_Definition: Sample locations and characteristics
+    Attribute:
+      Attribute_Label: recno
+      Attribute_Definition:
+        Record ID.
+
+        Sample identifier, links site description with analytical results.
+        Integer values.
+        Int of width 5.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 18669
+          Attribute_Measurement_Resolution: 1
+    Attribute:
+      Attribute_Label: longitude
+      Attribute_Definition:
+        Geographic longitude.
+
+        Geographic longitude in decimal degrees, NAD27.
+        Real numbers stored in double precision.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            28 records have no value for longitude.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -179.119444
+          Range_Domain_Maximum: -67.021389
+    Attribute:
+      Attribute_Label: latitude
+      Attribute_Definition:
+        Geographic latitude.
+
+        Geographic latitide in decimal degrees, NAD27.
+        Real numbers stored in double precision.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            28 records have no value for latitude.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 26.5625
+          Range_Domain_Maximum: 71
+    Attribute:
+      Attribute_Label: longdeg
+      Attribute_Definition:
+        Longitude degrees.
+
+        Degrees of longitude, NAD27.
+        Integer values.
+        Int of width 5.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            28 records have no value for longdeg.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 67
+          Range_Domain_Maximum: 179
+          Attribute_Measurement_Resolution: 1
+    Attribute:
+      Attribute_Label: longmin
+      Attribute_Definition:
+        Longitude minutes.
+
+        Minutes of longitude, NAD27.
+        Integer values.
+        Int of width 5.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            30 records have no value for longmin.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 59
+          Attribute_Measurement_Resolution: 1
+    Attribute:
+      Attribute_Label: longsec
+      Attribute_Definition:
+        Longitude seconds.
+
+        Seconds of longitude, NAD27.
+        Integer values.
+        Int of width 5.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            30 records have no value for longsec.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 60
+          Attribute_Measurement_Resolution: 1
+    Attribute:
+      Attribute_Label: west
+      Attribute_Definition:
+        Longitude hemisphere.
+
+        Hemisphere of longitude, E or W.
+        Textual values of no more than 1 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            29 records have no value for west.
+    Attribute:
+      Attribute_Label: latdeg
+      Attribute_Definition:
+        Latitude degrees.
+
+        Degrees of latitude, NAD27.
+        Integer values.
+        Int of width 5.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            28 records have no value for latdeg.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 25
+          Range_Domain_Maximum: 71
+          Attribute_Measurement_Resolution: 1
+    Attribute:
+      Attribute_Label: latmin
+      Attribute_Definition:
+        Latitude minutes.
+
+        Minutes of latitude, NAD27.
+        Integer values.
+        Int of width 5.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            31 records have no value for latmin.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 60
+          Attribute_Measurement_Resolution: 1
+    Attribute:
+      Attribute_Label: latsec
+      Attribute_Definition:
+        Latitude seconds.
+
+        Seconds of latitude, NAD27.
+        Integer values.
+        Int of width 5.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            30 records have no value for latsec.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 60
+          Attribute_Measurement_Resolution: 1
+    Attribute:
+      Attribute_Label: north
+      Attribute_Definition:
+        Latitude hemisphere.
+
+        Hemisphere of latitude, N or S.
+        Textual values of no more than 1 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            29 records have no value for north.
+    Attribute:
+      Attribute_Label: country
+      Attribute_Definition:
+        Country.
+
+        Country of site (US).
+        Textual values of no more than 2 characters.
+    Attribute:
+      Attribute_Label: state
+      Attribute_Definition:
+        State or province.
+
+        State two letter postal abbreviation.
+        Textual values of no more than 2 characters.
+    Attribute:
+      Attribute_Label: county
+      Attribute_Definition:
+        County.
+
+        County name, occasionally more than one name is given.
+        Textual values of no more than 35 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            628 records have no value for county.
+    Attribute:
+      Attribute_Label: quadscale
+      Attribute_Definition:
+        Quadrangle map scale.
+
+        Map quadrangle scale.
+        Textual values of no more than 9 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            63 records have no value for quadscale.
+    Attribute:
+      Attribute_Label: quadname
+      Attribute_Definition:
+        Quadrangle map name.
+
+        Map quadrangle name.
+        Textual values of no more than 69 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            117 records have no value for quadname.
+    Attribute:
+      Attribute_Label: sampsour
+      Attribute_Definition:
+        Source of sample.
+
+        General type of material sampled or geographic feature from which the
+        sample was taken.
+        Textual values of no more than 38 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            371 records have no value for sampsour.
+    Attribute:
+      Attribute_Label: rockname
+      Attribute_Definition:
+        Rock name.
+
+        Lithologic terms describing the sample.
+        Textual values of no more than 35 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            3 records have no value for rockname.
+    Attribute:
+      Attribute_Label: descrip
+      Attribute_Definition:
+        Description.
+
+        Further description of the sampled material, often includes a geologic
+        unit or structural element within the unit.
+        Textual values of no more than 257 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            2385 records have no value for descrip.
+    Attribute:
+      Attribute_Label: labs
+      Attribute_Definition:
+        Laboratories.
+
+        Organizations whose laboratories provided the analyses.
+        Textual values of no more than 107 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            729 records have no value for labs.
+    Attribute:
+      Attribute_Label: compiled
+      Attribute_Definition:
+        Compiler name.
+
+        Name of the person who compiled the data.
+        Textual values of no more than 17 characters.
+    Attribute:
+      Attribute_Label: datecomp
+      Attribute_Definition:
+        Date compiled.
+
+        Date record information was compiled, as year and month formatted as
+        YYYY MM.
+        Textual values of no more than 6 characters.
+    Attribute:
+      Attribute_Label: locprec
+      Attribute_Definition:
+        Precision of location.
+
+        Comments on the precision of the location given.
+        Textual values of no more than 65 characters.
+    Attribute:
+      Attribute_Label: loccomm
+      Attribute_Definition:
+        Location comment.
+
+        General comments on the location given.
+        Textual values of no more than 255 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            2773 records have no value for loccomm.
+    Attribute:
+      Attribute_Label: ref
+      Attribute_Definition:
+        Reference.
+
+        Primary bibliographic reference in which the dates were published.
+        Textual values of no more than 469 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            2 records have no value for ref.
+    Attribute:
+      Attribute_Label: ref2
+      Attribute_Definition:
+        Reference addition.
+
+        Additional text of the bibliographic reference.
+        Textual values of no more than 237 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            17856 records have no value for ref2.
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: FT
+      Entity_Type_Definition: Fission track dating results, observations, and parameters
+    Attribute:
+      Attribute_Label: recno
+      Attribute_Definition:
+        Record ID.
+
+        Sample identifier, a value of main:recno.
+        Integer values.
+        Int of width 5.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 18669
+          Attribute_Measurement_Resolution: 1
+    Attribute:
+      Attribute_Label: ftrecno
+      Attribute_Definition:
+        Analysis ID.
+
+        Sequence number, for this sample, of this analysis.
+        Integer values.
+        Int of width 5.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 5
+          Attribute_Measurement_Resolution: 1
+    Attribute:
+      Attribute_Label: ftage
+      Attribute_Definition:
+        Calculated age.
+
+        Age estimate in millions of years.
+        Real numbers stored in double precision.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            21 records have no value for ftage.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.02
+          Range_Domain_Maximum: 2346
+    Attribute:
+      Attribute_Label: fterr
+      Attribute_Definition:
+        Age uncertainty.
+
+        Uncertainty of the age estimate attributable to the analytical method,
+        in millions of years.
+        Real numbers stored in double precision.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            189 records have no value for fterr.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.04
+          Range_Domain_Maximum: 1000
+    Attribute:
+      Attribute_Label: ftmin
+      Attribute_Definition:
+        Rock or mineral analyzed.
+
+        Rock or mineral analyzed.
+        Textual values of no more than 12 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            11 records have no value for ftmin.
+    Attribute:
+      Attribute_Label: ftlabno
+      Attribute_Definition:
+        Lab sample ID.
+
+        Identifier for this analysis assigned by the laboratory.
+        Textual values of no more than 27 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            9 records have no value for ftlabno.
+    Attribute:
+      Attribute_Label: ftdeccon
+      Attribute_Definition:
+        Decay constants.
+
+        Radioactive decay constants used in calculations.
+        Textual values of no more than 9 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            547 records have no value for ftdeccon.
+    Attribute:
+      Attribute_Label: trackdens
+      Attribute_Definition:
+        Track density.
+
+        Track density (count per square cm).
+        Real numbers stored in double precision.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            372 records have no value for trackdens.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 1123
+    Attribute:
+      Attribute_Label: fosstrack
+      Attribute_Definition:
+        Fossil tracks counted.
+
+        Fossil track density (count per square cm).
+        Integer values.
+        Int of width 5.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            435 records have no value for fosstrack.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 4152
+          Attribute_Measurement_Resolution: 1
+    Attribute:
+      Attribute_Label: indudens
+      Attribute_Definition:
+        Induced track density.
+
+        Induced track density (count per square cm).
+        Real numbers stored in double precision.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            372 records have no value for indudens.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.0072
+          Range_Domain_Maximum: 1479
+    Attribute:
+      Attribute_Label: indutrack
+      Attribute_Definition:
+        Induced tracks.
+
+        Induced tracks counted.
+        Integer values.
+        Int of width 5.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            437 records have no value for indutrack.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 10073
+          Attribute_Measurement_Resolution: 1
+    Attribute:
+      Attribute_Label: ratiotrack
+      Attribute_Definition:
+        Ratio of total to induced tracks.
+
+        Ratio of spontaneous to induced tracks.
+        Real numbers stored in double precision.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            1277 records have no value for ratiotrack.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.0083
+          Range_Domain_Maximum: 20.874
+    Attribute:
+      Attribute_Label: neutflux
+      Attribute_Definition:
+        Neutron flux density.
+
+        Thermal neutron flux used in irradiation (neutrons per square cm).
+        Real numbers stored in double precision.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            293 records have no value for neutflux.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.122
+          Range_Domain_Maximum: 8.8
+    Attribute:
+      Attribute_Label: ft_u_ppm
+      Attribute_Definition:
+        Uranium concentration.
+
+        Total uranium concentration in the sample, in parts per million by
+        weight.
+        Textual values of no more than 8 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            986 records have no value for ft_u_ppm.
+    Attribute:
+      Attribute_Label: addref
+      Attribute_Definition:
+        Bibliographic references.
+
+        Additional bibliographic reference information for this analysis.
+        Textual values of no more than 29 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            1391 records have no value for addref.
+    Attribute:
+      Attribute_Label: ftagecom
+      Attribute_Definition:
+        Age comments.
+
+        Comments on the age estimate, typically provides context for the age.
+        Textual values of no more than 134 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            404 records have no value for ftagecom.
+    Attribute:
+      Attribute_Label: ftsampcom
+      Attribute_Definition:
+        Sample comments.
+
+        Comments on the sample analyzed.
+        Textual values of no more than 75 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            963 records have no value for ftsampcom.
+    Attribute:
+      Attribute_Label: ftanalcom
+      Attribute_Definition:
+        Analytical comments.
+
+        Comments on the analytic method used.
+        Textual values of no more than 134 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            1140 records have no value for ftanalcom.
+    Attribute:
+      Attribute_Label: ftothcom
+      Attribute_Definition:
+        Other comments.
+
+        Other comments pertinent to this analysis.
+        Textual values of no more than 255 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            811 records have no value for ftothcom.
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: K_Ar
+      Entity_Type_Definition: Potassium-Argon and Argon-Argon radiometric age results, observations, and parameters
+    Attribute:
+      Attribute_Label: recno
+      Attribute_Definition:
+        Record ID.
+
+        Sample identifier, a value of main:recno.
+        Integer values.
+        Int of width 5.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 18669
+          Attribute_Measurement_Resolution: 1
+    Attribute:
+      Attribute_Label: karrecno
+      Attribute_Definition:
+        Analysis ID.
+
+        Sequence number, for this sample, of this analysis.
+        Integer values.
+        Int of width 5.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 6
+          Attribute_Measurement_Resolution: 1
+    Attribute:
+      Attribute_Label: karage
+      Attribute_Definition:
+        Calculated age.
+
+        Age estimate in millions of years.
+        Real numbers stored in double precision.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            70 records have no value for karage.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -0.09
+          Range_Domain_Maximum: 6882.45
+    Attribute:
+      Attribute_Label: karerr
+      Attribute_Definition:
+        Age uncertainty.
+
+        Uncertainty of the age estimate attributable to the analytical method,
+        in millions of years.
+        Real numbers stored in double precision.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            1752 records have no value for karerr.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 940
+    Attribute:
+      Attribute_Label: karmin
+      Attribute_Definition:
+        Rock or mineral analyzed.
+
+        Rock or mineral analyzed.
+        Textual values of no more than 47 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            127 records have no value for karmin.
+    Attribute:
+      Attribute_Label: karanaltype
+      Attribute_Definition:
+        Type of analysis.
+
+        Specific type of analytic method used.
+        Textual values of no more than 46 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            83 records have no value for karanaltype.
+    Attribute:
+      Attribute_Label: karlabno
+      Attribute_Definition:
+        Lab sample ID.
+
+        Identifier for this analysis assigned by the laboratory.
+        Textual values of no more than 34 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            10 records have no value for karlabno.
+    Attribute:
+      Attribute_Label: kardeccon
+      Attribute_Definition:
+        Decay constants.
+
+        Radioactive decay constants used in calculations.
+        Textual values of no more than 36 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            5 records have no value for kardeccon.
+    Attribute:
+      Attribute_Label: k2opct
+      Attribute_Definition:
+        K2O concentration.
+
+        Potash concentration as weight percent of the sample.
+        Real numbers stored in double precision.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            2562 records have no value for k2opct.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 23233
+    Attribute:
+      Attribute_Label: 40arrad
+      Attribute_Definition:
+        Radiogenic argon-40 concentration.
+
+        Concentration of radiogenic 40Ar.
+        Real numbers stored in double precision.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            2622 records have no value for 40arrad.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -0.0063
+          Range_Domain_Maximum: 2453
+    Attribute:
+      Attribute_Label: pctradar
+      Attribute_Definition:
+        Percent radiogenic argon.
+
+        Percent of argon that is radiogenic.
+        Integer values.
+        Int of width 8.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            2194 records have no value for pctradar.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 86868787
+          Attribute_Measurement_Resolution: 1
+    Attribute:
+      Attribute_Label: sampsuit
+      Attribute_Definition:
+        Sample suite number.
+
+        Group identifier of related samples.
+        Integer values.
+        Int of width 5.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            14168 records have no value for sampsuit.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 7
+          Range_Domain_Maximum: 641
+          Attribute_Measurement_Resolution: 1
+    Attribute:
+      Attribute_Label: addref
+      Attribute_Definition:
+        Bibliographic references.
+
+        Additional bibliographic reference information for this analysis.
+        Textual values of no more than 51 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            1391 records have no value for addref.
+    Attribute:
+      Attribute_Label: karcomm
+      Attribute_Definition:
+        Age comments.
+
+        Comments on the age estimate, typically provides context for the age.
+        Textual values of no more than 90 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            2806 records have no value for karcomm.
+    Attribute:
+      Attribute_Label: karsampcom
+      Attribute_Definition:
+        Sample comments.
+
+        Comments on the sample analyzed.
+        Textual values of no more than 162 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            11619 records have no value for karsampcom.
+    Attribute:
+      Attribute_Label: karanalcom
+      Attribute_Definition:
+        Analytical comments.
+
+        Comments on the analytic method used.
+        Textual values of no more than 255 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            7491 records have no value for karanalcom.
+    Attribute:
+      Attribute_Label: karothrcom
+      Attribute_Definition:
+        Other comments.
+
+        Other comments pertinent to this analysis.
+        Textual values of no more than 373 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            10041 records have no value for karothrcom.
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: Rb_Sr
+      Entity_Type_Definition: Rubidium-Strontium radiometric dating results, observations, and parameters
+    Attribute:
+      Attribute_Label: recno
+      Attribute_Definition:
+        Record ID.
+
+        Sample identifier, a value of main:recno.
+        Integer values.
+        Int of width 5.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 18669
+          Attribute_Measurement_Resolution: 1
+    Attribute:
+      Attribute_Label: rbsrrecno
+      Attribute_Definition:
+        Analysis ID.
+
+        Sequence number, for this sample, of this analysis.
+        Integer values.
+        Int of width 5.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 24
+          Attribute_Measurement_Resolution: 1
+    Attribute:
+      Attribute_Label: rbsrage
+      Attribute_Definition:
+        Calculated age.
+
+        Age estimate in millions of years.
+        Real numbers stored in double precision.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            991 records have no value for rbsrage.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.71
+          Range_Domain_Maximum: 7394.61
+    Attribute:
+      Attribute_Label: rbsrerr
+      Attribute_Definition:
+        Age uncertainty.
+
+        Uncertainty of the age estimate attributable to the analytical method,
+        in millions of years.
+        Real numbers stored in double precision.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            2299 records have no value for rbsrerr.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.1
+          Range_Domain_Maximum: 560
+    Attribute:
+      Attribute_Label: 87_86init
+      Attribute_Definition:
+        Initial 87Sr/86Sr.
+
+        Initial ratio of 87Sr to 86Sr in the sampled material.
+        Real numbers stored in double precision.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            1688 records have no value for 87_86init.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.1037
+          Range_Domain_Maximum: 124.2
+    Attribute:
+      Attribute_Label: rbsrmin
+      Attribute_Definition:
+        Rock or mineral analyzed.
+
+        Rock or mineral analyzed.
+        Textual values of no more than 46 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            26 records have no value for rbsrmin.
+    Attribute:
+      Attribute_Label: rbsranltyp
+      Attribute_Definition:
+        Type of analysis.
+
+        Specific type of analytic method used.
+        Textual values of no more than 49 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            923 records have no value for rbsranltyp.
+    Attribute:
+      Attribute_Label: rbsrlabno
+      Attribute_Definition:
+        Analysis ID.
+
+        Identifier for this analysis assigned by the laboratory.
+        Textual values of no more than 23 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            5 records have no value for rbsrlabno.
+    Attribute:
+      Attribute_Label: rbsrdeccon
+      Attribute_Definition:
+        Decay constants.
+
+        Radioactive decay constants used in calculations.
+        Textual values of no more than 21 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            35 records have no value for rbsrdeccon.
+    Attribute:
+      Attribute_Label: rb_ppm
+      Attribute_Definition:
+        Rubidium concentration.
+
+        Rubidium concentration in parts per million by weight.
+        Real numbers stored in double precision.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            444 records have no value for rb_ppm.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 164165
+    Attribute:
+      Attribute_Label: sr_ppm
+      Attribute_Definition:
+        Strontium concentration.
+
+        Strontium concentration in parts per million by weight.
+        Real numbers stored in double precision.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            1093 records have no value for sr_ppm.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.1
+          Range_Domain_Maximum: 21210
+    Attribute:
+      Attribute_Label: 87srrad
+      Attribute_Definition:
+        Radiogenic 87Sr.
+
+        Radiogenic 87Sr.
+        Real numbers stored in double precision.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            6420 records have no value for 87srrad.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.01
+          Range_Domain_Maximum: 176
+    Attribute:
+      Attribute_Label: 87rb_86sr
+      Attribute_Definition:
+        Ratio 87Rb/86Sr.
+
+        Ratio of 87Rb to 86Sr counted by mass spectrometry.
+        Real numbers stored in double precision.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            1265 records have no value for 87rb_86sr.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 62166
+    Attribute:
+      Attribute_Label: 87sr_86sr
+      Attribute_Definition:
+        Ratio 87Sr/86Sr.
+
+        Ratio of 87Sr to 86Sr counted by mass spectrometry.
+        Real numbers stored in double precision.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            689 records have no value for 87sr_86sr.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.043
+          Range_Domain_Maximum: 70758
+    Attribute:
+      Attribute_Label: norm
+      Attribute_Definition:
+        Normal?.
+
+        T or N or empty; meaning of this field is not clear.
+        Textual values of no more than 1 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            1058 records have no value for norm.
+    Attribute:
+      Attribute_Label: sampsuit
+      Attribute_Definition:
+        Sample suite number.
+
+        Group identifier of related samples.
+        Integer values.
+        Int of width 5.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            14168 records have no value for sampsuit.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 7
+          Range_Domain_Maximum: 641
+          Attribute_Measurement_Resolution: 1
+    Attribute:
+      Attribute_Label: addref
+      Attribute_Definition:
+        Bibliographic references.
+
+        Additional bibliographic reference information for this analysis.
+        Textual values of no more than 51 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            1391 records have no value for addref.
+    Attribute:
+      Attribute_Label: rbsragecom
+      Attribute_Definition:
+        Age comments.
+
+        Comments on the age estimate, typically provides context for the age.
+        Textual values of no more than 87 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            2721 records have no value for rbsragecom.
+    Attribute:
+      Attribute_Label: rbsrsamcom
+      Attribute_Definition:
+        Sample comments.
+
+        Comments on the sample analyzed.
+        Textual values of no more than 104 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            6498 records have no value for rbsrsamcom.
+    Attribute:
+      Attribute_Label: rbsranlcom
+      Attribute_Definition:
+        Analytical comments.
+
+        Comments on the analytic method used.
+        Textual values of no more than 227 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            1543 records have no value for rbsranlcom.
+    Attribute:
+      Attribute_Label: rbsrothcom
+      Attribute_Definition:
+        Other comments.
+
+        Other comments pertinent to this analysis.
+        Textual values of no more than 211 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            4255 records have no value for rbsrothcom.
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: Sm_Nd
+      Entity_Type_Definition: Samarium-Neodymium radiometric dating results, observations, and parameters
+    Attribute:
+      Attribute_Label: recno
+      Attribute_Definition:
+        Record ID.
+
+        Sample identifier, a value of main:recno.
+        Integer values.
+        Int of width 5.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 18669
+          Attribute_Measurement_Resolution: 1
+    Attribute:
+      Attribute_Label: smndrecno
+      Attribute_Definition:
+        Analysis ID.
+
+        Sequence number, for this sample, of this analysis.
+        Integer values.
+        Int of width 5.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 3
+          Attribute_Measurement_Resolution: 1
+    Attribute:
+      Attribute_Label: smndage
+      Attribute_Definition:
+        Calculated age.
+
+        Age estimate in millions of years.
+        Integer values.
+        Int of width 5.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            1 records have no value for smndage.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 178
+          Range_Domain_Maximum: 575
+          Attribute_Measurement_Resolution: 1
+    Attribute:
+      Attribute_Label: smnderr
+      Attribute_Definition:
+        Age uncertainty.
+
+        Uncertainty of the age estimate attributable to the analytical method,
+        in millions of years.
+        Integer values.
+        Int of width 5.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            2 records have no value for smnderr.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 21
+          Range_Domain_Maximum: 75
+          Attribute_Measurement_Resolution: 1
+    Attribute:
+      Attribute_Label: smndmin
+      Attribute_Definition:
+        Rock or mineral analyzed.
+
+        Rock or mineral analyzed.
+        Textual values of no more than 21 characters.
+    Attribute:
+      Attribute_Label: smndlabno
+      Attribute_Definition:
+        Analysis ID.
+
+        Identifier for this analysis assigned by the laboratory.
+        Textual values of no more than 8 characters.
+    Attribute:
+      Attribute_Label: smnddeccon
+      Attribute_Definition:
+        Decay constants.
+
+        Radioactive decay constants used in calculations.
+        Real numbers stored in double precision.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.00000654
+          Range_Domain_Maximum: 0.00000654
+    Attribute:
+      Attribute_Label: sm_ppm
+      Attribute_Definition:
+        Samarium concentration.
+
+        Samarium concentration in parts per million by weight.
+        Real numbers stored in double precision.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            27 records have no value for sm_ppm.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1.88
+          Range_Domain_Maximum: 14.81
+    Attribute:
+      Attribute_Label: nd_ppm
+      Attribute_Definition:
+        Neodymium concentration.
+
+        Neodymium concentration in parts per million by weight.
+        Real numbers stored in double precision.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.15
+          Range_Domain_Maximum: 50.46
+    Attribute:
+      Attribute_Label: 143smrad
+      Attribute_Definition:
+        Ratio 147Sm/144Nd.
+
+        Ratio of counts of 147Sm to 144Nd in the sample, measured by mass
+        spectrometry.
+        Real numbers stored in double precision.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.1074
+          Range_Domain_Maximum: 0.3809
+    Attribute:
+      Attribute_Label: 143ndrat
+      Attribute_Definition:
+        Ratio 143Nd/144Nd.
+
+        Ratio of counts of 143Nd to 144Nd in the sample, measured by mass
+        spectrometry.
+        Real numbers stored in double precision.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.51079
+          Range_Domain_Maximum: 0.513212
+    Attribute:
+      Attribute_Label: smndagecom
+      Attribute_Definition:
+        Age comments.
+
+        Comments on the age estimate, typically provides context for the age.
+        Textual values of no more than 40 characters.
+    Attribute:
+      Attribute_Label: smndothcom
+      Attribute_Definition:
+        Other comments.
+
+        Other comments pertinent to this analysis.
+        Textual values of no more than 80 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            32 records have no value for smndothcom.
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: U_Th_Pb
+      Entity_Type_Definition: Radiometric age estimates, observations, and parameters using techniques involving isotopes of uranium, thorium, and lead.
+    Attribute:
+      Attribute_Label: recno
+      Attribute_Definition:
+        Record ID.
+
+        Sample identifier, a value of main:recno.
+        Integer values.
+        Int of width 5.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 18669
+          Attribute_Measurement_Resolution: 1
+    Attribute:
+      Attribute_Label: upbrecno
+      Attribute_Definition:
+        Analysis ID.
+
+        Sequence number, for this sample, of this analysis.
+        Integer values.
+        Int of width 5.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            1 records have no value for upbrecno.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 33
+          Attribute_Measurement_Resolution: 1
+    Attribute:
+      Attribute_Label: 206_238age
+      Attribute_Definition:
+        Age 206Pb/238U.
+
+        Age estimate in millions of years using the 206Pb-238U method.
+        Real numbers stored in double precision.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            575 records have no value for 206_238age.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.1
+          Range_Domain_Maximum: 16300
+    Attribute:
+      Attribute_Label: err206_238
+      Attribute_Definition:
+        Age uncertainty 206Pb/238U.
+
+        Uncertainty of the age estimate by the 206Pb-238U method attributable
+        to the analytical method, in millions of years.
+        Real numbers stored in double precision.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            2194 records have no value for err206_238.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 1285
+    Attribute:
+      Attribute_Label: 207_235age
+      Attribute_Definition:
+        Age 207Pb/235U.
+
+        Age estimate in millions of years using the 207Pb-235U method.
+        Real numbers stored in double precision.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            611 records have no value for 207_235age.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -26.6
+          Range_Domain_Maximum: 4460
+    Attribute:
+      Attribute_Label: err207_235
+      Attribute_Definition:
+        Age uncertainty 207Pb/235U.
+
+        Uncertainty of the age estimate by the 207Pb-235U method attributable
+        to the analytical method, in millions of years.
+        Real numbers stored in double precision.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            2186 records have no value for err207_235.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -350
+          Range_Domain_Maximum: 2127
+    Attribute:
+      Attribute_Label: 207_206age
+      Attribute_Definition:
+        Age 207Pb/206Pb.
+
+        Age estimate in millions of years using the 207Pb-206Pb method.
+        Real numbers stored in double precision.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            12 records have no value for 207_206age.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: -50000
+          Range_Domain_Maximum: 4792.4
+    Attribute:
+      Attribute_Label: err207_206
+      Attribute_Definition:
+        Age uncertainty 207Pb/206Pb.
+
+        Uncertainty of the age estimate by the 207Pb-206Pb method attributable
+        to the analytical method, in millions of years.
+        Real numbers stored in double precision.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            2058 records have no value for err207_206.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 320
+    Attribute:
+      Attribute_Label: 208_232age
+      Attribute_Definition:
+        Age 208Pb/232Th.
+
+        Age estimate in millions of years using the 208Pb-232Th method.
+        Real numbers stored in double precision.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            1994 records have no value for 208_232age.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 24.5
+          Range_Domain_Maximum: 13383
+    Attribute:
+      Attribute_Label: err208_232
+      Attribute_Definition:
+        Age uncertainty 208Pb/232Th.
+
+        Uncertainty of the age estimate by the 208Pb-232Th method attributable
+        to the analytical method, in millions of years.
+        Real numbers stored in double precision.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            2421 records have no value for err208_232.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1.8
+          Range_Domain_Maximum: 210
+    Attribute:
+      Attribute_Label: uintcpt
+      Attribute_Definition:
+        Upper intercept.
+
+        Upper intercept of the Concordia diagram.
+        Real numbers stored in double precision.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            1267 records have no value for uintcpt.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 14.9
+          Range_Domain_Maximum: 3900
+    Attribute:
+      Attribute_Label: erruintcpt
+      Attribute_Definition:
+        Upper intercept uncertainty.
+
+        Uncertainty in the upper intercept.
+        Real numbers stored in double precision.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            1458 records have no value for erruintcpt.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 550
+    Attribute:
+      Attribute_Label: lintcpt
+      Attribute_Definition:
+        Lower intercept.
+
+        Lower intercept of the Concordia diagram.
+        Textual values of no more than 8 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            2172 records have no value for lintcpt.
+    Attribute:
+      Attribute_Label: errlintcpt
+      Attribute_Definition:
+        Lower intercept uncertainty.
+
+        Uncertainty in the lower intercept.
+        Real numbers stored in double precision.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            2243 records have no value for errlintcpt.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.8
+          Range_Domain_Maximum: 900
+    Attribute:
+      Attribute_Label: pbinitrat
+      Attribute_Definition:
+        Initial lead isotopic composition.
+
+        Initial ratios of lead isotopes in common lead, in sequence:
+        206Pb/204Pb, 207Pb/204Pb, 208Pb/204Pb.
+        Textual values of no more than 24 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            1253 records have no value for pbinitrat.
+    Attribute:
+      Attribute_Label: upbmin
+      Attribute_Definition:
+        Rock or mineral analyzed.
+
+        Rock or mineral analyzed.
+        Textual values of no more than 52 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            8 records have no value for upbmin.
+    Attribute:
+      Attribute_Label: upblabno
+      Attribute_Definition:
+        Analysis ID.
+
+        Identifier for this analysis assigned by the laboratory.
+        Textual values of no more than 26 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            7 records have no value for upblabno.
+    Attribute:
+      Attribute_Label: upbdeccon
+      Attribute_Definition:
+        Decay constants.
+
+        Radioactive decay constants used in calculations.
+        Textual values of no more than 35 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            5 records have no value for upbdeccon.
+    Attribute:
+      Attribute_Label: u_ppm
+      Attribute_Definition:
+        Uranium concentration.
+
+        Uranium concentration in parts per million by weight.
+        Real numbers stored in double precision.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            409 records have no value for u_ppm.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 791000
+    Attribute:
+      Attribute_Label: th_ppm
+      Attribute_Definition:
+        Thorium concentration.
+
+        Thorium concentration in parts per million by weight.
+        Real numbers stored in double precision.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            1894 records have no value for th_ppm.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.1
+          Range_Domain_Maximum: 414000
+    Attribute:
+      Attribute_Label: pb_ppm
+      Attribute_Definition:
+        Lead concentration.
+
+        Lead concentration in parts per million by weight.
+        Real numbers stored in double precision.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            431 records have no value for pb_ppm.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.01
+          Range_Domain_Maximum: 170100
+    Attribute:
+      Attribute_Label: 204pb
+      Attribute_Definition:
+        Isotopic concentration 204Pb.
+
+        Concentration of 204Pb isotope in the sample.
+        Real numbers stored in double precision.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            812 records have no value for 204pb.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 83.62
+    Attribute:
+      Attribute_Label: 206pb
+      Attribute_Definition:
+        Isotopic concentration 206Pb.
+
+        Concentration of 206Pb isotope in the sample.
+        Real numbers stored in double precision.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            786 records have no value for 206pb.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1.228
+          Range_Domain_Maximum: 95.51
+    Attribute:
+      Attribute_Label: 207pb
+      Attribute_Definition:
+        Isotopic concentration 207Pb.
+
+        Concentration of 207Pb isotope in the sample.
+        Real numbers stored in double precision.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            787 records have no value for 207pb.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.1455
+          Range_Domain_Maximum: 46.02
+    Attribute:
+      Attribute_Label: 208pb
+      Attribute_Definition:
+        Isotopic concentration 208Pb.
+
+        Concentration of 208Pb isotope in the sample.
+        Real numbers stored in double precision.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            787 records have no value for 208pb.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0.053
+          Range_Domain_Maximum: 1889
+    Attribute:
+      Attribute_Label: sampsuit
+      Attribute_Definition:
+        Sample suite number.
+
+        Group identifier of related samples.
+        Integer values.
+        Int of width 5.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            14168 records have no value for sampsuit.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 7
+          Range_Domain_Maximum: 641
+          Attribute_Measurement_Resolution: 1
+    Attribute:
+      Attribute_Label: addref
+      Attribute_Definition:
+        Bibliographic references.
+
+        Additional bibliographic reference information for this analysis.
+        Textual values of no more than 25 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            1391 records have no value for addref.
+    Attribute:
+      Attribute_Label: upbagecom
+      Attribute_Definition:
+        Age comments.
+
+        Comments on the age estimate, typically provides context for the age.
+        Textual values of no more than 84 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            1661 records have no value for upbagecom.
+    Attribute:
+      Attribute_Label: upbsampcom
+      Attribute_Definition:
+        Sample comments.
+
+        Comments on the sample analyzed.
+        Textual values of no more than 224 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            699 records have no value for upbsampcom.
+    Attribute:
+      Attribute_Label: upbanalcom
+      Attribute_Definition:
+        Analytical comments.
+
+        Comments on the analytic method used.
+        Textual values of no more than 199 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            1294 records have no value for upbanalcom.
+    Attribute:
+      Attribute_Label: upbothrcom
+      Attribute_Definition:
+        Other comments.
+
+        Other comments pertinent to this analysis.
+        Textual values of no more than 255 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            757 records have no value for upbothrcom.
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: datadxny
+      Entity_Type_Definition: Data dictionary, explaining tables and fields
+    Attribute:
+      Attribute_Label: id
+      Attribute_Definition:
+        Row ID.
+
+        Row identifier within datadxny table.
+        Integer values.
+        Int of width 0.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 149
+          Attribute_Measurement_Resolution: 1
+    Attribute:
+      Attribute_Label: tblorder
+      Attribute_Definition:
+        Table order.
+
+        Order in which this table should appear in some presentations.
+        Integer values.
+        Int of width 0.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 7
+          Attribute_Measurement_Resolution: 1
+    Attribute:
+      Attribute_Label: tblname
+      Attribute_Definition:
+        Table name.
+
+        Name of the table.
+        Textual values of no more than 20 characters.
+    Attribute:
+      Attribute_Label: number
+      Attribute_Definition:
+        Field order.
+
+        Order in which this field occurs in the RDBMS.
+        Integer values.
+        Int of width 0.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            7 records have no value for number.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 1
+          Range_Domain_Maximum: 31
+          Attribute_Measurement_Resolution: 1
+    Attribute:
+      Attribute_Label: label
+      Attribute_Definition:
+        Field label.
+
+        Label of the field in the RDBMS.
+        Textual values of no more than 32 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            7 records have no value for label.
+    Attribute:
+      Attribute_Label: category
+      Attribute_Definition:
+        Category.
+
+        General category of information provided by the contents of the field.
+        Textual values of no more than 50 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            7 records have no value for category.
+    Attribute:
+      Attribute_Label: short_desc
+      Attribute_Definition:
+        Short description.
+
+        Descriptive name of the field used in some presentations, not
+        constrained by rules affecting the label.
+        Textual values of no more than 40 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            7 records have no value for short_desc.
+    Attribute:
+      Attribute_Label: description
+      Attribute_Definition:
+        Description.
+
+        Longer description of the purpose and contents of the field.
+        Textual values of no more than 4096 characters.
+    Attribute:
+      Attribute_Label: link
+      Attribute_Definition:
+        Link.
+
+        URL providing more information about the field.
+        Textual values of no more than 96 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            149 records have no value for link.
+    Attribute:
+      Attribute_Label: origin
+      Attribute_Definition:
+        Origin.
+
+        Abbreviation of an organization, data set, or other entity responsible
+        for defining the field.
+        Textual values of no more than 12 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            149 records have no value for origin.
+    Attribute:
+      Attribute_Label: sqltype
+      Attribute_Definition:
+        SQL data type.
+
+        Data type of the field as used in the RDBMS.
+        Textual values of no more than 8 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            7 records have no value for sqltype.
+    Attribute:
+      Attribute_Label: dbftype
+      Attribute_Definition:
+        DBF field type.
+
+        Data type of the field when expressed in DBF.
+        Textual values of no more than 1 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            7 records have no value for dbftype.
+    Attribute:
+      Attribute_Label: width
+      Attribute_Definition:
+        DBF field width.
+
+        Field width when expressed in DBF.
+        Integer values.
+        Int of width 0.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            7 records have no value for width.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 4096
+          Attribute_Measurement_Resolution: 1
+    Attribute:
+      Attribute_Label: prec
+      Attribute_Definition:
+        DBF field precision.
+
+        Precision of the field (places to right of decimal) when expressed in
+        DBF, only for numeric fields.
+        Integer values.
+        Int of width 0.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            76 records have no value for prec.
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 6
+          Attribute_Measurement_Resolution: 1
+    Attribute:
+      Attribute_Label: units
+      Attribute_Definition:
+        Units.
+
+        Units of measure of the field values.
+        Textual values of no more than 64 characters.
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: (no value)
+          Enumerated_Domain_Value_Definition:
+            Information not available for this record.
+            149 records have no value for units.
+
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Peter N Schweitzer
+        Contact_Organization: USGS ER GD
+      Contact_Position: Geologist
+      Contact_Address:
+        Address_Type: mailing address
+        Address: 12201 Sunrise Valley Drive
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192-0002
+        Country: USA
+      Contact_Voice_Telephone: 703-648-6533
+      Contact_Facsimile_Telephone: 703-648-6252
+      Contact_Electronic_Mail_Address: pschweitzer@usgs.gov
+  Resource_Description: USGS Open-File Report 2003-236
+  Distribution_Liability:
+    This report is preliminary and has not been reviewed for conformity
+    with U.S. Geological Survey (USGS) editorial standards or with the
+    North American Stratigraphic Code. Any use of trade, firm, or product
+    names is for descriptive purposes only and does not imply endorsement
+    by the U.S. Government.
+
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: WMS
+        Format_Version_Number: 1.1.1
+        Format_Information_Content: Sample characteristics and geologic age information
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://mrdata.usgs.gov/services/geochron?request=GetCapabilities&service=WMS&version=1.1.1
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: WFS
+        Format_Version_Number: 1.0.0
+        Format_Information_Content: Sample characteristics and geologic age analyses
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://mrdata.usgs.gov/services/geochron?request=GetCapabilities&service=WFS&version=1.0.0
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: Shapefile
+        Format_Version_Number: 1.0
+        Format_Information_Content: Sample characteristics and geologic age information
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://tin.er.usgs.gov/geochron/geochron.zip
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: Comma-delimited text
+        Format_Information_Content: Sample characteristics and geologic age information
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://tin.er.usgs.gov/geochron/geochron-csv.zip
+    Fees: none
+Metadata_Reference_Information:
+  Metadata_Date: 20111221
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Schweitzer, Peter, N
+        Contact_Organization: Eastern Mineral Resources Team
+      Contact_Address:
+        Address_Type: mailing address
+        Address: 12201 Sunrise Valley Drive Mail Stop 954
+        City: Reston
+        State_or_Province: VA
+        Postal_Code: 20192
+        Country: USA
+      Contact_Voice_Telephone: 703-648-6533
+      Contact_Electronic_Mail_Address: pschweitzer@usgs.gov

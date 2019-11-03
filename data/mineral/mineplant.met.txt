@@ -1,0 +1,424 @@
+Metadata:
+  Identification_Information:
+    Citation:
+      Citation_Information:
+        Originator: U.S. Geological Survey
+        Publication_Date: 2005
+        Title: Active Mines and Mineral Processing Plants in the United States in 2003
+        Geospatial_Data_Presentation_Form: vector digital data
+        Publication_Information:
+          Publication_Place: Reston, Virginia
+          Publisher: U.S. Geological Survey
+        Online_Linkage: http://tin.er.usgs.gov/mineplant/
+        Online_Linkage: http://mrdata.usgs.gov/cgi-bin/mapserv?map=active-mines.map&request=getcapabilities&service=WMS&version=1.1.1&
+        Online_Linkage: http://mrdata.usgs.gov/cgi-bin/mapserv?map=active-mines.map&request=getcapabilities&service=WFS&version=1.0.0&
+    Description:
+      Abstract: This data set includes mineral and metal operations in the United States. The data represent commodities monitored by the National Minerals Information Center of the USGS, and the operations included are those considered active in 2003 and surveyed by the MIT.
+      Purpose: The digital data set of the National Minerals Information Center is used to create electronic and hard copy maps that depict various mineral or metal mine and/or processing locations on a national map.  The data can be used to conduct graphic analysis on national and large regional scales.
+      Supplemental_Information:
+        Additional mineral and metal operations information can be obtained from the U.S. Geological Survey National Minerals Information Center web page at:
+        http://minerals.usgs.gov/minerals/
+    Time_Period_of_Content:
+      Time_Period_Information:
+        Single_Date/Time:
+          Calendar_Date: 2003
+      Currentness_Reference: ground condition
+    Status:
+      Progress: Complete
+      Maintenance_and_Update_Frequency: Irregular
+    Spatial_Domain:
+      Bounding_Coordinates:
+        West_Bounding_Coordinate: -162.865000
+        East_Bounding_Coordinate: -67.659000
+        North_Bounding_Coordinate: 68.070000
+        South_Bounding_Coordinate: 19.628500
+    Keywords:
+      Theme:
+        Theme_Keyword_Thesaurus: None
+        Theme_Keyword: minerals
+        Theme_Keyword: metals
+        Theme_Keyword: mines
+        Theme_Keyword: mining operations
+        Theme_Keyword: mineral operations
+        Theme_Keyword: metal operations
+        Theme_Keyword: Aluminum
+        Theme_Keyword: Asbestos
+        Theme_Keyword: Ball clay
+        Theme_Keyword: Barite
+        Theme_Keyword: Bentonite
+        Theme_Keyword: Beryllium
+        Theme_Keyword: Bismuth
+        Theme_Keyword: Boron
+        Theme_Keyword: Bromine
+        Theme_Keyword: Cadmium
+        Theme_Keyword: Cement
+        Theme_Keyword: Chromium
+        Theme_Keyword: Cobalt
+        Theme_Keyword: Columbium
+        Theme_Keyword: Niobium
+        Theme_Keyword: Copper
+        Theme_Keyword: Diatomite
+        Theme_Keyword: Dimension Stone
+        Theme_Keyword: Feldspar
+        Theme_Keyword: Fullers Earth
+        Theme_Keyword: Garnet
+        Theme_Keyword: Gemstones
+        Theme_Keyword: Gold
+        Theme_Keyword: Gypsum
+        Theme_Keyword: Industrial Sand and Gravel
+        Theme_Keyword: Iron ore
+        Theme_Keyword: Iron oxide
+        Theme_Keyword: Kaolin
+        Theme_Keyword: Kyanite
+        Theme_Keyword: Lead
+        Theme_Keyword: Lime
+        Theme_Keyword: Lithium
+        Theme_Keyword: Magnesite
+        Theme_Keyword: Magnesium compounds
+        Theme_Keyword: Manganese
+        Theme_Keyword: Mercury
+        Theme_Keyword: Mica
+        Theme_Keyword: Molybdenum
+        Theme_Keyword: Nickel
+        Theme_Keyword: Niobium (Columbium)
+        Theme_Keyword: Olivine
+        Theme_Keyword: Peat
+        Theme_Keyword: Perlite
+        Theme_Keyword: Phosphate rock
+        Theme_Keyword: Platinum-group metals
+        Theme_Keyword: Potash
+        Theme_Keyword: Pumice
+        Theme_Keyword: Rare-earth metals
+        Theme_Keyword: Rhenium
+        Theme_Keyword: Rubidium
+        Theme_Keyword: Salt
+        Theme_Keyword: Selenium
+        Theme_Keyword: Silica
+        Theme_Keyword: Silicon
+        Theme_Keyword: Silver
+        Theme_Keyword: Soda Ash (Trona)
+        Theme_Keyword: Sodium sulfate
+        Theme_Keyword: Strontium
+        Theme_Keyword: Sulfur
+        Theme_Keyword: Synthetic Mullite
+        Theme_Keyword: Talc
+        Theme_Keyword: Tellurium
+        Theme_Keyword: Thorium
+        Theme_Keyword: Tin
+        Theme_Keyword: Titanium metal
+        Theme_Keyword: Titanium mineral
+        Theme_Keyword: Titanium pigment
+        Theme_Keyword: Trona (Soda Ash)
+        Theme_Keyword: Tungsten
+        Theme_Keyword: Vanadium
+        Theme_Keyword: Vermiculite
+        Theme_Keyword: Wollastonite
+        Theme_Keyword: Zeolites
+        Theme_Keyword: Zinc
+        Theme_Keyword: Zircon
+      Theme:
+        Theme_Keyword_Thesaurus: ISO 19115 Topic Categories
+        Theme_Keyword: geoscientificInformation
+      Place:
+        Place_Keyword_Thesaurus: U.S. Department of Commerce, 1995, Countries, Dependencies, Areas of Special Sovereignty, and Their Principal Administrative Divisions (Federal Information Processing Standard (FIPS) 10-4): Washington, D.C., National Institute of Standards and Technology.
+        Place_Keyword: United States
+      Place:
+        Place_Keyword_Thesaurus: U.S. Department of Commerce, 1987, Codes for the Identification of the States, the District of Columbia and the Outlying Areas of the United States, and Associated Areas (Federal Information Processing Standard (FIPS) 5-2): Washington, D.C., National Institute of Standards and Technology.
+        Place_Keyword: Alaska
+        Place_Keyword: Alabama
+        Place_Keyword: Arkansas
+        Place_Keyword: Arizona
+        Place_Keyword: California
+        Place_Keyword: Colorado
+        Place_Keyword: Connecticut
+        Place_Keyword: Delaware
+        Place_Keyword: Florida
+        Place_Keyword: Georgia
+        Place_Keyword: Hawaii
+        Place_Keyword: Idaho
+        Place_Keyword: Iowa
+        Place_Keyword: Illinois
+        Place_Keyword: Indiana
+        Place_Keyword: Kansas
+        Place_Keyword: Kentucky
+        Place_Keyword: Louisiana
+        Place_Keyword: Maine
+        Place_Keyword: Massachusetts
+        Place_Keyword: Maryland
+        Place_Keyword: Michigan
+        Place_Keyword: Minnesota
+        Place_Keyword: Missouri
+        Place_Keyword: Mississippi
+        Place_Keyword: Montana
+        Place_Keyword: North Carolina
+        Place_Keyword: North Dakota
+        Place_Keyword: Nebraska
+        Place_Keyword: New Hampshire
+        Place_Keyword: New Jersey
+        Place_Keyword: New Mexico
+        Place_Keyword: Nevada
+        Place_Keyword: New York
+        Place_Keyword: Ohio
+        Place_Keyword: Oklahoma
+        Place_Keyword: Oregon
+        Place_Keyword: Pennsylvania
+        Place_Keyword: Rhode Island
+        Place_Keyword: South Carolina
+        Place_Keyword: South Dakota
+        Place_Keyword: Tennessee
+        Place_Keyword: Texas
+        Place_Keyword: Utah
+        Place_Keyword: Vermont
+        Place_Keyword: Virginia
+        Place_Keyword: Wisconsin
+        Place_Keyword: Washington
+        Place_Keyword: West Virginia
+        Place_Keyword: Wyoming
+    Access_Constraints: None
+    Use_Constraints: None.  Acknowledgment of the National Minerals Information Center, U.S. Geological Survey, Department of the Interior, government of the United States of America would be appreciated in products derived from these data.
+    Point_of_Contact:
+      Contact_Information:
+        Contact_Person_Primary:
+          Contact_Person: Robert Callaghan
+          Contact_Organization: U.S. Geological Survey
+        Contact_Address:
+          Address_Type: mailing address
+          Address: 983 National Center
+          City: Reston
+          State_or_Province: VA
+          Postal_Code: 20192
+        Contact_Voice_Telephone: 703-648-7709
+        Contact_Electronic_Mail_Address: rcallaghan@usgs.gov
+    Native_Data_Set_Environment: Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 1; ESRI ArcCatalog 9.1.0.722
+  Data_Quality_Information:
+    Logical_Consistency_Report: No tests for logical consistency were performed on this data set.
+    Completeness_Report:
+      This data set includes only U.S. mineral and metal operations monitored by the National Minerals Information Center of the U.S. Geological Survey and considered currently active in 2003. No energy minerals operations (for example, coal) are included. Aggregates operations are limited to those producing over 30,000 tons per year in 2002. Peat operations in Alaska are not included. Placer deposits (gold) in Alaska are not included. Clay operations (ball clay, common clay) may have many satellite pits, not all of which are specifically included.  An attempt was made to add locations that may be considered representative of the companies.
+      Plants are limited to operations considered primary -- those which process a mineral or metal to create the first raw material from which products are made.  Downstream operations (operations that reprocess a raw material into another raw material or final product) and recycling operations are not included.
+    Lineage:
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: U.S. Geological Survey
+            Publication_Date: Unpublished Material
+            Title: Automated Minerals Information System (AMIS)
+        Type_of_Source_Media: Internal USGS server
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Range_of_Dates/Times:
+              Beginning_Date: 1997
+              Ending_Date: 2005
+          Source_Currentness_Reference: ground condition
+        Source_Citation_Abbreviation: AMIS
+        Source_Contribution: Minerals operations descriptions
+      Source_Information:
+        Source_Citation:
+          Citation_Information:
+            Originator: U.S. Geological Survey
+            Publication_Date: 2004
+            Title: USGS Minerals Yearbook -- 2003
+            Online_Linkage: http://minerals.usgs.gov/minerals/
+        Type_of_Source_Media: online
+        Source_Time_Period_of_Content:
+          Time_Period_Information:
+            Single_Date/Time:
+              Calendar_Date: 2003
+          Source_Currentness_Reference: ground condition
+        Source_Citation_Abbreviation: Minerals Yearbook 2003
+        Source_Contribution: The USGS Minerals Yearbook (MYB) contains statistical information on over 90 commodities.  These reviews summarize activity in the commodity.  From tables and other information in the MYB lists of active operations were determined.
+      Process_Step:
+        Process_Description:
+          AMIS contains both proprietary and nonproprietary information. For each commodity, the National Minerals Information Center extracted from AMIS the nonproprietary information useful for this application and placed this information in a separate database. This information includes company name, site name, county, state, and coordinates. This information is reported by the company with the exception of coordinates, which have been added by the MIT in an ongoing process that began in 1997.  Latitude and longitude for each operation was obtained from at least one of the following sources:
+          Minerals Availability System/Minerals Industry Location System (MAS/MILS) CD-ROM, U.S. Bureau of Mines Special Publication 12-95, web searches using general internet search services (queries by company name or name of the specific operation), company contact, map interpolation, and searches of the EPA database at http://www.epa.gov/enviro.html/multisystem_query_java.html
+          Whenever possible the location information was checked for accuracy and added to the AMIS database. After 2003 coordinates being added were checked, or obtained, when possible using USGS air photos available through Microsoft Terraserver (http://terraserver-usa.com).
+        Source_Used_Citation_Abbreviation: AMIS
+        Process_Date: 2005
+      Process_Step:
+        Process_Description: Records extracted from AMIS were compared to information available in the National Minerals Information Center's 2003 Minerals Yearbook and were reviewed by commodity specialists to create the 2003 Active Mines and Plants dataset.
+        Source_Used_Citation_Abbreviation: Minerals Yearbook 2003
+        Process_Date: 2005
+  Spatial_Data_Organization_Information:
+    Indirect_Spatial_Reference:
+      U.S. Department of Commerce, 1987, Codes for the Identification
+      of the States, the District of Columbia and the Outlying Areas of
+      the United States, and Associated Areas FIPS 5-2): Washington, D.C.,
+      National Institute of Standards and Technology.
+
+      U.S. Department of Commerce, 1990, Counties and Equivalent Entities
+      of the United States, Its Possessions, and Associated Areas,
+      (FIPS 6-4): Washington, D.C., National Institute of Standards and
+      Technology.
+    Direct_Spatial_Reference_Method: Vector
+    Point_and_Vector_Object_Information:
+      SDTS_Terms_Description:
+        SDTS_Point_and_Vector_Object_Type: Entity point
+        Point_and_Vector_Object_Count: 6738
+  Spatial_Reference_Information:
+    Horizontal_Coordinate_System_Definition:
+      Geographic:
+        Latitude_Resolution: 0.01
+        Longitude_Resolution: 0.01
+        Geographic_Coordinate_Units: Decimal degrees
+      Geodetic_Model:
+        Horizontal_Datum_Name: North American Datum of 1927
+        Ellipsoid_Name: Clarke 1866
+        Semi-major_Axis: 6378206.400000
+        Denominator_of_Flattening_Ratio: 294.978698
+  Entity_and_Attribute_Information:
+    Detailed_Description:
+      Entity_Type:
+        Entity_Type_Label: Active Mines and Mineral Processing Plants in 2003
+        Entity_Type_Definition: Locations of active mines and mineral processing plants in 2003
+        Entity_Type_Definition_Source: U.S. Geological Survey National Minerals Information Center.
+      Attribute:
+        Attribute_Label: COMMODITY
+        Attribute_Definition:
+          The mineral(s) and/or metal(s) produced or processed by
+          the facility.
+        Attribute_Definition_Source: U.S. Geological Survey National Minerals Information Center
+        Attribute_Domain_Values:
+          Codeset_Domain:
+            Codeset_Name: Mineral Commodity Summaries 2006, or http://minerals.usgs.gov/minerals/pubs/mcs/
+            Codeset_Source: U.S. Geological Survey, National Minerals Information Center
+      Attribute:
+        Attribute_Label: ID
+        Attribute_Definition: internal feature number
+        Attribute_Definition_Source: U.S. Geological Survey National Minerals Information Center
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 6842
+      Attribute:
+        Attribute_Label: SITE_NAME
+        Attribute_Definition: Name of the location; may be the name of the mine or plant or the nearest locality
+        Attribute_Definition_Source: U.S. Geological Survey National Minerals Information Center
+        Attribute_Domain_Values:
+          Unrepresentable_Domain: There is no predefined set of standard site names.
+      Attribute:
+        Attribute_Label: COMPANY_NA
+        Attribute_Definition: The name of the company operating at the location.
+        Attribute_Definition_Source: U.S. Geological Survey National Minerals Information Center
+        Attribute_Domain_Values:
+          Unrepresentable_Domain: There is no predefined set of standard company names.
+      Attribute:
+        Attribute_Label: STATE_LOCA
+        Attribute_Definition: State in which the site is located
+        Attribute_Definition_Source: U.S. Geological Survey National Minerals Information Center
+        Attribute_Domain_Values:
+          Codeset_Domain:
+            Codeset_Name: U.S. Department of Commerce, 1987, Codes for the Identification of the States, the District of Columbia and the Outlying Areas of the United States, and Associated Areas (Federal Information Processing Standard (FIPS) 5-2): Washington, D.C., National Institute of Standards and Technology.
+            Codeset_Source: http://www.itl.nist.gov/fipspubs/
+      Attribute:
+        Attribute_Label: COUNTY
+        Attribute_Definition: County in which the operation is located.
+        Attribute_Definition_Source: U.S. Geological Survey National Minerals Information Center
+        Attribute_Domain_Values:
+          Codeset_Domain:
+            Codeset_Name: U.S. Department of Commerce, 1990, Counties and Equivalent Entities of the United States, Its Possessions, and Associated Areas. (Federal Information Processing Standard (FIPS) 6-4): Washington, D.C., National Institute of Standards and Technology.
+            Codeset_Source: http://www.itl.nist.gov/fipspubs/
+      Attribute:
+        Attribute_Label: LATITUDE
+        Attribute_Definition: The latittude of the operation in decimal degrees.
+        Attribute_Definition_Source: U.S. Geological Survey National Minerals Information Center
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 19
+            Range_Domain_Maximum: 68
+      Attribute:
+        Attribute_Label: LONGITUDE
+        Attribute_Definition: The longitude of the site in decimal degrees
+        Attribute_Definition_Source: U.S. Geological Survey National Minerals Information Center
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: -162.865
+            Range_Domain_Maximum: -67.659
+      Attribute:
+        Attribute_Label: PLANT_MIN
+        Attribute_Definition: Whether the operation is a mine, a plant, or both
+        Attribute_Definition_Source: U.S. Geological Survey National Minerals Information Center.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: M
+            Enumerated_Domain_Value_Definition: The operation is a mine
+            Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey National Minerals Information Center
+          Enumerated_Domain:
+            Enumerated_Domain_Value: P
+            Enumerated_Domain_Value_Definition: The operation is a plant
+            Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey National Minerals Information Center
+          Enumerated_Domain:
+            Enumerated_Domain_Value: M/P
+            Enumerated_Domain_Value_Definition: The facility is both a mine and a plant
+            Enumerated_Domain_Value_Definition_Source: U.S. Geological Survey National Minerals Information Center
+  Distribution_Information:
+    Distributor:
+      Contact_Information:
+        Contact_Person_Primary:
+          Contact_Person: Peter Schweitzer
+          Contact_Organization: U.S. Geological Survey
+        Contact_Address:
+          Address_Type: mailing address
+          Address: 954 National Center
+          City: Reston
+          State_or_Province: VA
+          Postal_Code: 20192
+        Contact_Voice_Telephone: 703-648-6533
+        Contact_Electronic_Mail_Address: pschweitzer@usgs.gov
+    Resource_Description: Downloadable Data
+    Distribution_Liability:
+      Although these data have been processed successfully on a computer
+      system at the U.S. Geological Survey, no warranty expressed or
+      implied is made  by the U.S. Geological Survey regarding the
+      utility of the data on any other system, nor shall the act of
+      distribution constitute any such warranty.
+    Standard_Order_Process:
+      Digital_Form:
+        Digital_Transfer_Information:
+          Format_Name: ESRI shapefile
+          Format_Version_Number: 1.0
+          Format_Information_Content: Mine and plant locations and characteristics
+          File_Decompression_Technique: unzip
+          Transfer_Size: 0.4 megabytes
+        Digital_Transfer_Option:
+          Online_Option:
+            Computer_Contact_Information:
+              Network_Address:
+                Network_Resource_Name: http://tin.er.usgs.gov/mineplant/mineplant.zip
+      Digital_Form:
+        Digital_Transfer_Information:
+          Format_Name: OGC WMS
+          Format_Version_Number: 1.1.1
+          Format_Information_Content: Mine or plant locations and characteristics
+        Digital_Transfer_Option:
+          Online_Option:
+            Computer_Contact_Information:
+              Network_Address:
+                Network_Resource_Name: http://mrdata.usgs.gov/cgi-bin/mapserv?map=active-mines.map&request=getcapabilities&service=WMS&version=1.1.1&
+      Digital_Form:
+        Digital_Transfer_Information:
+          Format_Name: OGC WFS
+          Format_Version_Number: 1.0.0
+          Format_Information_Content: Mine or plant locations and characteristics
+        Digital_Transfer_Option:
+          Online_Option:
+            Computer_Contact_Information:
+              Network_Address:
+                Network_Resource_Name: http://mrdata.usgs.gov/cgi-bin/mapserv?map=active-mines.map&request=getcapabilities&service=WFS&version=1.0.0&
+      Fees: none
+  Metadata_Reference_Information:
+    Metadata_Date: 20100923
+    Metadata_Contact:
+      Contact_Information:
+        Contact_Person_Primary:
+          Contact_Person: Robert Callaghan
+          Contact_Organization: U.S. Geological Survey
+        Contact_Address:
+          Address_Type: mailing address
+          Address: 987 National Center
+          City: Reston
+          State_or_Province: VA
+          Postal_Code: 20192
+        Contact_Voice_Telephone: 703 648 7709
+        Contact_Electronic_Mail_Address: rcallaghan@usgs.gov
+    Metadata_Standard_Name: Content Standard for Digital Geospatial Metadata
+    Metadata_Standard_Version: FGDC-STD-001-1998
+    Metadata_Time_Convention: local time

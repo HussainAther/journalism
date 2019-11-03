@@ -1,0 +1,1398 @@
+recno,ftrecno,ftage,fterr,ftmin,ftlabno,ftdeccon,trackdens,fosstrack,indudens,indutrack,ratiotrack,neutflux,ft_u_ppm,addref,ftagecom,ftsampcom,ftanalcom,ftothcom,
+8,1,1.9,0.25,zircon,65W40,6.85E-09,,66,,1380,0.0239,1.3,,,"age of volcanism",,,
+9,1,0.6,0.15,zircon,9YC490,6.85E-09,,20,,1045,0.0096,1.3,,,"age of volcanism",,,
+77,1,170,,apatite,WYLL-2,"not given",,,,,,,,,"age of uplift and cooling","ANALYTICAL DATA NOT GIVEN",,
+885,1,0.7,0.2,zircon,50-61A,6.85E-09,,11,,660,0.0083,1.3,,,"minimum age of volcanism","3 ZIRCON GRAINS",,
+886,1,0.6,0.07,zircon,72G98,6.85E-09,,66,,2732,0.0102,0.924,,,"minimum age of volcanism","8 ZIRCON GRAINS",,
+887,1,0.7,0.35,zircon,68W104,6.85E-09,,3,,165,0.0091,1.26,,,"minimum age of volcanism","2 ZIRCON GRAINS",,
+888,1,0.9,0.25,zircon,70W63,6.85E-09,,14,,624,0.0113,1.26,,,"minimum age of volcanism","5 ZIRCON GRAINS",,
+889,1,1.7,0.17,zircon,71G2A,6.85E-09,,97,,1650,0.0293,0.924,,,"minimum age of volcanism","7 ZIRCON GRAINS",,
+890,1,1.9,0.2,zircon,71G1A,6.85E-09,,86,,1384,0.0311,1.01,,,"minimum age of volcanism","6 ZIRCON GRAINS",,
+891,1,1.8,0.25,zircon,66W39,6.85E-09,,49,,1074,0.0228,1.3,,,"minimum age of volcanism","4 ZIRCON GRAINS",,
+892,1,2,0.25,zircon,71G3,6.85E-09,,61,,1155,0.0264,1.26,,,"minimum age of volcanism","9 ZIRCON GRAINS",,
+893,1,1.8,0.25,zircon,68W100,6.85E-09,,58,,1258,0.023,1.26,,,"minimum age of volcanism","8 ZIRCON GRAINS",,
+894,1,2.6,0.25,zircon,71G2B,6.85E-09,,107,,1601,0.0333,1.26,,,"minimum age of volcanism","8 ZIRCON GRAINS",,
+895,1,1.8,0.2,zircon,71G1B,6.85E-09,,77,,1676,0.023,1.26,,,"minimum age of volcanism","6 ZIRCON GRAINS",,
+1210,1,170,13,sphene,97VV-368,6.85E-09,12.2,1396,5.38,308,,1.24,,"Edwards and McLaughlin (1972)","age of intrusion",,"6 GRAINS USED IN FISSION-TRACK COUNTING","K-AR AGE OF 147+/-3 M.Y. REPORTED FOR THIS SAMPLE BYASHLEY AND SILBERMAN, 1976"
+1210,2,19.6,2.7,apatite,97VV-368,6.85E-09,0.152,,1.4,,,2.96,,,,,"50 GRAINS USED IN FISSION-TRACK COUNTING","AGE INDICATES TIME OF HYDROTHERMAL ACTIVITY ; K-AR AGE OF 147+/-3 M.Y. REPORTED FOR THIS SAMPLE BY ASHLEY AND SILBERMAN, 1976"
+1211,1,33,2,zircon,199-137,6.85E-09,7.75,855,42.4,1394,,2.96,,,"age of volcanism",,"7 GRAINS USED IN FISSION-TRACK COUNTING",
+1212,1,31.1,2.2,zircon,222-36,6.85E-09,1.61,604,3.94,738,,1.24,,,"age of volcanism",,"7 GRAINS USED IN FISSION-TRACK COUNTING","K-AR AGE OF 24.4+/-0.5 M.Y. REPORTED FOR THIS SAMPLE IN ASHLEY AND SILBERMAN, 1976, AND K-AR AGE OF 21.2+/-0.4 M.Y. REPORTED BY SILBERMAN AND ASHLEY, 1970"
+1212,2,27.7,3.3,apatite,222-36,6.85E-09,0.0556,,0.363,,,2.96,,,"minimum age of volcanism",,"50 GRAINS USED IN FISSION-TRACK COUNTING","K-AR AGE OF 24.4+/-0.5 M.Y. REPORTED FOR THIS SAMPLE IN ASHLEY AND SILBERMAN, 1976, AND K-AR AGE OF 21.2+/-0.4 M.Y. REPORTED BY SILBERMAN AND ASHLEY, 1970"
+1213,1,21.2,2.4,apatite,201-116,6.85E-09,0.0488,,0.418,,,2.96,,,,,"51 GRAINS USED TO DETERMINE FOSSIL-TRACK-COUNT DENSITY; 17 GRAINS USED TO DETERMINE INDUCED-TRACK-COUNT DENSITY","AGE INDICATES TIME OF HYDROTHERMAL ACTIVITY"
+1214,1,33.5,4.5,apatite,185-115,6.85E-09,0.0738,86,0.398,232,,2.96,,,"age of volcanism",,"6 GRAINS USED IN FISSION-TRACK COUNTING","FISSION-TRACK AGE OF 33.6+/-2.4 M.Y. ON ZIRCON REPORTED FOR THIS SAMPLE BY ASHLEY AND SILBERMAN, 1976"
+1215,1,31.1,3.5,apatite,197-51-2,6.85E-09,0.0705,,0.411,,,2.96,,,"age of volcanism",,"50 GRAINS USED IN FISSION-TRACK COUNTING","FISSION-TRACK AGE OF 33.2+/-2.6 M.Y. ON ZIRCON REPORTED FOR THIS SAMPLE BY ASHLEY AND SILBERMAN, 1976"
+1216,1,20.5,1.6,apatite,Y-47,6.85E-09,0.0937,,0.763,,,2.72,,"Silberman and Ashley (1970)",,,"100 GRAINS USED TO DETERMINE FOSSIL-TRACK DENSITY; 50 GRAINS USED TO DETERMINE INDUCED-TRACK DENSITY",
+1217,1,19.8,1.4,sphene,203-11,6.85E-09,0.387,388,3.56,1861,,2.96,,"Silberman and Ashley (1970)","age of volcanism",,"8 GRAINS USED IN FISSION-TRACK COUNTING","FISSION-TRACK AGE OF 23.2 +/- 1.6 M.Y. ON ZIRCON REPORTED FOR THIS SAMPLE BY ASHLEY AND SILBERMAN, 1976"
+1217,2,20.1,2,apatite,203-11,6.85E-09,0.0959,,0.867,,,2.96,,"Silberman and Ashley (1970)","age of volcanism",,"52 GRAINS USED TO DETERMINE FOSSIL-TRACK DENSITY; 51 GRAINS USED TO DETERMINE INDUCED-TRACK DENSITY","FISSION-TRACK AGE OF 23.2 +/- 1.6 M.Y. ON ZIRCON REPORTED FOR THIS SAMPLE BY ASHLEY AND SILBERMAN, 1976"
+1319,1,47.6,1.9,apatite,"(NOT GIVEN)","not given",,,,,,,,,"minimum age of volcanism, may denote delayed cooling","NO ANALYTICAL DATA GIVEN",,
+1321,1,40.5,2.6,apatite,"(NOT GIVEN)","not given",,,,,,,,,"minimum age of volcanism, may denote delayed cooling","NO ANALYTICAL DATA GIVEN",,
+1322,1,38.8,1.6,apatite,"(NOT GIVEN)",6.85E-09,,,,,,,,,"minimum age of volcanism, may denote delayed cooling","NO ANALYTICAL DATA GIVEN",,
+2050,1,407,41,apatite,1,6.85E-09,0.595,500,0.664,558,,7.66,,,"age of intrusion","SAMPLE NUMBER 3079",,"BIOTITE K-AR AGE DETERMINED BY ZARTMAN AND OTHERS (1970) AS 404 M.Y. AND WHOLE-ROCK RB-SR AGE DETERMINED BY SPOONER AND FAIRBAIRN (1970) AS 400 M.Y."
+2050,2,150,27,sphene,1,6.85E-09,0.142,264,4.73,399,,7.66,,,,"SAMPLE NUMBER 3079",,"AGE IS ANOMALOUSLY LOW"
+2051,1,420,40,apatite,2,6.85E-09,0.3,311,0.322,572,,7.66,,,"age of intrusion","SAMPLE NUMBER 3078",,
+2053,1,223,22,apatite,4,6.85E-09,2.01,461,4.16,953,,7.66,,,"age of uplift and cooling","SAMPLE NUMBER 3085",,"BIOTITE K-AR AGE DETERMINED BY FAUL AND OTHERS (1963) AS 354 M.Y. AND WHOLE-ROCK RB-SR AGE DETERMINED BY BROOKINS AND SPOONER (1970) AS 357 +/- 1 M.Y."
+2053,2,366,18,sphene,4,6.85E-09,11.6,1779,14.4,1082,,7.66,,,"age of intrusion","SAMPLE NUMBER 3085",,
+2054,1,357,24,sphene,5,6.85E-09,5.86,1417,2.53,911,,7.66,,,"age of intrusion","SAMPLE NUMBER ME-153",,"BIOTITE K-AR AGE DETERMINED BY FAUL AND OTHERS (1963) AS 355 M.Y. AND WHOLE-ROCK AGE DETERMINED BY BROOKINS AND SPOONER (1970) AS 341+/- 21 M.Y."
+2055,1,222,22,apatite,6,6.85E-09,2.39,657,4.98,1368,,7.66,,,"age of uplift and cooling","SAMPLE NUMBER 3059",,"BIOTITE K-AR AGE DETERMINED BY ZARTMAN AND OTHERS (1970) AS 277 +/- 8 M.Y."
+2056,1,261,26,apatite,7,6.85E-09,0.655,1376,1.16,1943,,7.66,,,"age of uplift and cooling","SAMPLE NUMBER 3058",,"BIOTITE K-AR AGE IS 367 +/- 11 M.Y. (ZARTMAN AND OTHERS, 1970)"
+2056,2,364,21,sphene,7,6.85E-09,16.6,1809,20.9,1145,,7.66,,,"age of intrusion","SAMPLE NUMBER 3058",,
+2057,1,207,21,apatite,8,6.85E-09,2.19,2044,4.9,1831,,7.66,,,"age of uplift and cooling","SAMPLE NUMBER 3057",,"MUSCOVITE K-AR AGE IS 295 +/- 9 M.Y. (ZARTMAN AND OTHERS, 1970)"
+2058,1,219,22,apatite,9,6.85E-09,1.35,1264,2.85,2666,,7.66,,,"age of uplift and cooling","SAMPLE NUMBER 3055",,"BIOTITE K-AR AGE IS 260 +/- 8 M.Y. (ZARTMAN AND OTHERS, 1970)"
+2059,1,150,15,apatite,10,6.85E-09,1.51,1408,4.58,1714,,7.66,,,"age of uplift and cooling","SAMPLE NUMBER 3056",,"BIOTITE K-AR AGE IS 247 +/- 8 M.Y. (ZARTMAN AND OTHERS, 1970)"
+2060,1,133,1,apatite,ME/G-1,6.85E-09,0.912,1120,0.64,816,,1.54,,,"age of intrusion",,,
+2060,2,119,13,apatite,ME/G-1,6.85E-09,0.961,2087,0.752,1588,,1.54,,,"minimum age of intrusion",,,
+2061,1,117,15,apatite,ME/Y-1,6.85E-09,0.501,406,0.398,549,,1.54,,,"minimum age of intrusion",,,
+2062,1,126,15,apatite,ME/Y-2,6.85E-09,0.552,1000,0.413,794,,1.54,,,"age of intrusion",,,
+2063,1,116,14,apatite,ME/Y-3,6.85E-09,0.707,794,0.566,974,,1.54,,,"minimum age of intrusion",,,
+2064,1,172,22,apatite,ME/Y-4,6.85E-09,0.743,882,0.401,474,,1.54,,,"minimum age of intrusion",,,"HOEFS (1967) OBTAINED A 227 +/- 3 M.Y. WHOLE-ROCK RB-SR ISOCHRON AGE FOR THE AGAMENTICUS COMPLEX"
+2065,1,116,14,apatite,ME/Y-6,6.85E-09,0.394,456,0.316,388,,1.54,,,"age of uplift and cooling",,,"HOEFS (1967) OBTAINED A 227 +/- 3 M.Y. WHOLE-ROCK RB-SR ISOCHRON AGE FOR THE AGAMENTICUS COMPLEX"
+2066,1,103,13,apatite,ME/Y-8,6.85E-09,0.541,527,0.499,536,,1.54,,,"minimum age of intrusion",,,
+2067,1,119,15,apatite,ME/N-1,6.85E-09,0.727,558,0.571,579,,1.54,,,"minimum age of intrusion",,,
+2068,1,177,22,apatite,ME/KF-1,6.85E-09,0.475,558,0.249,579,,1.54,,,"minimum age of intrusion",,,
+2069,1,143,18,apatite,ME/KF-2,6.85E-09,0.826,427,0.538,765,,1.54,,,"may denote delayed cooling",,,
+2391,1,8.5,1,apatite,LSH-1,6.85E-09,,,,,,,,,"age of uplift and cooling",,,
+2391,2,24.5,0.6,zircon,LSH-1,6.85E-09,,,,,,,,,"minimum age of intrusion",,,"AVERAGE OF 3 AGE-DETERMINATIONS"
+2391,3,24.1,0.6,sphene,LSH-1,6.85E-09,,,,,,,,,"minimum age of intrusion",,,"AVERAGE OF 6 AGE-DETERMINATIONS"
+2395,1,35.6,3.6,apatite,LSH-2,6.85E-09,,,,,,,,,"age of intrusion",,,
+2395,2,33.7,0.9,zircon,LSH-2,6.85E-09,,,,,,,,,"age of intrusion",,,"AVERAGE OF 3 AGE-DETERMINATIONS"
+2395,3,32.7,0.9,sphene,LSH-2,6.85E-09,,,,,,,,,"age of intrusion",,,"AVERAGE OF 6 AGE-DETERMINATIONS"
+2399,1,41.2,3,apatite,LSH-3,6.85E-09,,,,,,,,,"age of intrusion",,,"AVERAGE OF 8 AGE-DETERMINATIONS"
+2399,2,40.9,2.2,zircon,LSH-3,6.85E-09,,,,,,,,,"age of intrusion",,,"AVERAGE OF 3 AGE-DETERMINATIONS"
+2863,1,29.3,2.8,zircon,WTR-SB2,6.85E-09,4.96,838,10.15,858,,0.98,315,,"age of volcanism","SIX GRAINS",,
+2864,1,32.1,3,zircon,75-SB-8,6.85E-09,2.72,528,4.04,393,,0.78,160,,"age of volcanism","SIX GRAINS",,
+2865,1,32.4,2.6,zircon,75-SB-9C,6.85E-09,4.52,1192,9.36,1235,,1.1,260,,"age of volcanism","SIX GRAINS",,
+2886,1,1760,300,zircon,"FT. D-1",6.85E-09,,,,,,,,,"material inherited from source rock, maximum age for unit","DETRITAL; ROUNDED; OCCUR IN HEAVY-MINERAL LAYERS",,
+2886,2,2060,400,zircon,"FT. D-1",6.85E-09,,,,,,,,,"material inherited from source rock, maximum age for unit","DETRITAL; ROUNDED; OCCUR IN HEAVY-MINERAL LAYERS",,
+2887,1,85,9,apatite,HP-5,6.85E-09,,,,,,,,,"age of uplift and cooling",,,
+2887,2,1375,22,sphene,HP-5,6.85E-09,,,,,,,,,"minimum age of intrusion",,"AVERAGE OF 3 AGES",
+2888,1,73,7,apatite,Z-3,6.85E-09,,,,,,,,,"age of uplift and cooling",,,
+2888,2,1320,75,sphene,Z-3,6.85E-09,,,,,,,,,"minimum age of intrusion",,"AVERAGE OF 4 AGES",
+2889,1,31.9,3.2,apatite,BP-2,6.85E-09,,,,,,,,,,,,"AGE OF KIMBERLITE EMPLACEMENT"
+2890,1,29.7,3,apatite,BP-5,6.85E-09,,,,,,,,,,,"AVERAGE OF 7 AGES","AGE OF KIMBERLITE EMPLACEMENT"
+2890,2,210,22,sphene,BP-5,6.85E-09,,,,,,,,,,,,"PARTIALLY ANNEALED IN DEEP CRUST"
+2890,3,230,25,sphene,BP-5,6.85E-09,,,,,,,,,,,,"PARTIALLY ANNEALED IN DEEP CRUST"
+2890,4,154,11,zircon,BP-5,6.85E-09,,,,,,,,,,,"AVERAGE OF 5 AGES","PARTIALLY ANNEALED IN DEEP CRUST"
+2891,1,33.7,4,apatite,GR-2,6.85E-09,,,,,,,,,,,,"AGE OF KIMBERLITE EMPLACEMENT"
+2891,2,32.2,2.6,zircon,GR-2,6.85E-09,,,,,,,,,,,,"AGE OF KIMBERLITE EMPLACEMENT"
+2892,1,33.7,4,apatite,GR-3,6.85E-09,,,,,,,,,,,,"AGE OF KIMBERLITE EMPLACEMENT"
+2892,2,620,70,sphene,GR-3,6.85E-09,,,,,,,,,,,,"PARTIALLY ANNEALED IN INTERMEDIATE CRUST"
+2893,1,29.7,3,apatite,GR-4,6.85E-09,,,,,,,,,,,,"AGE OF KIMBERLITE EMPLACEMENT"
+2893,2,375,40,sphene,GR-4,6.85E-09,,,,,,,,,,,,"PARTIALLY ANNEALED IN INTERMEDIATE CRUST"
+2893,3,690,80,zircon,GR-4,6.85E-09,,,,,,,,,,,,"PARTIALLY ANNEALED IN INTERMEDIATE CRUST"
+2894,1,30,3,apatite,"MT. R-1",6.85E-09,,,,,,,,,,,,"AGE OF MINETTE EMPLACEMENT"
+2894,2,35.5,3.1,zircon,"MT. R-1",6.85E-09,,,,,,,,,,,,"AGE OF MINETTE EMPLACEMENT"
+2895,1,32.5,3,apatite,"MT. R-3",6.85E-09,,,,,,,,,"age of intrusion",,,
+2896,1,35,4,apatite,MR-2,6.85E-09,,,,,,,,,,,,"NEAR AGE OF KIMBERLITE EMPLACEMENT"
+2897,1,28,3,apatite,68-18,6.85E-09,,,,,,,,,,,,"AGE OF KIMBERLITE EMPLACEMENT"
+2897,2,690,100,sphene,68-18,6.85E-09,,,,,,,,,,,,"PARTIALLY ANNEALED IN CRUST"
+2898,1,30.3,2.7,apatite,68-19,6.85E-09,,,,,,,,,,,,"AGE OF KIMBERLITE EMPLACEMENT"
+2899,1,27,3,apatite,SR-6,6.85E-09,,,,,,,,"Armstrong (1969)","age of intrusion",,,
+2900,1,32,3,apatite,SR-7,6.85E-09,,,,,,,,"Armstrong (1969)",,,"NO ANALYTICAL DATA GIVEN","MAXIMUM AGE OF MINETTE EMPLACEMENT"
+2901,1,5.5,1.1,apatite,HB-1,6.85E-09,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","AGE OF MONCHIQUITE EMPLACEMENT"
+2902,1,2.1,0.2,sphene,HB-2,6.85E-09,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN; AVERAGE OF 3 AGES","MINIMUM AGE OF MONCHIQUITE EMPLACEMENT"
+2945,1,57.9,5.2,zircon,73N1,6.85E-09,8.31,1385,9.2,767,,1.05,260,,"age of intrusion",,,
+2945,2,47.5,5,apatite,73N1,6.85E-09,0.0466,97,0.0994,207,,1.66,1.8,,,,,"FISSION-TRACKS PARTIALLY ANNEALED BY TERTIARY FAULTING"
+2946,1,60.2,4.9,zircon,USGS(D)-73N2,6.85E-09,8.11,1765,8.55,930,,1.04,240,,"age of intrusion",,,
+2946,2,33.6,6,apatite,USGS(D)-73N2,6.85E-09,0.0235,49,0.0706,147,,1.65,1.3,,"age of uplift and cooling",,,
+2947,1,56.4,5,zircon,73N3,6.85E-09,6.7,1396,7.47,778,,1.03,210,,"age of intrusion",,,
+2947,2,58,5,apatite,73N3,6.85E-09,0.0653,136,0.114,,,1.65,2,,"age of intrusion",,,
+2948,1,54,5.8,zircon,73N4,6.85E-09,5.74,1436,6.55,819,,1.01,190,,"age of intrusion",,,
+2948,2,58,9,apatite,73N4,6.85E-09,0.0355,74,0.061,127,,1.64,1.1,,"age of intrusion",,,
+2949,1,53.6,5.2,zircon,73N5,6.85E-09,5.73,1193,6.53,680,,1,190,,"age of intrusion",,,"PROBABLY SAME DIKE DATED BY BOLE (1971, M.S. THESIS, OHIO STATE UNIV.)--K-AR HORNBLENDE AGE = 54.6+/-1.1 M.Y."
+2949,2,56,6,apatite,73N5,6.85E-09,0.0557,116,0.0994,207,,1.64,1.8,,"age of intrusion",,,
+2950,1,57.2,6,zircon,5-43(DF-826),6.85E-09,6.8,1071,7.04,554,,0.97,220,,"age of intrusion",,,
+2951,1,58.7,5.8,zircon,5-44(DF-828),6.85E-09,6.99,1229,7.01,617,,0.965,220,,"age of intrusion",,,
+2952,1,33.3,6.7,zircon,5-39A(DF-829),6.85E-09,15.6,217,27.5,191,,0.96,870,,"age of intrusion",,,
+2953,1,36,4,apatite,73N6,6.85E-09,0.162,337,0.445,927,,1.63,8.1,,"maximum age of intrusion",,,"AGE OF BRECCIA PIPE EMPLACEMENT"
+2954,1,12.7,1.8,zircon,75T1,6.85E-09,,234,,1260,0.19,1.091,,,"age of volcanism",,,
+2955,1,10.8,1.6,zircon,72027,6.85E-09,,207,,1356,0.153,1.15,,,"age of volcanism",,,
+2956,1,5.2,1,zircon,75C2,6.85E-09,,144,,944,0.153,0.558,,,"age of volcanism",,,
+2957,1,5.6,0.9,zircon,75C1,6.85E-09,,182,,1114,0.16,0.558,,,"age of volcanism",,,
+2958,1,2.9,0.5,zircon,72P2,6.85E-09,,144,,1680,0.086,0.558,,,"age of volcanism",,,
+2959,1,2.7,0.4,zircon,73A2,6.85E-09,,131,,2782,0.047,0.927,,,"age of volcanism",,,
+3282,1,37.7,3.9,zircon,11,6.85E-09,1.03,293,2.28,250,,1.36,,,"age of volcanism",,,
+3282,2,34.5,2.8,zircon,11,6.85E-09,4.34,385,10.48,466,,1.36,,,"age of volcanism",,,
+3282,3,35.1,3.3,zircon,11,6.85E-09,3.64,272,8.64,343,,1.36,,,"age of volcanism",,,
+3282,4,30.8,3.3,zircon,11,6.85E-09,3.03,170,8.7,244,,1.44,,,"age of volcanism",,,
+3282,5,32.4,3.7,zircon,11,6.85E-09,3.91,146,10.64,199,,1.44,,,"age of volcanism",,,
+3283,1,23.8,2.4,zircon,3,6.85E-09,5.72,203,19.2,308,,1.3,,,"age of volcanism",,,"AVERAGE OF 10 ZIRCON AND SPHENE FISSION-TRACK AGES IS 24.0 M.Y. FOR THE BATES MOUNTAIN TUFF."
+3283,2,25.7,2.3,zircon,3,6.85E-09,6.78,280,21,434,,1.3,,,"age of volcanism",,,
+3283,3,24.1,2.2,zircon,3,6.85E-09,6.71,277,22.2,458,,1.3,,,"age of volcanism",,,
+3283,4,25.8,2.4,zircon,3,6.85E-09,6.11,252,20.2,416,,1.36,,,"age of volcanism",,,
+3283,5,25.7,2.4,zircon,3,6.85E-09,6.28,230,20.4,422,,1.36,,,"age of volcanism",,,
+3284,1,23.4,2.2,zircon,3,6.85E-09,6.4,220,22.8,391,,1.36,,,"age of volcanism",,,"AVERAGE OF 10 ZIRCON AND SPHENE FISSION-TRACK AGES IS 24.0 M.Y. FOR THE BATES MOUNTAIN TUFF."
+3284,2,23.3,2.3,zircon,3,6.85E-09,6.2,256,22.2,459,,1.36,,,"age of volcanism",,,
+3284,3,21.1,2.3,sphene,3,6.85E-09,1.02,143,3.86,334,,1.3,,,"age of volcanism",,,
+3284,4,26.4,2.7,sphene,3,6.85E-09,1.55,195,4.68,284,,1.3,,,"age of volcanism",,,
+3284,5,21.9,1.9,sphene,3,6.85E-09,1.25,303,4.54,552,,1.3,,,"age of volcanism",,,
+3285,1,23.8,2.4,zircon,5,6.85E-09,2.7,139,9.04,317,,1.3,,,"age of volcanism",,,"AVERAGE OF 4 ZIRCON AGES IS 23.9 M.Y.; AVERAGE OF 6 ZIRCON FISSION-TRACK AGES IS 24.4 M.Y. FOR THE FISH CREEK MOUNTAINS TUFF."
+3285,2,27,2.4,zircon,5,6.85E-09,2.38,280,7.04,428,,1.3,,,"age of volcanism",,,
+3285,3,23.3,2,zircon,5,6.85E-09,4.52,317,15.44,340,,1.3,,,"age of volcanism",,,
+3285,4,21.5,2.4,zircon,5,6.85E-09,4.28,177,15.9,328,,1.3,,,"age of volcanism",,,
+3286,1,24.6,2.4,zircon,4,6.85E-09,6.86,283,22.2,458,,1.3,,,"age of volcanism",,,"AVERAGE OF 2 ZIRCON AGES IS 25.5 M.Y.; AVERAGE OF 6 ZIRCON FISSION-TRACK AGES IS 24.4 M.Y."
+3286,2,26.5,2.6,zircon,4,6.85E-09,5.89,243,17.8,367,,1.3,,,"age of volcanism",,,
+3287,1,29.2,2.7,zircon,9,6.85E-09,8.2,338,22.4,462,,1.3,,,"age of volcanism",,,"AVERAGE OF 3 ZIRCON AGES IS 31.8 M.Y."
+3287,2,30.4,3.5,zircon,9,6.85E-09,10.3,189,27,247,,1.3,,,"age of volcanism",,,
+3287,3,35.4,4.3,zircon,9,6.85E-09,9.07,187,20.4,210,,1.3,,,"age of volcanism",,,
+3288,1,33.2,4.9,zircon,8,6.85E-09,2.62,102,6.3,119,,1.3,,,"age of volcanism",,,"AVERAGE OF 5 ZIRCON AGES IS 30.6 M.Y."
+3288,2,30.7,3.1,zircon,8,6.85E-09,5.39,222,14.02,289,,1.3,,,"age of volcanism",,,
+3288,3,31.2,4.1,zircon,8,6.85E-09,2.79,133,7.12,163,,1.3,,,"age of volcanism",,,
+3288,4,25.2,3.3,zircon,8,6.85E-09,2.36,111,7.45,175,,1.3,,,"age of volcanism",,,
+3288,5,32.8,3.3,zircon,8,6.85E-09,3.25,223,7.9,272,,1.3,,,"age of volcanism",,,
+3289,1,22.4,8,apatite,2,6.85E-09,0.103,13,0.386,36,,1.37,,,"age of volcanism",,,"AVERAGES OF 7 APATITE AGES IS 33.0 M.Y.; AVERAGE OF 20 ZIRCON AND APATITE FISSION-TRACK AGES IS 34.9 M.Y. FOR THE CAETANO TUFF."
+3289,2,30.6,7,apatite,2,6.85E-09,0.413,29,1.034,87,,1.37,,,"age of volcanism",,,
+3289,3,35.8,20,apatite,2,6.85E-09,0.075,6,0.176,13,,1.37,,,"age of volcanism",,,
+3289,4,41.3,12,apatite,2,6.85E-09,0.122,25,0.248,47,,1.37,,,"age of volcanism",,,
+3289,5,25.9,9,apatite,2,6.85E-09,0.053,13,0.162,34,,1.37,,,"age of volcanism",,,
+3290,1,34.3,6.5,apatite,2,6.85E-09,0.332,62,0.614,131,,1.37,,,"age of volcanism",,,"AVERAGE OF 7 APATITE AGES IS 33.0 M.Y.; AVERAGE OF 20 ZIRCON AND APATITE FISSION-TRACK AGES IS 34.9 M.Y. FOR THE CAETANO TUFF."
+3290,2,40.9,6.1,apatite,2,6.85E-09,0.263,97,0.54,199,,1.37,,,"age of volcanism",,,
+3291,1,27.4,3,zircon,10,6.85E-09,2.95,211,9.98,233,,1.51,,,"age of volcanism",,,"AVERAGE OF 4 ZIRCON AGES IS 35.5 M.Y.; AVERAGE OF 20 ZIRCON AND APATITE FISSION-TRACK AGES IS 34.9 M.Y. FOR THE CAETANO TUFF."
+3291,2,34.6,4,zircon,10,6.85E-09,2.95,138,7.1,166,,1.36,,,"age of volcanism",,,
+3291,3,40.3,4,zircon,10,6.85E-09,1.97,259,4.08,267,,1.36,,,"age of volcanism",,,
+3291,4,39.7,4.8,zircon,10,6.85E-09,2.95,138,6.2,145,,1.36,,,"age of volcanism",,,
+3292,1,34.9,3.8,zircon,12,6.85E-09,2.87,201,6.86,257,,1.36,,,"age of volcanism",,,"AVERAGE OF 4 ZIRCON AGES IS 38.4 M.Y.; AVERAGE OF 20 ZIRCON AND APATITE FISSION-TRACK AGES IS 34.9 M.Y. FOR THE CAETANO TUFF."
+3292,2,43.9,5.1,zircon,12,6.85E-09,3.39,269,6.82,191,,1.44,,,"age of volcanism",,,
+3292,3,38,4.4,zircon,12,6.85E-09,3.96,185,9.2,215,,1.44,,,"age of volcanism",,,
+3292,4,36.7,1.44,zircon,12,6.85E-09,4.49,105,10.8,101,,,,,"age of volcanism",,,
+3396,1,134,14,apatite,W-305,6.85E-09,0.364,765,0.242,508,,,,,"minimum age of intrusion",,,
+3490,1,24.6,1.3,zircon,3,6.83E-09,,,,,,,,,"age of volcanism",,,"NO ANALYTICAL DATA GIVEN"
+3606,1,29.9,1,zircon,"(NOT GIVEN)",6.85E-09,7.2,,18.6,,,1.28,,,"age of volcanism","5 GRAINS COUNTED",,
+3611,1,272,53,zircon,"(NOT GIVEN)",6.85E-09,,93,,40,3.53,1.28,,,,,,"AVERAGE OF 4 FISSION-TRACK AGES IS 225+/-30 M.Y. WHICH IS TAKEN AS THE AGE OF THIS TUFF"
+3611,2,231,35,zircon,"(NOT GIVEN)",6.85E-09,,182,,63,2.93,1.28,,,,,,
+3611,3,209,40,zircon,"(NOT GIVEN)",6.85E-09,,179,,34,2.69,1.28,,,,,,
+3611,4,190,43,zircon,"(NOT GIVEN)",6.85E-09,,120,,24,2.42,1.28,,,,,,
+3775,1,23,2,glass,26,"not given",,,,,,,,,"minimum age of volcanism",,,
+3788,1,34.1,,,"(NOT GIVEN)","not given",,,,,,,,,"age of volcanism",,,
+3789,1,33,,,"(NOT GIVEN)","not given",,,,,,,,,"age of volcanism",,,
+3818,1,9.5,1.9,zircon,"(NOT GIVEN)",6.85E-09,,,,,,,,,"age of volcanism",,,
+3836,1,93,6,apatite,"(NOT GIVEN)",6.85E-09,0.53,,0.44,,,1.28,,,"age of intrusion",,,
+3887,1,40,4,sphene,2A,6.85E-09,,,,,,,,,"age of intrusion",,,"NO ANALYTICAL DATA GIVEN"
+3887,2,40,10,epidote,2A,6.85E-09,,,,,,,,,"age of intrusion",,,"NO ANALYTICAL DATA GIVEN"
+3889,1,36,4,zircon,4,6.85E-09,,,,,,,,,"age of intrusion",,,"NO ANALYTICAL DATA GIVEN"
+3889,2,45,4,sphene,4,6.85E-09,,,,,,,,,"age of intrusion",,,"NO ANALYTICAL DATA GIVEN"
+3889,3,40,4,sphene,4,6.85E-09,,,,,,,,,"age of intrusion",,,"NO ANALYTICAL DATA GIVEN"
+3890,1,116,4,sphene,8,6.85E-09,,,,,,,,,"age of intrusion",,,"NO ANALYTICAL DATA GIVEN"
+3890,2,116,12,apatite,8,6.85E-09,,,,,,,,,"age of intrusion",,,"NO ANALYTICAL DATA GIVEN"
+3890,3,107,18,zircon,8,6.85E-09,,,,,,,,,"age of intrusion",,,"NO ANALYTICAL DATA GIVEN"
+3896,1,33.6,2.4,zircon,185-115,6.85E-09,2.4,610,4.89,753,,1.12,,,"age of volcanism","7 GRAINS",,"FISSION-TRACK AGE OF 33.5 +/- 4.5 ON APATITE REPORTED FOR THIS SAMPLE BY ASHLEY (1973)"
+3897,1,33.2,2.6,zircon,197-51-2,6.85E-09,1.01,462,2.08,537,,1.12,,,"age of volcanism","8 GRAINS",,"FISSION-TRACK AGE OF 31.1 +/- 3.5 ON APATITE REPORTED FOR THIS SAMPLE BY ASHLEY (1973)"
+3898,1,28.6,3.2,zircon,199-13,6.85E-09,2.05,163,4.77,200,,1.09,,,"age of volcanism","4 GRAINS",,
+3899,1,23.2,1.6,zircon,203-11,6.85E-09,1.91,451,5.5,994,,1.09,,,"age of volcanism","7 GRAINS",,"FISSION-TRACK AGES ON SPHENE AND APATITE OF 19.8 +/- 1.4 AND 20.1 +/- 2.0 ARE REPORTED FOR THIS SAMPLE BY ASHLEY, 1973; K-AR AGE OF 21.4 +/- 0.4 FOR THIS SAMPLE BY SILBERMAN AND ASHLEY, 1970"
+3900,1,22.2,1.4,zircon,187-81,6.85E-09,2.1,725,6.49,1213,,1.12,,,"age of volcanism","6 GRAINS",,
+3969,1,33.5,14.8,biotite,"1/70 (B)","not given",,,,,,,,,"age meaning uncertain (analysis questionable), initial age disturbed by later metamorphism",HYDROBIOTITE,,
+3970,1,8.1,2.7,biotite,209/63,"not given",,,,,,,,,"age meaning uncertain (analysis questionable), initial age disturbed by later metamorphism",,,
+3973,1,70,15.6,biotite,115/62,"not given",,,,,,,,,"minimum age of metamorphic crystallization, age meaning uncertain (analysis questionable), initial age disturbed by later metamorphism",,,
+3974,1,13.7,2.3,biotite,"1/70 C","not given",,,,,,,,,"age meaning uncertain (analysis questionable), initial age disturbed by later metamorphism",,,
+3975,1,12.8,3.9,biotite,"1/70 D","not given",,,,,,,,,"age meaning uncertain (analysis questionable), initial age disturbed by later metamorphism",,,
+3976,1,0.28,0.18,muscovite,"25/63 (5/70A)","not given",,,,,,,,,"age meaning uncertain (analysis questionable), initial age disturbed by later metamorphism","PSEUDOMORPH AFTER SILLIMANITE",,
+3977,1,0.23,0.12,muscovite,"25/63 (5/70B)","not given",,,,,,,,,"age meaning uncertain (analysis questionable), initial age disturbed by later metamorphism",,,
+3978,1,84.7,12.2,biotite,"(NOT GIVEN)","not given",,,,,,,,,"age meaning uncertain (analysis questionable), initial age disturbed by later metamorphism","FRESH BIOTITE",,"PRECAMBRIAN AGES OBTAINED BY RB-SR METHOD ON SAME BIOTITE AND COEXISTING K-FELDSPAR (VOLBORTH, 1962, P. 828)"
+3979,1,18.1,7.2,biotite,149/63,"not given",,,,,,,,,"age meaning uncertain (analysis questionable), initial age disturbed by later metamorphism",,,
+3979,2,16.2,6.4,biotite,149/63,"not given",,,,,,,,,"age meaning uncertain (analysis questionable), initial age disturbed by later metamorphism",,,
+3980,1,30.7,12.1,biotite,55/63,"not given",,,,,,,,,"age meaning uncertain (analysis questionable), initial age disturbed by later metamorphism",,,
+3981,1,0.48,,muscovite,"(NOT GIVEN)","not given",,,,,,,,,"age not evaluated",,,
+3981,2,0.99,,muscovite,"(NOT GIVEN)","not given",,,,,,,,,"age not evaluated",,,
+3982,1,11.4,5.5,muscovite,"93/61 (4/70)","not given",,,,,,,,,"age meaning uncertain (analysis questionable), initial age disturbed by later metamorphism","FRESH MUSCOVITE BOOKS",,
+3983,1,24.8,4.3,biotite,"6/70 (B)","not given",,,,,,,,,"age meaning uncertain (analysis questionable), initial age disturbed by later metamorphism",,,
+3984,1,8.1,1.4,biotite,"6/70 (A)","not given",,,,,,,,,"age meaning uncertain (analysis questionable), initial age disturbed by later metamorphism",,,
+4086,1,78.6,6.7,apatite,1(DF-1637),7.03E-09,0.287,1195,0.243,1013,,1.12,6.3,,,,,"COOLING AGE FOR APATITE"
+4086,2,104,11,sphene,1(DF-1638),7.03E-09,19.79,733,43.84,812,,3.87,330,,"age of intrusion",,,
+4086,3,101,6.4,zircon,1(DF-1639),7.03E-09,10.99,1628,7.21,534,,1.12,190,,"age of intrusion",,,
+4087,1,93.3,6.8,apatite,2(DF-1640),7.03E-09,0.431,1794,0.307,1280,,1.12,7.9,,"minimum age of intrusion",,,
+4088,1,106,9,apatite,3(DF-1641),7.03E-09,0.327,1362,0.203,845,,1.11,5.3,,"age of intrusion",,,
+4089,1,98.3,7.9,apatite,4(DF-1642),7.03E-09,0.372,1552,0.248,1032,,1.1,6.5,,"age of intrusion",,,
+4090,1,107,9,apatite,5(DF-1645),7.03E-09,0.349,1454,0.212,885,,1.1,5.6,,"age of intrusion",,,
+4090,2,100,6.4,zircon,5(DF-1644),7.03E-09,17.36,1366,11.44,450,,1.11,300,,"age of intrusion",,,
+4091,1,55.6,5.6,apatite,6(DF-1646),7.03E-09,0.163,681,0.193,803,,1.1,5,,,,,"COOLING AGE FOR APATITE"
+4091,2,93.6,8.5,zircon,6(DF-1647),7.03E-09,13.71,1904,9.58,665,,1.1,250,,"age of intrusion",,,
+4187,1,59.3,7.4,sphene,"1 (SAGD-1)",6.85E-09,4.565,,5.59,,,1.19,,,"minimum age of intrusion","8 GRAINS COUNTED",,
+4187,2,67.9,8.4,zircon,"1 (SAGD-1)",6.85E-09,17.86,,19.096,,,1.19,,,"minimum age of intrusion","6 GRAINS COUNTED",,
+4189,1,34.8,4.2,zircon,"3 (TF-2)",6.85E-09,2.42,,5.054,,,1.19,,,"age of volcanism","7 GRAINS COUNTED",,
+4190,1,31.4,3.8,zircon,"4 (OWT-1)",6.85E-09,13.42,,31.1,,,1.19,,,"minimum age of volcanism","6 GRAINS COUNTED",,
+4193,1,24.3,2.8,zircon,"7 (TF-1)",6.85E-09,10.02,,28.74,,,1.14,,,"age of volcanism",,,
+4224,1,22.1,3.2,zircon,"50 (GRP-1)",6.85E-09,2.182,,7.198,,,1.19,,,"age of intrusion",,,
+4253,1,12.4,1.4,zircon,USGS(D)-UE6E-1344.5(B),7.03E-09,1.63,,10.5,1240,,1.33,253,,"maximum age of volcanism","SIX GRAINS",,
+4253,2,1700,1000,zircon,USGS(D)-UE6E-1344.5(B),7.03E-09,16.5,253,0.65,3,,1.33,16,,"sample contains inherited material, age is too old","ONE GRAIN, DETRITAL",,"A DETRITAL ZIRCON IN A TERTIARY TUFF"
+4272,1,68,,zircon,"NOT GIVEN","not given",,,,,,,,,"age of intrusion",,,"UNPUBLISHED DATA PRODUCED BY R.P. ASHLEY, USGS, IN 1975"
+4272,2,59,,sphene,"NOT GIVEN","not given",,,,,,,,,"age of intrusion",,,"UNPUBLISHED DATA PRODUCED BY R.P. ASHLEY, USGS, IN 1975"
+4369,1,87,10,zircon,IP-99,6.85E-09,5.52,971,4.63,407,,1.2,120,,"may denote delayed cooling","4 GRAINS COUNTED","THE ANALYTICAL DATA WAS RELEASED BY C.W. NAESER, USGS, DENVER, COLORADO. (THE CALCULATED AGE COULD READ 87.2 +/-10.3 M.Y. - COMPILER).","AGE MAY PERTAIN TO TIME OF EMPLACEMENT OR TIME OF ALTERATION."
+4467,1,24.6,4,zircon,"19 USGS(D)-71017",7.03E-09,7.59,246,23.1,375,,1.26,590,,"age of later metamorphism",,,"THE FISSION-TRACK AGE AGREES WITH K-AR MICA AGES (SAMPLE 80, P. 20, MARVIN AND OTHERS, 1973) INDICATING A STRONG THERMAL EVENT DURING LATE OLIGOCENE-EARLY MIOCENE TIME ALTHOUGH THE ROCK ACTUALLY WAS EMPLACED 1400-1500 M.Y. AGO"
+4467,2,23.3,5.8,apatite,"19 USGS(D)-71017",7.03E-09,0.0403,84,0.13,271,,1.23,3.4,,"age of later metamorphism",,,"SEE COMMENT FOR ZIRCON AGE"
+4468,1,25.3,2.9,apatite,"20 USGS(D)-73D52",7.03E-09,0.0159,398,0.0459,1147,,1.22,12.1,,"age of uplift and cooling",,,"THIS AGE INDICATES A THERMAL EVENT THAT ANNEALED FISSION-TRACKS DURING LATE OLIGOCENE-EARLY MIOCENE TIME (SEE COMMENT FOR BIOTITE AGE FOR THIS SAMPLE). DREWES (1977) PUBLISHED AN AGE OF 24.4 M.Y. FOR THIS SAMPLE AND A WHOLE-ROCK RB-SR AGE OF 295 M.Y."
+4468,2,,,zircon,"20 USGS(D)-73D52",7.03E-09,,,,,,1.25,"1,500.00",,,,,"URANIUM CONTENT IS TOO HIGH TO PERMIT AN ACCURATE AGE DETERMINATION."
+4469,1,26.1,3.5,apatite,"21 USGS(D)-74D62",7.03E-09,0.15,313,0.414,862,,1.2,11,,"age of later metamorphism",,,"AGE IS SIMILAR TO PUBLISHED AGES (MARVIN AND OTHERS, 1973, P. 20) FOR OTHER ROCKS IN THE RINCON MOUNTAINS SUGGESTING A STRONG THERMAL EVENT DURING TERTIARY TIME. FISSION-TRACK AGE FOR ZIRCON CONCENTRATE WAS NOT DETERMINED BECAUSE THE URANIUM CONTENT WAS T"
+4470,1,800,,zircon,"22 USGS(D)-74D57",7.03E-09,40,,3.09,,,1.24,80,,"initial age disturbed by later metamorphism",,,"ROCK IS A MINIMUM OF 1400 M.Y. OLD."
+4470,2,55,4.2,apatite,"22 USGS(D)-74D57",7.03E-09,0.565,1177,0.745,1552,,1.15,20,,"age of uplift and cooling",,,
+4526,1,84,3,apatite,1,8.46E-09,4.01,,3.04,,1.32,1.28,,,"age of uplift and cooling",,,
+4527,1,96,4,apatite,2,8.46E-09,0.942,,0.624,,1.51,1.28,,,"age of uplift and cooling",,,
+4528,1,83,4,apatite,3,8.46E-09,0.512,,0.091,,5.63,0.296,,,"age of uplift and cooling",,,"FOLAND AND OTHERS (1971) OBTAINED A K-AR AGE OF 99 M.Y. FOR THIS SYENITE"
+4529,1,82,4,apatite,4,8.46E-09,0.76,,0.136,,5.59,0.296,,,"age of uplift and cooling",,,"ZARTMAN AND OTHERS (1970) PUBLISHED A K-AR AGE OF 113 M.Y. FOR THIS GRANITE"
+4530,1,79,3,apatite,5,8.46E-09,0.948,,0.548,,1.73,0.914,,,"age of uplift and cooling",,,"FAUL AND OTHERS (1963) PUBLISHED A K-AR AGE OF 405 M.Y. AND A RB-SR AGE OF 740 M.Y. FOR THIS GNEISS"
+4530,2,77,3,apatite,5,8.46E-09,2.52,,0.482,,5.23,0.296,,,"age of uplift and cooling",,,
+4531,1,80,5,apatite,6,8.46E-09,0.199,,0.114,,1.75,0.914,,,"age of uplift and cooling",,,"FAUL AND OTHERS (1963) PUBLISHED A K-AR AGE OF 324 M.Y. FOR THIS GNEISS"
+4532,1,81,3,apatite,7,8.46E-09,0.901,,0.704,,1.28,1.28,,,"age of uplift and cooling",,,"K-AR AGES INDICATE AN AGE OF OVER 250 M.Y. (KRUEGER AND REESMAN, 1971)"
+4533,1,76,3,apatite,8,8.46E-09,0.634,,0.528,,1.2,1.28,,,"age of uplift and cooling",,,"K-AR AGES INDICATE AN AGE OF OVER 250 M.Y. (KREUGER AND REESMAN, 1971)"
+4534,1,69,3,apatite,9,8.46E-09,1.02,,0.944,,1.08,1.28,,,"age of uplift and cooling",,,
+4534,2,77,3,apatite,9,8.46E-09,1.207,,0.714,,1.69,0.914,,,"age of uplift and cooling",,,
+4535,1,97,5,apatite,10,8.46E-09,0.759,,0.115,,6.6,0.296,,,"age of uplift and cooling",,,
+4536,1,82,3,apatite,11,8.46E-09,0.73,,0.131,,5.57,0.296,,,"age of uplift and cooling",,,"ARMSTRONG AND STUMP (1971) PUBLISHED A K-AR AGE OF 262 M.Y. FOR THIS GNEISS"
+4537,1,94,5,apatite,12,8.46E-09,0.628,,0.098,,6.41,0.296,,,"age of uplift and cooling",,,
+4538,1,68,4,apatite,13,8.46E-09,0.164,,0.155,,1.06,1.28,,,"age of uplift and cooling",,,"ZARTMAN AND MARVIN (1971) OBTAINED EARLY PALEOZOIC AGES FOR THIS GRANITE"
+4539,1,91,3,apatite,HA1,8.46E-09,1.232,,0.616,,2,0.914,,,"age of uplift and cooling",,,"FAIRBAIRN AND OTHERS (1960) PUBLISHED RB-SR MICA AGES OF 304 AND 318 M.Y. FOR THIS GRANITE"
+4540,1,72,3,apatite,15,8.46E-09,0.515,,0.328,,1.57,0.914,,,"age of uplift and cooling",,,"THERE IS AN UNPUBLISHED K-AR MICA AGE OF 158 M.Y. FOR THIS SYENITE"
+4541,1,89,5,apatite,16,8.46E-09,0.395,,0.282,,1.4,1.28,,,"age of uplift and cooling",,,"ZARTMAN AND OTHERS (1970) PUBLISHED A K-AR AGE OF 110 M.Y. FOR THIS GRANITE"
+4542,1,64,3,apatite,17,8.46E-09,1.178,,0.274,,4.3,0.296,,,"age of uplift and cooling",,,
+4543,1,70,3,apatite,18,8.46E-09,2.188,,1479,,1.48,0.954,,,"age of uplift and cooling",,,
+4544,1,84,5,apatite,19,8.46E-09,0.259,,0.147,,1.76,0.954,,,"age of uplift and cooling",,,"HOEFS (1967) PUBLISHED A RB-SR WHOLE-ROCK AGE OF 227 M.Y. AND ZARTMAN AND OTHERS (1970) PUBLISHED A K-AR MICA AGE OF 216 M.Y. FOR THIS GRANITE"
+4545,1,100,4,apatite,20,8.46E-09,0.276,,0.125,,2.21,0.914,,,"age of uplift and cooling",,,"THERE IS AN UNPUBLISHED K-AR MICA AGE OF 116 M.Y. FOR THIS GABBRO"
+4546,1,96,4,apatite,21,8.46E-09,0.499,,0.247,,2.02,0.954,,,"age of uplift and cooling",,,"THERE IS AN UNPUBLISHED K-AR MICA AGE OF 120 M.Y. FOR THIS GABBRO"
+4547,1,89,4,apatite,22,8.46E-09,0.44,,0.314,,1.4,1.28,,,"age of uplift and cooling",,,
+4548,1,68,3,apatite,23,8.46E-09,0.84,,0.587,,1.43,0.954,,,"age of uplift and cooling",,,
+4549,1,94,3,apatite,24,8.46E-09,1.45,,0.732,,1.98,0.954,,,"age of uplift and cooling",,,
+4550,1,123,5,apatite,25,8.46E-09,0.458,,0.236,,1.94,1.28,,,"age of uplift and cooling",,,"THERE IS AN UNPUBLISHED K-AR MICA AGE OF 407 M.Y. FOR THIS PLUTON"
+4576,1,36,2,sphene,"(NOT GIVEN)","not given",,,,,,,,,"age not evaluated",,"NO ANALYTICAL DATA GIVEN",
+5008,1,6.9,1.3,zircon,M153,6.85E-09,0.972,144,10.45,774,,1.21,260,,,,,"AGE OF VOLCANISM"
+5009,1,13.8,1.7,zircon,M152,6.85E-09,2.57,369,13.89,999,,1.22,350,,,,,"AGE OF VOLCANISM"
+5010,1,17.4,1.6,zircon,M87,6.85E-09,4.29,755,15.22,1338,,1.01,460,,,,,"AGE OF VOLCANISM"
+5011,1,14.8,1.6,zircon,M75,6.85E-09,4.44,534,14.51,873,,0.79,560,,,,,"MINIMUM AGE OF VOLCANISM"
+5012,1,15.6,1.3,zircon,M74,6.85E-09,4.72,918,14.8,1439,,0.8,560,,,,,"MINIMUM AGE OF VOLCANISM"
+5012,2,16.5,1.6,zircon,M74,6.85E-09,3.9,632,16.91,1370,,1.17,440,,,,,"AGE OF VOLCANISM"
+5013,1,19,1.5,zircon,M92,6.85E-09,4.09,927,18.2,2064,,1.38,400,,,,,"AGE OF VOLCANISM."
+5013,2,18.2,1.7,apatite,M92,6.85E-09,0.129,537,5.93,2469,,1.37,13,,,,,"AGE OF VOLCANISM"
+5014,1,18.9,1.4,zircon,M28,6.85E-09,8.19,1137,26.84,1864,,1.01,810,,"age of intrusion",,,
+5014,2,20.6,1.8,zircon,M28,6.85E-09,8.22,1484,9.65,871,,0.395,740,,"age of intrusion",,,
+5015,1,19.7,1.7,zircon,M29B,6.85E-09,6.44,865,20.38,1368,,1.02,610,,,,,"THIS IS APPARENTLY A RESET AGE"
+5016,1,19.6,1.7,zircon,M50,6.85E-09,5.17,957,13,1204,,0.805,490,,"age of intrusion","FRESHEST SAMPLE OBTAINABLE",,
+5017,1,20.2,2.1,zircon,M49B,6.85E-09,3.54,607,11.05,946,,1.03,330,,"age of intrusion",,,
+5017,2,27,3.9,apatite,M49B,6.85E-09,0.136,283,0.271,565,,0.88,9.4,,"maximum age of intrusion",,,
+5018,1,21.2,1.9,zircon,M83,6.85E-09,4.03,840,12.72,1325,,1.09,350,,,,,"AGE OF VOLCANISM"
+5018,2,23,3.6,apatite,M83,6.85E-09,0.114,237,0.259,540,,0.855,9.2,,,,,"AGE OF VOLCANISM"
+5019,1,22.6,2.6,apatite,M27A,6.85E-09,0.206,429,0.468,976,,0.84,17,,"age of intrusion",,,
+5019,2,18.5,1.5,zircon,M27A,6.85E-09,8.32,1464,10.95,963,,0.395,840,,"age not evaluated",,,
+5020,1,23.3,2.3,zircon,M98,6.85E-09,5.34,668,17.12,1070,,1.22,430,,"age of intrusion",,,
+5021,1,26.2,2.3,zircon,75-S-20,6.85E-09,5.74,903,14.47,1139,,1.08,410,,,,,"MINIMUM AGE OF VOLCANISM"
+5022,1,26.5,2.6,zircon,M90,6.85E-09,4.11,762,9.49,879,,1,290,,,,,"MINIMUM AGE OF VOLCANISM"
+5051,1,52.4,2.4,sphene,USGS(D)MY-508,7.03E-09,9.92,1700,11.75,1006,0.844,1.04,325,,,,,"AGE MAY RESULT FROM HEATING BY EOCENE RHYOLITE"
+5051,2,40.2,1.8,zircon,USGS(D)MY-508,7.03E-09,6.35,1264,9.89,984,0.642,1.05,270,,,,,"AGE MAY RESULT FROM HEATING BY EOCENE RHYOLITE"
+5051,3,38.8,3.2,apatite,USGS(D)MY-508,7.03E-09,0.427,889,0.84,1749,0.508,1.28,19,,,,,"AGE MAY RESULT FROM HEATING BY EOCENE RHYOLITE"
+5070,1,12.7,1.8,zircon,75T1,7.03E-09,,234,,1260,0.19,1.09,,,"age of volcanism",,,
+5071,1,10.8,1.6,zircon,72027,7.03E-09,,207,,1356,0.153,1.15,,,"age of volcanism",,,
+5072,1,5.2,1,zircon,75C2,7.03E-09,,144,,944,0.153,0.558,,,"age of volcanism",,,
+5073,1,5.6,0.9,zircon,75C1,7.03E-09,,182,,1114,0.16,0.558,,,"age of volcanism",,,
+5074,1,2.9,0.5,zircon,72P2,7.03E-09,,144,,1680,0.086,0.558,,,"age of volcanism",,,
+5075,1,2.7,0.4,zircon,73A2,7.03E-09,,131,,2782,0.047,0.927,,,"age of volcanism",,,
+5105,1,1.39,0.11,zircon,77G55,7.03E-09,0.423,45,19.14,1019,,1.05,520,,"minimum age of volcanism",,,
+5105,2,1.46,0.12,zircon,77G55,7.03E-09,0.374,71,7.55,717,,0.493,440,,"age of volcanism",,,
+5126,1,65.3,5.5,sphene,"E. LAKE CK.-1 (DF-848)",7.03E-09,10.3,2564,5.5,687,,0.587,300,,"age of intrusion",,,
+5126,2,59.5,7.5,zircon,"E. LAKE CK.-1 (DF-849)",7.03E-09,9.87,777,8.77,345,,0.887,320,,"minimum age of intrusion",,,
+5127,1,59.3,6.2,zircon,"WEST CROSS CREEK-1 (DF-850)",7.03E-09,4.36,1130,3.89,504,,0.887,140,,"age of intrusion",,,
+5128,1,46.4,9.8,apatite,"WEST TENN.-1 (DF-1164)",7.03E-09,0.069,143,0.1,209,,1.14,2.8,,"age of uplift and cooling",,,
+5129,1,65.3,6,zircon,FULFORD-1,7.03E-09,6.21,1329,6.08,675,,1.07,180,,"maximum age of intrusion",,,
+5131,1,64.2,4.8,zircon,UTE-1,7.03E-09,10.3,2377,8.26,956,,0.867,300,,"age of intrusion",,,
+5132,1,70.7,7.5,zircon,"UTE-2 (DF-1076)",7.03E-09,6.18,1258,4.49,456,,0.862,170,,"age of intrusion",,,
+5132,2,66.9,7.5,apatite,"UTE-2 (DF-1075)",7.03E-09,1.96,490,7.19,899,,4.12,50,,"age of intrusion",,,
+5133,1,72.1,7.9,zircon,"UTE-3 (DF-1077)",7.03E-09,7.6,1232,5.34,433,,0.852,200,,"age of intrusion",,,
+5134,1,68.7,4.7,zircon,"LA PLATA-2",7.03E-09,12.9,2508,12.2,1188,,1.09,360,,"age of intrusion",,,
+5135,1,66.9,5.2,zircon,"LA PLATA-3(DF-994)",7.03E-09,8.81,1916,8.57,,,1.09,250,,"age of intrusion",,,
+5135,2,72.8,5.5,apatite,"LA PLATA-3(DF-995)",7.03E-09,1.58,1466,1.36,1240,,1.05,41,,"maximum age of intrusion",,,
+5136,1,60,5.6,zircon,"LA PLATA-4(DF-996)",7.03E-09,6.52,1238,7.08,672,,1.09,210,,"age of intrusion",,,
+5136,2,79.1,20.4,apatite,"LA PLATA-4(DF-997)",7.03E-09,0.139,129,0.11,102,,1.05,3.3,,"maximum age of intrusion",,,
+5137,1,69.6,7.4,zircon,"LA PLATA-5(DF-998)",7.03E-09,18.7,1040,17.5,487,,1.09,510,,"age of intrusion",,,
+5137,2,50.3,4.2,apatite,"LA PLATA-5(DF-999)",7.03E-09,1.06,978,1.31,1217,,1.05,40,,"may denote delayed cooling",,,
+5138,1,61.4,6,zircon,RICO-1(DF-1166),7.03E-09,4.78,1174,4.86,596,,1.04,150,,,,,"A THERMALLY-REDUCED AGE"
+5138,2,6.6,2.3,apatite,RICO-1(DF-1168),7.03E-09,0.016,34,0.169,353,,1.14,4.8,,,,,"A THERMALLY-REDUCED AGE"
+5138,3,78.4,5.8,sphene,RICO-1(DF-1167,7.03E-09,8.46,1645,12.15,1181,,1.89,210,,"minimum age of intrusion",,,
+5139,1,64.9,4.7,zircon,RICO-2(DF-1146),7.03E-09,9.89,2151,9.72,1058,,1.07,290,,"minimum age of intrusion",,,
+5139,2,20.2,7.4,apatite,RICO-2(DF-1145),7.03E-09,0.017,36,0.038,121,,1.14,1.6,,,,,"A THERMALLY REDUCED AGE"
+5140,1,40.7,6.5,zircon,OURAY-1(DF-1149),7.03E-09,3.25,346,5.05,269,,1.06,150,,,,,"PROBABLY A REDUCED AGE"
+5140,2,7.7,3.4,apatite,OURAY-1(DF-1148),7.03E-09,0.011,22,0.093,93,,1.14,2.6,,,,,"PROBABLY A THERMALLY REDUCED AGE"
+5141,1,54.1,4,zircon,OURAY-2(DF-1116),7.03E-09,8.06,1865,9.81,1135,,1.1,280,,"minimum age of intrusion",,,
+5141,2,15,5.6,apatite,OURAY-2(DF-1117),7.03E-09,0.017,35,0.06,125,,0.89,2.1,,,,,"PROBABLY A THERMALLY REDUCED AGE"
+5142,1,34.2,3.7,zircon,SOPRIS-1(DF-1104),7.03E-09,3.34,664,6.5,647,,1.12,190,,"age of intrusion",,,
+5143,1,34.5,2.8,zircon,TINCUP-1(DF-1150),7.03E-09,5.67,1208,10.44,1112,,1.06,310,,"age of intrusion",,,
+5143,2,37.3,6.4,epidote,TINCUP-1(DF-1151),7.03E-09,0.708,177,3.91,489,,3.46,36,,"age of intrusion",,,
+5144,1,11.5,1.2,zircon,"RND. MTN.-1(DF-1160)",7.03E-09,2.16,489,11.74,1332,,1.05,360,,"minimum age of intrusion",,,
+5144,2,9.7,2.8,apatite,"RND. MTN.-1(DF-1147)",7.03E-09,0.025,52,0.173,361,,1.14,4.9,,"material inherited from source rock, maximum age for unit",,,
+5145,1,35.3,3.3,zircon,"PORP. CK.-1(DF-1152)",7.03E-09,4.19,911,7.45,810,,1.05,230,,"age of intrusion",,,
+5146,1,66.8,5.5,zircon,ELDORA-1(DF-934),7.03E-09,7.49,1560,8.5,885,,1.27,210,,"age of intrusion",,,
+5146,2,61.8,5.5,zircon,ELDORA-1(DF-1000),7.03E-09,9.31,1293,10.67,741,,1.19,290,,"age of intrusion",,,
+5146,3,58.5,8.8,apatite,ELDORA-1(DF-942),7.03E-09,0.168,311,0.2,370,,1.17,5.5,,"minimum age of intrusion",,,
+5147,1,61.7,5.5,zircon,APEX-1(DF-1188),7.03E-09,7.1,1414,7.2,717,,1.05,220,,"age of intrusion",,,
+5147,2,71.1,17.7,apatite,APEX-1(DF-1189),7.03E-09,0.428,99,0.7,162,,1.96,11.4,,,,,"AGE APPEARS TOO OLD"
+5148,1,58.8,4.4,zircon,APEX-2(DF-1190),7.03E-09,8,1926,8.47,1020,,1.04,260,,"age of intrusion",,,
+5148,2,66.7,6.7,apatite,APEX-2(DF-1191),7.03E-09,0.285,594,0.498,1037,,1.96,8.1,,"maximum age of intrusion",,,
+5149,1,67.9,5.3,sphene,EMPIRE-1(DF-932),7.03E-09,11.2,1872,11.4,950,,1.16,315,,"age of intrusion",,,
+5149,2,37.3,2.2,apatite,EMPIRE-1(DF-941),7.03E-09,0.847,1765,1.568,3266,,1.16,43,,"age of uplift and cooling",,,
+5150,1,10.4,1.1,zircon,"CHI. BAS. 217",7.03E-09,1.46,494,9.01,,,1.07,270,,"age of intrusion",,,
+5151,1,9.2,0.9,zircon,"CHI. BAS. 137",7.03E-09,1.87,480,13.3,1688,,1.08,390,,"age of intrusion",,,
+5153,1,44.9,2.7,zircon,"JS-2(41 FT.)",7.03E-09,8.92,661,13.06,484,,1.1,750,,,,,"THIS IS PROBABLY A REDUCED AGE"
+5153,2,45.1,3.8,zircon,"JS-2(3361 FT.)",7.03E-09,7.32,351,10.56,253,,1.09,400,,,,,"PROBABLY A REDUCED AGE"
+5154,1,35,2.7,zircon,H1200,7.03E-09,7.85,1235,16.76,1319,,1.25,430,,"age of intrusion",,,
+5155,1,24.2,2.5,zircon,BMG-1QC,7.03E-09,2.88,614,7.78,828,,1.09,230,,"age of intrusion",,,
+5157,1,47,3.9,zircon,LEADVILLE-2,7.03E-09,13.8,1343,20.2,984,,1.15,510,,"age not evaluated",,,
+6175,1,36,3,apatite,K1A,6.85E-09,0.478,418,1.5,375,,1.833,,,"age of uplift and cooling",,,"SAMPLE LISTED BY ARMSTRONG, 1976, ISOCHRON/WEST, NO. 15, P. 3, ENTRY NO. 22"
+6176,1,24,2,apatite,K2A,6.85E-09,0.208,286,0.96,264,,1.833,,,"age of uplift and cooling",,,"SAMPLE LISTED BY ARMSTRONG, 1976, ISOCHRON/WEST, NO. 15, P. 4, ENTRY NO. 27"
+6177,1,43,4,apatite,K3A,6.85E-09,0.594,297,1.54,385,,1.833,,,"age of uplift and cooling",,,"SAMPLE LISTED BY ARMSTRONG, 1976, ISOCHRON/WEST, NO. 15, P. 3, ENTRY NO. 20"
+6178,1,24,3,apatite,XK3A,6.85E-09,0.745,134,3.71,382,,1.833,,,"age of uplift and cooling",,,"SAMPLE LISTED BY ARMSTRONG, 1976, ISOCHRON/WEST, NO. 15, P. 4, ENTRY NO. 26"
+6178,2,85,9,sphene,XK3S,6.85E-09,1.17,247,1.53,281,,1.833,,,"age of uplift and cooling",,,"SAMPLE LISTED BY ARMSTRONG, 1976, ISOCHRON/WEST, NO. 15, P. 4, ENTRY NO. 26"
+6179,1,37,4,apatite,K4A,6.85E-09,0.357,223,1.084,271,,1.833,,,,,,"A COOLING AGE.  SAMPLE LISTED BY ARMSTRONG, 1975, ISOCHRON/WEST, NO. 14, P. 49, ENTRY NO. 26"
+6180,1,39,3,apatite,K6A,6.85E-09,2.21,566,6.263,476,,1.833,,,"age of uplift and cooling",,,"SAMPLE LISTED BY ARMSTRONG, 1976, ISOCHRON/WEST, NO. 15, P. 3, ENTRY NO. 24"
+6180,2,81,7,sphene,K6S,6.85E-09,4.758,571,6.56,446,,1.833,,,"age of uplift and cooling",,,"SAMPLE LISTED BY ARMSTRONG, 1976, ISOCHRON/WEST, NO. 15, P. 3, ENTRY NO. 24"
+6181,1,81,7,sphene,K7S,6.85E-09,3.41,410,4.68,374,,1.833,,,"minimum age of intrusion",,,"SAMPLE LISTED BY ARMSTRONG, 1975, ISOCHRON/WEST, NO. 14, P. 49, ENTRY NO. 20"
+6181,2,56,5,apatite,K7A,6.85E-09,4.27,267,0.853,320,,1.833,,,,,,"A COOLING AGE"
+6182,1,42,4,apatite,K8A,6.85E-09,0.365,274,0.966,290,,1.833,,,,,,"A COOLING AGE.  SAMPLE LISTED BY ARMSTRONG, 1975, ISOCHRON/WEST, NO. 14, P. 49, ENTRY NO. 25"
+6183,1,48,4,apatite,K10A,6.85E-09,0.8,400,1.86,465,,1.833,,,"age of uplift and cooling",,,
+6184,1,34,3,apatite,K21A,6.85E-09,0.384,336,1.277,382,,1.833,,,"age of uplift and cooling",,,"SAMPLE LISTED BY ARMSTRONG, 1976, ISOCHRON/WEST, NO. 15, P. 4, ENTRY NO. 28"
+6185,1,43,3,apatite,K42A,6.85E-09,0.638,676,1.672,418,,1.833,,,,,,"A COOLING AGE.  SAMPLE LISTED BY ARMSTRONG, 1975, ISOCHRON/WEST, NO. 14, P. 49, ENTRY NO. 24"
+6186,1,39,4,apatite,BC50A,6.85E-09,0.556,292,1.616,403,,1.833,,,,,,"A COOLING AGE.  SAMPLE LISTED BY ARMSTRONG, 1975, ISOCHRON/WEST, NO. 14, P. 49, ENTRY NO. 23"
+6187,1,44,4,apatite,K112A,6.85E-09,0.41,256,1.046,340,,1.833,,,"age of uplift and cooling",,,"SAMPLE LISTED BY ARMSTRONG, 1976, ISOCHRON/WEST, NO. 15, P. 4, ENTRY NO. 29"
+6192,1,53,,apatite,27,8.46E-09,2.73,,2.3,,,0.902,,,"age of uplift and cooling",,,
+6193,1,70,,apatite,28,8.46E-09,0.349,,2.04,,,8.17,,,"age of uplift and cooling",,,
+6194,1,95,,apatite,29,8.46E-09,5.46,,2.56,,,0.902,,,"age of uplift and cooling",,,
+6195,1,51,,apatite,30,8.46E-09,2.77,,2.44,,,0.902,,,"age of uplift and cooling",,,
+6195,2,64,,apatite,30,8.46E-09,3,,2.1,,,0.902,,,"age of uplift and cooling",,,
+6196,1,76,,apatite,31,8.46E-09,3.36,,1.99,,,0.902,,,"age of uplift and cooling",,,
+6197,1,117,,apatite,32,8.46E-09,1.76,,0.674,,,0.902,,,"age of uplift and cooling",,,
+6198,1,78,,apatite,33,8.46E-09,0.48,,0.275,,,0.902,,,"age of uplift and cooling",,,
+6199,1,90,,apatite,34,8.46E-09,1.63,,0.815,,,0.902,,,"age of uplift and cooling",,,
+6200,1,74,,apatite,35,8.46E-09,0.354,,0.215,,,0.902,,,"age of uplift and cooling",,,
+6201,1,61,,apatite,36,8.46E-09,0.193,,0.143,,,0.902,,,"age of uplift and cooling",,,
+6202,1,61,,apatite,37,8.46E-09,1.72,,1.27,,,0.902,,,"age of uplift and cooling",,,
+6203,1,82,,apatite,38,8.46E-09,0.207,,0.113,,,0.902,,,"age of uplift and cooling",,,
+6204,1,48,,apatite,39,8.46E-09,0.444,,0.415,,,0.902,,,"age of uplift and cooling",,,
+6205,1,58,,apatite,40,8.46E-09,0.2,,0.154,,,0.902,,,"age of uplift and cooling",,,
+6206,1,65,,apatite,41,8.46E-09,0.726,,0.497,,,0.902,,,"age of uplift and cooling",,,
+6207,1,51,,apatite,42,8.46E-09,2.35,,2.03,,,0.902,,,"age of uplift and cooling",,,
+6208,1,62,,apatite,53,8.46E-09,0.105,,0.684,,,8.17,,,"age of uplift and cooling",,,
+6209,1,92,,apatite,54,8.46E-09,0.141,,0.617,,,8.17,,,"age of uplift and cooling",,,
+6210,1,78,,apatite,55,8.46E-09,0.593,,3.1,,,8.17,,,"age of uplift and cooling",,,
+6211,1,55,,apatite,56,8.46E-09,1.39,,1.13,,,0.902,,,"age of uplift and cooling",,,
+6212,1,105,,apatite,57,8.46E-09,0.295,,1.14,,,8.17,,,"age of uplift and cooling",,,
+6213,1,74,,apatite,58,8.46E-09,0.349,,1.91,,,8.17,,,"age of uplift and cooling",,,
+6214,1,100,,apatite,59,8.46E-09,1.32,,5.34,,,8.17,,,"age of uplift and cooling",,,
+6215,1,132,,apatite,60,8.46E-09,1.69,,5.16,,,0.894,,,"age of uplift and cooling",,,
+6216,1,108,,apatite,61,8.46E-09,0.526,,0.216,,,0.894,,,"age of uplift and cooling",,,
+6217,1,93,,apatite,62,8.46E-09,0.185,,0.088,,,0.894,,,"age of uplift and cooling",,,
+6217,2,79,,apatite,62,8.46E-09,0.164,,0.0918,,,0.894,,,"age of uplift and cooling",,,
+6217,3,99,,apatite,62,8.46E-09,0.205,,0.0918,,,0.894,,,"age of uplift and cooling",,,
+6218,1,137,,apatite,63,8.46E-09,1.17,,0.377,,,0.894,,,"age of uplift and cooling",,,
+6218,2,86,,apatite,63,8.46E-09,1.3,,0.67,,,0.894,,,"age of uplift and cooling",,,
+6218,3,100,,apatite,63,8.46E-09,0.995,,0.439,,,0.894,,,"age of uplift and cooling",,,
+6219,1,77,,apatite,64,8.46E-09,0.23,,0.133,,,0.894,,,"age of uplift and cooling",,,
+6219,2,89,,apatite,64,8.46E-09,0.313,,0.156,,,0.894,,,"age of uplift and cooling",,,
+6220,1,122,,apatite,65,8.46E-09,2.5,,0.911,,,0.894,,,"age of uplift and cooling",,,
+6221,1,131,,apatite,66,8.46E-09,0.31,,0.105,,,0.894,,,"age of uplift and cooling",,,
+6221,2,94,,apatite,66,8.46E-09,0.3,,0.141,,,0.894,,,"age of uplift and cooling",,,
+6222,1,159,,apatite,67,8.46E-09,1.42,,0.396,,,0.894,,,"age of uplift and cooling",,,
+6222,2,119,,apatite,67,8.46E-09,1.36,,0.505,,,0.894,,,"age of uplift and cooling",,,
+6222,3,204,,apatite,67,8.46E-09,1.91,,0.411,,,0.894,,,"age of uplift and cooling",,,
+6223,1,68,,apatite,68,8.46E-09,2.5,,1.63,,,0.902,,,"age of uplift and cooling",,,
+6224,1,111,,apatite,69,8.46E-09,0.874,,5.2,,,0.894,,,"age of uplift and cooling",,,
+6224,2,,,apatite,69,8.46E-09,1.17,,0.466,,,,,,"age of uplift and cooling",,,"(NO AGE CALCULATED)"
+6225,1,127,,apatite,70,8.46E-09,0.228,,0.725,,,8.17,,,"age of uplift and cooling",,,
+6225,2,145,,apatite,70,8.46E-09,0.61,,1.7,,,8.17,,,"age of uplift and cooling",,,
+6226,1,93,,apatite,71,8.46E-09,0.277,,1.21,,,8.17,,,"age of uplift and cooling",,,
+6226,2,115,,apatite,71,8.46E-09,0.216,,0.757,,,8.17,,,"age of uplift and cooling",,,
+6227,1,73,,apatite,72,8.46E-09,0.187,,1.03,,,8.17,,,"age of uplift and cooling",,,
+6228,1,101,,apatite,73,8.46E-09,0.12,,0.492,,,8.17,,,"age of uplift and cooling",,,
+6228,2,89,,apatite,73,8.46E-09,0.1,,0.459,,,8.17,,,"age of uplift and cooling",,,
+6229,1,89,,apatite,74,8.46E-09,0.856,,3.89,,,8.17,,,"age of uplift and cooling",,,
+6230,1,152,,apatite,75,8.46E-09,4.79,,6.32,,,8.17,,,"age of uplift and cooling",,,
+6230,2,97,,apatite,75,8.46E-09,4.99,,2.31,,,0.902,,,"age of uplift and cooling",,,
+6231,1,70,,apatite,77,8.46E-09,0.907,,5.28,,,8.17,,,"age of uplift and cooling",,,
+6231,2,57,,apatite,77,8.46E-09,0.962,,0.752,,,0.902,,,"age of uplift and cooling",,,
+6232,1,84,,apatite,78,8.46E-09,,,,,,0.894,,,"age of uplift and cooling",,,
+6322,1,110,8,apatite,VT./AV-1-73,6.85E-09,,1524,,938,,1.12,,,,,,"A COOLING AGE"
+6322,2,187,34,zircon,VT./AV-1-73,6.85E-09,,808,,146,,1.12,,,"age of intrusion","3 GRAINS",,
+6323,1,93,10,apatite,N.H./AV-2-73,6.85E-09,,586,,426,,1.12,,,,,,"A COOLING AGE"
+6324,1,105,14,zircon,N.H./WN-4-73,6.85E-09,,871,,282,,1.12,,,"age of volcanism","3 GRAINS",,
+6325,1,88,10,apatite,N.H./WN-6-73,6.85E-09,,745,,578,,1.12,,,,,,"A COOLING AGE"
+6326,1,72,10,apatite,N.H./WB-7-73,6.85E-09,,373,,353,,1.12,,,,,,"A COOLING AGE"
+6327,1,118,12,apatite,N.H./PK-8-73,6.85E-09,,956,,547,,1.12,,,"age of intrusion",,,
+6327,2,109,12,zircon,N.H./PK-8-73,6.85E-09,,1481,,464,,1.12,,,"minimum age of intrusion","4 GRAINS",,
+6328,1,96,16,apatite,N.H./PL-9-73,6.85E-09,,317,,218,,1.12,,,,,,"A COOLING AGE"
+6329,1,89,8,apatite,VT./AS-10-73,6.85E-09,,833,,636,,1.12,,,,,,"A COOLING AGE"
+6329,2,132,32,zircon,VT./AS-10-73,6.85E-09,,277,,77,,1.12,,,"age of intrusion","2 GRAINS",,
+6330,1,92,8,apatite,N.H./N.C.-11-73,6.85E-09,,983,,729,,1.12,,,,,,"A COOLING AGE"
+6330,2,183,22,zircon,N.H./N.C.-11-73,6.85E-09,,1804,,333,,1.12,,,"maximum age of intrusion","4 GRAINS",,
+6331,1,80,12,apatite,N.H./FN-12-73,6.85E-09,,348,,297,,1.12,,,,,,"A COOLING AGE"
+6331,2,178,28,zircon,N.H./FN-12-73,6.85E-09,,1071,,204,,1.12,,,"age of intrusion","3 GRAINS",,
+6332,1,169,26,apatite,VT-33AP.,6.85E-09,0.482,998,1.01,1792,,5.88,,,,,,"THE AGE APPEARS TOO OLD"
+6332,2,164,25,zircon,VT-33SP.,6.85E-09,1.95,291,4.29,634,,5.88,,,,,,"THE AGE APPEARS TOO OLD"
+6333,1,105,16,apatite,ARK-1AP.,6.85E-09,1.2,488,1.16,313,,1.66,,,"age of intrusion",,,
+6334,1,171,26,apatite,NH-230AP.,6.85E-09,0.482,941,0.854,742,,5.01,,,,"ROCK HAS BEEN HYDROTHERMALLY ALTERED",,"AGE MAY INDICATE TIME OF ALTERATION"
+6334,2,260,40,apatite,NH-530AP.,6.85E-09,0.573,498,0.662,864,,5.01,,,"minimum age of intrusion",,,
+6334,3,235,36,apatite,NH-972AP.,6.85E-09,0.838,1455,1.075,1782,,5.01,,,,,,"AGE APPEARS LOW"
+6335,1,27,6,apatite,NM-1AP.,6.85E-09,0.0725,63,0.278,242,,1.66,,,"age of intrusion",,,
+6335,2,34,5,zircon,NM-1SP.,6.85E-09,0.212,184,0.645,561,,1.66,,,"age of intrusion",,,
+6351,1,36,4,apatite,"25. K22",6.85E-09,,,,,,,,,"age of uplift and cooling",,,
+6635,1,64.8,,apatite,H29-14,6.85E-09,29.7,1189,33.7,1347,,1.29,,,,"40 GRAINS, 65-115 MESH",,"A COOLING AGE"
+6636,1,65.9,,apatite,H29-9,6.85E-09,31.4,1256,35.1,1404,,1.32,,,,"40 GRAINS, 65-115 MESH",,"A COOLING AGE"
+6637,1,68.2,,apatite,S30-5,6.85E-09,24.2,629,27,754,,1.35,,,,"26-28 GRAINS, 65-115 MESH",,"A COOLING AGE"
+6638,1,69.3,,apatite,H31-1,6.85E-09,9.4,452,10.6,423,,1.29,,,,"48-40 GRAINS, 65-115 MESH",,"A COOLING AGE"
+6639,1,66.9,,apatite,H28-1,6.85E-09,5.9,273,7.1,286,,1.32,,,,"40 GRAINS, 65-115 MESH",,"A COOLING AGE"
+6640,1,60.1,,apatite,H23-13,6.85E-09,12.2,293,16.6,398,,1.32,,,,"24 GRAINS, 65-115 MESH",,"A COOLING AGE"
+6641,1,65.4,,apatite,H23-8,6.85E-09,8.1,323,9.7,389,,1.29,,,,"40 GRAINS, 65-115 MESH",,"A COOLING AGE"
+6642,1,65.9,,apatite,S31-10,6.85E-09,13.7,546,17.1,684,,1.35,,,,"40 GRAINS, 65-115 MESH",,"A COOLING AGE"
+6643,1,70.8,,apatite,S28-4,6.85E-09,14.3,572,16.7,667,,1.35,,,,"40 GRAINS, 65-115 MESH",,"A COOLING AGE"
+6644,1,66.7,,apatite,S1-1,6.85E-09,9.7,387,11.7,468,,1.32,,,,"40 GRAINS, 65-115 MESH",,"A COOLING AGE"
+6645,1,65.7,,apatite,H14-12,6.85E-09,5.9,283,7.1,226,,1.29,,,,"32-48 GRAINS, 65-115 MESH",,"A COOLING AGE"
+6646,1,63.6,,apatite,H10-8,6.85E-09,21.6,1039,26.8,1072,,1.29,,,,"40-48 GRAINS, 65-115 MESH",,"A COOLING AGE"
+6647,1,62.9,,apatite,H10-6,6.85E-09,22.7,725,29.1,1164,,1.32,,,,"32-40 GRAINS, 65-115 MESH",,"A COOLING AGE"
+6648,1,65.4,,apatite,H10-2,6.85E-09,7.2,289,8.8,351,,1.29,,,,"40 GRAINS, 65-115 MESH",,"A COOLING AGE"
+6649,1,50.7,,apatite,H7-9,6.85E-09,12.4,597,19.8,793,,1.32,,,,"40-48 GRAINS, 65-115 MESH",,"A COOLING AGE"
+6650,1,62,,apatite,H6-8,6.85E-09,5,199,6.3,251,,1.29,,,,"40 GRAINS, 65-115 MESH",,"A COOLING AGE"
+6651,1,69.7,,apatite,S16-7,6.85E-09,5,238,5.9,277,,1.35,,,,"40-48 GRAINS, 65-115 MESH",,"A COOLING AGE"
+6652,1,56.4,,apatite,S9-2,6.85E-09,8.5,339,12.4,497,,1.35,,,,"40 GRAINS, 65-115 MESH",,"A COOLING AGE"
+6740,1,44,4.1,zircon,E-516B,6.85E-09,5.64,1070,8.84,839,,1.13,,,"age of intrusion",,,"AGE ALSO REPORTED IN USGS PROFESSIONAL PAPER 900 (1974), P. 32, AND BY ELLIOTT (1974)"
+6741,1,40.6,3.5,zircon,E-85G,6.85E-09,5.62,1170,9.64,1004,,1.13,,,"age of intrusion",,,"AGE ALSO REPORTED IN USGS PROFESSIONAL PAPER 900 (1974), P. 32, AND BY ELLIOTT (1974)"
+6742,1,84.6,11.2,sphene,E-468A,6.85E-09,2.48,517,1.92,401,,2.15,,,"age of intrusion",,,"AGE ALSO REPORTED IN USGS PROFESSIONAL PAPER 900 (1974), P. 32, AND BY ELLIOTT (1974)"
+7082,1,0.26,0.05,glass,"(NOT GIVEN)","not given",,,,,,,,,"age of volcanism",,"NO ANALYTICAL DATA GIVEN.  ANALYSIS DONE BY GLEN IZETT, USGS, DENVER",
+7236,1,30.2,2.1,zircon,"81. USGS(D)-A",7.03E-09,3.9,1623,6.83,1422,,0.857,250,,"minimum age of volcanism",,"1422 INDUCED TRACKS COUNTED, NOT 1623 AS PUBLISHED --COMPILER",
+7236,2,30.1,3,zircon,"81. USGS(D)-A",7.03E-09,2.81,729,6.04,783,,1.05,180,,"minimum age of volcanism","6 GRAINS COUNTED",,
+7249,1,63.9,9,apatite,"94. USGS(D)-FT-01",7.03E-09,0.207,432,0.199,415,,1.03,5.6,,,,,"AGE IS A COOLING AGE, AN INDICATION OF TIME OF UPLIFT IN FRONT RANGE. PEGMATITE PROBABLY FORMED 1400 M.Y. AGO."
+7250,1,109,12,apatite,"95. USGS(D)-FT-02",7.03E-09,0.444,926,0.249,518,,1.03,7,,,,,"AGE IS A COOLING AGE, AN INDICATION OF TIME OF UPLIFT IN FRONT RANGE. GNEISS WAS PROBABLY FORMED ABOUT 1700 M.Y. AGO."
+7253,1,33.6,3,zircon,"98. USGS(D)-73-N7",7.03E-09,8.75,1094,15.15,947,,0.973,450,,,"3 GRAINS COUNTED",,"THE AGE OF THE GRANITE IS ABOUT 35 M.Y."
+7253,2,36.2,4,sphene,"98. USGS(D)-73-N7",7.03E-09,5.08,862,9.55,641,,1.14,240,,,"3 GRAINS COUNTED",,"AGE OF THE GRANITE IS ABOUT 35 M.Y."
+7254,1,44.2,4,zircon,"99. USGS(D)-73-N8",7.03E-09,12.72,119,18.14,798,,1.06,490,,"age of intrusion","3 GRAINS COUNTED",,
+7254,2,45.9,4,sphene,"99. USGS(D)-73-N8",7.03E-09,7.4,1234,10.68,890,,1.11,280,,"age of intrusion","4 GRAINS COUNTED",,
+7255,1,45.5,5.1,zircon,"100. USGS(D)-TL-F6-16",7.03E-09,4.95,710,7.75,556,,1.19,190,,"age of intrusion","4 GRAINS COUNTED",,
+7256,1,43.4,1.8,sphene,"101. USGS(D)-73-N9",7.03E-09,5.62,1172,8.33,868,,1.08,220,,"age of intrusion","5 GRAINS COUNTED",,
+7330,1,27,1.2,zircon,"175. USGS(D)-BJS-2",7.03E-09,5.09,825,13.95,1130,,1.24,320,,"age of volcanism",,,
+7344,1,10.1,0.9,zircon,"189. USGS(D)-TSV-103-78",7.03E-09,0.74,128,4.25,367,,0.969,130,,"age of intrusion",,,
+7344,2,14.8,4.8,apatite,"189. USGS(D)-TSV-103-78",7.03E-09,0.015,43,0.065,184,,1.01,1.9,,,,,"AGE IS PROBABLY TOO OLD; ZIRCON AGE OF 10.1 M.Y. IS MORE RELIABLE AGE"
+7345,1,9.6,0.7,zircon,"190. USGS(D)-TSV-102-78",7.03E-09,1.05,195,6.36,593,,0.973,190,,"age of intrusion",,,
+7346,1,6.3,0.8,zircon,"191. USGS(D)-TSV-107-78",7.03E-09,0.755,133,6.86,605,,0.965,200,,"age of volcanism",,,
+7347,1,11.5,1.3,zircon,"192. USGS(D)-TSV-58-77",7.03E-09,0.489,111,2.84,322,,1.12,70,,"age of volcanism",,,
+7355,1,0.78,0.21,zircon,"200. USGS(D)-3149-10",7.03E-09,0.126,21,8.86,738,,0.92,280,,"age of volcanism",,,
+7356,1,1.7,0.12,zircon,"201. USGS(D)-3149-11",7.03E-09,0.321,61,10.59,1005,,0.912,330,,"age of volcanism",,,
+7357,1,0.57,0.08,zircon,"202. USGS(D)-3149-2",7.03E-09,0.088,20,8.76,994,,0.951,270,,"age of volcanism",,"THE PUBLISHED VALUE OF 7.03 FOR INDUCED TRACKS/SQ. CM. IS IN ERROR --COMPILER",
+7358,1,4.1,0.2,zircon,"203. USGS(D)-3149-7",7.03E-09,1.02,226,13.99,1554,,0.935,430,,"age of volcanism",,,
+7359,1,0.13,0.1,zircon,"204. USGS(D)-3149-5",7.03E-09,0.0251,5,10.55,1050,,0.943,320,,"age of volcanism",,,
+7360,1,6.8,0.7,zircon,"205. USGS(D)-3149-9",7.03E-09,0.597,130,4.87,530,,0.928,150,,"age of volcanism",,,
+7364,1,27.8,1.4,sphene,"209. USGS(D)-SA-5",7.03E-09,0.259,195,1.354,507,,2.41,18,,"age of volcanism",,,"RATTE AND GASKILL (1975) REPORTED AN AGE OF 27.6 M.Y. FOR THIS SPHENE"
+7365,1,31.2,3.3,zircon,"210. USGS(D)-SA-3",7.03E-09,1.01,247,2.16,265,,1.12,60,,"age of volcanism",,,"RATTE AND GASKILL (1975) PUBLISHED AN AGE OF 30.2 M.Y. FOR THIS ZIRCON.  SAMPLE NUMBER SHOULD BE GR-95A, NOT SA-3"
+7729,1,61.3,16.9,apatite,GM-2-1550,6.85E-09,,,,,,,,,"age of uplift and cooling",,,
+7730,1,64.1,16.8,apatite,PD5,6.85E-09,,,,,,,,,"age of uplift and cooling",,,
+7732,1,63.1,9.8,apatite,TCM2,6.85E-09,,,,,,,,,"age of uplift and cooling",,,
+7733,1,66.2,13.3,apatite,MS1,6.85E-09,,,,,,,,,"age of uplift and cooling",,,
+7800,1,1569,,zircon,HRL-1,6.85E-09,0.2477,,0.0189,,13.08,4.39,,,"age not evaluated","ONE GRAIN",,
+7800,2,1471,,zircon,HRL-2,6.85E-09,0.3225,,0.0264,,12.198,4.39,,,"age not evaluated","ONE GRAIN",,
+7800,3,1554,,zircon,HRL-4,6.85E-09,0.2756,,0.0213,,12.971,4.39,,,"age not evaluated","ONE GRAIN",,
+7800,4,1339,,zircon,HRL-5,6.85E-09,0.4463,,0.0406,,10.985,4.39,,,"age not evaluated","THE OVERGROWTH ON ONE GRAIN",,
+7800,5,2346,,zircon,HR-7,6.85E-09,0.2783,,0.0133,,20.874,4.39,,,,"ROUNDED DETRITAL CORE OF ONE GRAIN",,"MINIMUM AGE FOR CORE OF ZIRCON"
+7801,1,1561,,zircon,,6.85E-09,0.3609,,0.0277,,13.035,4.39,,,"age not evaluated","ONE GRAIN",,
+7801,2,1554,,zircon,HRL-9,6.85E-09,0.3602,,0.0278,,12.965,4.39,,,"age not evaluated","ONE GRAIN",,
+7801,3,1882,,zircon,HRL-10,6.85E-09,0.2015,,0.0125,,16.121,4.39,,,"age not evaluated","ONE GRAIN",,
+7802,1,2091,,zircon,SB-3T,6.85E-09,0.3606,,0.0198,,18.223,4.39,,,"age not evaluated","ONE GRAIN","2 OTHER DETERMINATION ON THIS GRAIN GAVE AGES OF 2138 AND 2046 M.Y.",
+7802,2,1821,,zircon,SB-5,6.85E-09,0.2838,,0.0183,,15.522,4.39,,,"age not evaluated","ONE GRAIN",,
+7802,3,1773,,zircon,SB-9,6.85E-09,0.3889,,0.0258,,15.055,4.39,,,"age not evaluated","ONE GRAIN",,
+7802,4,1845,,zircon,SB-10,6.85E-09,0.197,,0.0125,,15.76,4.39,,,"age not evaluated","ONE GRAIN",,
+7803,1,316,,zircon,BS-1-I,6.85E-09,0.1734,,0.0725,,2.391,4.39,,,,"ONE GRAIN",,"COOLING AGE"
+7803,2,320,,zircon,BS-1-II,6.85E-09,0.1551,,0.0641,,2.423,4.39,,,,"ONE GRAIN (REPEAT AGE DETERMINATION)",,"COOLING AGE"
+7803,3,318,,zircon,BS-2,6.85E-09,0.1551,,0.0638,,2.41,4.39,,,,"ONE GRAIN",,"COOLING AGE"
+7803,4,434,,zircon,BS-3,6.85E-09,0.2709,,0.0817,,3.317,4.39,,,,"ONE GRAIN",,"COOLING AGE"
+7803,5,432,,zircon,BS-4,6.85E-09,0.0678,,0.0206,,3.298,4.39,,,,"ONE GRAIN",,"COOLING AGE"
+7804,1,316,,zircon,BS-5,6.85E-09,0.1987,,0.083,,2.394,4.39,,,,"ONE GRAIN",,"COOLING AGE"
+7804,2,247,,zircon,BS-6,6.85E-09,0.1531,,0.0823,,1.861,4.39,,,,"ONE GRAIN",,"COOLING AGE"
+7804,3,370,,zircon,BS-7,6.85E-09,0.2836,,0.1009,,2.809,4.39,,,,"ONE GRAIN",,"COOLING AGE"
+7804,4,183,,zircon,BS-8,6.85E-09,0.0921,,0.0673,,1.37,4.39,,,,"ONE GRAIN",,"COOLING AGE"
+7804,5,337,,zircon,BS-9,6.85E-09,0.0738,,0.0289,,2.554,4.39,,,,"ONE GRAIN",,"COOLING AGE"
+7805,1,226,,zircon,BS-10,6.85E-09,0.0925,,0.0544,,1.701,4.39,,,,"ONE GRAIN",,"COOLING AGE"
+7805,2,323,,zircon,BS-11T,6.85E-09,0.1919,,0.0785,,2.444,4.39,,,,"ONE GRAIN","2 OTHER DETERMINATIONS ON THIS GRAIN GAVE AGES OF 339 AND 309 M.Y.","COOLING AGE"
+7805,3,286,,zircon,BS-12T,6.85E-09,0.0658,,0.0305,,2.159,4.39,,,,"ONE GRAIN","2 OTHER DETERMINATIONS ON THIS GRAIN GAVE AGES OF 282 AND 290 M.Y.","COOLING AGE"
+7805,4,256,,zircon,BS-13T,6.85E-09,0.0806,,0.0419,,1.925,4.39,,,,"ONE GRAIN","2 OTHER DETERMINATIONS ON THIS GRAIN GAVE AGES OF 221 AND 311 M.Y.","COOLING AGE"
+7805,5,447,,zircon,BS-14T,6.85E-09,0.1313,,0.0384,,3.42,4.39,,,,"ONE GRAIN","2 OTHER DETERMINATIONS ON THIS GRAIN GAVE AGES OF 446 AND 454 M.Y.","COOLING AGE"
+7920,1,600,,muscovite,DM1A,6.90E-09,,,,,,,0.004,,,,,"SPURIOUS AGE; PEGMATITE IS AROUND 255 M.Y. OLD."
+7920,2,600,,muscovite,DM1B,6.90E-09,,,,,,,0.0015,,,,,"SPURIOUS AGE; PEGMATITE IS AROUND 255 M.Y. OLD"
+7920,3,1000,,muscovite,DM1C,6.90E-09,,,,,,,0.0015,,,,,"SPURIOUS AGE; PEGMATITE IS AROUND 255 M.Y. OLD"
+7920,4,25,,biotite,DM1D,6.90E-09,,,,,,,0.16,,,,,"SPURIOUS AGE; PEGMATITE IS AROUND 255 M.Y. OLD."
+7920,5,210,,biotite,DM1E,6.90E-09,,,,,,,1.1,,"minimum age of intrusion",,,
+7921,1,1700,,muscovite,DM2A,6.90E-09,,,,,,,0.005,,,,,"SPURIOUS AGE; PEGMATITE IS AROUND 255 M.Y. OLD."
+7922,1,35,,muscovite,GMYB11,6.90E-09,,,,,,,0.1,,,,,"SPURIOUS AGE; PEGMATITE IS PROBABLY AROUND 2600 M.Y."
+7923,1,75,,biotite,GMYB5,6.90E-09,,,,,,,0.066,,,,,"SPURIOUS AGE; NORITE IS PROBABLY AROUND 2600 M.Y. OLD"
+7924,1,120,,muscovite,BP-43-57,6.90E-09,,,,,,,0.004,,,,,"SPURIOUS AGE; ROCK IS PRECAMBRIAN IN AGE."
+7924,2,490,,muscovite,BP-43-57,6.90E-09,,,,,,,0.0003,,,"VERY FINE MUSCOVITE",,"SPURIOUS AGE; ROCK IS PRECAMBRIAN IN AGE."
+8099,1,0.55,0.3,glass,"NOT GIVEN",6.85E-09,0.0008,3,0.044,213,,0.5,,,,,,"THIS AGE APPEARS TOO YOUNG."
+8153,1,114,8,apatite,VT./AV-1-73,6.85E-09,,1524,,938,,1.12,,,"age of uplift and cooling",,,
+8153,2,165,12,zircon,VT./AV-1-73,6.85E-09,,4152,,852,,1.12,,,"minimum age of intrusion",,,"K-AR AGE OF 171 M.Y. REPORTED BY FOLAND AND FAUL(1977)."
+8154,1,96,10,apatite,N.H./AV-2-73,6.85E-09,,586,,426,,1.12,,,"age of uplift and cooling",,,"BIOTITE K-AR AGE OF 168 M.Y. REPORTED BY FOLAND AND FAUL(1977)."
+8155,1,107,11,zircon,ZIRCON,6.85E-09,,1564,,497,,1.12,,,"minimum age of intrusion",,,"BIOTITE K-AR AGE OF 121 M.Y. REPORTED BY FOLAND AND FAUL(1977)."
+8156,1,90,10,apatite,N.H./WN-6-73,6.85E-09,,745,,578,,1.12,,,"age of uplift and cooling",,,"BIOTITE K-AR AGE OF 161 M.Y. REPORTED BY FOLAND AND FAUL(1977). APATITE FISSION TRACK AGE OF 87 M.Y. (RECALCULATED) REPORTED BY ZIMMERMAN AND OTHERS(1975)."
+8157,1,81,8,apatite,N.H./WN-7-73,6.85E-09,,401,,353,,1.12,,,"age of uplift and cooling",,,"BIOTITE K-AR AGE OF 117 M.Y. REPORTED BY FOLAND AND FAUL(1977). APATITE FISSION TRACK AGE OF 109 M.Y. (RECALCULATED) REPORTED BY ZIMMERMAN AND OTHERS(1975)."
+8158,1,122,12,apatite,N.H./PK-8-73,6.85E-09,,957,,547,,1.12,,,"minimum age of intrusion",,,
+8158,2,108,9,zircon,N.H./PK-8-73,6.85E-09,,2196,,694,,1.12,,,"minimum age of intrusion",,,"BIOTITE K-AR AGE OF 121 M.Y. REPORTED BY FOLAND AND FAUL(1977)."
+8159,1,102,16,apatite,N.H./PL-9-73,6.85E-09,,317,,218,,1.12,,,"age of uplift and cooling",,,"BIOTITE K-AR AGE OF 180 M.Y. REPORTED BY FOLAND AND FAUL(1977)."
+8160,1,101,6,apatite,VT./AS-1-73,6.85E-09,,2294,,1583,,1.12,,,"age of uplift and cooling",,,"APATITE FISSION TRACK AGE OF 101 M.Y. (RECALCULATED) REPORTED BY ZIMMERMAN AND OTHERS(1975)."
+8160,2,125,20,zircon,VT./AS-10-73,6.85E-09,,684,,186,,1.12,,,"minimum age of intrusion",,,"BIOTITE K-AR AGE OF 119 M.Y. REPORTED BY FOLAND AND FAUL (1977)."
+8161,1,94,8,apatite,N.H./N.C.-11-73,6.85E-09,,983,,729,,1.12,,,"age of uplift and cooling",,,
+8161,2,163,14,zircon,N.H./N.C.-11-73,6.85E-09,,3116,,647,,1.12,,,"minimum age of intrusion",,,"BIOTITE K-AR AGE OF 180 M.Y. REPORTED BY FOLAND AND FAUL(1977)."
+8162,1,82,12,apatite,N.H./FN-12-73,6.85E-09,,348,,297,,1.12,,,"age of uplift and cooling",,,
+8162,2,173,19,zircon,N.H./FN-12-73,6.85E-09,,1875,,364,,1.12,,,"minimum age of intrusion",,,"BIOTITE K-AR AGE OF 194 M.Y. REPORTED BY FOLAND AND FAUL(1977)."
+8163,1,7.1,0.7,zircon,"1. (M153)",7.03E-09,0.972,144,10.45,774,,1.28,260,,"age of volcanism",,,
+8164,1,14.2,0.9,zircon,"2. M152",7.03E-09,2.57,369,13.89,999,,1.29,350,,"age of volcanism",,,
+8165,1,18,0.8,zircon,"3. (M89)",7.03E-09,4.29,755,15.22,1338,,1.07,460,,"minimum age of volcanism",,,
+8166,1,15.3,0.8,zircon,"4. (M75)",7.03E-09,4.44,534,14.51,873,,0.835,560,,,,,"AGE IS TOO YOUNG"
+8167,1,16.1,0.7,zircon,"5. (M74)",7.03E-09,4.72,918,14.8,1439,,0.846,560,,,,,"AGE IS TOO YOUNG"
+8167,2,17.1,0.8,zircon,"5. (M74)",7.03E-09,3.9,632,16.91,1370,,1.24,440,,,,,"AGE IS TOO YOUNG"
+8168,1,19.6,0.8,zircon,"6. (M92)",7.03E-09,4.09,927,18.2,2064,,1.46,400,,"age of volcanism",,,
+8168,2,18.8,1.7,apatite,"6. (M92)",7.03E-09,0.129,537,5.93,2469,,1.45,13,,"maximum age of volcanism",,,
+8169,1,19.5,0.7,zircon,"7. (M28)",7.03E-09,8.19,1137,26.84,1864,,1.07,810,,,,,"AGE IS TOO YOUNG"
+8169,2,21.3,0.9,zircon,"7. (M28)",7.03E-09,8.22,1484,9.65,871,,0.418,740,,"age of intrusion",,,
+8170,1,20.4,0.9,zircon,"8. (M29B)",7.03E-09,6.44,865,20.38,1368,,1.08,610,,,,,"THIS AGE IS TOO YOUNG"
+8171,1,20.2,0.9,zircon,"9. (M50)",7.03E-09,5.17,957,13,1204,,0.851,490,,"age of intrusion",,,
+8172,1,20.9,1.1,zircon,"10. (M49B)",7.03E-09,3.54,607,11.05,946,,1.09,330,,"minimum age of volcanism",,,
+8172,2,27.8,3.9,apatite,"10. (M49B)",7.03E-09,0.136,283,0.271,565,,0.93,9.4,,,,,"AGE IS TOO OLD"
+8173,1,21.8,1,zircon,"11. (M83)",7.03E-09,4.03,840,12.72,1325,,1.15,350,,"age of volcanism",,,
+8173,2,23.7,3.6,apatite,"11. (M83)",7.03E-09,0.114,237,0.259,540,,0.904,9.2,,"maximum age of volcanism",,,
+8174,1,23.3,2.6,apatite,"12. (M27A)",7.03E-09,0.206,429,0.468,976,,0.888,17,,"age of intrusion",,,
+8174,2,19,0.8,zircon,"12. (M27A)",7.03E-09,8.32,1464,10.95,963,,0.418,840,,,,,"AGE IS TOO YOUNG"
+8175,1,24.1,1.2,zircon,"13. (M98)",7.03E-09,5.34,668,17.12,1070,,1.29,430,,"age of intrusion",,,
+8176,1,27,1.2,zircon,"14. (75-S-20)",7.03E-09,5.74,903,14.47,1139,,1.14,410,,"age of volcanism",,,
+8177,1,27.4,1.3,zircon,"15. (M90)",7.03E-09,4.11,762,9.49,879,,1.06,290,,"age of volcanism",,,
+8199,1,6.1,0.3,zircon,T40-TR-A,6.85E-09,15.39,862,27.58,772,,0.18,,,"age of volcanism","4 GRAINS COUNTED",,"THIS AGE AGREES WITH A 6.0 M.Y. K-AR SANIDINE AGE (ARMSTRONG, 1970, TABLE 3) AND A 6.1 M.Y. K-AR AGE (E.H. MCKEE, ORAL COMMUN., 1975) AND DISAGREES WITH A 16.2 M.Y. K-AR SANIDINE AGE (WHELAN, 1970) ON THE SAME FLOW."
+8200,1,6.1,0.3,zircon,T52-TR-A,6.85E-09,17.26,794,35.04,806,,0.2,,,"age of volcanism","3 GRAINS COUNTED",,
+8201,1,6.3,0.4,zircon,T52-TR-B,6.85E-09,6.48,700,12.31,665,,0.19,,,"age of volcanism","5 GRAINS COUNTED",,
+8202,1,6.6,0.3,zircon,T50-TR-A,6.85E-09,16.45,1053,28.88,924,,0.19,,,"age of volcanism","5 GRAINS COUNTED",,
+8203,1,7.8,0.6,sphene,K47-TR-A,6.85E-09,0.23,216,2,948,,1.11,,,"age of volcanism","10 GRAINS COUNTED",,
+8204,1,8.2,0.5,zircon,K39-TR-A,6.85E-09,2.86,480,12.6,1058,,0.59,,,"age of volcanism","6 GRAINS COUNTED",,
+8205,1,10.3,0.6,zircon,K-49-A,6.85E-09,1.29,409,9.18,1451,,1.18,,,"age of volcanism","8 GRAINS COUNTED",,
+8206,1,9.6,0.9,zircon,K-49-B,6.85E-09,1.24,154,9.55,592,,1.2,,,"age of volcanism","4 GRAINS COUNTED",,
+8207,1,30.8,1.8,zircon,DRS-282-63,6.85E-09,6.4,550,13.86,596,,1.09,,,"age of intrusion","5 GRAINS COUNTED",,
+8208,1,32.4,1.2,zircon,IN-2,6.85E-09,10.11,1375,22.48,1528,,1.17,,,,"5 GRAINS COUNTED",,"AGE OF INTRUSIONS IS AROUND 30.3 M.Y.  THIS IS IN FAIR AGREEMENT WITH K-AR AGES OF 28.5 AND 26.5 M.Y. (ARMSTRONG, 1970, TABLE 3), BUT NOT IN AGREEMENT WITH PB-ALPHA AGES OF 36 AND 41 M.Y. (WHELAN, 1975) FOR THIS INTRUSION."
+8208,2,28.2,2.3,sphene,IN-2,6.85E-09,0.83,291,1.95,342,,1.08,,,,"4 GRAINS COUNTED",,"AGE OF INTRUSION IS AROUND 30.3 M.Y."
+8209,1,29.9,3,zircon,T43-A,6.85E-09,3.03,188,7.23,224,,1.16,,,,"2 GRAINS COUNTED",,"AGE OF TUFF IS AROUND 29.9 M.Y.  THIS IS NOT IN AGREEMENT WITH PB-ALPHA AGE OF 20 M.Y. (JAFFE AND OTHERS, 1959, P. 71) FOR THIS TUFF."
+8209,2,27.8,1.9,sphene,T43-A,6.85E-09,0.39,436,0.76,423,,0.88,,,,"7 GRAINS COUNTED",,"AGE OF TUFF IS AROUND 29.9 M.Y."
+8209,3,31.9,,apatite,T43-A,6.85E-09,0.32,508,0.61,980,,1,,,,"50 GRAINS COUNTED",,"AGE OF TUFF IS AROUND 29.9 M.Y."
+8210,1,32.2,1.6,zircon,T42-A,6.85E-09,10.91,742,24.52,834,,1.18,,,,"4 GRAINS COUNTED",,"AGE OF THE TUFF IS AROUND 32.1 M.Y."
+8210,2,31.6,2.5,sphene,T42-A,6.85E-09,1.59,324,3.39,346,,1.1,,,,"5 GRAINS COUNTED",,"AGE OF THE TUFF IS AROUND 32.1 M.Y."
+8210,3,32.5,,apatite,T42-A,6.85E-09,0.23,420,0.54,976,,1.23,,,,"50 GRAINS COUNTED",,"AGE OF THE TUFF IS AROUND 32.1 M.Y."
+8211,1,13.6,,apatite,K2O-A,6.85E-09,0.12,194,0.55,874,,0.99,,,,"50 GRAINS COUNTED",,"THIS IS A REDUCED AGE"
+8211,2,32.7,2.3,sphene,K20-A,6.85E-09,0.34,475,0.57,385,,0.9,,,"age of volcanism","7 GRAINS COUNTED",,
+8212,1,32.5,1.2,zircon,K48-A,6.85E-09,10.49,1385,23.58,1556,,1.19,,,,"6 GRAINS COUNTED",,"AGE OF THE TUFF IS AROUND 32.1 M.Y."
+8212,2,31.7,2.1,sphene,K48-A,6.85E-09,1.72,433,3.72,469,,1.12,,,,"7 GRAINS COUNTED",,"AGE OF THE TUFF IS AROUND 32.1 M.Y."
+8213,1,37.2,1.6,zircon,K15-A,6.85E-09,7.2,1037,14,1006,,1.17,,,,"5 GRAINS COUNTED",,"THE AGE OF THIS SAMPLE IS AROUND 38.5 M.Y."
+8213,2,39.7,,apatite,K15-A,6.85E-09,0.29,524,0.55,992,,1.22,,,,"50 GRAINS COUNTED",,"THE AGE OF THIS SAMPLE IS AROUND 38.5 M.Y."
+8214,1,38.3,1.5,zircon,K50-A,6.85E-09,10.83,1451,20.24,1356,,1.17,,,"age of volcanism","7 GRAINS COUNTED",,
+8215,1,37.5,2.2,sphene,T51-A,6.85E-09,1.68,603,3.12,561,,1.14,,,,"10 GRAINS COUNTED",,"THE AGE OF THE TUFF IS AROUND 38.3 M.Y."
+8215,2,39,,apatite,T51-A,6.85E-09,0.27,485,0.52,941,,1.23,,,,"50 GRAINS COUNTED",,"THE AGE OF THE TUFF IS AROUND 38.3 M.Y."
+8465,1,28,3,apatite,,6.85E-09,185,,570,,,1.397,,,"age of uplift and cooling",,,
+8466,1,62,4,apatite,JE14-67,6.85E-09,1123,,766,,,1.397,,,"age of uplift and cooling",,,
+8467,1,71,5,apatite,JE20-67,6.85E-09,688,,831,,,1.397,,,"age of uplift and cooling",,,
+8468,1,65,4,apatite,JE21-67,6.85E-09,812,,900,,,1.19,,,"age of uplift and cooling",,,
+8469,1,57,4,apatite,JE22-67,6.85E-09,503,,1141,,,1.397,,,"age of uplift and cooling",,,
+8469,2,94,9,allanite,JE22-67,6.85E-09,486,,213,,,1.35,,,,,,"AGE OF THE PLUTON IS AROUND 88 M.Y."
+8471,1,42,5,apatite,RWT18-68,,133,,136,,,1.616,,,"age of uplift and cooling",,,
+8471,2,84,12,allanite,RWT18-68,6.85E-09,141,,39,,,1.53,,,,,,"AGE OF THE PLUTON IS AROUND 88-90 M.Y."
+8471,3,98,14,allanite,RWT18-68,6.85E-09,153,,36.5,,,1.53,,,,,,"AGE OF THE PLUTON IS AROUND 88-90 M.Y."
+8471,4,83,20,epidote,RWT18-68,6.85E-09,48,,13.5,,,1.53,,,,,,"AGE OF THE PLUTON IS AROUND 88-90 M.Y."
+8472,1,15.5,1.5,,"(NOT GIVEN)","not given",,,,,,,,,"age of intrusion",,"NO ANALYTICAL DATA GIVEN",
+8486,1,89,9,apatite,0K-1,7.03E-09,,,,,,,,,"maximum age of intrusion",,"NO ANALYTICAL DATA GIVEN",
+8486,2,84,8,sphene,OK-1,7.03E-09,,,,,,,,,"age of intrusion",,"NO ANALYTICAL DATA GIVEN",
+8487,1,56,6,apatite,OK-2,7.03E-09,,,,,,,,,"age of uplift and cooling",,"NO ANALYTICAL DATA GIVEN",
+8487,2,72,7,sphene,OK-2,7.03E-09,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","THIS IS A REDUCED AGE."
+8489,1,94,12,apatite,OK-4,7.03E-09,,,,,,,,,,,,"AGE APPEARS TO BE OLD."
+8490,1,78,8,sphene,OK-5,7.03E-09,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","AGE IS APPARENTLY TOO YOUNG."
+8491,1,92,9,apatite,OK-6,7.03E-09,,,,,,,,,"minimum age of metamorphism",,"NO ANALYTICAL DATA GIVEN",
+8491,2,90,9,zircon,OK-6,7.03E-09,,,,,,,,,"minimum age of metamorphism",,"NO ANALYTICAL DATA GIVEN",
+8940,1,69.3,6.4,apatite,"(NOT GIVEN)",7.03E-09,0.234,,0.233,,,1.11,5.8,,"minimum age of intrusion",,,
+8941,1,82.4,3.4,sphene,"(NOT GIVEN)",7.03E-09,5.9,1257,5.32,567,,1.25,120,,,,,"206PB/238U AGE IS 91.4 M.Y. FOR THIS PLUTON"
+8941,2,79.5,8,apatite,"(NOT GIVEN)",7.03E-09,0.445,928,0.324,676,,0.974,9.6,,,,,"206PB/238U AGE IS 91.4 M.Y. FOR THIS PLUTON"
+8941,3,70.8,3.3,zircon,"(NOT GIVEN)",7.03E-09,10.64,2266,8.71,927,,0.973,260,,"age not evaluated","7 GRAINS","POOLED ANALYTICAL RESULTS",
+8941,4,78,3.1,zircon,"(NOT GIVEN)",7.03E-09,13.28,1475,9.85,547,,0.973,290,,"age not evaluated","3 GRAINS",,
+8941,5,60.3,2.4,zircon,"(NOT GIVEN)",7.03E-09,7.77,791,7.46,380,,0.973,220,,"age not evaluated","4 GRAINS",,
+8942,1,47.2,1.9,zircon,"(NOT GIVEN)",7.03E-09,5.93,884,7.87,587,,1.05,220,,"minimum age of intrusion",,,
+8942,2,47.5,3.6,apatite,"(NOT GIVEN)",7.03E-09,0.59,268,3.96,889,,5.34,21,,"minimum age of intrusion",,,
+9066,1,15.5,1.5,apatite,"(NOT GIVEN)","not given",,,,,,,,,"age of intrusion",,"NO ANALYTICAL DATA GIVEN",
+9096,1,145,10,zircon,75-227,7.03E-09,14,1103,6.52,257,,1.14,160,,"age not evaluated",,,
+9099,1,113,8,zircon,75-374A,7.03E-09,5.06,958,2.97,282,,1.12,76,,"age not evaluated",,,
+9100,1,265,32,zircon,75-92,7.03E-09,21.86,1457,5.46,182,,1.13,140,,"age not evaluated",,,
+9101,1,246,45,zircon,68-21,7.03E-09,15.08,731,3.96,96,,1.1,100,,"age not evaluated",,,"MATTINSON (1972) OBTAINED A PB-U ZIRCON AGE OF 437+/-10 M.Y. FOR THIS SAMPLE."
+9134,1,48.1,2.4,sphene,15,7.03E-09,6.04,1006,6.76,563,,0.903,220,,"minimum age of intrusion","5 GRAINS",,
+9162,1,63.8,3.2,sphene,43,7.03E-09,2.4,700,2.54,724,,2.27,,,"age of intrusion",,,"THE PLUTON MAY HAVE FORMED ABOUT 64 M.Y. AGO."
+9162,2,69.7,10.2,apatite,43,7.03E-09,14.8,370,14.8,370,,1.17,,,,,,"THE PLUTON MAY HAVE FORMED ABOUT 64 M.Y. AGO; THIS AGE APPEARS SOMEWHAT OLD."
+9162,3,60.8,13.6,zircon,43,7.03E-09,3.13,217,3.42,119,,1.12,,,"minimum age of intrusion",,,"THE PLUTON MAY HAVE FORMED ABOUT 64 M.Y. AGO."
+9163,1,60.7,7.7,apatite,44,7.03E-09,17.3,463,21.3,532,,1.17,,,"minimum age of intrusion",,,
+9169,1,62.1,6.6,zircon,50,7.03E-09,7.45,1073,7.43,535,,1.04,,,,"7 ZIRCONS",,"LACCOLITH PROBABLY FORMED 66 M.Y. AGO"
+9169,2,67.4,9.6,sphene,50,7.03E-09,0.83,297,3.08,555,,4.23,,,,"10 SPHENES",,"LACCOLITH PROBABLY FORMED 66 M.Y. AGO."
+9170,1,64.3,6.4,apatite,51,7.03E-09,0.6,1072,0.51,923,,0.93,,,,"50 GRAINS",,"LACCOLITH PROBABLY FORMED 66 M.Y. AGO"
+9170,2,65.5,7.2,zircon,51,7.03E-09,7,1008,6.68,481,,1.05,,,,"5 ZIRCONS",,"LACCOLITH PROBABLY FORMED 66 M.Y. AGO."
+9170,3,70.9,9,sphene,51,7.03E-09,1.06,382,3.81,686,,4.28,,,,"10 SPHENES",,"LACCOLITH PROBABLY FORMED 66 M.Y. AGO"
+9171,1,60.5,6.2,zircon,52,7.03E-09,7.22,1126,7.32,571,,1.03,,,,"6 ZIRCONS",,"ROCK PROBABLY FORMED 66 M.Y. AGO."
+9172,1,53.5,6.6,zircon,53,7.03E-09,3.7,732,4.24,420,,1.03,,,,"6 ZIRCONS",,"AGE PROBABLY DATES THE LATEST TIME OF MINERALIZATION AND HYDROTHERMAL ALTERATION."
+9173,1,64.8,6.5,apatite,54,7.03E-09,0.44,789,0.37,667,,0.92,,,,"50 GRAINS",,"INTRUSIVE COMPLEX PROBABLY FORMED 64 M.Y. AGO."
+9173,2,55.6,5.8,zircon,54,7.03E-09,3.62,1012,4.04,565,,1.04,,,,"6 ZIRCONS",,"INTRUSIVE COMPLEX PROBABLY FORMED 64 M.Y. AGO; THIS ZIRCON AGE IS TOO YOUNG."
+9173,3,62.6,7.2,sphene,54,7.03E-09,1.09,433,4.98,986,,4.79,,,,"11 SPHENES",,"INTRUSIVE COMPLEX PROBABLY FORMED 64 M.Y. AGO."
+9174,1,63.7,6.6,sphene,55,7.03E-09,1.53,551,6.91,1244,,4.83,,,,"10 SPHENES",,"SILL PROBABLY FORMED ABOUT 65 M.Y. AGO."
+9175,1,75.4,8.6,zircon,56,7.03E-09,6.91,995,6.06,436,,1.11,,,,"5 ZIRCONS",,"A SPURIOUS AGE"
+9177,1,68.4,3.3,zircon,58,7.03E-09,7.45,1379,7.26,672,,1.06,210,,"age of intrusion",,,
+9177,2,76.6,3.3,sphene,58,7.03E-09,2.42,1044,3.45,742,,1.73,60,,,,,"THIS ROCK PROBABLY FORMED 69-68 M.Y. AGO; THIS SPHENE AGE IS SPURIOUS."
+9178,1,63.6,7.3,zircon,59,7.03E-09,12.2,845,12.6,439,,1.11,370,,,,,"THIS ROCK FORMED 67 M.Y. AGO."
+9178,2,82,4,sphene,59,7.03E-09,2.54,847,3.32,553,,1.8,60,,,,,"THIS ROCK FORMED 67 M.Y. AGO; THIS AGE IS SPURIOUS."
+9180,1,82.6,4.6,zircon,60,7.03E-09,6,806,4.8,322,,1.11,140,,,,,"THIS PLUTON PROBABLY FORMED ABOUT 67 M.Y. AGO; THIS AGE APPEARS TO BE TOO OLD."
+9180,2,81.6,4.2,sphene,60,7.03E-09,1.81,781,2.39,515,,1.81,43,,,,,"THIS PLUTON PROBABLY FORMED ABOUT 67 M.Y. AGO; THIS AGE APPEARS TO BE TOO OLD."
+9181,1,73.3,7.7,apatite,61,7.03E-09,0.362,754,0.329,686,,1.12,,,,,,"THIS AGE APPEARS TOO OLD; SILL PROBABLY FORMED ABOUT 65 M.Y. AGO."
+9205,1,20,10,sphene,CC-1,6.85E-09,,,,,,,,,"age of uplift and cooling",,"NO ANALYTICAL DATA GIVEN",
+9205,2,20,4,apatite,CC-1,6.85E-09,,,,,,,,,"age of uplift and cooling",,"NO ANALYTICAL DATA GIVEN",
+9223,1,46,26,apatite,"(NOT GIVEN)",6.85E-09,,,,,,,0.4,,"age of uplift and cooling",,"NO ANALYTICAL DATA GIVEN",
+9223,2,69,32,apatite,"(NOT GIVEN)",6.85E-09,,,,,,,0.4,,"age of uplift and cooling",,"NO ANALYTICAL DATA GIVEN",
+9224,1,10.2,1.9,sphene,"(NOT GIVEN)",6.85E-09,,,,,,,,,"age of uplift and cooling",,"NO ANALYTICAL DATA GIVEN",
+9224,2,12.4,2.4,apatite,"(NOT GIVEN)",6.85E-09,,,,,,,,,"age of uplift and cooling",,"NO ANALYTICAL DATA GIVEN",
+9244,1,18.9,6.3,apatite,9W-99-39,6.85E-09,,,,,,,,,"age of uplift and cooling",,"NO ANALYTICAL DATA GIVEN",
+9245,1,18.3,1.9,zircon,13W-29-11,6.85E-09,,,,,,,,,"age of uplift and cooling",,"NO ANALYTICAL DATA GIVEN",
+9245,2,13.7,3.7,apatite,13W-29-11,6.85E-09,,,,,,,,,"age meaning uncertain (analysis questionable)",,"NO ANALYTICAL DATA GIVEN",
+9256,1,10.93,0.88,apatite,F4,6.85E-09,,46,,125,,0.979,,,,"2 GRAINS",,"AGE DIFFICULT TO INTERPRET"
+9256,2,45.68,2.78,zircon,F4,6.85E-09,,997,,647,,0.979,,,"age of uplift and cooling","3 GRAINS",,
+9257,1,27.19,1.66,apatite,G3-1,6.85E-09,,109,,119,,0.979,,,"age of uplift and cooling","6 GRAINS",,
+9257,2,84.92,4.78,zircon,G3-1,6.85E-09,,457,,200,,1.22,,,"age of uplift and cooling","4 GRAINS",,
+9331,1,78.6,6.7,apatite,1,7.03E-09,0.287,1195,0.243,1013,,1.12,6.3,,"age of uplift and cooling",,,
+9331,2,104,11,sphene,1,7.03E-09,19.79,733,43.84,812,,3.87,330,,,,,"STOCK IS PROBABLY 101 M.Y. OLD"
+9331,3,101,6.4,zircon,1,7.03E-09,10.99,1628,7.21,534,,1.12,190,,"age of intrusion",,,
+9332,1,93.3,6.8,apatite,2,7.03E-09,0.431,1794,0.307,1280,,1.12,7.9,,,,,"STOCK IS PROBABLY 101 M.Y. OLD"
+9333,1,106,9,apatite,3,7.03E-09,0.327,1362,0.203,845,,1.11,5.3,,,,,"STOCK IS PROBABLY 101 M.Y. OLD."
+9334,1,98.3,7.9,apatite,4,7.03E-09,0.372,1552,0.248,1032,,1.1,6.5,,,,,"STOCK IS PROBABLY 101 M.Y. OLD"
+9335,1,107,9,apatite,5,7.03E-09,0.349,1454,0.212,885,,1.1,5.6,,,,,"STOCK IS PROBABLY 101 M.Y. OLD."
+9335,2,100,6.4,zircon,5,7.03E-09,17.36,1366,11.44,450,,1.11,300,,"age of intrusion",,,
+9336,1,55.6,5.6,apatite,6,7.03E-09,0.163,681,0.193,803,,1.1,5,,"age of uplift and cooling",,,"STOCK IS PROBABLY AROUND 100 M.Y. OLD."
+9336,2,93.6,8.5,zircon,7,7.03E-09,13.71,1904,9.58,665,,1.1,250,,"minimum age of intrusion",,,
+9622,1,35.1,3.6,zircon,1,7.03E-09,10.4,723,20.4,700,,1.09,570,,"age of intrusion","3 GRAINS",,
+9623,1,38.3,1.8,zircon,"2 (222)",7.03E-09,6.08,1188,9,943,,1.02,290,,"age of intrusion","19 GRAINS",,
+9623,2,36.6,2,zircon,"2 (222)",7.03E-09,3.39,92,5.32,308,,0.965,290,,"minimum age of intrusion","6 GRAINS",,
+9623,3,36.2,1.6,zircon,"2 (222)",7.03E-09,5.22,628,8.44,508,,0.98,275,,"minimum age of intrusion","6 GRAINS",,
+9624,1,38.2,1.8,zircon,"2 (466)",7.03E-09,5.55,719,8.76,568,,1.01,250,,,"6 GRAINS",,"AGE OF CONTACT METAMORPHISM"
+9625,1,40.4,1.7,sphene,3,7.03E-09,5.93,1456,11.12,1364,,1.27,280,,"maximum age of intrusion","6 GRAINS",,
+9625,2,37.9,1.6,zircon,3,7.03E-09,3.61,852,6.87,795,,1.18,190,,"age of intrusion","6 GRAINS",,
+9625,3,42.7,8.2,apatite,3,7.03E-09,0.243,113,0.387,118,,1.13,11,,"age not evaluated","50 GRAINS",,
+9626,1,39.9,2,sphene,4,7.03E-09,2.1,670,3.92,626,,1.25,100,,"maximum age of intrusion","6 GRAINS",,
+9626,2,35.5,1.4,zircon,4,7.03E-09,5.56,1055,10.68,1014,,1.14,300,,"age of intrusion","6 GRAINS",,
+9626,3,41.1,10,apatite,4,7.03E-09,0.144,134,0.238,220,,1.13,6.8,,"maximum age of intrusion","50 GRAINS",,
+9627,1,40.3,1.8,zircon,"5 (503)",7.03E-09,7.76,1149,12.3,911,,1.07,330,,"age of intrusion","6 GRAINS",,
+9627,2,40.6,5.8,apatite,"5 (503)",7.03E-09,0.159,331,0.239,497,,0.997,6.9,,"age of intrusion","50 GRAINS",,
+9629,1,41.5,1.8,zircon,6,7.03E-09,4.24,610,6.59,474,,1.08,180,,"age of intrusion","6 GRAINS",,
+9630,1,37.6,1.5,zircon,7,7.03E-09,4.09,910,8.32,924,,1.28,190,,"age of intrusion","6 GRAINS",,
+9630,2,56.4,7.4,apatite,7,7.03E-09,0.108,450,0.116,485,,1.02,3.3,,,"100 GRAINS","APATITE HAS MANY CRYSTAL DEFECTS","AGE IS SPURIOUS"
+9631,1,41.5,1.8,zircon,8,7.03E-09,3.62,787,5.41,589,,1.04,150,,"age of volcanism","6 GRAINS",,
+9631,2,42.8,5.1,apatite,8,7.03E-09,0.115,479,0.16,667,,1,4.6,,"age of volcanism","100 GRAINS",,
+9632,1,36.4,1.9,zircon,9,7.03E-09,4.75,1122,8.8,1039,,1.13,220,,"age of volcanism","6 GRAINS",,
+9633,1,55.5,2.7,zircon,10,7.03E-09,6.35,912,7.16,514,,1.05,200,,"age of volcanism","6 GRAINS",,
+9633,2,66.5,11.6,apatite,10,7.03E-09,0.149,275,0.136,251,,1.02,3.8,,"age not evaluated","100 GRAINS",,
+9634,1,54.7,4.8,zircon,11,7.03E-09,8.12,1240,10.38,793,,1.17,280,,"age of volcanism","6 GRAINS",,
+9634,2,66.4,12,apatite,11,7.03E-09,0.162,337,0.164,342,,1.13,4.7,,"age not evaluated","50 GRAINS",,
+9635,1,64.1,3.7,zircon,12,7.03E-09,10.3,1045,9.82,500,,1.03,270,,"age of volcanism","4 GRAINS",,
+9635,2,59.3,8.1,apatite,12,7.03E-09,0.102,427,0.102,425,,0.99,3,,"age of volcanism","100 GRAINS",,
+9636,1,60.9,3.2,zircon,13,7.03E-09,5.12,1208,5.25,620,,1.05,140,,"age of volcanism","6 GRAINS",,
+9636,2,63.3,8.5,apatite,13,7.03E-09,0.11,457,0.104,434,,1.01,3,,"maximum age of volcanism","100 GRAINS",,
+9736,1,0.84,0.21,zircon,DF2733-3,7.03E-09,0.12,15,7.86,504,,0.946,,,"age of volcanism","10 GRAINS",,
+9737,1,0.66,0.04,glass,TF-24,7.03E-09,656,340,0.13,10073,,2.15,,,,,,"AGE IS TOO YOUNG."
+9738,1,0.87,0.27,zircon,DF2734,7.03E-09,0.09,9,5.59,292,,0.946,,,"age of volcanism","7 GRAINS",,
+9791,1,60,,zircon,"(NOT GIVEN)","not given",,,,,,,,,"age of intrusion",,"NO ANALYTICAL DATA GIVEN",
+10057,1,1.39,0.11,zircon,"77G55 (1646)",7.03E-09,0.423,45,19.14,1019,,1.05,520,,,,,"AGE IS PROBABLY 1.47 M.Y."
+10057,2,1.46,0.12,zircon,"77G55 (1646A)",7.03E-09,0.374,71,7.55,717,,0.493,440,,"age of volcanism",,,
+11048,1,23.3,3.7,zircon,2,6.85E-09,,,,,,,,,"age of volcanism",,"NO ANALYTICAL DATA GIVEN",
+11050,1,23.5,2.5,zircon,4,6.85E-09,,,,,,,,,"age of volcanism",,"NO ANALYTICAL DATA GIVEN",
+11051,1,9.1,1,zircon,5,6.85E-09,,,,,,,,,"age of volcanism",,"NO ANALYTICAL DATA GIVEN",
+11051,2,8.2,1.4,glass,5,6.85E-09,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","THIS DATE IS TOO YOUNG"
+11053,1,,,apatite,7,6.85E-09,,,,,,,,,,"SEVERAL SAMPLES OF APATITE DATED","AGES FROM 7.5-10.0 M.Y. DETERMINED; NO ANALYTICAL DATA GIVEN","MINIMUM AGES FOR THE DIATREMES."
+11057,1,11.2,1.8,zircon,1,6.85E-09,,,,,,,,,"age of volcanism",,"NO ANALYTICAL DATA GIVEN",
+11057,2,8.3,1.2,glass,1,6.85E-09,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","THIS DATE IS TOO YOUNG"
+11058,1,12.8,2,zircon,2,6.85E-09,,,,,,,,,"age of volcanism",,"NO ANALYTICAL DATA GIVEN",
+11058,2,10.9,1.4,glass,2,6.85E-09,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","THIS DATE IS TOO YOUNG"
+11059,1,18,2,zircon,3,6.85E-09,,,,,,,,,"minimum age of volcanism",,"NO ANALYTICAL DATA GIVEN",
+11059,2,20,2.3,sphene,3,6.85E-09,,,,,,,,,"age of volcanism",,"NO ANALYTICAL DATA GIVEN",
+11061,1,16.1,3.7,zircon,"(NOT GIVEN)",6.85E-09,,,,,,,,,"age of volcanism",,"NO ANALYTICAL DATA GIVEN",
+11062,1,4.6,1,zircon,"(NOT GIVEN)",6.85E-09,,,,,,,,,"age of volcanism",,,
+11063,1,9.7,1.2,zircon,"(NOT GIVEN)",6.85E-09,,,,,,,,,"age of volcanism",,"NO ANALYTICAL DATA GIVEN",
+11063,2,7.5,2.2,glass,"(NOT GIVEN)",6.85E-09,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","THIS DATE IS TOO YOUNG"
+11064,1,6.6,0.8,zircon,"(NOT GIVEN)",6.85E-09,,,,,,,,,"age of volcanism",,"NO ANALYTICAL DATA GIVEN",
+11064,2,4.7,0.8,glass,"(NOT GIVEN)",6.85E-09,,,,,,,,,,,,"THIS DATE IS TOO YOUNG"
+11074,1,78.4,3.3,sphene,"RICO 1",7.03E-09,8.46,1645,12.15,1181,,1.89,210,,"minimum age of intrusion","6 GRAINS ANALYZED",,
+11074,2,61.4,2.9,zircon,"RICO 1",7.03E-09,4.78,1174,4.86,596,,1.04,150,,,"6 GRAINS ANALYZED",,"AGE HAS BEEN LOWERED BY A RECENT(?) THERMAL EVENT"
+11074,3,6.6,2.3,apatite,"RICO 1",7.03E-09,0.016,34,0.169,353,,1.14,4.8,,,"50 GRAINS ANALYZED",,"DATE MAY INDICATE THE AGE OF A RECENT THERMAL EVENT"
+11075,1,64.9,2.9,zircon,"RICO 2",7.03E-09,9.89,2151,9.72,1058,,1.07,290,,"minimum age of intrusion","6 GRAINS ANALYZED",,
+11075,2,20.2,7.4,apatite,"RICO 2",7.03E-09,0.017,36,0.038,121,,1.14,1.6,,,"50 GRAINS ANALYZED",,"AGE REDUCED BY SOME THERMAL EVENT"
+11076,1,64.9,3.7,zircon,"RICO 3",7.03E-09,11.77,1835,10.75,838,,0.996,310,,"minimum age of intrusion","6 GRAINS ANALYZED",,
+11076,2,10.3,4.1,apatite,"RICO 3",7.03E-09,0.01,29,0.058,162,,0.961,1.7,,,"50 GRAINS ANALYZED",,"AGE REDUCED BY SOME THERMAL EVENT"
+11077,1,34.3,1.5,zircon,"RICO 4",7.03E-09,6.12,850,10.58,735,,0.994,310,,,,,"AGE IS PROBABLY TOO YOUNG; DIKE MAY BE ABOUT 64 M.Y. OLD"
+11077,2,4.6,2.9,apatite,"RICO 4",7.03E-09,0.004,11,0.049,137,,0.961,1.5,,,"50 GRAINS ANALYZED",,"AGE MAY INDICATE THE TIME OF THE MOST RECENT THERMAL EVENT"
+11078,1,6.8,0.6,zircon,"RICO 5",7.03E-09,1.29,219,11.29,957,,0.991,330,,,"6 GRAINS ANALYZED",,"AGE MAY INDICATE TIME OF SOME RECENT THERMAL EVENT; DIKE IS PROBABLY ABOUT 64 M.Y. OLD."
+11078,2,7,3.3,apatite,"RICO 5",7.03E-09,0.007,20,0.059,165,,0.961,1.8,,,"50 GRAINS ANALYZED",,"AGE MAY INDICATE THE TIME OF A RECENT THERMAL EVENT"
+11079,1,59.9,2.7,zircon,"RICO 6",7.03E-09,10.74,1856,10.56,913,,0.989,310,,"minimum age of intrusion","6 GRAINS ANALYZED",,
+11079,2,7.8,3.7,apatite,"RICO 6",7.03E-09,0.007,20,0.053,148,,0.961,1.6,,,"50 GRAINS ANALYZED",,"AGE MAY INDICATE THE APPROXIMATE TIME OF THE MOST RECENT THERMAL EVENT"
+11080,1,38.6,1.5,zircon,"RICO 9",7.03E-09,9.74,1650,14.82,1256,,0.986,430,,,,,"THIS AGE HAS BEEN REDUCED BY A RECENT THERMAL EVENT; DIKE IS PROBABLY AROUND 64 M.Y. OLD."
+11080,2,5.6,3.2,apatite,"RICO 9",7.03E-09,0.005,14,0.051,143,,0.961,1.5,,,"50 GRAINS ANALYZED",,"AGE PROBABLY INDICATES THE TIME OF THE MOST RECENT THERMAL EVENT."
+11081,1,4.1,0.4,zircon,"RICO 10",7.03E-09,1.45,271,21.04,1961,,0.984,620,,"age of intrusion","6 GRAINS ANALYZED",,
+11082,1,5.6,0.5,zircon,"RICO 11",7.03E-09,0.865,170,9,885,,0.982,260,,"age of intrusion","6 GRAINS ANALYZED",,
+11083,1,4,0.4,zircon,"RICO 14",7.03E-09,0.931,221,13.42,1592,,0.975,400,,"age of intrusion","6 GRAINS ANALYZED",,
+11083,2,6.1,1.5,apatite,"RICO 14",7.03E-09,0.027,77,0.258,725,,0.961,7.7,,"maximum age of intrusion","50 GRAINS ANALYZED",,
+11084,1,3.4,0.3,zircon,"RICO 12",7.03E-09,1.12,209,19.6,1827,,0.979,580,,"age of intrusion","6 GRAINS ANALYZED",,
+11085,1,3.9,0.4,zircon,"RICO 13",7.03E-09,1.08,147,16.21,1099,,0.977,480,,"age of intrusion","6 GRAINS ANALYZED",,
+11167,1,68.5,5,apatite,1,7.03E-09,0.351,1462,0.357,1487,,1.17,9.8,,"age of uplift and cooling","100 GRAINS ANALYZED",,
+11168,1,66.5,4,apatite,2,7.03E-09,0.51,2123,0.534,2226,,1.17,15,,"age of uplift and cooling","100 GRAINS ANALYZED",,
+11169,1,57.8,8.7,apatite,3,7.03E-09,0.747,346,0.786,364,,1.02,22,,"age of uplift and cooling","100 GRAINS ANALYZED",,
+11170,1,98,5,apatite,4,7.03E-09,0.909,3786,0.646,2690,,1.17,18,,"age of uplift and cooling","100 GRAINS ANALYZED",,
+11171,1,90.2,12.7,apatite,5,7.03E-09,1.08,500,0.726,336,,1.02,20,,"age of uplift and cooling","100 GRAINS ANALYZED; GRAINS HAVE MANY DEFECTS","AGE IS ONLY AN APPROXIMATE AGE",
+11172,1,134,7,apatite,6,7.03E-09,0.938,3909,0.449,2020,,1.17,13,,"age of uplift and cooling","100 GRAINS ANALYZED",,
+11173,1,45.1,5.9,apatite,7,7.03E-09,0.624,289,2.69,1245,,3.26,24,,,"100 GRAINS ANALYZED",,"AGE PROBABLY AFFECTED BY NEARBY MID-TERTIARY INTRUSION"
+11174,1,79,38,apatite,8,7.03E-09,0.0096,40,0.0072,30,,1,0.2,,"age of uplift and cooling","100 GRAINS ANALYZED",,
+11175,1,49.8,4,apatite,9,7.03E-09,0.274,1141,0.338,1407,,1.03,9.4,,,"100 GRAINS ANALYZED",,"AGE WAS PROBABLY AFFECTED BY NEARBY MID-TERTIARY IGNEOUS INTRUSION"
+11176,1,148,19,apatite,10,7.03E-09,1.72,798,0.782,362,,1.11,20,,"age of uplift and cooling","50 GRAINS ANALYZED",,
+11177,1,124,18,apatite,11,7.03E-09,0.583,540,0.317,294,,1.11,8.2,,"age of uplift and cooling","50 GRAINS ANALYZED",,
+11178,1,130,25,apatite,12,7.03E-09,0.161,335,0.081,169,,1.11,2.1,,"age of uplift and cooling","50 GRAINS ANALYZED",,
+11179,1,245,30,apatite,13,7.03E-09,0.642,1338,0.16,334,,0.971,4.4,,"age of uplift and cooling","50 GRAINS ANALYZED",,
+11180,1,473,100,apatite,14,7.03E-09,0.806,746,0.109,101,,1.11,2.8,,"age of uplift and cooling","50 GRAINS ANALYZED",,
+11181,1,352,18,apatite,15,7.03E-09,4.53,881,4.43,431,,5.91,22,,"age of uplift and cooling","6 GRAINS ANALYZED",,
+11182,1,52.5,12.8,apatite,16,7.03E-09,0.278,124,0.313,145,,1.03,8.8,,"age of uplift and cooling","100 GRAINS ANALYZED, APATITE HAS MANY DEFECTS","AN APPROXIMATE AGE",
+11183,1,51.1,5.5,apatite,17,7.03E-09,0.345,639,0.407,753,,1.01,12,,"age of uplift and cooling","100 GRAINS ANALYZED",,
+11184,1,27.9,3.9,apatite,18,7.03E-09,0.072,299,0.156,652,,1.02,4.4,,"age of uplift and cooling","100 GRAINS ANALYZED",,"THIS MAY BE AN AREA WITH A HIGH GEOTHERMAL GRADIENT."
+11185,1,29.9,4.2,apatite,19,7.03E-09,0.126,262,0.432,900,,1.72,7,,"age of uplift and cooling","50 GRAINS ANALYZED",,"THIS MAY BE AN AREA WITH A HIGH GEOTHERMAL GRADIENT"
+11186,1,19.9,4.4,apatite,20,7.03E-09,0.047,98,0.243,507,,1.72,4,,"age of uplift and cooling","50 GRAINS ANALYZED",,"THIS MAY BE AN AREA WITH HIGH GEOTHERMAL GRADIENT"
+11187,1,20,2.9,apatite,21,7.03E-09,1.08,225,3.75,782,,1.17,11,,"age of uplift and cooling","50 GRAINS ANALYZED",,"THIS MAY BE AN AREA WITH A HIGH GEOTHERMAL GRADIENT"
+11188,1,16,2.4,apatite,22,7.03E-09,0.096,199,0.61,1270,,1.71,10,,"age of uplift and cooling","50 GRAINS ANALYZED",,"THIS MAY BE AN AREA WITH A HIGH GEOTHERMAL GRADIENT"
+11623,1,29.5,2.8,zircon,639,"not given",,,,,,,,,"age of volcanism",,"NO ANALYTICAL DATA GIVEN",
+11811,1,38.6,1.5,zircon,"1. 77T22",7.03E-09,,1535,,2102,,0.888,,,"age of volcanism",,,
+11812,1,37.7,1.8,zircon,"2. 76T5",7.03E-09,,1090,,1530,,0.884,,,"age of volcanism",,,"THIS AGE IS A BIT OLDER THAN THE K-AR AGE"
+11813,1,33.2,1.7,zircon,"3. 76T193",7.03E-09,,896,,1420,,0.878,,,"age of volcanism",,,
+11814,1,32.4,1.7,zircon,"4. 77T20",7.03E-09,,806,,1276,,0.855,,,"age of volcanism",,,
+11815,1,32.7,1.9,zircon,"5. J-218",7.03E-09,,596,,1170,,1.07,,,"age of volcanism",,,
+11817,1,31.3,2.6,zircon,"7. T-417",7.03E-09,,325,,556,,0.894,,,"age of volcanism",,,
+11818,1,30.5,1.9,zircon,"8. J-53",7.03E-09,,480,,1028,,1.09,,,"age of volcanism",,,
+11819,1,30.3,2.6,zircon,"9. T-384A",7.03E-09,,187,,388,,1.05,7.03,,"age of volcanism",,,
+11821,1,29.3,1.7,zircon,"11. T-249",7.03E-09,,579,,1220,,1.03,,,"age of volcanism",,,
+11841,1,6.72,0.74,"whole rock",1280D,7.00E-09,,,,,,,,,,,"A NEW FISSION-TRACK METHOD INVOLVING VARIATION OF TRACK DENSITY WITH NEUTRON FLUENCE. SEE ARTICLE FOR ANALYTICAL DATA","THIS AGE MAY INDICATE TIME OF MINERALIZATION OR THE AVERAGE URANIUM RESIDENCE TIME"
+11842,1,6.61,0.72,"whole rock",ML-6,7.00E-09,,,,,,,,,,,"A NEW FISSION-TRACK METHOD INVOLVING VARIATION OF TRACK DENSITY WITH NEUTRON FLUENCE. SEE ARTICLE FOR ANALYTICAL DATA","THIS AGE MAY INDICATE TIME OF MINERALIZATION OR THE AVERAGE URANIUM RESIDENCE TIME"
+11855,1,19.8,1.2,zircon,M330,7.03E-09,17.51,1135,31.72,1028,,0.599,"1,500.00",,"age of intrusion",,,
+11855,2,13.4,2.7,apatite,M330,7.03E-09,0.122,254,0.589,1227,,1.08,16,,,,,"DATE REFLECTS A LATER THERMAL EVENT"
+11856,1,9.5,1.9,apatite,M335,7.03E-09,0.081,169,0.552,1151,,1.08,15,,,,,"DATE REFLECTS A LATE THERMAL EVENT; DIKE IS PROBABLY 20 M.Y. OLD"
+11857,1,20.3,0.9,zircon,M336,7.03E-09,3.27,605,5.72,530,,0.596,280,,"age of intrusion",,,
+11858,1,15.6,1.1,zircon,M733,7.03E-09,3.86,536,14.75,1024,,1,420,,,,,"A RESET AGE; POSSIBLY REFLECTING A 16 M.Y. MINERALIZATION EVENT"
+11859,1,8.4,0.6,zircon,M735,7.03E-09,1.84,315,12.84,1100,,0.985,380,,"age of volcanism",,,
+11860,1,19.3,1,zircon,M743,7.03E-09,6.41,890,19.43,1349,,0.978,570,,"age of intrusion",,,
+11860,2,12.8,2.1,apatite,M743,7.03E-09,0.08,166,0.392,816,,1.05,11,,,,,"DATE REFLECTS A LATER THERMAL EVENT; PLUTON IS PROBABLY 20 M.Y. OLD"
+11861,1,16.1,0.8,zircon,M744,7.03E-09,5.41,651,19.47,1172,,0.969,540,,,,,"A RESET AGE; POSSIBLY REFLECTING A 16 M.Y. MINERALIZATION EVENT"
+11878,1,49.1,5.2,zircon,RWT-512-75,7.03E-09,,,,,,,,,"age of volcanism",,"NO ANALYTICAL DATA GIVEN; SAMPLE NUMBER FROM TABOR AND OTHERS, 1982, USGS MAP I-1311",
+11881,1,33.4,1.4,zircon,LS-6C,7.03E-09,7.08,1180,13.18,1095,,1.04,400,,"age of volcanism","6 GRAINS COUNTED",,
+11882,1,49.1,2.3,zircon,MS-4C,7.03E-09,5.11,1491,6.51,950,,1.05,200,,,"8 GRAINS COUNTED",,"CALCULATED AGE IS TOO OLD; OLDER DETRIDAL ZIRCONS MAY BE PRESENT"
+11883,1,34.5,1.2,zircon,27A,7.03E-09,2.28,666,6.05,882,,1.53,130,,"age of volcanism","5 GRAINS COUNTED",,
+11883,2,39.8,9,apatite,27A,7.03E-09,0.0523,109,0.1138,237,,1.45,2.5,,,"50 GRAINS COUNTED","URANIUM CONTENT IS VERY LOW",
+11884,1,41.9,6.8,zircon,75-211,7.03E-09,3.34,278,6.98,291,,1.47,150,,"age of volcanism","3 GRAINS COUNTED",,
+11885,1,42.7,5.1,zircon,75-209,7.03E-09,4.85,516,10.91,537,,1.49,220,,"age of volcanism","3 GRAINS COUNTED",,
+11886,1,48.8,7.2,zircon,75-202,7.03E-09,5.98,360,10.97,330,,1.5,240,,"maximum age of volcanism","2 GRAINS COUNTED",,
+11887,1,42.7,3.7,zircon,75-215,7.03E-09,5.8,886,12,917,,1.48,260,,"age of volcanism","2 GRAINS COUNTED",,
+11888,1,46.4,1.9,zircon,75-191,7.03E-09,5.17,766,10.11,749,,1.52,210,,"age of volcanism","5 GRAINS COUNTED",,
+11889,1,42.7,1.5,zircon,75-200,7.03E-09,8.65,881,18.26,930,,1.51,390,,"minimum age of volcanism","5 GRAINS COUNTED",,
+11890,1,46.1,1.9,zircon,75-124C,7.03E-09,11.6,1315,16.2,936,,1.1,470,,"age of volcanism","5 GRAINS COUNTED",,
+11891,1,46.2,1.8,zircon,75-X,7.03E-09,,855,,805,,1.46,,,"age of volcanism","4 GRAINS COUNTED",,
+11892,1,44.4,2.6,zircon,76-67,7.03E-09,6.28,669,9.37,499,,1.11,240,,"age of volcanism","7 GRAINS COUNTED",,
+11892,2,15.1,3,apatite,76-67,7.03E-09,0.368,1532,1.255,2614,,0.86,42,,,"50 GRAINS COUNTED",,"TUFF IS PROBABLY ABOUT 45 M.Y. OLD"
+11894,1,36.9,2.1,zircon,79-252,7.03E-09,4.19,621,7.11,527,,1.05,200,,"age of volcanism",,,
+11896,1,49.1,5.2,zircon,"3. RWT-512-75",7.03E-09,,,,,,,,,"age of volcanism",,"NO ANALYTICAL DATA GIVEN",
+11897,1,50.5,1.2,zircon,"4. VF-77-101",7.03E-09,,,,,,,,,"age of volcanism",,"NO ANALYTICAL DATA GIVEN",
+11898,1,43.6,1.1,zircon,"5. ER-76-75",7.03E-09,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","DATE APPEARS TO BE TOO YOUNG; PROBABLY 50 M.Y. OLD"
+11899,1,48.6,2.3,zircon,"6. VF-76-450",7.03E-09,,,,,,,,,"age of volcanism",,"NO ANALYTICAL DATA GIVEN",
+11903,1,55.3,3,zircon,"10. R-8",7.03E-09,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","AGE IS TOO OLD; OLDER ZIRCONS MAY BE PRESENT; AGE IS AROUND 20 M.Y."
+11904,1,20,0.8,zircon,"11. R-7",7.03E-09,,,,,,,,,"age of intrusion",,"NO ANALYTICAL DATA GIVEN",
+11907,1,51.4,2.8,zircon,"14. R-90",7.03E-09,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","AGE IS TOO OLD; OLDER ZIRCONS MAY BE PRESENT"
+11908,1,46.2,1.1,zircon,"15. RWT 469A-76",7.03E-09,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","AGE APPEARS TO BE TOO YOUNG"
+11909,1,51.8,1,zircon,"16. VF-77-305",7.03E-09,,,,,,,,,"age of volcanism",,"NO ANALYTICAL DATA GIVEN",
+11912,1,34.4,2.3,zircon,"19. R-42",7.03E-09,,,,,,,,,"age of volcanism",,"NO ANALYTICAL DATA GIVEN",
+11913,1,32.8,0.6,zircon,"20. RWT-644-77",7.03E-09,,,,,,,,,"age of volcanism",,"NO ANALYTICAL DATA GIVEN",
+11914,1,35.6,20.3,apatite,"21. VF-77-149",7.03E-09,,,,,,,,,"age of volcanism",,"VERY LOW U CONCENTRATION; NO ANALYTICAL DATA GIVEN",
+11920,1,4.4,0.3,zircon,"32. RBW-77.988",7.03E-09,,,,,,,,,"age of volcanism",,"NO ANALYTICAL DATA GIVEN",
+11921,1,3.64,0.74,zircon,DF-743,6.85E-09,0.553,32,16.6,482,,1.79,280,,"age of volcanism","4 GRAINS COUNTED",,
+11922,1,3.7,0.2,zircon,DF-1047,6.85E-09,0.635,147,11.1,1280,,1.05,320,,"age of volcanism","6 GRAINS COUNTED",,"TABOR AND OTHERS, 1982, REPORTED THIS AGE AS 3.8+/-0.3 M.Y. (LAMBDA-F=7.03XE-17/YR)"
+11923,1,9.5,1.9,apatite,M335,,0.081,169,0.552,1151,,1.08,15,,,"50 GRAINS COUNTED",,"A COOLING AGE; DIKE IS PROBABLY 20 M.Y. OLD"
+11924,1,20.3,0.9,zircon,M336,,3.27,605,5.72,530,,0.596,280,,"age of intrusion","6 GRAINS COUNTED",,
+11925,1,25.9,1.2,zircon,"(NOT GIVEN)",,2.35,526,4.46,501,,0.826,,,"age of volcanism","10 GRAINS COUNTED",,
+11925,2,27.8,6.8,apatite,"(NOT GIVEN)",,0.0686,247,0.159,571,,1.08,,,"maximum age of volcanism","100 GRAINS COUNTED",,
+12019,1,18,,zircon,7,,,,,,,,,,"age of volcanism",,"NO ANALYTICAL DATA GIVEN","LAURSEN AND HAMMOND, 1978, REPORTED A K-AR AGE OF 12 M.Y. FOR THIS TUFF."
+12021,1,21.9,1.2,zircon,M286,,5.72,874,16.73,1278,,1.07,450,,"age of intrusion",,,
+12121,1,47,4,apatite,"27. VF-79-531",,,,,,,,,,"age of volcanism",,"NO ANALYTICAL DATA GIVEN",
+12250,1,2.97,0.28,zircon,"43. 9-8-11",,0.71,217,14,2088,,0.959,,,,,,"WEIGHTED-MEAN AGE IS 2.99+/-0.20 M.Y."
+12250,2,2.9,0.2,zircon,"43. 9-8-11",,0.53,390,11,3754,,0.959,,,,,,"WEIGHTED-MEAN AGE IS 2.99+/-0.20 M.Y."
+12395,1,88,6,zircon,"13. H79TM-196",,4.452,316,14.74,523,,4.9,,,"age of uplift and cooling","2 GRAINS",,
+12410,1,26.7,3.5,zircon,"1. 74L-12",,1.71,373,6.81,741,,1.79,115,,"minimum age of intrusion",,,
+12411,1,32.5,4.6,zircon,"2. 74L-4",,5.73,398,11.96,416,,1.11,330,,"age of intrusion",,,
+12416,1,11,1.2,zircon,"7. IDA-136",,32.1,707,50.1,551,,0.3,"5,500.00",,"age of intrusion",,,
+12417,1,14.7,2,zircon,"8. 74L-3",,1.84,306,8.71,726,,1.14,230,,"age of intrusion",,,
+12418,1,23,2.2,zircon,"9. NB-BI",,9.76,768,28.6,1126,,1.1,790,,"minimum age of intrusion",,,
+12418,2,12.9,2.6,apatite,"9. NB-BI",,0.164,341,1,2091,,1.29,24,,"age of uplift and cooling",,,
+12419,1,21.4,2.4,zircon,"10. CS-21",,7.27,505,22.3,773,,1.07,630,,"age of intrusion",,,
+12419,2,12.3,2.5,apatite,"10. CS-21",,0.165,344,1.05,2196,,1.28,25,,"age of uplift and cooling",,,
+12420,1,15.9,1.5,zircon,"11. 73L-104",,4.09,701,15.6,1304,,0.99,480,,"age of intrusion",,,
+12420,2,16.8,2.6,sphene,"11. 73L-104",,1.02,256,3.96,495,,1.06,110,,"age of intrusion",,,
+12420,3,7.7,1.5,apatite,"11. 73L-104",,0.0509,106,0.465,968,,1.15,12,,"age of uplift and cooling",,,
+12421,1,21.8,2.1,zircon,"12. 73L-103",,7.62,741,23.1,1123,,1.08,650,,"age of intrusion",,,
+12421,2,16.8,3.4,apatite,"12. 73L-103",,0.182,380,0.852,1774,,1.28,20,,"age of uplift and cooling",,,
+12422,1,17.3,2.1,zircon,"13. 73L-101",,3.72,396,14.4,765,,1.09,400,,"maximum age of intrusion",,,
+12422,2,11.8,2.4,apatite,"13. 73L-101",,0.06,125,0.402,838,,1.29,9.5,,"age of uplift and cooling",,,
+12424,1,30.2,,zircon,"(NOT GIVEN)",,,,,,,,,,"age of intrusion",,"NO ANALYTICAL DATA GIVEN",
+12425,1,21.6,,zircon,"(NOT GIVEN)",,,,,,,,,,"age of intrusion",,"NO ANALYTICAL DATA GIVEN",
+12426,1,23.3,,zircon,"(NOT GIVEN)",,,,,,,,,,"age of intrusion",,,
+12534,1,0.8,0.1,zircon,"14. AR-SP",,159,257,14.4,1167,,0.122,,,"age of volcanism",,,
+12535,1,0.84,0.42,zircon,15,,1.17,15,7.86,504,,0.946,,,"age of volcanism",,,
+12537,1,1.48,0.56,zircon,"28. OJD-67-4",,1.31,20,5.38,411,,1.02,,,"age of volcanism",,,
+12539,1,2.2,0.3,zircon,"41. OJD-67-17",,3.64,32,9.55,420,,0.958,,,"age of volcanism",,,
+12540,1,2.32,0.15,zircon,"46. 79W211",,2.95,60,7.39,1598,,0.976,,,"age of volcanism",,,
+12541,1,3.53,0.68,zircon,"64. 73W66",,8.2,88,15.4,1650,,1.11,,,"age of volcanism",,,
+12542,1,3.75,0.36,zircon,"65. 60M59",,19.3,219,9.13,1034,,0.296,,,"age of volcanism",,,
+12602,1,318,13,zircon,C2-Z1,,5.5,881,1.8,142,,2.11,,,,"3 GRAINS",,"A COOLING AGE--TEMPERATURE PROBABLY DECREASED TO LESS THAN 175-DEGREES C ABOUT 325 M.Y. AGO"
+12603,1,123,4,apatite,C-2R,,1.9,1078,1.6,458,,2.11,,,,"5 GRAINS",,"A COOLING AGE--TEMPERATURE BECAME LESS THAN 120-DEGREES C ABOUT 125 M.Y. AGO"
+12604,1,1.4,0.2,glass,"(NOT GIVEN)",,,30,,164,,,,,,"GLASS SHARDS","SCARCE ANALYTICAL DATA","AGE IS TOO YOUNG; IZETT, 1981, REPORTED AN AGE OF 2.32 M.Y. FOR A ZIRCON SEPERATE FROM THIS ASH"
+12669,1,147,10,apatite,AN-27,,0.69,1108,0.49,779,,2.11,6.8,,"age of uplift and cooling",,,
+12670,1,137,12,apatite,AN-3,,0.32,511,0.24,389,,2.11,3.3,,"age of uplift and cooling",,,
+12671,1,125,4,apatite,F-4A,,0.46,737,0.39,616,,2.11,5.4,,"age of uplift and cooling",,,
+12672,1,107,10,apatite,W-2A,,0.67,1073,0.65,1047,,2.11,9,,"age of uplift and cooling",,,
+12673,1,86,12,apatite,W-2B,,0.41,450,0.5,549,,2.11,6.9,,"age of uplift and cooling",,,
+12686,1,367,15,sphene,"(NOT GIVEN)",,,3874,,1549,1.25,5.05,,,"age of intrusion","6 GRAINS COUNTED",,
+12686,2,77.1,5,apatite,"(NOT GIVEN)",,,418,,831,0.25,4.86,,,"age of uplift and cooling","6 GRAINS COUNTED",,
+12687,1,377,9,zircon,"(NOT GIVEN)",,,,,,,,,,"age of intrusion",,"NO ANALYTICAL DATA GIVEN","THIS AGE ALSO REPORTED BY NAESER AND MCCALLUM, 1977"
+12699,1,60.5,8.8,zircon,"(NOT GIVEN)",,12.57,640,10.3,261,,0.828,,,,"3 GRAINS COUNTED",,"ROCK IS PROBABLY 56 M.Y. OLD"
+12700,1,131,10,apatite,157,,2.1,,1.05,,,1.11,,,"age of intrusion",,,
+12701,1,125,9,apatite,485,,2.03,,1.1,,,1.11,,,"age of intrusion",,,
+12701,2,130,12,zircon,485,,7.18,,4.61,,,1.38,,,"age of intrusion",,,
+12701,3,129,16,zircon,485,,6.16,,4.02,,,1.38,,,"age of intrusion",,,
+12702,1,106,5,apatite,3,,1.03,,0.667,,,1.13,,,"age of intrusion",,,
+12703,1,106,5,apatite,459,,1.58,,1.03,,,1.13,,,"age of intrusion",,,
+12947,1,128,13,apatite,ST,,,,,,,,,,"minimum age of intrusion",,"NO ANALYTICAL DATA GIVEN",
+12948,1,125,13,apatite,FD-20,,,,,,,,,,"minimum age of intrusion",,"NO ANALYTICAL DATA GIVEN",
+12948,2,114,11,"garnet group",FD-20,,,,,,,,,,"age not evaluated","GARNET IS FROM PEGMATITE INTRUDING THE GRANODIORITE","NO ANALYTICAL DATA GIVEN",
+12949,1,106,11,apatite,SJ,,,,,,,,,,"minimum age of intrusion",,"NO ANALYTICAL DATA GIVEN",
+12950,1,101,10,apatite,CL-1,,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","BIOTITE 113 M.Y., HORNBLENDE 121 M.Y., REPORTED BY KISTLER AND DODGE, 1966; PLAGIOCLASE 105 M.Y., AUGITE 96 M.Y., HYPERSTHENE 48 M.DY., REPORTED BY KISTLER AND OTHERS, 1965"
+12951,1,82,8,apatite,"SITE 26",,,,,,,,,,"age of uplift and cooling",,"NO ANALYTICAL DATA GIVEN",
+12951,2,96,10,sphene,"SITE 26",,,,,,,,,,"age of intrusion",,"NO ANALYTICAL DATA GIVEN",
+12952,1,89,9,apatite,"SITE 25",,,,,,,,,,"minimum age of intrusion",,"NO ANALYTICAL DATA GIVEN",
+12953,1,97,10,sphene,"SITE 24",,,,,,,,,,"age of intrusion",,"NO ANALYTICAL DATA GIVEN",
+12954,1,78,8,apatite,JB,,,,,,,,,,"age of uplift and cooling",,"NO ANALYTICAL DATA GIVEN",
+12954,2,99,10,sphene,JB,,,,,,,,,,"age of intrusion",,"NO ANALYTICAL DATA GIVEN",
+12955,1,79,8,apatite,SL,,,,,,,,,,"minimum age of intrusion",,"NO ANALYTICAL DATA GIVEN",
+12955,2,87,9,sphene,SL,,,,,,,,,,"age of intrusion",,"NO ANALYTICAL DATA GIVEN",
+12956,1,88,9,sphene,SL-18,,,,,,,,,,"minimum age of intrusion",,"NO ANALYTICAL DATA GIVEN","BIOTITE 92 M.Y., HORNBLENDE 91 M.Y., REPORTED BY KISTLER AND OTHERS, 1965"
+12957,1,95,10,apatite,BCC-13,,,,,,,,,,"maximum age of intrusion",,"NO ANALYTICAL DATA GIVEN","BIOTITE 83 M.Y., HORNBLENDE 92 M.Y., REPORTED BY KISTLER AND OTHERS, 1965"
+12957,2,85,9,sphene,BCC-13,,,,,,,,,,"minimum age of intrusion",,"NO ANALYTICAL DATA GIVEN","BIOTITE 83 M.Y., HORNBLENDE 92 M.Y., REPORTED BY KISTLER AND OTHERS, 1965"
+12958,1,90,9,sphene,HL-4,,,,,,,,,,"age of intrusion",,"NO ANALYTICAL DATA GIVEN","BIOTITE 82 M.Y., REPORTED BY KISTLER AND OTHERS, 1965"
+12959,1,74,7,apatite,HL-29,,,,,,,,,,"age of uplift and cooling",,"NO ANALYTICAL DATA GIVEN","BIOTITE 83 M.Y., REPORTED BY KISTLER AND OTHERS, 1965"
+12960,1,91,9,apatite,BCC-12,,,,,,,,,,"maximum age of intrusion",,"NO ANALYTICAL DATA GIVEN","BIOTITE 87 M.Y., HORNBLENDE 86 M.Y., REPORTED BY KISTLER AND OTHERS, 1965"
+12960,2,83,8,sphene,BCC-12,,,,,,,,,,"minimum age of intrusion",,"NO ANALYTICAL DATA GIVEN","BIOTITE 87 M.Y., HORNBLENDE 86 M.Y., REPORTED BY KISTLER AND OTHERS, 1965"
+12961,1,77,8,apatite,HC,,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","THIS AGE APPEARS TO BE TOO YOUNG FOR THE MOUNT GIVENS GRANODIORITE"
+12961,2,77,8,sphene,HC,,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","THIS AGE APPEARS TO BE TOO YOUNG FOR THE MOUNT GIVENS GRANODIORITE"
+12962,1,84,8,apatite,BCA-20,,,,,,,,,,"age of intrusion",,"NO ANALYTICAL DATA GIVEN","BIOTITE 85 M.Y., HORNBLENDE 87 M.Y., REPORTED BY KISTLER AND OTHERS, 1965"
+12962,2,87,9,sphene,BCA-20,,,,,,,,,,"age of intrusion",,"NO ANALYTICAL DATA GIVEN","BIOTITE 85 M.Y., HORNBLENDE 87 M.Y., REPORTED BY KISTLER AND OTHERS, 1965"
+12963,1,72,7,apatite,M-535,,,,,,,,,,"age of uplift and cooling",,"NO ANALYTICAL DATA GIVEN",
+12963,2,89,9,sphene,M-535,,,,,,,,,,"age of intrusion",,"NO ANALYTICAL DATA GIVEN",
+12964,1,91,9,apatite,KR,,,,,,,,,,"minimum age of intrusion",,"NO ANALYTICAL DATA GIVEN",
+12965,1,82,8,apatite,M-133,,,,,,,,,,"age of intrusion",,"NO ANALYTICAL DATA GIVEN","BIOTITE 81 M.Y., REPORTED BY DODGE AND MOORE, 1968"
+12965,2,75,8,sphene,M-133,,,,,,,,,,"minimum age of intrusion",,"NO ANALYTICAL DATA GIVEN","BIOTITE 81 M.Y. REPORTED BY DODGE AND MOORE, 1968"
+12966,1,75,8,sphene,M-131,,,,,,,,,,"minimum age of intrusion",,"NO ANALYTICAL DATA GIVEN",
+12967,1,72,7,apatite,P-6,,,,,,,,,,"age not evaluated",,"NO ANALYTICAL DATA GIVEN",
+12967,2,80,8,sphene,P-6,,,,,,,,,,"age not evaluated",,"NO ANALYTICAL DATA GIVEN",
+12968,1,88,9,apatite,B-15,,,,,,,,,,"age not evaluated",,"NO ANALYTICAL DATA GIVEN",
+12968,2,82,8,sphene,B-15,,,,,,,,,,"age not evaluated",,"NO ANALYTICAL DATA GIVEN",
+12969,1,72,7,apatite,R-70,,,,,,,,,,"age not evaluated",,"NO ANALYTICAL DATA GIVEN",
+12969,2,97,10,sphene,R-70,,,,,,,,,,"age not evaluated",,"NO ANALYTICAL DATA GIVEN",
+12970,1,80,8,apatite,P-4A,,,,,,,,,,"age of intrusion",,"NO ANALYTICAL DATA GIVEN",
+12970,2,73,7,sphene,P-4A,,,,,,,,,,"minimum age of intrusion",,"NO ANALYTICAL DATA GIVEN",
+12971,1,68,7,apatite,R-97,,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","THIS AGE APPEARS TO BE TOO YOUNG, LAMARCK GRANODIORITE IS PROBABLY 84 M.Y. OLD"
+12971,2,75,8,sphene,R-97,,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","THIS AGE APPEARS TO BE TOO YOUNG, LAMARCK GRANODIORITE IS PROBABLY 84 M.Y. OLD"
+12972,1,75,8,apatite,R-96,,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","THIS AGE APPEARS TO BE TOO YOUNG, LAMARCK GRANODIORITE IS PROBABLY 84 M.Y. OLD"
+12972,2,81,8,sphene,R-96,,,,,,,,,,"minimum age of intrusion",,"NO ANALYTICAL DATA GIVEN",
+12973,1,70,7,apatite,P-1,,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","THIS AGE APPEARS TO BE TOO YOUNG, LAMARCK GRANODIORITE IS PROBABLY 84 M.Y. OLD"
+12973,2,71,7,sphene,P-1,,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","THIS AGE APPEARS TO BE TOO YOUNG, LAMARCK GRANODIORITE IS PROBABLY 84 M.Y. OLD"
+12974,1,87,9,apatite,MG-1,,,,,,,,,,"age of intrusion",,"NO ANALYTICAL DATA GIVEN","BIOTITE 77 M.Y., HORNBLENDE 84 M.Y., REPORTED BY KISTLER AND OTHERS, 1965"
+12974,2,90,9,sphene,MG-1,,,,,,,,,,"maximum age of intrusion",,"NO ANALYTICAL DATA GIVEN","BIOTITE 77 M.Y., HORNBLENDE 84 M.Y., REPORTED BY KISTLER AND OTHERS, 1965"
+12974,3,86,9,allanite,MG-1,,,,,,,,,,"age of intrusion",,"NO ANALYTICAL DATA GIVEN","EPIDOTE GAVE 84 M.Y. FISSION-TRACK AGE. BIOTITE 77 M.Y., HORNBLENDE 84 M.Y. ARE K-AR AGES REPORTED BY KISTLER AND OTHERS, 1965."
+12975,1,83,8,apatite,R-120,,,,,,,,,,"age not evaluated",,"NO ANALYTICAL DATA GIVEN",
+12975,2,72,7,sphene,R-120,,,,,,,,,,"age not evaluated",,"NO ANALYTICAL DATA GIVEN",
+12976,1,87,9,apatite,13240,,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","PROBABLY A REDUCED AGE"
+12977,1,76,8,apatite,12520,,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","PROBABLY A REDUCED AGE"
+12977,2,82,8,sphene,12520,,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","PROBABLY A REDUCED AGE"
+12977,3,84,8,epidote,12520,,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","PROBABLY A REDUCED AGE"
+12978,1,91,9,apatite,MG-3,,,,,,,,,,"minimum age of intrusion",,"NO ANALYTICAL DATA GIVEN","BIOTITE 87 M.Y., HORNBLENDE 98 M.Y., K-AR AGES REPORTED BY KISTLER AND OTHERS, 1965"
+12979,1,77,8,apatite,R-123,,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","A REDUCED AGE"
+12980,1,82,8,apatite,MT-2,,,,,,,,,,"age of intrusion",,"NO ANALYTICAL DATA GIVEN","BIOTITE 87 M.Y., HORNBLENDE 84 M.Y., K-AR AGES REPORTED BY KISTLER AND OTHERS, 1965"
+12980,2,85,9,sphene,MT-2,,,,,,,,,,"age of intrusion",,"NO ANALYTICAL DATA GIVEN","BIOTITE 87 M.Y., HORNBLENDE 84 M.Y., K-AR AGES REPORTED BY KISTLER AND OTHERS, 1965"
+12981,1,81,8,apatite,BP-1,,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","A REDUCED AGE. BIOTITE 78 M.Y., HORNBLENDE 150 M.Y., K-AR AGES REPORTED BY KISTLER AND OTHERS, 1965"
+12981,2,94,9,sphene,BP-1,,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","A REDUCED AGE. BIOTITE 78 M.Y., HORNBLENDE 150 M.Y., K-AR AGES REPORTED BY KISTLER AND OTHERS, 1965"
+12982,1,87,9,apatite,BP-6,,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","A REDUCED AGE. BIOTITE 91 M.Y., HORNBLENDE 170 M.Y., K-AR AGES REPORTED BY KISTLER AND OTHERS, 1965"
+12982,2,85,9,sphene,BP-6,,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","A REDUCED AGE. BIOTITE 91 M.Y., HORNBLENDE 170 M.Y., K-AR AGES REPORTED BY KISTLER AND OTHERS, 1965"
+12983,1,62,6,apatite,R-43B,,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","A REDUCED AGE"
+12984,1,93,9,apatite,R-42,,,,,,,,,,"age of intrusion",,"NO ANALYTICAL DATA GIVEN",
+12985,1,76,8,apatite,BP-9,,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","A REDUCED AGE. BIOTITE 81 M.Y., K-AR AGE REPORTED BY KISTLER AND OTHERS, 1965"
+12985,2,94,9,sphene,BP-9,,,,,,,,,,"age of intrusion",,"NO ANALYTICAL DATA GIVEN","BIOTITE 81 M.Y., K-AR AGE REPORTED BY KISTLER AND OTHERS, 1965"
+12986,1,76,8,apatite,MT-1,,,,,,,,,,"minimum age of intrusion",,"NO ANALYTICAL DATA GIVEN","BIOTITE 81 M.Y., K-AR AGE REPORTED BY KISTLER AND OTHERS, 1965"
+12987,1,54,5,apatite,R-84A,,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","A REDUCED AGE"
+12987,2,100,10,sphene,R-84A,,,,,,,,,,"age of intrusion",,"NO ANALYTICAL DATA GIVEN",
+12988,1,90,9,apatite,BP-5,,,,,,,,,,"minimum age of intrusion",,"NO ANALYTICAL DATA GIVEN","BIOTITE 88 M.Y., K-AR AGE REPORTED BY KISTLER AND OTHERS, 1965"
+12988,2,92,9,sphene,BP-5,,,,,,,,,,"minimum age of intrusion",,"NO ANALYTICAL DATA GIVEN","BIOTITE 88 M.Y., K-AR AGE REPORTED BY KISTLER AND OTHERS, 1965"
+12989,1,88,9,apatite,R-83,,,,,,,,,,"age not evaluated",,"NO ANALYTICAL DATA GIVEN",
+12989,2,104,10,sphene,R-83,,,,,,,,,,"age of intrusion",,"NO ANALYTICAL DATA GIVEN",
+12990,1,58,6,apatite,BP-2,,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","A REDUCED AGE. BIOTITE 104 M.Y., HORNBLENDE 151 M.Y., K-AR AGES REPORTED BY KISTLER AND OTHERS, 1965"
+12990,2,92,9,sphene,BP-2,,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","A REDUCED AGE. BIOTITE 104 M.Y., HORNBLENDE 151 M.Y., K-AR AGES REPORTED BY KISTLER AND OTHERS, 1965"
+12991,1,93,9,apatite,FD-2,,,,,,,,,,"minimum age of intrusion",,"NO ANALYTICAL DATA GIVEN",
+12992,1,111,11,apatite,FD-3,,,,,,,,,,"minimum age of intrusion",,"NO ANALYTICAL DATA GIVEN",
+12992,2,118,12,sphene,FD-3,,,,,,,,,,"age of intrusion",,"NO ANALYTICAL DATA GIVEN",
+12993,1,65,7,apatite,Y-5,,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","A REDUCED AGE"
+12993,2,99,10,sphene,Y-5,,,,,,,,,,"age of intrusion",,"NO ANALYTICAL DATA GIVEN",
+12994,1,94,9,sphene,Y-5A,,,,,,,,,,"minimum age of intrusion",,"NO ANALYTICAL DATA GIVEN",
+12994,2,140,14,epidote,Y-5A,,,,,,,,,,"age not evaluated",,"NO ANALYTICAL DATA GIVEN",
+12995,1,85,,apatite,FD-13,,,,,,,,,,"minimum age of intrusion",,"NO ANALYTICAL DATA GIVEN","BIOTITE 90 M.Y., HORNBLENDE 90 M.Y., ORTHOCLASE 88 M.Y., PLAGIOCLASE 81 M.Y., AUGITE 78 M.Y., K-AR AGES REPORTED BY KISTLER AND OTHERS, 1966"
+12996,1,87,9,allanite,"RED DEVIL",,,,,,,,,,"minimum age of intrusion",,"NO ANALYTICAL DATA GIVEN",
+13193,1,22.1,4.4,apatite,M406,,0.223,464,0.65,1355,,1.08,17,,"age of intrusion",,,
+13194,1,18.1,0.8,zircon,M408,,6.58,609,12.87,596,,0.594,620,,"age of intrusion",,,
+13194,2,23.3,4.7,apatite,M408,,0.187,393,0.523,1090,,1.08,14,,"maximum age of intrusion",,,
+13195,1,19,1,zircon,M689,,5.66,419,18.31,678,,1.03,510,,"age of intrusion",,,
+13196,1,16.6,0.7,zircon,M496,,4.96,849,17.1,1465,,0.96,510,,"age of volcanism",,,
+13197,1,15.7,0.8,zircon,M306,,6.24,636,14.31,729,,0.603,680,,"age of intrusion",,,
+13308,1,79,,allanite,RD-1,,5.5,514,4.18,195,,0.98,,,,,,"AVERAGE OF FOUR DATES IS 88+/-5 M.Y.; TIME OF INTRUSION"
+13308,2,103,,allanite,RD-1,,5.53,517,3.2,225,,0.98,,,,,,"AVERAGE OF FOUR DATES IS 88+/-5 M.Y.; TIME OF INTRUSION"
+13308,3,83,,allanite,RD-1,,5.38,252,3.86,252,,0.98,,,,,,"AVERAGE OF FOUR DATES IS 88+/-5 M.Y.; TIME OF INTRUSION"
+13308,4,88,,allanite,RD-1,,5.2,243,3.5,243,,0.98,,,,,,"AVERAGE OF FOUR DATES IS 88+/-5 M.Y.; TIME OF INTRUSION"
+13309,1,118,,epidote,Y-5,,6.36,297,4.24,198,,1.29,,,,,,"AVERAGE OF 3 DATES IS 140+/-11 M.Y.; TIME OF INTRUSION"
+13309,2,145,,epidote,Y-5,,7.6,284,4.08,191,,1.29,,,,,,"AVERAGE OF 3 DATES IS 140+/-11 M.Y.; TIME OF INTRUSION"
+13309,3,156,,epidote,Y-5,,7.38,276,3.68,172,,1.29,,,,,,"AVERAGE OF 3 DATES IS 140+/-11 M.Y.; TIME OF INTRUSION"
+13310,1,92,,allanite,MG-1,,3.5,327,2.28,106,,0.98,,,,,,"AVERAGE OF 2 DATES IS 88+/-4 M.Y.; TIME OF INTRUSION"
+13310,2,83,,allanite,MG-1,,2.57,360,1.84,150,,0.98,,,,,,"AVERAGE OF 2 DATES IS 88+/-4 M.Y.; TIME OF INTRUSION"
+13310,3,84,10,epidote,MG-1,,1.33,192,1.4,124,,1.45,,,"age of intrusion",,,
+13311,1,84,10,epidote,12520,,3.62,152,3.16,148,,1.2,,,"age of intrusion",,,
+13312,1,71,,allanite,0-36,,2.58,71,2.18,30,,0.98,,,,,,"AVERAGE FOR 3 DATES IS 59+/-6 M.Y.; APPROXIMATE TIME OF FORMATION"
+13312,2,50,,allanite,0-36,,,130,,71,,0.98,,,,,"TRACK DENSITIES NOT GIVEN","AVERAGE FOR 3 DATES IS 59+/-6 M.Y.; APPROXIMATE TIME OF FORMATION"
+13312,3,56,,allanite,0-36,,6.93,127,7.42,68,,0.98,,,,,,"AVERAGE OF 3 DATES IS 59+/-6 M.Y.; APPROXIMATE TIME OF FORMATION"
+13313,1,60,,allanite,0-38,,1.13,301,1.136,177,,0.98,,,,,,"AVERAGE OF SIX DATES IS 59+/-2 M.Y.; APPROXIMATE TIME OF FORMATION"
+13313,2,53,,allanite,0-38,,1.91,131,2.16,74,,0.98,,,,,,"AVERAGE OF SIX DATES IS 59+/-2 M.Y.; APPROXIMATE TIME OF FORMATION"
+13313,3,64,,allanite,0-38,,1.25,132,1.214,75,,0.98,,,,,,"AVERAGE OF SIX DATES IS 59+/-2 M.Y.; APPROXIMATE TIME OF FORMATION"
+13313,4,52,,allanite,0-38,,1.65,68,1.892,39,,0.98,,,,,,"AVERAGE OF SIX DATES IS 59+/-2 M.Y.; APPROXIMATE TIME OF FORMATION"
+13313,5,62,,allanite,0-38,,1.75,48,1.698,35,,0.98,,,,,,"AVERAGE OF SIX DATES IS 59+/-2 M.Y.; APPROXIMATE TIME OF FORMATION"
+13314,1,61,,allanite,0-38,,8.19,300,0.808,148,,0.98,,,,,,"AVERAGE OF SIX DATES IS 59+/-2 M.Y.; APPROXIMATE TIME OF FORMATION"
+13315,1,71,,epidote,0-131,,1.76,242,1.934,155,,1.28,,,,,,"AVERAGE OF 8 DATES IS 63+/-3 M.Y.; TIME OF FORMATION"
+13315,2,67,,epidote,0-131,,1.13,323,1.304,211,,1.28,,,,,,"AVERAGE OF 8 DATES IS 63+/-3 M.Y.; TIME OF FORMATION"
+13315,3,59,,epidote,0-131,,1.06,213,1.386,138,,1.28,,,,,,"AVERAGE OF 8 DATES IS 63+/-3 M.Y.; TIME OF FORMATION"
+13315,4,54,,epidote,0-131,,0.952,169,1.384,115,,1.28,,,,,,"AVERAGE OF 8 DATES IS 63+/-3 M.Y.; TIME OF FORMATION"
+13315,5,52,,epidote,0-131,,1.15,451,1.742,390,,1.28,,,,,,"AVERAGE OF 8 DATES IS 63+/-3 M.Y.; TIME OF FORMATION"
+13316,1,63,,epidote,0-131,,0.667,191,0.826,125,,1.28,,,,,,"AVERAGE OF 8 DATES IS 63+/-3 M.Y.; TIME OF FORMATION"
+13316,2,61,,epidote,0-131,,1.75,84,2.24,54,,1.28,,,,,,"AVERAGE OF 8 DATES IS 63+/-3 M.Y.; TIME OF FORMATION"
+13316,3,77,,epidote,0-131,,1.15,139,1.154,70,,1.28,,,,,,"AVERAGE OF 8 DATES IS 63+/-3 M.Y.; TIME OF FORMATION"
+13317,1,47,,allanite,JE29A-67,,1,427,1.678,422,,1.28,,,,,,"AVERAGE OF 6 DATES IS 42+/-1 M.Y.; MINIMUM TIME OF FORMATION"
+13317,2,39,,allanite,JE29A-67,,1.16,423,2.32,571,,1.28,,,,,,"AVERAGE OF 6 DATES IS 42+/-1 M.Y.; MINIMUM TIME OF FORMATION"
+13317,3,41,,allanite,JE29A-67,,0.987,470,1.86,486,,1.28,,,,,,"AVERAGE OF 6 DATES IS 42+/-1 M.Y.; MINIMUM TIME OF FORMATION"
+13317,4,42,,allanite,JE29A-67,,1.34,450,2.5,660,,1.28,,,,,,"AVERAGE OF 6 DATES IS 42+/-1 M.Y.; MINIMUM TIME OF FORMATION"
+13317,5,43,,allanite,JE29A-67,,0.819,240,1.502,310,,1.28,,,,,,"AVERAGE OF 6 DATES IS 42+/-1 M.Y.; MINIMUM TIME OF FORMATION"
+13318,1,41,,allanite,JE29A-67,,0.895,308,1.704,320,,1.28,,,,,,"AVERAGE OF 6 DATES IS 42+/-1 M.Y.; MINIMUM TIME OF FORMATION"
+13319,1,94,7,allanite,JE22-67,,32.7,486,28.6,213,,1.35,,,"maximum age of intrusion",,,
+13320,1,84,,allanite,RWT18-68,,3.42,141,3.78,78,,1.53,,,,,,"AVERAGE OF 2 DATES IS 91+/-7 M.Y.; TIME OF INTRUSION"
+13320,2,98,,allanite,RWT18-68,,3.34,153,3.18,73,,1.53,,,,,,"AVERAGE OF 2 DATES IS 91+/-7 M.Y.; TIME OF INTRUSION"
+13320,3,83,20,epidote,"RWT 18-68",,1.16,48,1.31,27,,1.53,,,"minimum age of intrusion",,,
+13321,1,1080,110,epidote,C-226,,2.96,967,0.672,130,,4.34,,,,,,"A REDUCED AGE"
+13322,1,0.13,0.05,glass,"1(TABLE 1)",,0.0002,7,0.0585,279,,0.53,,,"minimum age of volcanism",,,
+13323,1,0.14,0.05,glass,"2(TABLE 1)",,0.0003,9,0.283,593,,2.47,,,,,,"AGE IS TOO YOUNG"
+13324,1,0.2,0.06,glass,"3(TABLE 1)",,0.0009,13,0.143,372,,0.53,,,,,,"SPURIOUS AGE, MUCH TOO YOUNG"
+13325,1,0.27,0.05,glass,"4(TABLE 1)",,0.0008,27,0.498,569,,2.72,,,"minimum age of volcanism",,,
+13326,1,0.02,,glass,"5(TABLE 1)",,0,1,0.125,309,,0.922,,,,,"NOT ENOUGH FOSSIL FISSION-TRACKS TO CALCULATE AN AGE, CORRECTED FISSION-TRACK AGE MAY BE 0.59+/-0.12 M.Y.","SAMPLE HAS BEEN NATURALLY ANNEALED"
+13327,1,0.58,0.3,glass,"6(TABLE 1)",,0.0008,3,0.044,213,,0.53,,,"minimum age of volcanism",,,
+13328,1,0.9,0.17,glass,"7(TABLE 1)",,0.002,29,0.125,521,,0.922,,,"minimum age of volcanism",,,
+13329,1,3.1,0.31,glass,"8(TABLE 1)",,0.0041,110,0.102,784,,1.3,,,,,,"AGE IS TOO YOUNG, SEE K-AR AGE"
+13329,2,3.2,0.3,glass,"8(TABLE 1)",,0.0038,129,0.0835,643,,1.17,,,,,,"AGE IS TOO YOUNG, SEE K-AR AGE"
+13329,3,5.1,0.31,glass,"4(TABLE 6)",,0.0029,124,0.0633,301,,1.78,,,"minimum age of volcanism",,"A FISSION-TRACK PLATEAU ANNEALING AGE--ANNEALED ONE HOUR AT 220C",
+13330,1,2.4,0.36,glass,"9(TABLE 1)",,0.0062,47,0.202,300,,1.3,,,,,,"AGE IS TOO YOUNG; K-AR AGE IS 3.91+/-0.27 M.Y."
+13331,1,4.3,0.5,glass,"10(TABLE 1)",,0.0099,84,0.236,489,,1.71,,,,,,"AGE IS TOO YOUNG; SEE K-AR AGE"
+13332,1,2.5,0.6,glass,"12(TABLE 1)",,0.0021,20,0.122,471,,2.47,,,,,,"AGE IS TOO YOUNG; K-AR AGE IS 4.42+/-0.34 M.Y."
+13332,2,3.2,0.4,glass,"12(TABLE 1)",,0.003,84,0.151,732,,2.72,,,,,,"AGE IS TOO YOUNG; K-AR AGE IS 4.42+/-0.34 M.Y."
+13333,1,4.7,0.7,glass,"13(TABLE 1)",,0.0059,54,0.0991,152,,1.3,,,,,,"AGE IS TOO YOUNG; SEE K-AR AGE"
+13334,1,4.4,0.3,glass,"14(TABLE 1)",,0.0046,196,0.17,834,,2.72,,,,"GLASS WAS FROM THE SUBSURFACE--NOT EXPOSED TO THE SUN",,"AGE IS TOO YOUNG; K-AR AGE IS 5.04+/-0.73 M.Y."
+13334,2,1.5,0.2,glass,"3(TABLE 6)",,0.0014,137,0.14,386,,2.47,,,,"GLASS FROM THE GROUND SURFACE-EXPOSED TO SUNLIGHT",,"AGE IS SPURIOUS; GLASS HAS BEEN NATURALLY ANNEALED"
+13334,3,4.9,0.5,glass,"3(TABLE 6)",,0.0022,187,0.0668,252,,2.47,,,"minimum age of volcanism",,"A FISSION-TRACK PLATEAU ANNEALING AGE--ANNEALED AT 225C FOR ONE HOUR",
+13335,1,4.7,0.4,glass,"16(TABLE 1)",,0.0045,214,0.141,416,,2.47,,,,,,"AGE IS TOO YOUNG; K-AR AGE IS 5.85+/-0.67 M.Y. GLASS HAS BEEN NATURALLY ANNEALED"
+13335,2,4.2,0.5,glass,"16(TABLE 1)",,0.0044,84,0.171,667,,2.72,,,,,,"AGE IS TOO YOUNG; K-AR AGE IS 5.85+/-0.67 M.Y. GLASS HAS BEEN NATURALLY ANNEALED"
+13336,1,5.9,0.6,glass,"17(TABLE 1)",,0.0059,113,0.102,433,,1.71,,,,,,"AGE IS TOO YOUNG; SEE K-AR AGE"
+13336,2,7.1,1.5,glass,"17(TABLE 1)",,0.0064,91,0.0285,52,,0.53,,,,,,"AGE IS TOO YOUNG; SEE K-AR AGE"
+13337,1,4.8,0.5,glass,"18(TABLE 1)",,0.0071,101,0.242,520,,2.72,,,,,,"AGE IS TOO YOUNG; K-AR AGE IS 7.10+/-0.14 M.Y. GLASS HAS BEEN NATURALLY ANNEALED"
+13338,1,4.2,0.3,glass,"19(TABLE 1)",,0.0052,273,0.184,1084,,2.47,,,,,,"AGE IS TOO YOUNG; K-AR AGE IS 7.33+/-0.34 M.Y. GLASS HAS BEEN NATURALLY ANNEALED"
+13338,2,7.2,0.7,glass,"5(TABLE 6)",,0.0044,145,0.0889,443,,2.47,,,"minimum age of volcanism",,"FISSION-TRACK PLATEAU ANNEALING AGE--ANNEALED AT 225C FOR ONE HOUR",
+13339,1,2.2,0.6,glass,"20(TABLE 1)",,0.0025,14,0.167,643,,2.47,,,,,,"AGE IS TOO YOUNG; K-AR AGE IS 7.91+/-0.09 M.Y. GLASS HAS BEEN NATURALLY ANNEALED"
+13340,1,19.4,1.2,glass,"22(TABLE 1)",,0.0639,415,0.491,601,,2.53,,,"minimum age of volcanism",,,
+13340,2,23.3,1.4,glass,"22(TABLE 1)",,0.0628,705,0.209,490,,1.3,,,"minimum age of volcanism",,,
+13340,3,21.3,1.8,glass,"22(TABLE 1)",,0.0623,296,0.299,306,,1.71,,,"minimum age of volcanism",,,
+13341,1,13.4,1,glass,"23(TABLE 1)",,0.0673,320,0.39,395,,1.3,,,,,,"AGE IS TOO YOUNG; SEE K-AR AGE. GLASS HAS BEEN NATURALLY ANNEALED"
+13341,2,11.9,0.7,glass,"23(TABLE 1)",,0.0502,401,0.679,787,,2.69,,,,,,"AGE IS TOO YOUNG; SEE K-AR AGE. GLASS HAS BEEN NATURALLY ANNEALED"
+13341,3,13.8,0.8,glass,"23(TABLE 1)",,0.0547,691,0.308,512,,1.3,,,,,,"AGE IS TOO YOUNG; SEE K-AR AGE. GLASS HAS BEEN NATURALLY ANNEALED"
+13341,4,20.3,2.4,glass,"11(TABLE 6)",,0.0555,116,0.342,258,,2.09,,,,,"A FISSION-TRACK PLATEAU ANNEALING AGE--ANNEALED AT 200C FOR ONE HOUR","AGE IS TOO YOUNG; SEE K-AR AGE"
+13341,5,22.8,1.3,glass,"11(TABLE 6)",,61.4,776,337,560,,2.09,,,"minimum age of volcanism",,"A FISSION-TRACK PLATEAU ANNEALING AGE--ANNEALED AT 200C FOR ONE HOUR",
+13342,1,19.8,1.9,glass,"11(TABLE 6)",,0.0383,182,0.242,302,,2.09,,,,,"A FISSION-TRACK PLATEAU ANNEALING AGE--ANNEALED AT 250C FOR ONE HOUR","AGE IS TOO YOUNG; SEE K-AR AGE"
+13342,2,21.6,1.5,glass,"11(TABLE 6)",,0.0371,469,0.215,354,,2.09,,,,,"A FISSION-TRACK PLATEAU ANNEALING AGE--ANNEALED AT 250C FOR ONE HOUR","AGE IS TOO YOUNG; SEE K-AR AGE"
+13342,3,22.7,2.5,glass,"11(TABLE 6)",,0.0282,134,0.155,238,,2.09,,,"minimum age of volcanism",,"A FISSION-TRACK PLATEAU ANNEALING AGE--ANNEALED AT 300C FOR ONE HOUR",
+13342,4,21.7,2.1,glass,"11(TABLE 6)",,0.0212,268,0.122,201,,2.09,,,,,"A FISSION-TRACK PLATEAU ANNEALING AGE--ANNEALED AT 300C FOR ONE HOUR","AGE IS TOO YOUNG; SEE K-AR AGE"
+13343,1,26.4,2.3,glass,"24(TABLE 1)",,0.114,164,0.335,649,,1.3,,,,,,"AGE IS TOO YOUNG; K-AR AGE IS 30.0+/-1.5 M.Y."
+13343,2,27.1,2.5,glass,"24(TABLE 1)",,0.117,211,0.65,277,,2.52,,,,,,"AGE IS TOO YOUNG; K-AR AGE IS 30.0+/-1.5 M.Y."
+13344,1,1.3,0.17,glass,"1(TABLE 4)",,0.0029,70,0.162,297,,1.16,,,,,,"AGE IS TOO YOUNG; FISSION-TRACK AGE FOR ZIRCON IS 1.96+/-0.6 M.Y."
+13345,1,5,0.25,zircon,"2(TABLE 4)",,0.529,88,7.33,910,,1.15,,,"age of volcanism",,,
+13345,2,4.5,1.2,glass,"2(TABLE 4)",,0.0125,15,0.193,371,,1.18,,,"minimum age of volcanism",,,
+13346,1,6.8,0.2,zircon,"3(TABLE 4)",,1.16,313,11.1,2728,,1.09,,,"age of volcanism",,,
+13346,2,4.9,0.33,glass,"3(TABLE 4)",,0.0168,449,0.227,440,,1.1,,,,,,"AGE IS TOO YOUNG; SEE ZIRCON AGE"
+13347,1,7.8,0.4,zircon,"4(TABLE 4)",,0.573,130,5.16,585,,1.18,,,"age of volcanism",,,
+13347,2,5.3,1.5,glass,"4(TABLE 4)",,0.018,13,1.03,380,,5.03,,,,,,"AGE IS TOO YOUNG; SEE ZIRCON AGE"
+13348,1,9.4,0.9,zircon,"5(TABLE 4)",,1.35,153,9.47,493,,1.1,,,"age of volcanism",,,
+13348,2,6.2,0.6,glass,"5(TABLE 4)",,0.0149,157,0.253,347,,1.78,,,,,,"AGE IS TOO YOUNG; SEE ZIRCON AGE"
+13349,1,9.8,0.4,zircon,"6(TABLE 4)",,0.766,227,6.1,1248,,1.28,,,"age of volcanism",,,
+13349,2,9.9,0.4,zircon,"6(TABLE 4)",,1.14,163,7.01,503,,1.02,,,"age of volcanism",,,
+13349,3,7.2,0.6,glass,"6(TABLE 4)",,0.0216,183,0.196,638,,1.09,,,,,,"AGE IS TOO YOUNG; SEE ZIRCON AGES"
+13350,1,10.3,0.3,zircon,"7(TABLE 4)",,0.776,291,5.48,1824,,1.22,,,"age of volcanism",,,
+13350,2,6.9,0.7,glass,"7(TABLE 4)",,0.0249,108,0.25,541,,1.16,,,,,,"AGE IS TOO YOUNG; SEE ZIRCON AGE"
+13350,3,10.9,1.1,glass,"6(TABLE 6)",,0.0196,117,0.361,453,,3.33,,,"age of volcanism","GLASS SHARDS","A FISSION-TRACK PLATEAU ANNEALING AGE--ANNEALED AT 210C AT ONE HOUR",
+13351,1,11.4,1.1,zircon,"8(TABLE 4)",,1.19,132,6.88,382,,1.1,,,"age of volcanism",,,
+13351,2,8,1.2,glass,"8(TABLE 4)",,0.0212,55,0.331,228,,2.09,,,,,,"AGE IS TOO YOUNG; SEE ZIRCON AGE"
+13352,1,11.5,0.9,zircon,"9(TABLE 4)",,0.943,201,5.97,1284,,1.22,,,"age of volcanism",,,
+13352,2,8.6,0.7,glass,"9(TABLE 4)",,0.0222,210,0.182,699,,1.18,,,,,,"AGE IS TOO YOUNG; SEE ZIRCON AGE"
+13352,3,11.4,2,glass,"7(TABLE 6)",,0.0119,38,0.348,323,,3.33,,,"age of volcanism","GLASS SHARDS","A FISSION-TRACK PLATEAU ANNEALING AGE--ANNEALED AT 210C FOR ONE HOUR",
+13353,1,13.5,1.1,zircon,"10(TABLE 4)",,0.567,55,3.08,108,,1.23,,,"age of volcanism",,,
+13353,2,13.3,0.6,zircon,"10(TABLE 4)",,1.44,173,6.93,417,,1.07,,,"age of volcanism",,,
+13353,3,10.5,0.8,glass,"10(TABLE 4)",,0.0251,411,0.169,280,,1.18,,,,,,"AGE IS TOO YOUNG; SEE ZIRCON AGES"
+13353,4,9.4,0.7,glass,"8(TABLE 6)",,0.0251,411,0.169,280,,1.18,,,,,,"AGE IS TOO YOUNG; SEE ZIRCON AGES"
+13353,5,14.5,2.1,glass,"8(TABLE 6)",,0.0199,53,0.274,421,,3.33,,,"age of volcanism",,"A FISSION-TRACK PLATEAU ANNEALING AGE--ANNEALED AT 210C FOR ONE HOUR",
+13354,1,17.5,0.5,zircon,"11(TABLE 4)",,3.68,434,16.6,1804,,1.32,,,"age of volcanism",,,
+13354,2,16.5,0.6,zircon,"11(TABLE 4)",,1.2,288,5.77,1,,1.33,,,"age of volcanism",,,
+13354,3,9.4,0.6,glass,"11(TABLE 4)",,0.02,291,0.313,889,,2.47,,,,"GLASS SHARDS",,"AGE IS TOO YOUNG; SEE ZIRCON AGES"
+13354,4,11.4,0.9,glass,"10(TABLE 6)",,0.022,185,0.285,861,,2.47,,,,"GLASS SHARDS",,"AGE IS TOO YOUNG; K-AR AGE IS 15.1 M.Y."
+13354,5,15.3,1,glass,"10(TABLE 6)",,0.0219,290,0.21,846,,2.47,,,"age of volcanism","GLASS SHARDS","A FISSION-TRACK PLATEAU ANNEALING AGE--ANNEALED AT 149C FOR ONE HOUR",
+13355,1,13.9,1.2,glass,"10(TABLE 6)",,0.021,177,0.223,685,,2.47,,,"minimum age of volcanism","GLASS SHARDS","A FISSION-TRACK PLATEAU ANNEALING AGE--ANNEALED AT 149C FOR ONE HOUR",
+13355,2,17.7,1.2,glass,"10(TABLE 6)",,0.0205,268,0.171,1455,,2.47,,,"age of volcanism","GLASS SHARDS","A FISSION-TRACK PLATEAU ANNEALING AGE--ANNEALED AT 204C FOR ONE HOUR",
+13355,3,18.1,1.5,glass,"10(TABLE 6)",,0.0222,187,0.181,570,,2.47,,,"age of volcanism","GLASS SHARDS","A FISSION-TRACK PLATEAU ANNEALING AGE--ANNEALED AT 204C FOR ONE HOUR",
+13355,4,17.7,1.5,glass,"10(TABLE 6)",,0.0211,183,0.176,505,,2.47,,,"age of volcanism","GLASS SHARDS","A FISSION-TRACK PLATEAU ANNEALING AGE--ANNEALED AT 225C FOR ONE HOUR",
+13355,5,16.5,1.6,glass,"10(TABLE 6)",,0.015,126,0.134,418,,2.47,,,"age of volcanism","GLASS SHARDS","A FISSION-TRACK PLATEAU ANNEALING AGE--ANNEALED AT 225C FOR ONE HOUR",
+13356,1,16.4,3.4,glass,"10(TABLE 6)",,0.0154,23,0.139,266,,2.47,,,"age of volcanism","GLASS SHARDS","A FISSION-TRACK PLATEAU ANNEALING AGE--ANNEALED AT 250C FOR ONE HOUR",
+13357,1,27.6,0.6,zircon,"12(TABLE 4)",,4.14,605,11,1578,,1.23,,,"age of volcanism",,,
+13357,2,28.8,0.8,zircon,"12(TABLE 4)",,4.15,577,10.6,737,,1.23,,,"age of volcanism",,,
+13357,3,11.7,1.8,glass,"12(TABLE 4)",,0.0355,77,0.21,177,,1.16,,,,,,"AGE IS TOO YOUNG; SEE ZIRCON AGES"
+13358,1,27.2,0.9,zircon,"13(TABLE 4)",,4.55,548,10.6,641,,1.06,,,"minimum age of volcanism",,,
+13358,2,11.7,1.3,glass,"13(TABLE 4)",,0.0413,107,0.362,436,,1.71,,,,"GLASS SHARDS",,"AGE IS TOO YOUNG; SEE ZIRCON AGE"
+13358,3,11.2,0.9,glass,"12(TABLE 6)",,0.0362,195,0.331,991,,1.71,,,,"GLASS SHARDS",,"AGE IS TOO YOUNG; K-AR AGE IS 30.2 M.Y."
+13358,4,17,1.8,glass,"12(TABLE 6)",,0.0463,120,0.278,351,,1.71,,,,"GLASS SHARDS","A FISSION-TRACK PLATEAU ANNEALING AGE--ANNEALED AT 153C FOR ONE HOUR","AGE IS TOO YOUNG; K-AR AGE IS 30.2 M.Y."
+13358,5,18.8,1.4,glass,"12(TABLE 6)",,0.0412,222,0.224,715,,1.71,,,,"GLASS SHARDS","A FISSION-TRACK PLATEAU ANNEALING AGE--ANNEALED AT 153C FOR ONE HOUR","AGE IS TOO YOUNG; K-AR AGE IS 30.2 M.Y."
+13359,1,25.2,2.6,glass,"12(TABLE 6)",,0.0486,126,0.197,424,,1.71,,,,"GLASS SHARDS","A FISSION-TRACK PLATEAU ANNEALING AGE--ANNEALED AT 179C FOR ONE HOUR","AGE IS TOO YOUNG; K-AR AGE IS 30.2 M.Y."
+13359,2,25.8,1.9,glass,"12(TABLE 6)",,0.0432,216,0.171,569,,1.71,,,,"GLASS SHARDS",,"AGE IS TOO YOUNG; K-AR AGE IS 30.2 M.Y."
+13359,3,28.4,3,glass,"12(TABLE 6)",,0.0467,121,0.168,415,,1.71,,,"minimum age of volcanism","GLASS SHARDS","A FISSION-TRACK PLATEAU ANNEALING AGE--ANNEALED AT 204C FOR ONE HOUR",
+13359,4,22.7,1.8,glass,"12(TABLE 6)",,0.0386,207,0.174,572,,1.71,,,,"GLASS SHARDS","A FISSION-TRACK PLATEAU ANNEALING AGE--ANNEALED AT 204C FOR ONE HOUR","AGE IS TOO YOUNG; K-AR AGE IS 30.2 M.Y."
+13359,5,31.3,2.9,glass,"12(TABLE 6)",,0.054,140,0.176,597,,1.71,,,"age of volcanism","GLASS SHARDS","A FISSION-TRACK PLATEAU ANNEALING AGE--ANNEALED AT 227C FOR ONE HOUR",
+13360,1,27.3,2.3,glass,"12(TABLE 6)",,0.0363,121,0.136,466,,1.71,,,"minimum age of volcanism","GLASS SHARDS","A FISSION-TRACK PLATEAU ANNEALING AGE--ANNEALED AT 227C FOR ONE HOUR",
+13360,2,20.5,2.9,glass,"12(TABLE 6)",,0.0313,61,0.156,247,,1.71,,,,"GLASS SHARDS","A FISSION-TRACK PLATEAU ANNEALING AGE--ANNEALED AT 250C FOR ONE HOUR","AGE IS TOO YOUNG; K-AR AGE IS 30.2 M.Y."
+13360,3,23.4,2.5,glass,"12(TABLE 6)",,0.0224,121,0.0979,329,,1.71,,,,"GLASS SHARDS","A FISSION-TRACK PLATEAU ANNEALING AGE--ANNEALED AT 250C FOR ONE HOUR","AGE IS TOO YOUNG; K-AR AGE IS 30.2 M.Y."
+13361,1,34.4,0.7,zircon,"14(TABLE 4)",,7.45,1439,12.62,1219,,0.98,,,"age of volcanism",,,
+13361,2,19.5,1.7,glass,"14(TABLE 4)",,0.0669,191,0.399,403,,1.95,,,,,,"AGE IS TOO YOUNG; SEE ZIRCON AGE"
+13792,1,8,1.1,apatite,"1. 72MC113G",,0.122,254,1.09,2270,,1.19,,,"age of uplift and cooling","50 GRAINS",,
+13793,1,9.6,1,apatite,"2. 72MC-116",,0.194,405,1.44,2408,,1.19,,,"age of uplift and cooling","50 GRAINS COUNTED FOR FOSSIL TRACKS, 40 GRAINS COUNTED FOR INDUCTED TRACKS",,
+13794,1,4.9,1.9,apatite,"3. 72MS-339",,0.03,28,0.441,408,,1.19,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13795,1,7.8,1.3,apatite,"4. 73MS27A",,0.164,152,1.43,1323,,1.13,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13795,2,5.3,1,apatite,"4. 73MS27B",,0.131,121,1.67,1546,,1.13,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13796,1,7.9,1.1,apatite,"5. 73MS28A",,0.238,220,2.04,1887,,1.13,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13796,2,5.7,1.1,apatite,"5. 73MS28B",,0.136,126,1.61,1487,,1.13,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13797,1,10.8,2.4,apatite,"6. 73MS29A",,0.104,96,0.646,598,,1.13,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13797,2,7.5,1.2,apatite,"6. 73MS29B",,0.194,180,1.75,1617,,1.13,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13798,1,14.4,2.1,apatite,"7. 73MS30",,0.248,230,1.16,1076,,1.13,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13799,1,11.9,1.9,apatite,"8. 73MS31A",,0.202,187,1.15,1065,,1.13,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13799,2,12.4,2.4,apatite,"8. 73MS31B",,0.132,122,0.717,664,,1.13,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13800,1,9,1.7,apatite,"9. 73MS32",,0.076,141,0.571,529,,1.13,,,"age of uplift and cooling","100 GRAINS COUNTED FOR FOSSIL TRACKS, 50 GRAINS COUNTED FOR INDUCTED TRACKS",,
+13801,1,14.7,1.7,apatite,"10. 73MS33A",,0.377,349,1.72,1595,,1.13,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13801,2,18.7,2.2,apatite,"10. 73MS33B",,0.397,368,1.43,1326,,1.13,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13802,1,20,2.9,apatite,"11. 73MS34",,0.269,248,0.909,842,,1.13,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13803,1,10,1.6,apatite,"12. 73MS36",,0.181,168,1.23,1138,,1.13,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13804,1,31.3,6.3,apatite,"13. 73MS37",,0.149,138,0.347,321,,1.22,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13805,1,56.3,6.4,apatite,"14. 73MS39",,0.613,568,0.733,679,,1.13,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13806,1,74.8,17.2,apatite,"15. 73MS40",,0.172,159,0.154,143,,1.13,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13807,1,69.3,6.2,apatite,"16. 73MS42",,1.1,1015,1.06,985,,1.13,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13808,1,65.9,6.2,apatite,"17. 73MS43B",,0.953,882,0.972,900,,1.13,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13809,1,7.5,0.7,apatite,"18. 75MC7",,0.252,525,2.92,6078,,1.45,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13810,1,9.7,0.9,apatite,"19. 75MC8",,0.242,505,2.18,4535,,1.45,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13811,1,15.7,1.3,apatite,"20. 75MC9",,0.708,656,3.92,3630,,1.45,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13812,1,15.7,2.3,apatite,"21. 75MC11",,0.302,280,1.5,1387,,1.45,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13813,1,14.7,1.5,apatite,"22. 75MC12",,0.231,2656,1.28,2656,,1.45,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13814,1,17,1.3,apatite,"23. 75MC13",,0.293,271,1.49,1379,,1.45,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13815,1,61.2,10.4,apatite,"24. 75MC14",,0.113,236,8.16,333,,1.45,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13816,1,65.4,3.2,apatite,"25. 75MC15",,0.348,726,0.46,958,,1.45,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13817,1,47.1,4,apatite,"26. 75MC16",,0.423,882,0.777,1619,,1.45,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13818,1,46.1,4.4,apatite,"27. 75MC18",,0.728,674,1.36,1264,,1.45,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13819,1,74.3,4.6,apatite,"28. 74MC20",,0.903,1881,1.05,2186,,1.45,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13820,1,39.6,4.4,apatite,"29. 75MC21",,0.231,482,0.505,1052,,1.45,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13821,1,84.5,9,apatite,"30. 75M2C23",,0.333,693,0.339,707,,1.45,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13822,1,59.9,4,apatite,"31. 75MC24",,0.724,1508,1.04,2175,,1.45,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13823,1,67.3,3.6,apatite,"32. 75MC25",,0.391,815,0.392,815,,1.45,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13824,1,87.6,8.6,apatite,"33. 75MC26",,0.883,818,0.869,805,,1.45,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13825,1,31.4,5.2,apatite,"34. 75MC28",,1.47,1359,1.77,1642,,1.45,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13826,1,65.4,9.6,apatite,"35. 75MC29",,0.154,321,0.204,424,,1.45,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13827,1,19.5,3.1,apatite,"36. 75MC31",,0.091,190,0.406,846,,1.45,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13828,1,13.8,2,apatite,"37. 75MC32",,0.107,222,0.671,1397,,1.45,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13829,1,94.4,10.5,apatite,"38. B-112",,0.839,777,0.586,543,,1.11,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13830,1,7.9,1.3,apatite,"39. K-12",,0.084,176,0.71,1479,,1.11,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13831,1,17.7,4.7,apatite,"40. P-77",,0.059,74,0.192,240,,0.961,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13832,1,55.2,4,apatite,"41. P-78",,1.11,335,5.81,853,,4.72,,,"age of uplift and cooling","6 GRAINS COUNTED",,
+13833,1,56.7,4.4,apatite,"42. P-79",,1.52,400,7.5,965,,4.69,,,"age of uplift and cooling","6 GRAINS COUNTED",,
+13834,1,8.6,3.3,apatite,"43. P-87",,0.076,,0.559,,,1.07,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13835,1,7.3,3.5,apatite,"44. P-88",,0.031,,0.267,,,1.06,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13836,1,39.1,11.5,apatite,"45. P-89",,0.22,461,0.36,746,,1.06,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13837,1,53.9,11.2,apatite,"46. S-56",,1.11,1032,1.32,1222,,1.07,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13838,1,37.2,10.6,apatite,"47. 0-66",,0.44,407,0.78,719,,1.1,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13839,1,54,12.5,apatite,"48. S-54",,0.78,721,0.93,860,,1.08,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13840,1,49.9,15.5,apatite,"49. S-53",,1.39,288,1.81,1678,,1.09,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13841,1,66,13.6,apatite,"50. S-52",,0.94,871,0.93,857,,1.09,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13842,1,44.4,14.2,apatite,"51. S-55",,0.285,198,0.413,287,,1.08,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13843,1,75.2,6.1,apatite,"52. 72MC140A",,0.605,1262,0.571,1189,,1.19,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13844,1,66.9,14.5,apatite,"53. 72MC140",,0.179,166,0.19,176,,1.19,,,"age of uplift and cooling","50 GRAINS COUNTED",,
+13845,1,6.5,0.5,zircon,"1. J-2-E",,1.1,230,104,1083,,1.03,,,,"6 GRAINS COUNTED",,"A COOLING AGE"
+13846,1,10.3,1,zircon,"2. AM-2",,0.881,204,0.526,609,,1.03,,,"minimum age of volcanism","6 GRAINS COUNTED",,
+13874,1,11.1,1.7,zircon,"(NOT GIVEN)",,,,,,,,,,"age of volcanism",,"NO ANALYTICAL DATA GIVEN",
+13906,1,42.2,7.8,apatite,DT78-27A,,2.37,47,3.83,77,,1.16,,,"age of volcanism",,,
+13909,1,46.8,6,apatite,DT78-37A,,3.53,105,5.21,155,,1.156,,,"age of volcanism",,,
+13911,1,41.3,2.3,zircon,VF78-115,,6.38,781,8.66,535,,0.939,,,,,,"THE MEAN OF 4 DATES IS 42.0+/-2.4 M.Y."
+14112,1,62.2,2.8,sphene,567,,9.92,600,10.1,620,,2.16,,,"age of uplift and cooling","6 GRAINS ETCHED WITH NAOH",,"PLUTON IS 90 M.Y. OLD"
+14112,2,61.3,6.2,apatite,567,,2.06,1068,2.16,1115,,1.08,,,"age of uplift and cooling","40 GRAINS ETCHED WITH NITRIC ACID",,"PLUTON IS 90 M.Y. OLD"
+14113,1,60.4,2.6,zircon,568,,7.66,706,8.15,751,,2.16,,,"age of uplift and cooling","6 GRAINS ETCHED WITH ALKALI HYDROXIDE",,
+14114,1,62.7,3.2,zircon,569,,5.14,400,5.27,410,,2.16,,,"age of uplift and cooling","6 GRAINS ETCHED WITH ALKALI HYDROXIDE",,
+14114,2,63.7,6.8,apatite,569,,0.96,1034,0.96,1030,,1.07,,,"age of uplift and cooling","83 GRAINS ETCHED WITH NITRIC ACID",,
+14169,1,21.8,4.3,apatite,VHNE-168N,,0.0787,164,0.248,516,,1.08,6.7,,,,,"A COOLING DATE"
+14169,2,50.6,3.2,zircon,VHNE-168N,,11.3,2398,15.5,1650,,1.14,410,,,,,"A COOLING DATE; K-AR AGES ARE AROUND 65 M.Y."
+14169,3,59.8,6.5,sphene,VHNE-168N,,5.68,644,6.14,697,,2.12,90,,,,,"A COOLING DATE; K-AR AGES ARE AROUND 65 M.Y."
+14170,1,19.2,2.8,apatite,VHNE-169N,,0.114,238,0.5,1042,,1.37,11,,,,,"A COOLING DATE"
+14170,2,54,5.1,zircon,VHNE-169N,,6.39,1331,6.36,662,,8.8,220,,,,,"A COOLING DATE; K-AR AGES ARE AROUND 65 M.Y."
+14329,1,72.4,4.4,sphene,"20. USGS(D)-DODGSON CREEK",,11.6,2246,18.38,1787,,1.93,310,,"minimum age of intrusion","5 GRAINS DATED",,
+14329,2,61.8,9.1,zircon,"20. USGS(D)-DODGSON CREEK",,3.11,504,3.23,262,,1.08,100,,,"5 GRAINS DATED",,"DATE IS TOO YOUNG"
+14333,1,18.7,2.7,apatite,GGN-S1,,0.0393,297,0.462,1749,,3.59,,,,,,"A COOLING AGE"
+14334,1,20.2,2.1,apatite,ML-61,,0.323,1220,3.5,1487,,3.59,,,,,,"A COOLING AGE"
+14335,1,20.7,2.5,apatite,ML-60,,0.201,761,2.13,905,,3.59,,,,,,"A COOLING AGE"
+14335,2,27.9,3.7,sphene,ML-60,,0.918,551,3.76,1129,,1.87,,,,,,"PLUTON FORMED 25-26 M.Y. AGO"
+14336,1,22.8,2.8,apatite,BR-21,,0.204,773,1.97,835,,3.59,,,,,,"A COOLING AGE"
+14336,2,28.1,3.3,zircon,BR-21,,5.18,797,18.1,1396,,1.61,,,,,,"PLUTON FORMED 25-26 M.Y. AGO"
+14336,3,29.1,3,sphene,BR-21,,2.79,1308,9.54,2238,,1.63,,,,,,"PLUTON FORMED 25-26 M.Y. AGO"
+14337,1,19.8,2.1,apatite,BR-16,,0.305,1152,3.38,1434,,3.59,,,,,,"A COOLING AGE"
+14337,2,25.1,1.5,zircon,BR-16,,4.98,1436,19.7,2841,,1.62,,,,,,"PLUTON FORMED 25-26 M.Y. AGO"
+14337,3,27.2,3.1,sphene,BR-16,,1.39,912,5.15,1691,,1.65,,,,,,"PLUTON FORMED 25-26 M.Y. AGO"
+14339,1,18,2.4,apatite,RC-25,,0.113,429,1.23,2066,,3.19,,,,,,"A COOLING AGE"
+14340,1,16.5,2.1,apatite,ML-105,,0.163,617,2.17,921,,3.59,,,,,,"A COOLING AGE"
+14370,1,33.5,3.8,apatite,RWT365-79,,0.06,122,0.11,226,,1.04,3,,"age of volcanism",,,
+14371,1,32.4,0.6,zircon,VF78-323,,2.29,1033,4.04,959,,0.956,128,,"age of volcanism","5-GRAINS DATED",,
+14372,1,30.4,1.2,zircon,DF1007(R-6),,3.75,712,8.63,819,,1.17,230,,"age of volcanism","6 GRAINS DATED",,
+14373,1,30.2,1.1,zircon,DF1010(R-14),,4.02,763,9.22,875,,1.1,250,,"age of volcanism","6 GRAINS DATED",,
+14374,1,26.7,1.5,zircon,R222,,4.53,863,9.52,906,,0.94,320,,"age of volcanism","6 GRAINS DATED",,
+14375,1,24.6,1.2,zircon,R157,,3.14,817,7.39,963,,0.97,240,,"age of volcanism","5 GRAINS DATED",,
+14376,1,25.1,1.1,zircon,R158,,1.9,409,4.25,458,,0.94,140,,"age of volcanism","6 GRAINS DATED",,
+14377,1,32.8,0.65,zircon,RWT644-77,,8.91,1759,1.55,1529,,0.956,492,,,"5 GRAINS DATED",,"TUFF IS AROUND 33 M.Y. OLD"
+14378,1,34.4,2.3,zircon,DF1405(R-42),,4.56,359,8.72,343,,1.1,250,,,"5 GRAINS DATED",,"TUFF IS AROUND 33 M.Y. OLD"
+14379,1,30.4,2.8,zircon,R12,,11.19,1089,22.65,1102,,1.09,660,,,"6 GRAINS DATED",,"A RESET DATE DUE TO THERMAL EFFECTS OF SNOQUALMIE BATHOLITH"
+14380,1,39.9,1.6,zircon,DF100(R-11),,8.61,1316,14.96,1143,,1.16,410,,"minimum age of volcanism","6 GRAINS DATED",,
+14381,1,44,1.8,zircon,DF1403(R-38),,7.64,1097,11.39,817,,1.1,330,,"age of volcanism","6 GRAINS DATED",,
+14382,1,44.6,3.2,zircon,R129,,5.33,884,7.62,632,,1.07,140,,"age of volcanism","6 GRAINS DATED",,
+14383,1,43.8,2.5,zircon,R130,,6.15,863,8.97,629,,1.07,270,,"age of volcanism","6 GRAINS DATED",,
+14384,1,40,1.4,zircon,RWT363-79,,2.87,677,3.98,470,,0.939,128,,"minimum age of volcanism","5 GRAINS DATED",,
+14385,1,35.9,1.5,zircon,DF1006(R-15),,6.47,689,12.72,677,,1.18,350,,,"6 GRAINS DATED",,"A RESET AGE DUE TO THERMAL EFFECT FROM THE SNOQUALMIE BATHOLITH"
+14386,1,35.5,1.4,zircon,DF1009(R-13),,11.06,1024,20.46,947,,1.1,600,,,"6 GRAINS DATED",,"A RESET AGE DUE TO THERMAL EFFECT FROM THE SNOQUALMIE BATHOLITH"
+14387,1,55.3,3,zircon,DF945(R-8),,7.26,608,13.85,513,,1.56,280,,,"5 GRAINS DATED",,"SPURIOUS AGE, TOO OLD; MAY BE CONTAMINATED WITH OLD ZIRCONS"
+14388,1,20.8,1.9,zircon,DF944(R-7),,5.22,846,15.58,1262,,1.04,450,,"age meaning uncertain (geologic factors)","6 GRAINS DATED",,"ROCK MAY BE FROM A YOUNG DIKE"
+14389,1,51.8,1,zircon,VF77-305,,3.95,898,6.09,692,,1.34,138,,"minimum age of volcanism","4 GRAINS DATED",,
+14390,1,46.2,1.1,zircon,RWT469A-76,,3.71,851,5.8,665,,1.21,145,,,"5 GRAINS DATED",,"THIS DATE IS TOO YOUNG; TUFF IS PROBABLY AROUND 52 M.Y. OLD"
+14391,1,54.1,2.1,zircon,DF946-(R-19),,6.96,870,11.89,743,,1.55,245,,,"6 GRAINS DATED",,"SILVER PASS VOLCANIC MEMBER IS AROUND 52 M.Y. OLD"
+14392,1,52.2,1.9,zircon,DF947(R-20),,7.87,765,13.84,673,,1.54,290,,,"6 GRAINS DATED",,"SILVER PASS VOLCANIC MEMBER IS AROUND 52 M.Y. OLD"
+14393,1,50.5,1.2,zircon,VF77-101,,7.45,715,8.42,404,,0.957,267,,,"4 GRAINS DATED",,"SILVER PASS VOLCANIC MEMBER IS AROUND 52 M.Y. OLD"
+14394,1,49.1,5.2,zircon,RWT512-75,,4.85,1078,4.67,519,,0.793,180,,,"6 GRAINS DATED",,"SILVER PASS VOLCANIC MEMBER IS AROUND 52 M.Y. OLD"
+14395,1,48.4,2.3,zircon,VF76-450,,5.64,198,8.5,150,,1.23,209,,,"3 GRAINS DATED",,"SILVER PASS VOLCANIC MEMBER IS AROUND 52 M.Y. OLD"
+14396,1,43.6,1.1,zircon,ER76-75,,5.55,808,9.35,680,,1.23,230,,,"5 GRAINS DATED",,"THIS DATE IS TOO YOUNG; SILVER PASS VOLCANIC MEMBER IS AROUND 52 M.Y. OLD"
+14398,1,4.2,0.7,glass,"(NOT GIVEN)",,,,,,,,,,,,,"DATE IS TOO LOW; GLASS IS PROBABLY 5.8 M.Y. OLD"
+14401,1,28.9,1.3,zircon,"(NOT GIVEN)",,,,,,,,,,"age of volcanism",,"NO ANALYTICAL DATA GIVEN",
+14413,1,50.7,,,"(NOT GIVEN)",,,,,,,,,,"age not evaluated",,"NO ANALYTICAL DATA GIVEN",
+14415,1,52.7,2.7,zircon,"(NOT GIVEN)",,,,,,,,,,"age of intrusion",,"NO ANALYTICAL DATA GIVEN",
+14416,1,54.6,2.2,zircon,"(NOT GIVEN)",,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","A HYBRID DATE; ROCK IS CRETACEOUS IN AGE"
+14418,1,54.9,2.7,zircon,"(NOT GIVEN)",,,,,,,,,,"age of volcanism",,"NO ANALYTICAL DATA GIVEN",
+14419,1,67.3,7.1,zircon,"(NOT GIVEN)",,,,,,,,,,"age of volcanism",,"NO ANALYTICAL DATA GIVEN",
+14448,1,33.6,2.8,zircon,"1. USGS(D)-DF-1150",,5.67,1208,10.44,1112,,1.01,310,,"age of intrusion","6 CRYSTALS DATED",,
+14449,1,34.4,3.3,zircon,"2. USGS(D) DF-1157",,4.19,911,7.45,810,,1,230,,"age of intrusion","6 CRYSTALS DATED",,
+14450,1,28.7,2.2,zircon,"3. USGS(D) DF-1159",,4.85,1213,10.36,1295,,1,310,,"age of intrusion","6 CRYSTALS DATED",,
+14537,1,21.5,1.1,zircon,U26,,11.3,730,14.1,463,,0.456,,,"age of volcanism","5 GRAINS DATED",,
+14538,1,18.1,4.6,zircon,U7A,,7.22,156,11,119,,4.6,,,"minimum age of volcanism","ONE GRAIN DATED",,
+14539,1,28.3,1.8,zircon,U128-1,,4.57,321,9.63,338,,0.997,,,,"4 GRAINS DATED",,"SPURIOUS DATE, DETRITAL ZIRCONS PROBABLY PRESENT"
+14539,2,40,7,zircon,U12B-1,,9.62,346,14.3,257,,0.997,,,,"2 GRAINS DATED",,"SPURIOUS DATE; DETRITAL ZIRCONS PROBABLY PRESENT"
+14540,1,30.6,1.2,zircon,U229,,5.87,919,11,861,,0.961,,,"age of volcanism","10 GRAINS DATED",,
+14540,2,32.2,3.6,apatite,U229,,0.263,234,2.25,1002,,4.62,,,"maximum age of volcanism","15 GRAINS DATED",,
+14541,1,29.4,1.3,zircon,T54-A,,10.5,1031,21.3,1047,,1,,,"age of volcanism","5 GRAINS DATED",,
+14542,1,37,4.1,sphene,U141,,1.01,262,7.85,1017,,4.81,,,"age of volcanism","12 GRAINS DATED",,
+14543,1,39.7,3.4,sphene,U18B,,1.88,488,2.7,350,,0.955,,,,"12 GRAINS DATED",,"TUFF PROBABLY FORMED ABOUT 38 M.Y. AGO"
+14544,1,39.4,2.8,sphene,U32,,1.83,436,2.62,311,,0.943,,,,"11 GRAINS DATED",,"TUFF PROBABLY FORMED ABOUT 38 M.Y. AGO"
+14545,1,38.4,4,sphene,U34,,1.7,366,12.8,1384,,4.86,,,,"10 GRAINS DATED",,"TUFF PROBABLY FORMED ABOUT 38 M.Y. AGO"
+14546,1,34.5,1.3,zircon,U238,,5.03,789,8.38,656,,0.961,,,,"10 GRAINS DATED",,"TUFF PROBABLY FORMED ABOUT 38 M.Y. AGO"
+14547,1,36.9,1.7,zircon,U240,,8.8,1005,13.7,782,,0.961,,,,"8 GRAINS DATED",,"TUFF PROBABLY FORMED ABOUT 38 M.Y. AGO"
+14548,1,36.4,1.6,zircon,U57,,6.63,966,6.08,886,,1.12,,,,"8 GRAINS DATED",,"TUFF IS PROBABLY AROUND 39 M.Y. OLD"
+14549,1,36.4,2.8,sphene,U56,,1.72,369,13.6,1466,,4.84,,,,"10 GRAINS DATED",,"TUFF PROBABLY FORMED ABOUT 38 M.Y. AGO"
+14550,1,36.6,1.6,zircon,U298,,6.48,727,10.7,598,,1.01,,,"minimum age of intrusion","6 GRAINS DATED",,
+14551,1,41.8,2.3,zircon,U10A,,3,518,4,345,,0.933,,,"age of volcanism","8 GRAINS DATED",,
+14734,1,41.5,3.4,zircon,"(NOT GIVEN)",,,1166,,1168,0.499,1.37,,,"age of volcanism","7 CRYSTALS DATED",,
+14753,1,24.6,1.2,zircon,46,,,,,,,,,,"age of volcanism",,"NO ANALYTICAL DATA GIVEN",
+14754,1,25.1,,zircon,11,,,,,,,,,,"age of volcanism",,"NO ANALYTICAL DATA GIVEN",
+14755,1,26.7,,zircon,12,,,,,,,,,,"age of volcanism",,"NO ANALYTICAL DATA GIVEN",
+14756,1,21.4,1.4,zircon,9,,,,,,,,,,"minimum age of intrusion",,"NO ANALYTICAL DATA GIVEN",
+14757,1,22.8,,zircon,52,,,,,,,,,,"minimum age of intrusion",,"NO ANALYTICAL DATA GIVEN",
+15542,1,14.8,1.4,zircon,20,,1.15,211,4.69,862,,1.01,134,,"age of volcanism","8 ZIRCONS",,
+15543,1,16.1,1.5,zircon,21,,1.03,224,3.87,842,,1.01,110,,"age of volcanism","8 ZIRCONS",,
+15544,1,16.2,0.8,zircon,22,,2.87,450,10.7,1682,,1.01,305,,"age of volcanism","6 ZIRCONS",,
+15545,1,15.4,0.8,zircon,23,,2.73,714,10.7,2798,,1.01,305,,"age of volcanism","10 ZIRCONS",,
+15546,1,15.6,1,zircon,24,,1.8,253,6.89,968,,1,198,,"age of volcanism","6 ZIRCONS",,
+15547,1,11.9,0.9,zircon,25,,3.38,370,17,1856,,1,490,,"age of volcanism","6 ZIRCONS",,
+15548,1,11.7,1.3,zircon,26,,0.938,181,4.79,924,,1,138,,"age of volcanism","8 ZIRCONS",,
+15549,1,11.2,1.1,zircon,27,,1.04,205,5.55,1094,,0.998,198,,"age of volcanism","8 ZIRCONS",,
+15550,1,13,0.8,zircon,28,,2.2,381,10.3,1748,,0.996,298,,"age of volcanism","8 ZIRCONS",,
+15551,1,11,0.9,zircon,29,,1.8,321,9.7,1728,,0.994,281,,"age of volcanism","8 ZIRCONS",,
+15552,1,15.6,0.9,zircon,30,,1.84,375,6.9,1278,,0.992,203,,"age of volcanism","6 ZIRCONS",,
+15553,1,20.7,1.2,zircon,31,,2.69,239,7.68,894,,0.99,223,,"age of volcanism","6 ZIRCONS",,
+15554,1,10.6,0.9,zircon,32,,0.701,140,3.9,780,,0.98,114,,"age of volcanism","7 ZIRCONS",,
+15555,1,11.2,1.2,zircon,33,,0.821,133,4.33,702,,0.986,126,,"age of volcanism","6 ZIRCONS",,
+15556,1,13.2,0.9,zircon,34,,2.41,391,10.8,1746,,0.984,316,,"age of volcanism","8 ZIRCONS",,
+15557,1,15.9,1,zircon,35,,1.98,321,7.31,1184,,0.982,214,,"age of volcanism","6 ZIRCONS",,
+15558,1,16.3,1.9,zircon,36,,2.83,595,10.2,2138,,0.98,300,,"age of volcanism","8 ZIRCONS",,
+15559,1,15.1,0.8,zircon,37,,2.5,536,9.64,2070,,0.978,284,,"age of volcanism","8 ZIRCONS",,
+15560,1,15.3,2,zircon,38,,0.896,121,3.41,460,,0.976,101,,"age of volcanism","6 ZIRCONS",,
+15561,1,15,0.8,zircon,39,,3.28,633,13.75,2656,,1.05,377,,"age of volcanism","8 ZIRCONS",,
+15562,1,12.5,0.9,zircon,40,,1.51,331,7.62,1666,,1.05,209,,"age of volcanism","8 ZIRCONS",,
+15563,1,10.8,0.8,zircon,41,,1.55,248,9.03,1658,,1.05,248,,"age of volcanism","6 ZIRCONS",,
+15564,1,11.6,1.2,zircon,42,,0.91,232,4.96,1260,,1.05,136,,"age of volcanism","8 ZIRCONS",,
+15565,1,11.1,1.3,zircon,43,,1.03,215,5.85,1216,,1.05,160,,"age of volcanism","8 ZIRCONS",,
+15670,1,2.13,0.47,zircon,"1. A-1",,,2,,570,0.0378,0.914,,,"age of volcanism",,"(UNITS FOR PS AND PI VALUES NOT GIVEN--COMPILER)",
+15671,1,2.01,0.97,zircon,"2. A8-9",,,4,,118,0.0356,0.914,,,"age of volcanism",,"(UNITS FOR PS AND PI VALUES NOT GIVEN--COMPILER)",
+15672,1,0.75,0.2,zircon,"3. ST-05",,,14,,1057,0.0133,0.914,,,"age of volcanism",,"(UNITS FOR PS AND PI VALUES NOT GIVEN--COMPILER)",
+15869,1,19.8,1.2,zircon,"M330 (DF-1745)",,17.51,1135,31.72,1028,,0.599,"1,500.00",,"age of intrusion",,,
+15869,2,13.4,2.7,apatite,"M330 (DF-1745)",,0.122,254,0.589,1227,,1.08,16,,,,,"THIS IS A COOLING AGE--PROBABLY A RESET AGE"
+15870,1,9.5,1.9,apatite,"M335 (DF-1747)",,0.081,169,0.552,1151,,1.08,15,,,,,"DIKE IS PROBABLY AROUND 20 M.Y. OLD. THIS APATITE AGE IS A RESET AGE"
+15871,1,20.3,0.9,zircon,"M336 (DF-1748)",,3.27,605,5.72,530,,0.596,280,,"age of intrusion",,,
+15872,1,15.6,1.1,zircon,"M733 (DF-2996)",,3.86,536,14.75,1024,,1,420,,"age of intrusion",,,
+15873,1,8.4,0.6,zircon,"M735 (DF-2997)",,1.84,315,12.84,1100,,0.985,380,,"age of volcanism",,,
+15874,1,19.3,1,zircon,"M743 (DF-2998)",,6.41,890,19.43,1349,,0.978,570,,"age of intrusion","SAMPLE WAS MISTAKENLY LABELED M734--COMPILER",,
+15874,2,12.8,2.1,apatite,"M743 (DF-3000)",,0.08,166,0.392,816,,1.05,11,,,,,"A RESET AGE"
+15875,1,16.1,0.8,zircon,"M744 (DF-2999)",,5.41,651,19.47,1172,,0.969,540,,"age of intrusion",,,
+15878,1,22.6,1,zircon,"M508 (DF-2262)",,3.06,764,7.74,968,,0.957,230,,"age of volcanism",,,
+15945,1,0.69,0.06,zircon,"(NOT GIVEN)",,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","TIME OF BURNING OF COAL BED"
+15946,1,0.29,0.26,zircon,"(NOT GIVEN)",,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","TIME OF BURNING OF COAL BED"
+15947,1,,,zircon,"(NOT GIVEN)",,,,,,,,,,,,"AGE LESS THAN 0.45 M.Y.; NO ANALYTICAL DATA GIVEN","TIME OF BURNING OF COAL BED"
+15948,1,,,zircon,"(NOT GIVEN)",,,,,,,,,,,,"AGE IS LESS THAN 0.08 M.Y.; NO ANALYTICAL DATA GIVEN","TIME OF BURNING OF COAL BED"
+15949,1,0.24,0.2,zircon,"(NOT GIVEN)",,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","TIME OF BURNING OF COAL BED"
+15950,1,0.32,0.23,zircon,"(NOT GIVEN)",,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","TIME OF BURNING OF COAL BED"
+15951,1,0.45,0.24,zircon,"(NOT GIVEN)",,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","TIME OF BURNING OF COAL BED"
+15952,1,0.34,0.18,zircon,"(NOT GIVEN)",,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","TIME OF BURNING OF COAL BED"
+15953,1,0.41,0.21,zircon,"(NOT GIVEN)",,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","TIME OF BURNING OF COAL BED"
+15954,1,0.44,0.3,zircon,"(NOT GIVEN)",,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","TIME OF BURNING OF COAL BED"
+15955,1,,,zircon,"(NOT GIVEN)",,,,,,,,,,,,"AGE IS LESS THAN 0.48 M.Y.; NO ANALYYTICAL DATA GIVEN","TIME OF BURNING OF COAL BED"
+15956,1,0.33,0.2,zircon,"(NOT GIVEN)",,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","TIME OF BURNING OF COAL BED"
+15957,1,0.51,0.21,zircon,"(NOT GIVEN)",,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","TIME OF BURNING OF COAL BED"
+15958,1,0.77,0.39,zircon,"(NOT GIVEN)",,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","TIME OF BURNING OF COAL BED"
+15959,1,0.69,0.27,zircon,"(NOT GIVEN)",,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","TIME OF BURNING OF COAL BED"
+15960,1,0.68,0.29,zircon,"(NOT GIVEN)",,,,,,,,,,,,"NO ANALYTICAL DATA GIVEN","TIME OF BURNING OF COAL BED"
+16221,1,83.5,5.5,sphene,DR-510,,17.8,2230,26,1644,,2.02,,,"initial age disturbed by later metamorphism",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16221,2,68.4,8.3,apatite,DR-510,,0.211,1956,0.194,1793,,1.03,,,"age of uplift and cooling",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16222,1,90.8,9.7,sphene,DR-521,,6.86,857,4.74,592,,2.06,,,"initial age disturbed by later metamorphism",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16222,2,60.9,9.7,apatite,DR-521,,0.107,2233,0.115,2405,,1.08,,,"age of uplift and cooling",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16223,1,82.7,6.9,sphene,DR-532A,,11.8,1203,20.4,1037,,2.34,,,"initial age disturbed by later metamorphism",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16223,2,59.6,6,apatite,DR-532A,,0.054,1123,0.06,1242,,1.08,,,"age of uplift and cooling",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16224,1,86.8,7.4,sphene,DR-533,,18.4,1415,23.8,912,,1.81,,,"initial age disturbed by later metamorphism",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16225,1,87.9,6.1,sphene,DR-974,,9.39,1956,14.24,1484,,2.19,,,"initial age disturbed by later metamorphism",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16225,2,14.6,3.2,apatite,DR-974,,0.0072,149,0.032,674,,1.08,,,"age of uplift and cooling",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16226,1,84.4,7,sphene,DR-975,,10.9,1287,17.48,1032,,2.22,,,"initial age disturbed by later metamorphism",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16226,2,14.8,3.4,apatite,DR-975,,0.007,146,0.031,641,,1.06,,,"age of uplift and cooling",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16227,1,87.4,8.1,sphene,F-3,,7.77,1079,11.54,801,,2.13,,,"initial age disturbed by later metamorphism",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16228,1,92.9,6.8,sphene,DR-981,,13,1884,15.18,1266,,2.05,,,"initial age disturbed by later metamorphism",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16228,2,21.4,4.2,apatite,DR-981,,0.011,229,0.032,674,,1.03,,,"age of uplift and cooling",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16229,1,84.1,7.8,sphene,HMB-1C,,6.8,1139,9.5,792,,1.92,,,"initial age disturbed by later metamorphism",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16230,1,81.7,6.3,sphene,DR-1,,16,1633,22.2,1127,,1.85,,,"initial age disturbed by later metamorphism",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16230,2,23.1,4.7,apatite,DR-1,,0.115,1066,0.315,2913,,1.03,,,"age of uplift and cooling",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16231,1,86.9,6.5,sphene,LEO-126,,16.8,1715,23.6,1202,,2,,,"initial age disturbed by later metamorphism",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16231,2,17.5,3.8,apatite,LEO-126,,0.053,493,0.192,1774,,1.03,,,"age of uplift and cooling",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16232,1,74.6,5.3,sphene,DR566C,,15,1677,28,1550,,2.26,,,"initial age disturbed by later metamorphism",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16232,2,16.7,4.6,apatite,DR-566C,,0.046,954,0.18,3754,,1.07,,,"age of uplift and cooling",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16233,1,75.2,6.8,sphene,DR-573A,,6.52,1087,11.06,921,,2.09,,,"initial age disturbed by later metamorphism",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16233,2,42.2,5.1,apatite,DR-573A,,0.042,867,0.062,1293,,1.03,,,"age of uplift and cooling",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16234,1,72.2,6.8,sphene,DR-573B,,7.24,1056,10.76,785,,1.76,,,"initial age disturbed by later metamorphism",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16234,2,39,9.4,apatite,DR-573B,,0.041,863,0.067,1394,,1.03,,,"age of uplift and cooling",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16235,1,24.2,3.5,apatite,DR-844,,0.011,225,0.029,614,,1.08,,,"age of uplift and cooling",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16236,1,22.1,6.6,apatite,DR-847A,,0.0074,155,0.021,442,,1.03,,,"age of uplift and cooling",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16237,1,79.2,6.5,sphene,DR-1127A,,16.6,1384,24.6,1028,,1.93,,,"initial age disturbed by later metamorphism",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16237,2,49.6,8.1,apatite,DR-1127A,,0.111,2301,0.143,2978,,1.05,,,"age of uplift and cooling",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16238,1,78.2,7.3,sphene,DR-1354,,6.08,1014,10.34,861,,2.18,,,"initial age disturbed by later metamorphism",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16238,2,45.7,12.3,apatite,DR-1354,,0.136,1256,0.191,1764,,1.05,,,"age of uplift and cooling",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16239,1,73.8,5,sphene,DR-1455,,16.7,1851,28.8,1605,,2.1,,,"initial age disturbed by later metamorphism",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16239,2,2.8,0.9,apatite,DR-1455,,0.0004,40,0.101,935,,1.06,,,"age of uplift and cooling",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16240,1,69,5.1,sphene,DR-1981,,13.4,2226,12.9,1073,,1.09,,,"initial age disturbed by later metamorphism",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16240,2,12,2.4,apatite,DR-1981,,0.146,305,0.816,1701,,1.08,,,"age of uplift and cooling",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16241,1,73.5,7.2,sphene,DR-1937,,5.08,1451,4.78,596,,0.99,,,"initial age disturbed by later metamorphism",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16241,2,60,12,apatite,DR-1937,,0.364,759,0.4,833,,1.08,,,"age of uplift and cooling",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16242,1,75.8,7.9,sphene,DR-1748B,,5.77,1202,5.16,536,,1.11,,,"initial age disturbed by later metamorphism",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16242,2,39.5,8,apatite,DR-1748B,,0.363,756,0.612,1276,,1.09,,,"age of uplift and cooling",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16243,1,74.2,7.1,sphene,15-206-4B,,8.49,1415,7.46,628,,1.08,,,"initial age disturbed by later metamorphism",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16243,2,74,14,apatite,15-206-4B,,0.702,1462,0.629,1311,,1.09,,,"age of uplift and cooling",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16244,1,82,16,sphene,TS-1,,7.94,331,6.58,137,,1.12,,,"initial age disturbed by later metamorphism","ONLY ONE GRAIN SUITABLE FOR DATING",,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16244,2,71,14,apatite,TS-1,,0.617,1285,0.572,1192,,1.08,,,"age of uplift and cooling",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16245,1,69,6.6,sphene,P-11,,8.47,1412,7.5,624,,1,,,"initial age disturbed by later metamorphism",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16245,2,17.3,3.4,apatite,P-11,,0.18,376,0.684,1424,,1.07,,,"age of uplift and cooling",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16246,1,88.9,8.3,sphene,SLO-5B,,6.93,1732,2.52,629,,1.06,,,"initial age disturbed by later metamorphism",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16246,2,70.1,14,apatite,SLO-5B,,0.476,991,0.451,940,,1.09,,,"age of uplift and cooling",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16247,1,85.6,9.5,sphene,LAP-4D,,5.82,1212,4.22,440,,1.02,,,"initial age disturbed by later metamorphism",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16247,2,62.6,13,apatite,LAP-4D,,0.187,390,0.197,411,,1.08,,,"age of uplift and cooling",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16248,1,67.5,4.7,sphene,DR-109,,13.6,1696,26.2,1640,,2.14,,,"initial age disturbed by later metamorphism",,,"RB-SR DETERMINATIONS SUGGEST THAT DATED PLUTONS ARE AROUND 110 M.Y. OLD"
+16370,1,2.3,0.4,zircon,"(NOT GIVEN)",,0.706,63,8.48,378,,0.464,,,"age of volcanism","10 ZIRCON GRAINS",,
+16376,1,,,zircon,WWH3,,22.33,394,7.43,65,,1.03,,,,"5 ZIRCON GRAINS","INDIVIDUAL GRAINS RANGE IN AGE FROM 106-530 M.Y.; A  WEIGHTED AVERAGE OF THESE AGES IS 181.9+/-48.9 M.Y.","DETRITAL ZIRCON AGE--AGE OF SEDIMENTATION NOT DETERMINED"
+16377,1,,,apatite,WWH5,,0.299,94,5.73,902,,6.72,,,"age of uplift and cooling","8 APATITE GRAINS","INDIVIDUAL GRAINS RANGE IN AGE FROM 9-67 M.Y.; A WEIGHTED AVERAGE OF THSE AGES IS 20.9+/-4.6 M.Y.",
+16377,2,,,zircon,WW5,,12.48,1578,6.53,413,,0.889,,,,"9 ZIRCON GRAINS","INDIVIDUAL GRAINS RANGE IN AGE FROM 57-581 M.Y.; A WEIGHTED AVERAGE OF THESE AGES IS 100.9+/-11.4 M.Y.","DETRITAL ZIRCON AGE; AGE OF SEDIMENTATION NOT DETERMINED."
+16378,1,,,apatite,WWH9,,0.213,91,2.31,494,,6.61,,,"age of uplift and cooling","10 APATITE GRAINS","INDIVIDUAL GRAINS RANGE IN AGE FROM 6-81 M.Y.; A WEIGHTED AVERAGE OF THESE AGES IS 36.3+/-8.4 M.Y.",
+16378,2,,,zircon,WWH9,,10.28,1078,6.6,346,,1.01,,,,"9 ZIRCON GRAINS","INDIVIDUAL GRAINS RANGE IN AGE FROM 63-288 M.Y.; A WEIGHTED AVERAGE OF THESE AGES IS 94.4+/-12.0 M.Y.","DETRITAL ZIRCON AGE; AGE OF SEDIMENTATION NOT DETERMINED"
+16379,1,,,apatite,WWH13,,0.093,28,2.53,380,,6.51,,,"age of uplift and cooling","9 APATITE GRAINS","INDIVIDUAL GRAINS RANGE IN AGE FROM 0-35 M.Y.; A WEIGHTED AVERAGE OF THESE AGES IS 14.3+/-5.6 M.Y.",
+16379,2,,,zircon,WWH13,,11.04,1472,6.92,461,,1.01,,,,"9 ZIRCON GRAINS","INDIVIDUAL GRAINS RANGE IN AGE FROM 46-322 M.Y.; A WEIGHTED AVERAGE OF THESE AGES IS 95.8+/-10.6 M.Y.","DETRITAL ZIRCON AGE; AGE OF SEDIMENTATION NOT DETERMINED."
+16380,1,,,apatite,WWH16,,0.047,5,2.23,119,,6.4,,,"age of uplift and cooling","6 APATITE GRAINS","INDIVIDUAL GRAINS RANGE IN AGE FROM 0-19 M.Y.; A WEIGHTED AVERAGE OF THESE AGES IS 8.0+/-7.4 M.Y.",
+16381,1,,,apatite,WWH24,,0.036,8,2.05,230,,3.67,,,"age of uplift and cooling","6 APATITE GRAINS","INDIVIDUAL GRAINS RANGE IN AGE FROM 0-17 M.Y.; A WEIGHTED AVERAGE OF THESE AGES IS 3.8+/-2.8 M.Y.",
+16382,1,,,zircon,WWH17,,9.69,931,7.91,380,,1.01,,,,"9 ZIRCON GRAINS","INDIVIDUAL GRAINS RANGE IN AGE FROM 44-649 M.Y.; A WEIGHTED AVERAGE OF THESE AGES IS 73.6+/-9.2 M.Y.","DETRITAL ZIRCON--AGE OF SEDIMENTATION NOT DETERMINED"
+16383,1,,,apatite,WWH26,,0.023,8,2.03,354,,3.61,,,"age of uplift and cooling","11 APATITE GRAINS","INDIVIDUAL GRAINS RANGE IN AGE FROM 0-36 M.Y.; A WEIGHTED AVERAGE OF THESE AGES IS 2.4S+/-1.8 M.Y.",
+16384,1,,,apatite,WWH21,,0.025,5,3.5,357,,6.3,,,"age of uplift and cooling","9 APATITE GRAINS","INDIVIDUAL GRAINS RANGE IN AGE FROM 0-10 M.Y.; A WEIGHTED AVERAGE OF THESE AGES IS 2.6+/-2.4 M.Y.",
+16384,2,,,thorite,WWH21,,13.55,477,10.12,142,,1.01,,,,"4 ZIRCON GRAINS","INDIVIDUAL GRAINS RANGE IN AGE FROM 47-275 M.Y.; A WEIGHTED AVERAGE OF THESE AGES IS 100.7+/-19.5 M.Y.","DETRITAL ZIRCON--AGE OF SEDIMENTATION NOT DETERMINED"
+17269,1,30.8,1.4,zircon,CM-1-77,"not given",,,,,,,,,"age of volcanism",,,
+17272,1,27.3,1.5,,,"not given",,,,,,,,,"age of volcanism",,,
+17278,1,26.7,1.8,,,"not given",,,,,,,,,"age of volcanism",,,
+17280,1,27,3,zircon,MM-1A-74,"not given",,,,,,,,,"age of volcanism",,,"TABOR AND OTHERS, 1982, REPORTED THIS AGE AS 3.7+/-0.7 M.Y. (LAMBDA-F=7.03XE-17/YR.)"
+17282,1,26.2,3.9,sphene,MM-3-74,"not given",,,,,,,,,"age of volcanism",,,
+17283,1,29.4,4.9,sphene,MM-4-74,"not given",,,,,,,,,"age of volcanism",,,
+17286,1,26,1.2,zircon,RR-1-75,"not given",,,,,,,,,"age of volcanism",,,
+17287,1,29.4,4,sphene,DG-449,"not given",,,,,,,,,"age of volcanism",,,
+17290,1,30,1.5,,,"not given",,,,,,,,,"age of volcanism",,,
+17292,1,29.9,4.6,sphene,GR-225,"not given",,,,,,,,,"age of volcanism",,,
+17293,1,26.6,4.6,sphene,MO-11-67,"not given",,,,,,,,,"age of volcanism",,,
+17294,1,30,4.8,,,"not given",,,,,,,,,"age of volcanism",,,
+17296,1,30.2,4.8,,,"not given",,,,,,,,,"age of volcanism",,,
+17299,1,26.6,3.7,sphene,GR-194,"not given",,,,,,,,,"age of volcanism",,,
+17306,1,18.9,0.8,zircon,W-50-79,"not given",,,,,,,,,"age of volcanism",,,
+17307,1,18.4,1,zircon,W-93-79,"not given",,,,,,,,,"age of volcanism",,,
+17856,1,40.6,2.2,apatite,"39-3 MC",6.85E-09,0.357,568,0.483,769,0.739,0.92,,,"age of uplift and cooling",,,
+17857,1,65.1,2.7,apatite,"37-1 LM","not given",0.749,1192,0.631,1003,1.187,0.92,,,"age of uplift and cooling",,,
+18179,1,8.6,0.6,zircon,USGS(D)TSV-167-79,,1.43,231,9.95,806,0.14,1,,,"age of volcanism",,,
+18179,2,9.6,4.3,apatite,USGS(D)TSV-167-79,,0.018,37,0.112,234,0.16,1.02,,,"age of volcanism",,,
+18180,1,8.2,0.9,zircon,USGS(D)TSV-7,,0.819,182,6.26,695,0.13,1.05,,,"minimum age of volcanism",,,
+18203,1,3.2,0.4,zircon,USGS(D)83-3-19A,,0.817,140,14.78,1266,0.055,0.963,,,"age of volcanism",,,
+18204,1,2.95,0.42,zircon,USGS(D)TSV-282,,0.654,109,13.91,1159,0.047,1.05,,,"age of volcanism",,,
+18205,1,2.1,0.4,zircon,USGS(D)TSV-391,,0.215,66,6.05,927,0.035,0.971,,,"age of volcanism",,,
+18232,1,20.4,1.4,zircon,"UAKA 83-7",6.85E-09,1.94,2543,5.16,3379,0.38,0.908,,,"age of volcanism",,,
+18232,2,20.6,4.2,apatite,"UAKA 83-7",6.85E-09,0.05,112,1.09,1161,0.05,7.1,6.1,,"age of volcanism",,,
+18246,1,18.5,3.6,apatite,"UAKA 83-166",6.85E-09,0.12,120,2.66,1376,0.05,7.1,14.9,,"age of volcanism",,,
+18256,1,29.8,3.2,zircon,"USGS(D) 77D54",6.85E-09,7.24,834,14.96,861,0.48,1.03,420,,"age of volcanism",,,
+18256,2,24.7,5.5,apatite,"USGS(D) 77D54",6.85E-09,0.087,109,0.234,293,0.372,1.11,6.1,,"minimum age of volcanism",,,
+18263,1,20.5,3.3,zircon,"USGS(D) 79D321",6.85E-09,1.44,273,4.39,417,0.33,1.05,120,,"age of volcanism",,,
+18265,1,27,3.2,zircon,"USGS(D) 79D296",6.85E-09,2.29,635,5.31,737,0.43,1.05,150,,"age of volcanism",,,
+18266,1,25,3.3,zircon,"USGS(D) 79D341",6.85E-09,3.23,463,8.1,581,0.4,1.05,220,,"age of volcanism",,,
+18268,1,28.5,3.5,zircon,"USGS(D) 79D317",6.85E-09,3.14,582,6.91,640,0.45,1.05,190,,"age of volcanism",,,
+18269,1,25.5,3,zircon,"USGS(D) 78D147",6.85E-09,2.91,635,6.89,750,0.42,1.01,200,,"age of volcanism",,,
+18270,1,31.3,3.2,zircon,"USGS(D) 78D132",6.85E-09,4.18,1967,8.11,939,0.52,1.02,230,,"age of volcanism",,,
+18270,2,32,8.7,apatite,"USGS(D) 78D132",6.85E-09,0.184,68,1.63,302,0.11,4.76,9.9,,"age of volcanism",,,
+18271,1,26.7,2.8,zircon,"USGS(D) 78D124a",6.85E-09,5.27,829,12.03,947,0.44,1.02,340,,"age of volcanism",,,
+18271,2,33.5,12.3,apatite,"USGS(D) 78D124a",6.85E-09,0.077,160,0.141,294,0.55,1.03,3.9,,"maximum age of volcanism",,,
+18327,1,41.7,4.3,zircon,"USGS(D) 77D192",6.85E-09,7.44,1110,10.79,818,0.69,1.03,310,,"age of volcanism",,,
+18330,1,36.5,3.6,zircon,"USGS(D) 77T60",6.85E-09,8.4,1103,14.17,930,0.59,1.03,400,,"age of volcanism",,,
+18332,1,,,,,6.85E-09,,,,,,,,,,,,
+18354,1,,,,,6.85E-09,,,,,,,,,,,,
+18468,1,29,0.5,zircon,AP244,6.85E-09,,,,,,,,,"age of volcanism",,"Average of 6 determinations",
+18469,1,24.5,0.4,zircon,AP236,6.85E-09,,,,,,,,,"age of volcanism",,"Average of 5 determinations",
+18469,2,25.4,0.6,sphene,AP236,6.85E-09,,,,,,,,,"age of volcanism",,"Average of 12 determinations",
+18470,1,24.2,0.5,zircon,AP232,6.85E-09,,,,,,,,,"age of volcanism",,"Average of 6 determinations",
+18470,2,23.4,0.9,sphene,AP232,6.85E-09,,,,,,,,,"age of volcanism",,"Average of 13 determinations",
+18471,1,16,0.8,zircon,AP27A,6.85E-09,,,,,,,,,"age of volcanism",,"Average of 6 determinations",
+18472,1,16.1,0.8,zircon,AP200,6.85E-09,,,,,,,,,"age of volcanism",,"Average of 6 determinations",
+18472,2,16.1,1.1,sphene,AP200,6.85E-09,,,,,,,,,"age of volcanism",,"Average of 14 determinations",
+18473,1,14.9,0.8,zircon,AP234,6.85E-09,,,,,,,,,"age of volcanism",,"Average of 5 determinations",
+18473,2,15.4,0.8,sphene,AP234,6.85E-09,,,,,,,,,"age of volcanism",,"Average of 9 determinations",
+18565,1,2.98,0.28,zircon,48,1.52E-05,0.71,217,14,2088,0.0507,0.959,,,"age of volcanism",,,
+18565,2,2.91,0.2,zircon,48,1.52E-05,0.53,390,11,3754,0.0482,0.959,,,"age of volcanism",,,
+18667,1,14.4,0.8,zircon,2,7.03E-09,2.26,367,9.69,785,0.2332,1.03,270,,"age of volcanism",,,
+18668,1,13.9,2,zircon,3,6.85E-09,0.72,47,3.2,326,0.225,1.03,90,,"age of volcanism",,,

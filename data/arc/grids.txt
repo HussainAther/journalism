@@ -1,0 +1,213 @@
+*****************************************************************************
+
+This report applies to the original CD and not what is on this site
+ 
+*****************************************************************************
+       
+              U.S. GEOLOGICAL SURVEY DIGITAL DATA SERIES DDS-9
+                                      
+                      National Geophysical Data Grids:
+               Gamma-Ray, Gravity, Magnetic, and Topographic
+                  Data for the Conterminous United States
+                                      
+                                      
+                             FILE DESCRIPTIONS
+                                      
+                           GRID FILE INFORMATION
+
+
+  The data published in the \ASCII directory on this CD-ROM consist of
+  regular grids of ASCII values.  Each grid has a different origin and sample
+  spacing as defined in its first record, the header.  The grid format is
+  explained in detail below.  Each grid represents data that have been
+  projected from latitude and longitude coordinates into map coordinates of
+  kilometers.  Thus, the x-origin and y-origin values given in the header
+  represent the distance in kilometers from the central meridian and base
+  latitude of the geographic projection (discussed below) to the lower left
+  corner of the grid.
+
+  Binary versions of these grid files, suitable for processing on IBM or
+  compatible personal computers using the potential-field software contained
+  on this CD-ROM, are located in the \DOSBIN directory on this CD-ROM.  Use
+  the EXTRACT BINARY GRID FILES submenu to access these grid files.  For more
+  information on the binary grid file format and the potential-field
+  software, access the POTENTIAL-FIELD SOFTWARE submenu from the MAIN menu.
+
+                          Projection information 
+      
+  All grids on this CD-ROM have been projected by using an Albers equal-area
+  conic projection with standard parallels of 29.5 degrees and 45.5 degrees
+  north.  A central meridian of 96 degrees west and a base latitude of 0
+  degrees were used.  The projection is referenced to the Clarke 1866
+  ellipsoid, which has an equatorial radius of 6378.2064 km and a polar
+  radius of 6356.5838 km.
+      
+                                Grid format 
+      
+  Each ASCII grid consists of two header records followed by a series of data
+  records.  The first header record contains 56 alphanumeric characters of
+  data identification, 8 alphanumeric characters containing the name of the
+  computer program that created the grid, the integer number of columns in
+  the grid, and the integer number of rows in the grid.  The second header
+  record contains a dummy integer value of 1, the x-coordinate in kilometers
+  of the first (leftmost) column, the distance in kilometers between columns
+  of the grid, the y-coordinate in kilometers of the first (bottommost) row
+  of the grid, and the distance in kilometers between rows of the grid.
+
+  Each data record contains five values in scientific notation.  The
+  bottommost row is presented first, starting from the leftmost column.  The
+  first value in each row is a dummy value, usually zero (0.000000000E+00).
+  If a row ends in the middle of a record, the record is padded with zeros.
+  Areas of the grid containing no data are represented by a special value,
+  0.999999968E+38.
+
+                          The gamma-ray data grids
+
+  Aerial gamma-ray surveys measure the gamma-ray flux produced by the
+  radioactive decay of the naturally occurring elements K-40, U-238, and
+  Th-232 in the top few centimeters of rock or soil (Duval, Cook, and Adams,
+  1971).  If the gamma-ray system is properly calibrated (for example, see
+  Grasty and Darnley, 1971), the data can be expressed in terms of the
+  estimated concentrations of the radioactive elements.  The potassium
+  concentration data are usually expressed in units of percent potassium
+  (percent K), uranium as parts per million equivalent uranium (ppm eU), and
+  the thorium as parts per million equivalent thorium  (ppm eTh).  The term
+  equivalent is used because the technique actually measures the gamma-ray
+  flux from the decay of bismuth (Bi-214), which is a decay product of U-238,
+  and from the decay of thallium (Tl-208), which is a decay product of
+  Th-232.  Radioactive disequilibrium in the thorium decay series may cause
+  the measured equivalent uranium and equivalent thorium to differ from the
+  actual uranium and  thorium present in the surface rocks and soils.
+  Because Rn-222 is a daughter product of the U-238 decay series, the U-238
+  concentrations can also be used to estimate the amounts of Rn-222 in the
+  near-surface soil gas.
+
+  During the period 1975-83, the U.S. Department of Energy carried out the
+  National Uranium Resource Evaluation (NURE) Program, which included aerial
+  gamma-ray surveys of most of the conterminous United States.  Although many
+  of the airborne gamma-ray systems used to make these surveys were
+  calibrated, many of the earlier surveys were done without calibration and
+  conversion to the concentrations of the radioactive elements.  Detailed
+  examinations of the digital data available on magnetic tape also showed
+  that many of the "calibrated" surveys do not match the data from other
+  "calibrated" surveys of adjacent areas.  For these reasons, the data must
+  be corrected to obtain a consistent data base for the conterminous United
+  States.
+
+  Because  uranium, thorium, and potassium concentration data are useful in
+  geologic studies and because the NURE data are the only nationwide data
+  base on the natural radiation environment, the U.S. Geological Survey
+  (USGS) reprocessed the aerial gamma-ray data to produce maps showing
+  surface concentrations of potassium, uranium, and thorium for the
+  conterminous United States.  These maps have been released as USGS Open-
+  File Reports (Duval and others, 1989, 1990).  Some of the reprocessed data
+  have also been released in profile form (Duval, 1995).
+      
+                      The magnetic anomaly data grid 
+      
+  Magnetic anomalies are produced by variations in the distribution of iron
+  minerals, usually magnetite, in the rocks of the Earth's crust.  Igneous
+  and metamorphic rocks can be very magnetic.  By comparison, sedimentary
+  rocks are usually nonmagnetic.  Magnetic anomalies therefore provide a way
+  of mapping exposed and buried crystalline rocks.
+
+  The grid of magnetic anomaly data for the conterminous United States and
+  adjacent marine areas (Godson, 1986) was created from digitized contours of
+  the east half of the Composite Magnetic Anomaly Map of the United States,
+  Part A (U.S. Geological Survey, 1982), and the Composite Magnetic Anomaly
+  Map of the Conterminous United States West of 96 Degrees Longitude (Bond
+  and Zietz, 1987),with additional data used in the compilation of the
+  Magnetic Anomaly Map of North America (Geological Society of America,
+  Committee for the Magnetic Anomaly Map of North America, 1987).  A
+  regional gradient present in the 1982 map was removed by using a corrected
+  geomagnetic reference field (Godson, 1986).  The data, originally gridded
+  on a 2-km interval using the spherical Transverse Mercator projection of
+  the Magnetic Anomaly Map of North America, were reprojected to the Albers
+  projection used on this CD-ROM and regridded on a 2-km interval using a
+  minimum curvature gridding program (Webring, 1981).  An interpretation of
+  the 1982 anomaly map was presented by Hinze and Zietz (1985).
+      
+                   The Bouguer gravity anomaly data grid 
+      
+  Gravity anomalies are produced by density variations within the rocks of
+  the Earth's crust and upper mantle.  Mapping of these density variations is
+  the primary use of gravity anomalies.
+
+  Gravity measurements made on the surface of the Earth must be corrected in
+  various ways before they can be made into an anomaly map.  The free-air
+  correction reduces the measurement to sea level by assuming that there is
+  no intervening mass.  The simple Bouguer correction accounts for the
+  intervening mass as a uniform slab of constant density, and the complete
+  Bouguer correction includes the effects of constant density topography
+  within 166.7 km of the measurement location.  A gravity reference field is
+  subtracted from the corrected measurements to produce the free-air, simple
+  Bouguer, or complete Bouguer anomaly.
+      
+  The grid of gravity data for the conterminous United States and adjacent
+  marine areas (Godson and Scheibe, 1982; Godson, 1985) was constructed from
+  Defense Mapping Agency gravity data files.  The onshore data consisted of
+  nearly one million Bouguer gravity anomaly values computed by using a
+  reduction density of 2.67 grams per cubic centimeter.  The offshore data
+  consisted of approximately 800,000 free-air gravity anomaly values.
+  Because the Bouguer anomaly equals the free-air anomaly at sea level, there
+  is no discontinuity in the gridded data at the shoreline.  All computations
+  were performed by using the International Gravity Standardization Net of
+  1971 (International Association of Geodesy, 1974) and the 1967 Geodetic
+  Reference System formula for theoretical gravity (International Association
+  of Geodesy, 1971).
+       
+  In areas of substantial relief, terrain corrections were computed about
+  each station location at radial distances of 0.895 km to 166.7 km by using
+  a density of 2.67 grams per cubic centimeter.  The data were projected and
+  gridded on a 4-km interval using minimum curvature (Webring, 1981).  The
+  gridding procedure resulted in the extrapolation of grid values up to 40 km
+  beyond the limits of the data; therefore, values around the edges should be
+  viewed with caution.  These gridded data were published in map form as the
+  Gravity Anomaly Map of the United States (Society of Exploration
+  Geophysicists, 1982).  This map was further discussed by O'Hara and Lyons
+  (1985) and Kane and Godson (1985, 1989).
+      
+             The isostatic residual gravity anomaly data grid 
+      
+  Isostatic residual gravity anomaly maps are produced by subtracting long-
+  wavelength anomalies produced by masses deep within the crust or mantle
+  from the Bouguer anomaly  map.  The long-wavelength anomalies are assumed
+  to result from isostatic compensation of topographic loads.  Isostatic
+  residual gravity anomaly maps therefore reveal more clearly than Bouguer
+  anomaly maps the density distributions within the upper crust that are of
+  interest in many geologic and tectonic studies.
+      
+  The grid of isostatic residual gravity anomaly data (Simpson and others,
+  1986) was produced from the grid of Bouguer gravity anomaly data (Godson
+  and Scheibe, 1982) by using an Airy-Heiskanen compensation model (Heiskanen
+  and Moritz, 1967) with three parameters.  The depth to the compensating
+  root at sea level was chosen to be 30 km.  The density contrast across the
+  root was chosen to be 0.35 grams per cubic centimeter, and the density of
+  the topography was chosen to be 2.67 grams per cubic centimeter.  Other
+  reasonable choices of these parameters would produce similar-looking
+  residual maps.
+      
+  The computer program and topographic data sets used to produce the data
+  grid were described by Simpson and others (1983a,b). The data were
+  published in map form by Jachens and others (1985).  Interpretations of the
+  isostatic residual gravity anomaly map were presented by Simpson and others
+  (1986) and by Jachens and others (1989).
+      
+                         The topographic data grid 
+      
+  The topographic data grid for the conterminous United States and adjacent
+  areas was constructed from 30x30 second digital terrain files used by the
+  U.S. Geological Survey for the reduction of gravity data.  Elevations are
+  in meters; sea level elevations are listed as 1 meter.
+
+                   The topographic-bathymetric data grid 
+      
+  The topographic and bathymetric data grid for the conterminous United
+  States and adjacent areas was constructed from 5x5 minute North American
+  topographic data and 5x5 minute Synthetic Bathymetric Profiling System data
+  available from the National Oceanic and Atmospheric Administration.  The
+  data were interpolated onto an 8x8 km grid in the Albers projection
+  (Simpson and others, 1983b).  Elevation units are in meters relative to sea
+  level.
+
+               End of text; press the <Esc> key to continue.

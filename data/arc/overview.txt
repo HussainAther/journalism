@@ -1,0 +1,136 @@
+
+                   U.S. GEOLOGICAL SURVEY DIGITAL DATA SERIES DDS-9
+
+                           National Geophysical Data Grids:
+                    Gamma-Ray, Gravity, Magnetic, and Topographic
+                       Data for the Conterminous United States
+                                           
+                                           
+                                          by
+                                           
+                                 Jeffrey D. Phillips
+                                   Joseph S. Duval
+                                         and
+                                 Russell A. Ambroziak
+                                           
+                                           
+                                           
+                                         1993
+
+                           U.S. DEPARTMENT OF THE INTERIOR
+                               BRUCE BABBITT, Secretary
+                                           
+                                U.S. GEOLOGICAL SURVEY
+                               Dallas L. Peck, Director
+                                           
+
+                                     For sale by
+
+                                USGS Map Distribution 
+                               Box 25286, Building 810
+                               Denver Federal Center  
+                               Denver, CO 80225       
+
+                                Call: (303) 236-7476  
+                                           
+                                     A_README.1ST
+
+                                      DISCLAIMER
+
+          This Compact Disc-Read Only Memory (CD-ROM) publication was
+          prepared by an agency of the United States Government.  Neither
+          the United States Government nor any agency thereof, nor any of
+          their employees, makes any warranty, expressed or implied, or
+          assumes any legal liability or responsibility for the accuracy,
+          completeness, or usefulness of any information, apparatus,
+          product, or process disclosed in this report, or represents that
+          its use would not infringe privately owned rights.  Reference
+          therein to any specific commercial product, process, or service
+          by trade name, trademark, manufacturer, or otherwise does not
+          necessarily constitute or imply its endorsement, recommendation,
+          or favoring by the United States Government or any agency
+          thereof.  Any views and opinions of authors expressed herein do
+          not necessarily state or reflect those of the United States
+          Government or any agency thereof.
+
+          Although all data and software published on this CD-ROM have been
+          used by the USGS, no warranty, expressed or implied, is made by
+          the USGS as to the accuracy of the data and related materials
+          and/or the functioning of the software. The act of distribution
+          shall not constitute any such warranty, and no responsibility is
+          assumed by the USGS in the use of this data, software, or related
+          materials.  
+
+          This CD-ROM has been produced in accordance with the ISO 9660 CD-
+          ROM Standard and is therefore capable of being read on any
+          computing platform that has appropriate CD-ROM driver software
+          installed.  However, the access software used on the disc
+          currently executes only under DOS on IBM or compatible personal
+          computers.
+
+
+                                       OVERVIEW
+
+
+          This CD-ROM contains gridded geophysical data, images generated
+          from the data, software for displaying and analyzing the images,
+          software for processing potential-field (gravity and magnetic)
+          geophysical data, and documentation files that describe the data
+          and software.  The gridded data include gamma-ray data (uranium,
+          thorium, and potassium channels), Bouguer gravity data, isostatic
+          residual gravity data, aeromagnetic anomalies, topography, and
+          topography with bathymetry.  These data are available in ASCII
+          format under the ASCII directory.  This publication contains only
+          data from the conterminous United States.
+
+          The images on this CD-ROM include graytone and color images of
+          each gridded data set, color shaded-relief images of the
+          potential-field and topographic data, color composite images of
+          the gamma-ray data, and color composite images of potential-field
+          data painted on shaded and edge-enhanced topography.  These
+          images are 8-bit data and can be imported for viewing by many
+          different software packages, but the color display tables are
+          only designed for DOS computers and displays.  The display and
+          analysis software includes the ability to register images with
+          geographic and geologic overlays, generate three-color composite
+          images for display on a super VGA video system, generate
+          perspective view images, and analyze images in five dimensions.
+
+          The potential-field software on this CD-ROM can be used to
+          extract subsets of the geophysical data, process them, and
+          display them as images or contour maps.  The software can also be
+          used to generate gridded data from point data, generate profiles
+          from grids, and generate geological models from gridded or
+          profile data.  This software is written in FORTRAN and, with
+          minor modifications, can be adapted to a variety of computer
+          systems.
+
+          The documentation files reside under the directory
+          DOSMENU\DOCFILES and are named with a suffix of DOC.  This
+          directory also contains a WordPerfect 5.1 file (CDROM.WPS) that
+          contains all of the documentation.
+
+          This CD-ROM is released in the Digital Data Series of CD-ROM's
+          produced by the U.S. Geological Survey.  This new publication
+          series is intended to improve distribution of important earth
+          science information to the public.  The disc contains the results
+          of work performed by the U.S. Geological Survey.
+
+
+                                     INSTALLATION
+
+
+          If you have not already done so, run the INSTALL program by
+          making the CD-ROM drive the active drive and typing INSTALL
+          followed by pressing the <Enter> key.  Follow the instructions
+          printed on the screen.  When the INSTALL program is finished, it
+          will invoke the national geophysics (NATGP) menu program, and you
+          will see a menu of your options.
+
+          If you have previously run the INSTALL program and you have added
+          C:\ to the PATH statement in your AUTOEXEC.BAT file, run the menu
+          program directly by typing NATGP followed by pressing the <Enter>
+          key.  If C:\ is not in your search path, you will have to type
+          C:\NATGP followed by pressing the <Enter> key.  A menu of your
+          options will appear on the screen.
+

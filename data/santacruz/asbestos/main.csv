@@ -1,0 +1,914 @@
+rec_id,state,county,site_name,devel,latitude,longitude,oremin,assocmin,hostrock,source
+1,OR,Baker,"Rock Creek Butte occurrence",occurrence,44.429,-118.037,chrysotile,serpentine,"serpentinized peridotite",ofr20101041
+2,OR,Baker,"Buttercup Mines, Inc.","past prospect",44.5231,-117.7051,"tremolite asbestos","talc, serpentine, chlorite, quartz, calcite, magnesite, pyroxenes","greenstone intrusion"""", soapstone",ofr20101041
+3,OR,Baker,"McClellan Creek occurrence",occurrence,44.5273,-117.7938,"slip-fiber asbestos","serpentine, talc, tremolite","serpentinite, talc-tremolite schist",ofr20101041
+4,OR,Baker,"Asbestos 2"""" occurrence",occurrence,44.5581,-117.9093,"asbestiform anthophyllite","talc, tremolite, carbonate, chlorite","talc-tremolite schist, chlorite schist",ofr20101041
+5,OR,Baker,"Asbestos 1"""" occurrence",occurrence,44.5598,-117.91,"asbestiform anthophyllite","talc, limonite","talc schist",ofr20101041
+6,OR,Baker,"Upper Pine Creek occurrence",occurrence,44.5598,-117.9181,"anthophyllite asbestos","talc, limonite","serpentinite, talc schist",ofr20101041
+7,OR,Baker,"Pine Creek asbestos deposits","past prospect",44.561,-117.9172,"anthophyllite asbestos","talc, serpentine","siliceous schist, """"greenstones",ofr20101041
+8,OR,Baker,"Freeway talc occurrence",occurrence,44.6547,-117.5783,"tremolite asbestos","talc, tremolite, chalcedonic quartz, anthophyllite",serpentinite,ofr20101041
+9,OR,Baker,"Alder Creek asbestos occurrence",occurrence,44.669,-117.613,chrysotile,"not reported",serpentinite,ofr20101041
+10,OR,Douglas,"Upper Applegate 2 talc occurrence",occurrence,42.7537,-123.0385,"asbestiform tremolite","talc, chlorite, serpentine(?), magnetite","metaserpentinite, talc-tremolite schist",ofr20101041
+11,OR,Grant,"Bear Valley occurrences",occurrence,44.204,-118.958,chrysotile,serpentine,serpentinite,ofr20101041
+12,OR,Grant,"Spare Time claims","past prospect",44.3695,-118.9136,chrysotile,serpentine,serpentinite,ofr20101041
+13,OR,Grant,"Ward chromite mine",occurrence,44.382,-118.8958,chrysotile,"serpentine, olivine, chromite",dunite,ofr20101041
+14,OR,Grant,"Mount Vernon deposit","past producer",44.4464,-119.0588,chrysotile,serpentine,serpentinite,ofr20101041
+15,OR,Grant,"Big Butte Creek asbestos (Stithem prospect)","past prospect",44.606,-118.654,chrysotile,serpentine,"serpentinized peridotite",ofr20101041
+16,OR,Jackson,"Elliott Creek Ridge area",occurrence,42.0138,-123.0191,chrysotile,"talc, antigorite, chlorite, ankerite, actinolite, tremolite, anthophyllite, pyrite, limonite, magnetite, chromite, manganese minerals",metaserpentinite,ofr20101041
+17,OR,Jackson,"Raspberry Creek tremolite","past producer",42.612,-123.047,"tremolite asbestos",serpentine,serpentinite,ofr20101041
+18,OR,Jackson,"Liberty Asbestos","past prospect",42.7444,-123.1169,"tremolite asbestos",serpentine,serpentinite,ofr20101041
+19,OR,Josephine,"Foster Asbestos (Bear placer)","past prospect",42.2188,-123.7124,chrysotile,serpentine,serpentinite,ofr20101041
+20,OR,Josephine,"Powell Creek soapstone",occurrence,42.26,-123.318,"asbestiform tremolite","serpentine, talc, chlorite",serpentinite,ofr20101041
+21,OR,Josephine,"L.E.J. Asbestos","past producer",42.3615,-123.4176,"tremolite asbestos",serpentine,"serpentinized peridotite",ofr20101041
+22,OR,Malheur,"Towell claims","past prospect",44.366,-117.497,chrysotile,"serpentine, """"picrolite","serpentinized peridotite, dunite",ofr20101041
+23,WA,Chelan,"Peshastin Creek",occurrence,47.4,-120.67,"cross-fiber asbestos",serpentine,"not reported",ofr20101041
+24,WA,Chelan,"Mill Creek",occurrence,47.54,-120.63,"anthophyllite asbestos",serpentine,"not reported",ofr20101041
+25,WA,Chelan,"Icicle Creek","past prospect",47.553,-120.669,asbestos,"not reported","not reported",ofr20101041
+26,WA,Chelan,"Trout Lake",occurrence,47.56,-120.9,"anthophyllite asbestos, chrysotile",serpentine,"not reported",ofr20101041
+27,WA,Chelan,"Burch Mountain",occurrence,47.57,-120.39,asbestos,"not reported","not reported",ofr20101041
+28,WA,Chelan,"Trout Creek",occurrence,47.601,-120.893,chrysotile,"not reported","not reported",ofr20101041
+29,WA,Chelan,"Chumstick Mountain","past prospect",47.64,-120.45,"anthophyllite asbestos","not reported","biotite gneiss",ofr20101041
+30,WA,Chelan,"Nason Ridge",occurrence,47.79,-120.74,"anthophyllite asbestos","not reported","not reported",ofr20101041
+31,WA,Chelan,"Deep Creek",occurrence,47.82,-120.64,chrysotile,"not reported","not reported",ofr20101041
+32,WA,Chelan,"Goose Creek",occurrence,47.84,-120.645,"anthophyllite asbestos","not reported","not reported",ofr20101041
+33,WA,Chelan,"Williams (Raging) Creek deposit","past prospect",47.92,-120.81,"amphibole asbestos",talc,"hornblende schist",ofr20101041
+34,WA,Chelan,"Stehekin River",occurrence,48.367,-120.731,"blue-white, long-fiber asbestos","not reported","not reported",ofr20101041
+35,WA,Ferry,"California mine",occurrence,48.6025,-118.5818,"serpentine asbestos","galena, chalcopyrite, sphalerite, malachite, azurite, serpentine, quartz",greenstone,ofr20101041
+36,WA,Ferry,"Hardscrabble Mountain",occurrence,48.804,-118.818,"tremolite asbestos","not reported","not reported",ofr20101041
+37,WA,Okanogan,"Alta Lake","past producer",48.003,-119.938,"short-fiber amphibole asbestos",talc,"not reported",ofr20101041
+38,WA,Okanogan,"Twisp deposit",occurrence,48.24,-120.26,"long, white, silky-fibered asbestos","not reported","not reported",ofr20101041
+39,WA,Okanogan,"Ivanhoe prospect","past prospect",48.8748,-119.5739,asbestos,"not reported","not reported",ofr20101041
+40,WA,"Pend Oreille","Coffin prospect","past prospect",48.798,-117.5,"serpentine asbestos","diopside, serpentine",marble,ofr20101041
+41,WA,Skagit,"Lyman-Hamilton area","past producer",48.51,-121.99,"long-fibered asbestos","not reported","not reported",ofr20101041
+42,WA,Skagit,Scott,occurrence,48.58,-122.149,"amphibole asbestos","not reported","not reported",ofr20101041
+43,WA,Skagit,"Oyster Creek",occurrence,48.616,-122.438,"amphibole asbestos","not reported",schist,ofr20101041
+44,WA,Snohomish,"Florence Rae prospect","past prospect",47.97,-121.5,"cross-fiber asbestos","not reported",peridotite,ofr20101041
+45,WA,Snohomish,"Mackinaw nickel prospect",occurrence,47.987,-121.435,"slip-fiber asbestos",serpentine,"not reported",ofr20101041
+46,WA,Snohomish,"Bedal Creek (Phoenix asbestos prospect)","past prospect",48.047,-121.349,"slip-fiber asbestos","talc, anthophyllite","talc-anthophyllite schist",ofr20101041
+47,WA,Snohomish,"Clear Creek",occurrence,48.115,-121.642,"talcose asbestos","talc, serpentine","serpentine dike",ofr20101041
+48,WA,Stevens,Laurier,occurrence,48.989,-118.172,"white asbestos","serpentine, enstatite, olivine, magnetite, dolomite, talc",serpentinite,ofr20101041
+49,WA,Whatcom,"Twin Sisters",occurrence,48.65,-121.972,"cross-fiber serpentine asbestos","not reported","not reported",ofr20101041
+50,WA,Whatcom,"Bowman Mountain",occurrence,48.756,-122.062,chrysotile,"not reported",serpentinite,ofr20101041
+51,WA,Whatcom,"Sumas Mountain landslide",occurrence,48.9108,-122.2498,chrysotile,"serpentine, chlorite, illite, hydrotalcite",serpentinite,ofr20101041
+52,CA,Alameda,"John D. Hoff mine","past producer",37.804,-122.14,"short-fiber asbestos",serpentine,serpentinite,ofr20111188
+53,CA,Amador,"George Thomas prospect","past prospect",38.332,-120.754,"amphibole asbestos","not reported","not reported",ofr20111188
+54,CA,Amador,"Mace Ranch prospect","past prospect",38.3647,-120.8926,"amphibole asbestos",serpentine,serpentinite,ofr20111188
+55,CA,Butte,"unnamed occurrence",occurrence,39.5,-121.38,asbestos,"not reported",serpentinite,ofr20111188
+56,CA,Butte,"unnamed occurrence",occurrence,39.63,-121.51,asbestos,"not reported",serpentinite,ofr20111188
+57,CA,Butte,"unnamed occurrence",occurrence,39.69,-121.57,asbestos,"not reported",serpentinite,ofr20111188
+58,CA,Butte,"unnamed occurrence",occurrence,39.69,-121.35,asbestos,"not reported",serpentinite,ofr20111188
+59,CA,Butte,"unnamed occurrence",occurrence,39.7,-121.4,asbestos,"not reported",serpentinite,ofr20111188
+60,CA,Butte,"John Quirk mine","past producer",39.84,-121.59,"tremolite asbestos",serpentine,serpentinite,ofr20111188
+61,CA,Calaveras,"Jefferson Lake mine (American, Calaveras, California, Copperopolis, Pacific, Voorhees)","past producer",37.9378,-120.546,chrysotile,serpentine,"serpentinized dunite and peridotite",ofr20111188
+62,CA,Calaveras,"Liberty (McFall) chromite mine",occurrence,37.956,-120.554,asbestos,"chromite, serpentine",serpentinite,ofr20111188
+63,CA,Calaveras,"Turner and Lloyd deposit (Skipper claims?)","past prospect",38.0258,-120.6386,chrysotile,serpentine,serpentinite,ofr20111188
+64,CA,Calaveras,"unnamed prospect","past prospect",38.1378,-120.5019,"amphibole asbestos","not reported","ultramafic rock",ofr20111188
+65,CA,Calaveras,"Nuland and Nuner prospects","past prospect",38.21,-120.68,asbestos,serpentine,serpentinite,ofr20111188
+66,CA,Calaveras,"unnamed occurrence",occurrence,38.23,-120.504,chrysotile,serpentine,serpentinite,ofr20111188
+67,CA,Calaveras,"Neugebauer chromite mine",occurrence,38.241,-120.801,chrysotile,"serpentine, enstatite, opal, chromite, kammererite",serpentinite,ofr20111188
+68,CA,Calaveras,"Garnet Hill occurrence",occurrence,38.4796,-120.2517,crocidolite,garnet,"not reported",ofr20111188
+69,CA,Colusa,"Spring east of Alice mine",occurrence,39.083,-122.443,chrysotile,lizardite,serpentinite,ofr20111188
+70,CA,Colusa,"Deadshot Spring",occurrence,39.0864,-122.4608,chrysotile,lizardite,serpentinite,ofr20111188
+71,CA,Colusa,"Fouts Red Eye Spring",occurrence,39.3509,-122.6704,chrysotile,lizardite,serpentinite,ofr20111188
+72,CA,"Contra Costa","Prospect in Sycamore Canyon","past prospect",37.8818,-121.8851,chrysotile,serpentine,serpentinite,ofr20111188
+73,CA,"Contra Costa","Prospect in Perkins Canyon","past prospect",37.8878,-121.8778,chrysotile,serpentine,serpentinite,ofr20111188
+74,CA,"Contra Costa","Prospects near Arroyo del Cerro","past prospect",37.8899,-121.9717,chrysotile,serpentine,serpentinite,ofr20111188
+75,CA,"Contra Costa","Prospects east of Russellman Park","past prospect",37.9112,-121.8991,chrysotile,serpentine,serpentinite,ofr20111188
+76,CA,"Contra Costa","Berkeley Hills serpentine",occurrence,37.934,-122.314,"anthophyllite asbestos, tremolite asbestos","serpentine, hornblende, glaucophane, chlorite, talc, diallage, garnet, actinolite, titanite, albite",serpentinite,ofr20111188
+77,CA,"Del Norte","occurrences in the Rock Creek Butte area",occurrence,41.531,-123.657,chrysotile,"antigorite, olivine, pyroxene",serpentinite,ofr20111188
+78,CA,"El Dorado","roadcut near El Dorado Hills",occurrence,38.5956,-121.0016,"asbestiform tremolite and actinolite","not reported","ultramafic rock, serpentinite",ofr20111188
+79,CA,"El Dorado","Oak Ridge occurrence",occurrence,38.6785,-121.0733,"chrysotile, asbestiform amphibole","serpentine, vermiculite, amphibole, albite, clinochlore, quartz, epidote, talc, iron oxides, chromite",serpentinite,ofr20111188
+80,CA,"El Dorado","Woedee Drive occurrence",occurrence,38.6802,-121.0749,"chrysotile, asbestiform tremolite","amphibole, serpentine, talc, iron oxides, chlorite, titanite",serpentinite,ofr20111188
+81,CA,"El Dorado","Harvard Way occurrence",occurrence,38.6827,-121.0737,"chrysotile, asbestiform tremolite","vermiculite, amphibole, augite, clinochlore, talc",serpentinite,ofr20111188
+82,CA,"El Dorado","New York Creek trail",occurrence,38.6951,-121.0769,chrysotile,"quartz, albite, vermiculite, epidote, fibrous tremolite, amphibole, clinochlore",serpentinite,ofr20111188
+83,CA,"El Dorado","Fairchild Park occurrence",occurrence,38.7027,-121.076,"chrysotile, asbestiform tremolite","antigorite, talc, amphibole, albite, vermiculite, quartz, chlorite, iron oxides",serpentinite,ofr20111188
+84,CA,"El Dorado","El Dorado Copper Co. property (Contraband copper mine)","past producer",38.875,-120.811,asbestos,"native copper, copper sulfides",schist,ofr20111188
+85,CA,"El Dorado","French Hill claim","past prospect",38.9376,-120.9217,asbestos,"quartz, gold","not reported",ofr20111188
+86,CA,Fresno,"Arroyo Pasajero alluvial fan",occurrence,36.208,-120.083,chrysotile,"antigorite, magnesite, brucite, talc","alluvial deposit with serpentinite cobbles",ofr20111188
+87,CA,Fresno,"Ross-Garcia claims","past prospect",36.264,-120.575,"short-fiber asbestos","not reported","not reported",ofr20111188
+88,CA,Fresno,"Butler Estate chromite mine",occurrence,36.312,-120.5468,chrysotile,"antigorite, chromite, magnesite, talc, hydromagnesite, hydrous iron oxides",serpentinite,ofr20111188
+89,CA,Fresno,"Coalinga (Johns-Manville) mine","past producer",36.3181,-120.539,chrysotile,"serpentine, hydromagnesite, chromite, crystalline carbonate, magnetite, uvarovite","serpentinized peridotite",ofr20111188
+90,CA,Fresno,"Atlas Asbestos Co. (Hidden Splendor, Todd) mine","past producer",36.3237,-120.5888,chrysotile,"serpentine, hydromagnesite, chromite, crystalline carbonate, magnetite, uvarovite","serpentinized peridotite",ofr20111188
+91,CA,Fresno,"Asbestos Corporation prospects","past prospect",36.3731,-120.4141,chrysotile,serpentine,"shale, conglomerate (fluvially re-deposited pieces of serpentine in Big Blue Member of the Temblor Formation)",ofr20111188
+92,CA,Fresno,"H.H. Miner claims",occurrence,36.71,-119.47,"amphibole asbestos","not reported","not reported",ofr20111188
+93,CA,Fresno,Occurrence,occurrence,36.345,-120.565,chrysotile,"not reported",serpentinite,ofr20111188
+94,CA,Fresno,Occurrence,occurrence,36.356,-120.593,chrysotile,"not reported",serpentinite,ofr20111188
+95,CA,Fresno,Occurrence,occurrence,36.35,-120.58,chrysotile,"not reported",serpentinite,ofr20111188
+96,CA,Fresno,Occurrence,occurrence,36.331,-120.545,chrysotile,"not reported",serpentinite,ofr20111188
+97,CA,Fresno,Occurrence,occurrence,36.33,-120.56,chrysotile,"not reported",serpentinite,ofr20111188
+98,CA,Fresno,Occurrence,occurrence,36.35,-120.59,chrysotile,"not reported",serpentinite,ofr20111188
+99,CA,Fresno,Occurrence,occurrence,36.33,-120.58,chrysotile,"not reported",serpentinite,ofr20111188
+100,CA,Fresno,Occurrence,occurrence,36.33,-120.59,chrysotile,"not reported",serpentinite,ofr20111188
+101,CA,Fresno,Occurrence,occurrence,36.32,-120.58,chrysotile,"not reported",serpentinite,ofr20111188
+102,CA,Fresno,Occurrence,occurrence,36.32,-120.56,chrysotile,"not reported",serpentinite,ofr20111188
+103,CA,Fresno,Occurrence,occurrence,36.32,-120.55,chrysotile,"not reported",serpentinite,ofr20111188
+104,CA,Fresno,Occurrence,occurrence,36.3,-120.56,chrysotile,"not reported",serpentinite,ofr20111188
+105,CA,Fresno,Occurrence,occurrence,36.3,-120.58,chrysotile,"not reported",serpentinite,ofr20111188
+106,CA,Fresno,Occurrence,occurrence,36.3,-120.59,chrysotile,"not reported",serpentinite,ofr20111188
+107,CA,Fresno,Occurrence,occurrence,36.31,-120.61,chrysotile,"not reported",serpentinite,ofr20111188
+108,CA,Fresno,Occurrence,occurrence,36.31,-120.55,chrysotile,"not reported",serpentinite,ofr20111188
+109,CA,Fresno,Occurrence,occurrence,36.36,-120.42,chrysotile,"not reported","fluvially re-deposited pieces of serpentine in Big Blue Member of the Temblor Formation",ofr20111188
+110,CA,Fresno,Occurrence,occurrence,36.38,-120.42,chrysotile,"not reported","fluvially re-deposited pieces of serpentine in Big Blue Member of the Temblor Formation",ofr20111188
+111,CA,Fresno,Occurrence,occurrence,36.39,-120.44,chrysotile,serpentine,"fluvially re-deposited pieces of serpentine in Big Blue Member of the Temblor Formation",ofr20111188
+112,CA,Fresno,Occurrence,occurrence,36.36,-120.4,chrysotile,"not reported","fluvially re-deposited pieces of serpentine in Big Blue Member of the Temblor Formation",ofr20111188
+113,CA,Glenn,"Salt Spring, Salt Valley",occurrence,39.4302,-122.5362,chrysotile,"lizardite, quartz, albite, chlorite, xonotlite, hydrogrossular, calcite",serpentinite,ofr20111188
+114,CA,Glenn,"Sulfur Spring, Salt Valley",occurrence,39.4337,-122.5392,chrysotile,"lizardite, quartz, albite, chlorite, xonotlite, hydrogrossular, calcite",serpentinite,ofr20111188
+115,CA,Imperial,"Coyote Mountains nickel (Copper Contact Lode) prospect",occurrence,32.7976,-116.0187,chrysotile,"enstatite, olivine, chlorite, antigorite, gypsum, epsomite",pyroxenite,ofr20111188
+116,CA,Inyo,"Darwin mines",occurrence,36.2793,-117.5925,chrysotile,"numerous minerals reported--see Hall and MacKevett (1962, p. 77-78)",marble,ofr20111188
+117,CA,Inyo,"McIlroy property","past producer",36.5365,-117.9161,"tremolite asbestos","not reported",dolomite,ofr20111188
+118,CA,Inyo,"Indian Camp (Goldbelt Springs) prospect","past prospect",36.615,-117.523,chrysotile,serpentine,"serpentinized dolomite",ofr20111188
+119,CA,Inyo,"Huntley Industrial Minerals, Inc. mine and Whitetop Mountain deposits","past producer",36.7873,-117.4153,"tremolite asbestos, chrysotile","magnesian silicate minerals, calcite, dolomite, serpentine(?), talc","carbonate rock",ofr20111188
+120,CA,Kern,"San Emigdio asbestos deposit","past prospect",34.82,-119.15,"amphibole asbestos",serpentine,serpentinite,ofr20111188
+121,CA,Kern,"Sunshine claims (Jawbone Canyon)","past prospect",35.34,-118.15,chrysotile,serpentine,serpentinite,ofr20111188
+122,CA,Kings,"unnamed prospect","past prospect",35.882,-120.246,chrysotile,serpentine,serpentinite,ofr20111188
+123,CA,Kings,"unnamed prospect","past prospect",35.899,-120.265,chrysotile,serpentine,serpentinite,ofr20111188
+124,CA,Kings,"unnamed prospect","past prospect",35.911,-120.284,chrysotile,serpentine,serpentinite,ofr20111188
+125,CA,Lake,"McKinley steam field",occurrence,38.775,-122.716,chrysotile,"lizardite, calcite, cinnabar",serpentinite,ofr20111188
+126,CA,Lake,"unnamed prospect","past prospect",38.8351,-122.631,chrysotile,"not reported","not reported",ofr20111188
+127,CA,Lake,"Copsey and Jones prospect","past prospect",38.8488,-122.6635,chrysotile,serpentine,serpentinite,ofr20111188
+128,CA,Lake,"Marylyne prospect","past prospect",38.9256,-122.5051,chrysotile,serpentine,serpentinite,ofr20111188
+129,CA,Lake,"Allen Springs",occurrence,39.1598,-122.6635,chrysotile,lizardite,serpentinite,ofr20111188
+130,CA,Lake,"Complexion Spring",occurrence,39.1702,-122.5121,chrysotile,lizardite,serpentinite,ofr20111188
+131,CA,Lake,"asbestos prospect","past prospect",39.1724,-122.8347,asbestos,"not reported",serpentinite,ofr20111188
+132,CA,Lake,"asbestos prospect","past prospect",39.174,-122.8356,asbestos,"not reported",serpentinite,ofr20111188
+133,CA,Lake,"asbestos prospect","past prospect",39.176,-122.8372,asbestos,"not reported",serpentinite,ofr20111188
+134,CA,Lake,"asbestos prospect","past prospect",39.1774,-122.8381,asbestos,"not reported",serpentinite,ofr20111188
+135,CA,Lake,"Bartlett Springs",occurrence,39.1797,-122.7036,chrysotile,lizardite,serpentinite,ofr20111188
+136,CA,Lake,"asbestos prospect","past prospect",39.1835,-122.8431,asbestos,"not reported",serpentinite,ofr20111188
+137,CA,Lake,"asbestos prospect","past prospect",39.1846,-122.8446,asbestos,"not reported",serpentinite,ofr20111188
+138,CA,"Los Angeles","Occurrences on Santa Catalina Island",occurrence,33.4079,-118.4183,chrysotile,"antigorite, magnesite, opal",serpentinite,ofr20111188
+139,CA,"Los Angeles","Fiber Queen asbestos mine","past producer",34.342,-118.458,"chrysotile; also described as tremolite asbestos (Oakeshott, 1958, p. 110)","chlorite, serpentine","chloritized meta-serpentine",ofr20111188
+140,CA,"Los Angeles","Katz soapstone deposit",occurrence,34.5301,-118.2586,"tremolitic amphibole (rarely asbestiform)"""" (Gay and Hoffman, 1954, p. 561)","serpentine, chlorite, talc, albite, muscovite","talcose and chloritic schist (""""soapstone"""")",ofr20111188
+141,CA,"Los Angeles","RR #4",occurrence,34.56,-118.27,"Nice fibrous asbestos up to 8 cm. long"""" (Sharp, 1959, p. 59)","actinolite, talc","not reported",ofr20111188
+142,CA,"Los Angeles","Amargosa #1",occurrence,34.595,-118.199,"fine fibrous amphibole asbestos","spessartite garnet, psilomelane","manganese-bearing silicate rock in schist",ofr20111188
+143,CA,"Los Angeles","Burro Canyon #1",occurrence,34.646,-118.625,"mountain leather asbestos","not reported",marble,ofr20111188
+144,CA,Madera,"Baker gold mine","past prospect",37.31,-119.74,"amphibole asbestos",quartz,"not reported",ofr20111188
+145,CA,Madera,"Savannah gold mine","past prospect",37.3197,-119.755,"amphibole asbestos","not reported","not reported",ofr20111188
+146,CA,Madera,"Deep Canyon claim","past prospect",37.3208,-119.7577,"amphibole asbestos","not reported","not reported",ofr20111188
+147,CA,Marin,"Angel Island",occurrence,37.86,-122.4378,chrysotile,"lizardite, antigorite",serpentinite,ofr20111188
+148,CA,Marin,"Belvedere Island",occurrence,37.8656,-122.4628,chrysotile,"lizardite, antigorite",serpentinite,ofr20111188
+149,CA,Marin,"unnamed occurrence",occurrence,38.077,-122.746,asbestos,"not reported","ultramafic rocks",ofr20111188
+150,CA,Marin,"Massa Hill nephrite locality",occurrence,38.1769,-122.68,"chrysotile, white fibrous tremolite","serpentine; long, fibrous nephrite; white, fibrous tremolite",serpentinite,ofr20111188
+151,CA,Marin,"near Fort Baker",occurrence,37.833,-122.481,crocidolite,"not reported",chert,ofr20111188
+152,CA,Marin,"west peak of Mt. Tamalpais",occurrence,37.924,-122.599,chrysotile,"not reported","not reported",ofr20111188
+153,CA,Mariposa,"Asbestos prospect and nearby occurrences along Highway 49","past prospect",37.6504,-120.1529,"chrysotile, tremolite asbestos",serpentine,serpentinite,ofr20111188
+154,CA,Mendocino,"Leech Lake Mountain area",occurrence,39.9181,-123.0867,chrysotile,"bastite, picrite, chromite, magnetite","serpentinized peridotite",ofr20111188
+155,CA,Mendocino,"jade occurrence",occurrence,39.95,-123.34,crocidolite,"jadeite, nephrite","not reported",ofr20111188
+156,CA,Mono,"unnamed occurrence",occurrence,38.1745,-119.3379,chrysotile,"serpentine, magnetite, anthophyllite",serpentinite,ofr20111188
+157,CA,Mono,"unnamed occurrence",occurrence,38.1817,-119.3436,chrysotile,"serpentine, magnetite, anthophyllite",serpentinite,ofr20111188
+158,CA,Monterey,"Burro Mountain prospects","past prospect",35.8689,-121.2896,chrysotile,serpentine,"serpentinized ultramafic rocks",ofr20111188
+159,CA,Monterey,"Willow Creek prospects","past prospect",35.894,-121.4603,chrysotile,serpentine,serpentinite,ofr20111188
+160,CA,Monterey,"unnamed prospect","past prospect",35.903,-120.305,chrysotile,serpentine,serpentinite,ofr20111188
+161,CA,Monterey,"Table Mountain prospects","past prospect",35.9044,-120.2848,chrysotile,serpentine,serpentinite,ofr20111188
+162,CA,Monterey,"unnamed prospect","past prospect",35.905,-120.275,chrysotile,"not reported","not reported",ofr20111188
+163,CA,Napa,"Tabor Mining Co. (Phoenix mine, Monticello mine, Kohler and Chase asbestos quarry, Napa asbestos quarry)","past producer",38.4774,-122.1917,chrysotile,serpentine,serpentinite,ofr20111188
+164,CA,Nevada,"Rolph Ranch (chromite)","past prospect",39.12,-120.98,"chrysotile asbestos","not reported","not reported",ofr20111188
+165,CA,Nevada,"Stark (Sierra) asbestos deposit","past producer",39.36,-120.814,chrysotile,serpentine,"ultrabasic intrusion",ofr20111188
+166,CA,Placer,"unnamed occurrence (in Gas Canyon)",occurrence,38.98,-120.92,asbestos,"not reported","not reported",ofr20111188
+167,CA,Placer,"unnamed occurrence (near Forest Hill)",occurrence,39.01,-120.8,asbestos,"not reported","not reported",ofr20111188
+168,CA,Placer,"unnamed occurrence (in Lady's Canyon)",occurrence,39.03,-120.77,asbestos,"not reported","not reported",ofr20111188
+169,CA,Placer,"California Morning Star mine and vicinity (Washington Consolidated mine?)","past prospect",39.1035,-120.8547,"amphibole asbestos",serpentine,serpentinite,ofr20111188
+170,CA,Placer,"unnamed prospect (Burnt Flat area)","past prospect",39.105,-120.933,"amphibole asbestos",serpentine,serpentinite,ofr20111188
+171,CA,Placer,"unnamed prospect (Burnt Flat area)","past prospect",39.099,-120.932,"amphibole asbestos",serpentine,serpentinite,ofr20111188
+172,CA,Placer,"Iowa Hill deposits (Dewey claim, Gary mine?)","past producer",39.112,-120.853,"slip-fiber tremolite asbestos","not reported","serpentinite, amphibolite schist",ofr20111188
+173,CA,Placer,"Roach Hill occurrence (Blue Wing claim?)",occurrence,39.121,-120.847,"tremolite asbestos",serpentine,serpentinite,ofr20111188
+174,CA,Placer,"Morgan deposits (and Driscoll & Michelson claims, Wolf & Levy claims)","past producer",39.18,-120.792,"chrysotile, slip-fiber tremolite asbestos",serpentine,serpentinite,ofr20111188
+175,CA,Placer,"Dan Sullivan prospect","past prospect",39.23,-120.8,chrysotile,serpentine,serpentinite,ofr20111188
+176,CA,Placer,"Monumental Hill",occurrence,39.29,-120.59,chrysotile,"olivine, clinopyroxene, serpentine minerals, magnetite, chromite",dunite,ofr20111188
+177,CA,Plumas,"Spring Garden Tunnel",occurrence,39.88,-120.779,"amphibole asbestos","not reported","sheared """"greenstone",ofr20111188
+178,CA,Plumas,"Asbestos Nos. 1, 2, and 3 claims","past prospect",39.99,-121.14,"amphibole asbestos","not reported","not reported",ofr20111188
+179,CA,Plumas,"Garnet Ridge prospect","past prospect",39.99,-121.367,"anthophyllite asbestos","antigorite, talc, chlorite",peridotite,ofr20111188
+180,CA,Riverside,"unnamed occurrence near Toro Peak",occurrence,33.524,-116.399,"amphibole asbestos","not reported","not reported",ofr20111188
+181,CA,Riverside,"Serpentine Hill prospects","past prospect",33.605,-116.433,"amphibole asbestos","not reported","not reported",ofr20111188
+182,CA,Riverside,"Dunn asbestos deposit","past prospect",33.6101,-116.4824,"slip-fiber amphibole asbestos",serpentine,serpentinite,ofr20111188
+183,CA,Riverside,"Percival (Charleboix) asbestos deposit (Katherine C. mining claims)","past producer",33.6132,-116.4811,"slip-fiber amphibole asbestos","not reported","olivine-hornblende rock (cortlandite)",ofr20111188
+184,CA,Riverside,"Perris asbestos deposit","past producer",33.76,-117.261,"amphibole asbestos","not reported",granite,ofr20111188
+185,CA,Riverside,"Crestmore quarry",occurrence,34.0235,-117.3846,"tremolite(?) asbestus [sic]","actinolite, quartz, calcite, epidote","quartz diorite",ofr20111188
+186,CA,Riverside,"Hemet magnesite mine",occurrence,33.697,-117.026,chrysotile,"magnesite, magnetite, chlorite, actinolite, talc, olivine",metaperidotite,ofr20111188
+187,CA,Riverside,"unnamed occurrence",occurrence,33.58,-116.53,"asbestiform tremolite","actinolite, biotite, chlorite","biotite-rich, metamorphosed mafic rocks",ofr20111188
+188,CA,"San Benito","Simas Asbestos property","past producer(?)",36.335,-120.7162,chrysotile,serpentine,serpentinite,ofr20111188
+189,CA,"San Benito","Santa Rita quarry (Union Carbide Corporation, KCAC mine)","past producer",36.339,-120.6141,chrysotile,"antigorite, brucite, lizardite, magnetite",serpentinite,ofr20111188
+190,CA,"San Benito","San Benito Asbestos Company claims","past producer",36.3702,-120.7566,chrysotile,serpentine,serpentinite,ofr20111188
+191,CA,"San Benito","Occurrences in canyon of Clear Creek",occurrence,36.382,-120.716,clinochrysotile,"antigorite, jadeite, garnet",serpentinite,ofr20111188
+192,CA,"San Benito","Victor claim",occurrence,36.358,-120.742,chrysotile,"numerous minerals reported--see Cooper and others (2003)","not reported",ofr20111188
+193,CA,"San Benito","The Gem mine (Benitoite mine, Benitoite Gem mine, Dallas Benitoite mine, Dallas Gem mine)",occurrence,36.336,-120.605,"actinolite asbestos","numerous minerals reported--see Wise and Gill (1977)","glaucophane schist (blueschist)",ofr20111188
+194,CA,"San Bernardino","Golconda (Conda, Fleetfoot, Hicks) asbestos deposit (Fire-Proof?, Scorpion?)","past producer",34.8231,-117.2533,"asbestiform tremolitic amphibole","serpentine, sulfides, iron oxides",serpentinite,ofr20111188
+195,CA,"San Bernardino","Cronese deposits",occurrence,35.129,-115.995,"chrysotile, amphibole asbestos",serpentine,"dolomitic limestone",ofr20111188
+196,CA,"San Bernardino","Mountain Pass rare earth elements deposit",occurrence,35.4781,-115.5299,crocidolite,"numerous minerals reported--see Olson and others (1954) and Castor and Nason (2004)","carbonatite, syenite",ofr20111188
+197,CA,"San Diego","Circle Group vermiculite group",occurrence,32.6812,-116.1636,chrysotile,"pyroxene, amphibole, chlorite, biotite, vermiculite, magnesite",gabbro,ofr20111188
+198,CA,"San Francisco","Hunters Point area",occurrence,37.7277,-122.3703,asbestos,"not reported",serpentinite,ofr20111188
+199,CA,"San Francisco","Potrero Hill area",occurrence,37.7566,-122.3983,chrysotile,"lizardite, antigorite, chlorite",serpentinite,ofr20111188
+200,CA,"San Francisco","U.S. Mint area",occurrence,37.7695,-122.4257,chrysotile,"lizardite, enstatite, olivine, pyroaurite, montmorillonite",serpentinite,ofr20111188
+201,CA,"San Francisco","Fort Point-Presidio area",occurrence,37.8102,-122.4757,chrysotile,"lizardite, chlorite, enstatite, pyroaurite, montmorillonite",serpentinite,ofr20111188
+202,CA,"Santa Clara","New Almaden mine",occurrence,37.179,-121.8401,"clinochrysotile, orthochrysotile",lizardite,"serpentinized lherzolite",ofr20111188
+203,CA,"Santa Clara","Red Mountain magnesite deposit",occurrence,37.41,-121.47,chrysotile,"antigorite, magnetite, magnesite","peridotite, dunite",ofr20111188
+204,CA,Shasta,"Blas Corporation property (Asbestos Empress)","past producer",41.05,-122.461,chrysotile,serpentine,"serpentinite, peridotite",ofr20111188
+205,CA,Shasta,"Circle (S) property (Shotgun Creek chromite mine)",occurrence,41.058,-122.387,asbestos,"chromite, serpentine",serpentine,ofr20111188
+206,CA,Shasta,"unnamed occurrence (Asbestos Empress prospect?)",occurrence,41.085,-122.501,chrysotile,"not reported","not reported",ofr20111188
+207,CA,Shasta,"Stock property (Stock & Stevens)","past producer",41.0994,-122.4001,"chrysotile, amphibole asbestos",serpentine,"serpentinized peridotite",ofr20111188
+208,CA,Shasta,"Anaconda prospect","past prospect",41.1,-122.37,asbestos,"not reported","not reported",ofr20111188
+209,CA,Shasta,"Sylvester asbestos deposit","past producer",41.1018,-122.3949,"anthophyllite asbestos",serpentine,peridotite,ofr20111188
+210,CA,Shasta,"unnamed occurrence",occurrence,41.105,-122.401,"amphibole asbestos","not reported","not reported",ofr20111188
+211,CA,Shasta,"D.E. Miles prospect","past prospect",41.11,-122.39,asbestos,"not reported","not reported",ofr20111188
+212,CA,Sierra,"Oriental gold mine",occurrence,39.4605,-120.8576,chrysotile,"antigorite, lizardite, brucite, tremolite, chlorite, talc, magnetite, millerite, chromite, pentlandite, awaruite",serpentinite,ofr20111188
+213,CA,Sierra,"Sixteen to One gold-quartz-vein",occurrence,39.4651,-120.8426,chrysotile,"ankeritic carbonate, talc, quartz, pyrite",serpentinite,ofr20111188
+214,CA,Sierra,"Mammoth Springs mine",occurrence,39.4835,-120.819,"cross-fiber amphibolite asbestos","quartz, talc",gabbro,ofr20111188
+215,CA,Sierra,"Green and Farr prospects and Lloyd and Milward prospects","past prospect",39.553,-120.633,"slip-fiber amphibole asbestos",serpentine,"schist, serpentinite",ofr20111188
+216,CA,Sierra,"W.W. Casserly prospect","past prospect",39.554,-120.881,"slip-fiber amphibole asbestos",serpentine,"serpentinite dike",ofr20111188
+217,CA,Siskiyou,"Cecilville Summit County Road/FH93",occurrence,41.2206,-122.8969,chrysotile,"not reported","not reported",ofr20111188
+218,CA,Siskiyou,"Carter Meadow rock pit",occurrence,41.2243,-122.8973,chrysotile,"not reported","serpentinite and/or ultramafic rock",ofr20111188
+219,CA,Siskiyou,"Keystone asbestos claims","past prospect",41.27,-122.873,chrysotile,serpentine,"serpentinized peridotite",ofr20111188
+220,CA,Siskiyou,"Calethia Group","past prospect",41.279,-122.423,chrysotile,serpentine,serpentinite,ofr20111188
+221,CA,Siskiyou,"Camp Eden rock pit",occurrence,41.279,-122.8742,chrysotile,"not reported","serpentinite and/or ultramafic rock",ofr20111188
+222,CA,Siskiyou,"High CCC rock pit",occurrence,41.3,-122.881,chrysotile,"not reported","serpentinite and/or ultramafic rock",ofr20111188
+223,CA,Siskiyou,"unnamed occurrence",occurrence,41.302,-122.495,chrysotile,serpentine,peridotite,ofr20111188
+224,CA,Siskiyou,"Sugar Creek rock pit",occurrence,41.3285,-122.8633,chrysotile,"not reported","serpentinite and/or ultramafic rock",ofr20111188
+225,CA,Siskiyou,"unnamed prospect (Lucky Cowboy Claims?)","past prospect",41.406,-122.445,chrysotile,serpentine,"serpentinized zone in peridotite near contact with diabase dike",ofr20111188
+226,CA,Siskiyou,"unnamed occurrence",occurrence,41.36,-122.49,chrysotile,"not reported",peridotite,ofr20111188
+227,CA,Siskiyou,"unnamed occurrence",occurrence,41.36,-122.55,chrysotile,"not reported",peridotite,ofr20111188
+228,CA,Siskiyou,"unnamed occurrence",occurrence,41.37,-122.49,chrysotile,"not reported",peridotite,ofr20111188
+229,CA,Siskiyou,"unnamed occurrence",occurrence,41.361,-122.531,chrysotile,serpentine,"serpentinized peridotite",ofr20111188
+230,CA,Siskiyou,"unnamed occurrence",occurrence,41.38,-122.439,chrysotile,"not reported",peridotite,ofr20111188
+231,CA,Siskiyou,"Mount Eddy deposit (Rattaro prospect)","past prospect",41.3825,-122.4675,chrysotile,serpentine,peridotite,ofr20111188
+232,CA,Siskiyou,"unnamed occurrence",occurrence,41.4,-122.51,chrysotile,,peridotite,ofr20111188
+233,CA,Siskiyou,"unnamed occurrences",occurrence,41.4,-122.49,chrysotile,"not reported",peridotite,ofr20111188
+234,CA,Siskiyou,"unnamed prospect","past prospect",41.403,-122.509,asbestos,"not reported",peridotite,ofr20111188
+235,CA,Siskiyou,"unnamed occurrence",occurrence,41.42,-122.53,chrysotile,"not reported",peridotite,ofr20111188
+236,CA,Siskiyou,"Shasta View prospect (Sylvester asbestos deposit)","past producer",41.4126,-122.4519,chrysotile,"serpentine, magnetite, chalcedony","serpentinized peridotite",ofr20111188
+237,CA,Siskiyou,"unnamed occurrence",occurrence,41.43,-122.49,chrysotile,"not reported",peridotite,ofr20111188
+238,CA,Siskiyou,"unnamed occurrence",occurrence,41.43,-122.5,chrysotile,,peridotite,ofr20111188
+239,CA,Siskiyou,"unnamed occurrence",occurrence,41.4174,-122.5459,asbestos,"not reported",peridotite,ofr20111188
+240,CA,Siskiyou,"unnamed occurrence",occurrence,41.43,-122.52,chrysotile,"not reported",peridotite,ofr20111188
+241,CA,Siskiyou,"unnamed occurrence",occurrence,41.43,-122.54,chrysotile,,peridotite,ofr20111188
+242,CA,Siskiyou,"Chamberlain (Burns Ranch) prospect","past prospect",41.4834,-122.5467,chrysotile,"serpentine, talc",serpentinite,ofr20111188
+243,CA,Siskiyou,"South Kelsey Creek rock pit",occurrence,41.6094,-123.1686,chrysotile,"not reported","not reported",ofr20111188
+244,CA,Siskiyou,"C.C. Cady prospect","past prospect",41.7351,-122.7293,asbestos,"not reported","not reported",ofr20111188
+245,CA,Siskiyou,"Straw Rock pit",occurrence,41.7817,-123.2054,"actinolite/tremolite asbestos","not reported","not reported",ofr20111188
+246,CA,Siskiyou,"Seiad rock pit",occurrence,41.8312,-123.2291,chrysotile,"not reported","serpentinite and/or ultramafic rock",ofr20111188
+247,CA,Siskiyou,"Thompson Creek rock pit",occurrence,41.875,-123.3332,chrysotile,"not reported","not reported",ofr20111188
+248,CA,Siskiyou,"Middle Creek rock pit",occurrence,41.8985,-123.0411,asbestos,"not reported","not reported",ofr20111188
+249,CA,Siskiyou,"Salt Gulch source (J.J. Murray claims?)",occurrence,41.903,-123.1372,amosite,"not reported","not reported",ofr20111188
+250,CA,Siskiyou,"Upper Buckhorn Gulch rock pit",occurrence,41.9122,-122.802,asbestos,"not reported","serpentinite and/or ultramafic rock",ofr20111188
+251,CA,Siskiyou,"Hungry Creek rock source",occurrence,41.9635,-122.7945,chrysotile,"not reported","serpentinite and/or ultramafic rock",ofr20111188
+252,CA,Sonoma,"Crocidolite from Pine Flat (California Division of Mines and Geology specimen 19626)",occurrence,38.74,-122.76,crocidolite,"not reported","not reported",ofr20111188
+253,CA,Trinity,"Red Mountain deposit (Virginia Bruce mining claims)","past prospect",40.062,-123.219,chrysotile,serpentine,"dunite, peridotite",ofr20111188
+254,CA,Trinity,"unnamed occurrence",occurrence,40.846,-122.889,"cross-fiber asbestos",serpentine,serpentinite,ofr20111188
+255,CA,Trinity,"unnamed occurrence",occurrence,40.977,-122.846,"cross-fiber asbestos","not reported",peridotite,ofr20111188
+256,CA,Trinity,"Jones Brothers mine","past producer",41.083,-122.71,"soda-rich anthophyllite asbestos, chrysotile",serpentine,serpentinite,ofr20111188
+257,CA,Trinity,"unnamed prospect","past prospect",41.086,-122.515,asbestos,"not reported",peridotite,ofr20111188
+258,CA,Trinity,"Shasta Lily No. 6, 7","past prospect",41.1,-122.52,chrysotile,"not reported","not reported",ofr20111188
+259,CA,Trinity,"Asbestos King No. 9 claim","past prospect",41.097,-122.5222,asbestos,"not reported","not reported",ofr20111188
+260,CA,Trinity,"Trinity asbestos claims","past prospect",41.1051,-122.4584,chrysotile,serpentine,peridotite,ofr20111188
+261,CA,Trinity,"Shasta Lily 1 to 5 claims","past prospect",41.11,-122.54,chrysotile,"not reported","not reported",ofr20111188
+262,CA,Trinity,"unnamed occurrence",occurrence,41.113,-122.652,asbestos,"not reported",peridotite,ofr20111188
+263,CA,Trinity,"unnamed occurrence",occurrence,41.116,-122.56,asbestos,"not reported",peridotite,ofr20111188
+264,CA,Trinity,"Prospects near Altoona and Quicksilver mine","past prospect",41.13,-122.54,"amphibole asbestos","not reported","not reported",ofr20111188
+265,CA,Trinity,"White Cloud prospect","past prospect",41.1418,-122.4938,"amphibole asbestos","not reported",peridotite,ofr20111188
+266,CA,Trinity,Katzer,"past prospect",41.12,-122.56,asbestos,"not reported","not reported",ofr20111188
+267,CA,Trinity,"Eldenlou group","past producer",41.143,-122.603,"tremolite asbestos",serpentine,serpentinite,ofr20111188
+268,CA,Trinity,"unnamed occurrence",occurrence,41.186,-122.544,asbestos,"not reported",peridotite,ofr20111188
+269,CA,Trinity,"Dan Rice Asbestos Nos. 1, 4, 7, and 8 claims","past prospect",41.26,-122.66,asbestos,"not reported","not reported",ofr20111188
+270,CA,Trinity,"unnamed occurrence",occurrence,41.27,-122.613,asbestos,"not reported",peridotite,ofr20111188
+271,CA,Trinity,"unnamed occurrence",occurrence,41.271,-122.582,chrysotile,serpentine,"serpentinized peridotite",ofr20111188
+272,CA,Trinity,"Trinity River prospect","past prospect",41.2727,-122.6021,chrysotile,serpentine,"serpentinized peridotite",ofr20111188
+273,CA,Trinity,"unnamed occurrence",occurrence,41.2781,-122.623,chrysotile,"not reported",peridotite,ofr20111188
+274,CA,Trinity,"unnamed occurrence",occurrence,41.296,-122.612,chrysotile,serpentine,"serpentinized peridotite",ofr20111188
+275,CA,Trinity,"unnamed occurrence",occurrence,41.31,-122.6,"cross-fiber asbestos",serpentine,peridotite,ofr20111188
+276,CA,Tulare,"Hanggi Ranch deposit","past prospect",36.3655,-119.1434,"amphibole asbestos","serpentine, magnesite",serpentinite,ofr20111188
+277,CA,Tuolumne,"Ashley property","past prospect",37.7958,-120.2746,chrysotile,serpentine,serpentinite,ofr20111188
+278,CA,Tuolumne,"Premier mine","past prospect",37.9545,-120.4439,chrysotile,antigorite,serpentinite,ofr20111188
+279,CA,Tuolumne,"Rawhide claims","past prospect",37.965,-120.457,chrysotile,"not reported","not reported",ofr20111188
+280,CA,Yolo,"California mine (Reed mercury mine)",occurrence,38.8661,-122.3717,asbestos,"not reported","not reported",ofr20111188
+281,CA,Yuba,"unnamed occurrence",occurrence,39.46,-121.21,asbestos,"not reported","not reported",ofr20111188
+282,CA,Yuba,"Galena Hill claim",occurrence,39.47,-121.05,asbestos,serpentine,serpentinite,ofr20111188
+283,CA,Yuba,"Mount Hope gold mine",occurrence,39.519,-121.218,asbestos,"not reported","serpentine-slate contact",ofr20111188
+284,CA,Yuba,"Butte County Pine and Hardwood Company property","past prospect",39.52,-121.21,"white slip fiber amphibole asbestos",serpentine,serpentinite,ofr20111188
+285,CA,Yuba,"Kingbird drift mine",occurrence,39.55,-121.14,asbestos,serpentine,serpentinite,ofr20111188
+286,CA,Yuba,"unnamed occurrence",occurrence,39.56,-121.11,asbestos,"not reported","not reported",ofr20111188
+287,AZ,Coconino,"Bass deposits","past producer",36.2519,-112.3792,chrysotile,"serpentine, dolomitic calcite, quartz","dolomitic limestone",ofr20081095
+288,AZ,Coconino,"Hance deposits","past producer",36.048,-111.9425,clinochrysotile,"serpentine, quartz","dolomitic limestone",ofr20081095
+289,AZ,Mohave,"Big Jim vein",occurrence,35.0235,-114.3798,"A variety of asbestos known as mountain leather was found in a specimen of ore from the Big Jim"""" Lausen (1931, p. 63)","quartz, calcite, adularia, free gold, pyrite, biotite, chlorite, sericite, apatite",andesite,ofr20081095
+290,AZ,Gila,"American Asbestos Cement Corp. No. 2 mine (Triangle Asbestos Co. group)","past producer",34.0242,-110.8479,chrysotile,"not reported","magnesian limestone",ofr20081095
+291,AZ,Gila,"American Asbestos Cement Corp. No. 1 mine (Triangle Asbestos Co. group)","past producer",34.0231,-110.838,chrysotile,serpentine,"magnesian limestone",ofr20081095
+292,AZ,Gila,"Home mine","past producer",34.0211,-110.832,chrysotile,serpentine,"magnesian limestone",ofr20081095
+293,AZ,Gila,"Tony mine","past producer",34.0094,-110.8366,chrysotile,"not reported","magnesian limestone",ofr20081095
+294,AZ,Gila,"Wolf Springs prospect","past prospect",34.0073,-110.8514,chrysotile,serpentine,"magnesian limestone",ofr20081095
+295,AZ,Gila,"No. 7 prospect","past prospect",34.0058,-110.8421,chrysotile,serpentine,"magnesian limestone",ofr20081095
+296,AZ,Gila,"Sloan Creek group (Aileen group)","past producer",34.0039,-110.7988,chrysotile,"serpentine, wollastonite, fibrous calcite","magnesian limestone",ofr20081095
+297,AZ,Gila,"Man O'War mine","past producer",34.001,-110.875,chrysotile,serpentine,"magnesian limestone",ofr20081095
+298,AZ,Gila,"Buckhorn mine","past producer",34.0006,-110.8567,chrysotile,"not reported","magnesian limestone",ofr20081095
+299,AZ,Gila,"Hardluck claim of the Melrose mines","past producer",33.992,-110.885,chrysotile,serpentine,"magnesian limestone",ofr20081095
+300,AZ,Gila,"Maxwell claims of the Melrose mines","past producer",33.99,-110.875,chrysotile,serpentine,"magnesian limestone",ofr20081095
+301,AZ,Gila,"White Beauty claims of the Melrose mines","past producer",33.9889,-110.8955,chrysotile,serpentine,"magnesian limestone",ofr20081095
+302,AZ,Gila,"P-38 claims of the Melrose mines","past producer",33.987,-110.888,chrysotile,serpentine,"magnesian limestone",ofr20081095
+303,AZ,Gila,"J.W. workings of the Melrose mines","past producer",33.9865,-110.8778,chrysotile,"serpentine, antigorite","magnesian limestone",ofr20081095
+304,AZ,Gila,"Bore Tree Saddle Asbestos Co. property","past prospect",33.977,-110.9299,chrysotile,serpentine,"magnesian limestone",ofr20081095
+305,AZ,Gila,"American Fiber Co. properties (Rock House Group)--North deposits","past producer",33.9583,-110.7923,chrysotile,"not reported","magnesian limestone",ofr20081095
+306,AZ,Gila,"Double Buttes prospect","past prospect",33.94,-110.7543,chrysotile,serpentine,"magnesian limestone",ofr20081095
+307,AZ,Gila,"Independent group","past prospect",33.94,-111.1553,chrysotile,serpentine,"magnesian limestone",ofr20081095
+308,AZ,Gila,"White Hill properties","past prospect",33.9391,-110.7694,chrysotile,serpentine,"magnesian limestone",ofr20081095
+309,AZ,Gila,"American Fiber Co. properties (Rock House Group)--South deposit (May mine)","past producer",33.935,-110.802,chrysotile,"not reported","magnesian limestone",ofr20081095
+310,AZ,Gila,"Montezuma No. 3 prospect","past prospect",33.9337,-110.8057,chrysotile,"not reported","magnesian limestone",ofr20081095
+311,AZ,Gila,"Rosa claims","past producer",33.867,-110.936,chrysotile,serpentine,"magnesian limestone",ofr20081095
+312,AZ,Gila,"Metate No. 1 prospect","past prospect",33.8604,-110.9017,chrysotile,serpentine,"magnesian limestone",ofr20081095
+313,AZ,Gila,"Lucky Strike group (Sloane group)","past producer",33.8546,-110.8987,chrysotile,"serpentine, fibrous calcite, quartz, magnetite, hematite, sericite","magnesian limestone",ofr20081095
+314,AZ,Gila,"Pueblo group","past producer",33.8526,-110.9005,chrysotile,"serpentine, magnetite","magnesian limestone",ofr20081095
+315,AZ,Gila,"Loey and Lena property","past producer",33.852,-110.558,chrysotile,serpentine,"magnesian limestone",ofr20081095
+316,AZ,Gila,"Apache mine (Crown Asbestos Mines, Inc. property; Seven Star group)","past producer",33.8511,-110.5774,chrysotile,serpentine,"magnesian limestone",ofr20081095
+317,AZ,Gila,"Apache Extension group","past prospect",33.851,-110.572,chrysotile,serpentine,"magnesian limestone",ofr20081095
+318,AZ,Gila,"Reynolds Falls group","past producer",33.845,-110.9272,chrysotile,serpentine,"magnesian limestone",ofr20081095
+319,AZ,Gila,"Fiber King mine (Riverside group)","past producer",33.8348,-110.5946,chrysotile,serpentine,"magnesian limestone",ofr20081095
+320,AZ,Gila,"Punto Negro group","past prospect",33.824,-110.557,chrysotile,serpentine,"magnesian limestone",ofr20081095
+321,AZ,Gila,"Cibecue Mining Co. (Old Prochnow) property","past prospect",33.819,-110.464,chrysotile,serpentine,"magnesian limestone",ofr20081095
+322,AZ,Gila,"Salt River group","past producer",33.8175,-110.5377,chrysotile,serpentine,"magnesian limestone",ofr20081095
+323,AZ,Gila,"Regal group","past producer",33.8175,-110.5954,chrysotile,serpentine,"magnesian limestone",ofr20081095
+324,AZ,"La Paz","occurrences in the northern Dome Rock Mountains",occurrence,33.813,-114.354,"tremolite asbestos","not reported","metamorphosed limestone",ofr20081095
+325,AZ,Gila,"White Tail group (Enders mine)","past producer",33.8128,-110.5088,chrysotile,"serpentine, magnetite","magnesian limestone",ofr20081095
+326,AZ,Gila,"Cliffbestos group","past prospect",33.8123,-110.6013,chrysotile,serpentine,"magnesian limestone",ofr20081095
+327,AZ,Gila,"River group (Crosthwaite-Steward group)","past prospect",33.8119,-110.5629,chrysotile,serpentine,"magnesian limestone",ofr20081095
+328,AZ,Gila,"Oso claim",occurrence,33.808,-110.536,chrysotile,"not reported","magnesian limestone",ofr20081095
+329,AZ,Gila,"Canadian mine (Asbestos King claims)","past producer",33.8067,-110.5417,chrysotile,serpentine,"magnesian limestone",ofr20081095
+330,AZ,Gila,"Stansbury deposit (K & M mine; Arizona Asbestos Mining Co. property)","past producer",33.8032,-110.3743,chrysotile,serpentine,"magnesian limestone",ofr20081095
+331,AZ,Gila,"Fourth of July prospect","past producer",33.8025,-110.6113,chrysotile,"serpentine, magnetite","magnesian limestone",ofr20081095
+332,AZ,Gila,"Dream Girl prospect","past producer",33.802,-110.525,chrysotile,serpentine,"magnesian limestone",ofr20081095
+333,AZ,Gila,"Snake Hill deposit (Bluff claims)","past producer",33.7989,-110.4936,chrysotile,serpentine,"magnesian limestone",ofr20081095
+334,AZ,Gila,"Wonder and Silk claims","past prospect",33.798,-110.4713,chrysotile,serpentine,"magnesian limestone",ofr20081095
+335,AZ,Gila,"Sorsen-Williams Asbestos Corp. properties","past producer",33.7935,-110.4932,chrysotile,serpentine,"magnesian limestone",ofr20081095
+336,AZ,Gila,"Great View claims (Cobb & Dunaway group)","past producer",33.7925,-110.5023,chrysotile,"serpentine, magnetite","magnesian limestone",ofr20081095
+337,AZ,Gila,"Golden Fiber Asbestos Claims 1 & 2 (Old Falls group)","past prospect",33.7858,-110.5147,chrysotile,serpentine,"magnesian limestone",ofr20081095
+338,AZ,Gila,"unnamed prospect","past prospect",33.7855,-110.4794,chrysotile,serpentine,"magnesian limestone",ofr20081095
+339,AZ,Gila,"Pine Top group","past producer",33.7844,-110.5079,chrysotile,serpentine,"magnesian limestone",ofr20081095
+340,AZ,Gila,"Seventy-two and Monte Christo groups (Grandview No. 4 mine)","past producer",33.7844,-110.5305,chrysotile,serpentine,"magnesian limestone",ofr20081095
+341,AZ,Gila,"Wonder group","past prospect",33.784,-110.602,chrysotile,"serpentine, magnetite","magnesian limestone",ofr20081095
+342,AZ,Gila,"Emsco mine (Accident group)","past producer",33.7808,-110.5247,chrysotile,serpentine,"magnesian limestone",ofr20081095
+343,AZ,Gila,"Falls group","past prospect",33.78,-110.516,chrysotile,"not reported","magnesian limestone",ofr20081095
+344,AZ,Gila,"Alamo prospects","past prospect",33.768,-110.576,chrysotile,serpentine,"magnesian limestone",ofr20081095
+345,AZ,Gila,"asbestos prospects northeast of Seneca","past prospect",33.762,-110.493,chrysotile,serpentine,"magnesian limestone",ofr20081095
+346,AZ,Gila,"American Ores mine","past producer",33.7616,-110.9468,chrysotile,"serpentine, calcite","magnesian limestone",ofr20081095
+347,AZ,Gila,"Sulphur Springs claims","past prospect",33.758,-110.484,chrysotile,"not reported","magnesian limestone",ofr20081095
+348,AZ,Gila,"Loafer claim (Old Knighton property)","past prospect",33.7565,-110.9328,chrysotile,"serpentine, fibrous calcite","magnesian limestone",ofr20081095
+349,AZ,Gila,"Ruiz prospects","past producer",33.7444,-110.6093,chrysotile,serpentine,"magnesian limestone",ofr20081095
+350,AZ,Gila,"Globe group (Friday claim)","past producer",33.7437,-110.9435,chrysotile,"serpentine, magnetite","magnesian limestone",ofr20081095
+351,AZ,Gila,"Little Favor group","past prospect",33.7409,-110.5837,chrysotile,"serpentine, fibrous calcite","magnesian limestone",ofr20081095
+352,AZ,Gila,"Arizona Asbestos Assocation Group (Victory mine)","past producer",33.739,-110.5646,chrysotile,"serpentine, calcite","magnesian limestone",ofr20081095
+353,AZ,Gila,"Globe Asbestos group (Locke mine)","past producer",33.735,-110.5942,chrysotile,serpentine,"magnesian limestone",ofr20081095
+354,AZ,Gila,"El Dorado mine","past producer",33.7335,-110.5648,chrysotile,serpentine,"magnesian limestone",ofr20081095
+355,AZ,Gila,"Miami group","past producer",33.7298,-110.9356,chrysotile,serpentine,"magnesian limestone",ofr20081095
+356,AZ,Gila,"Triple Star Mining Co. property","past producer",33.7248,-110.5735,chrysotile,"serpentine, chalcocite","magnesian limestone",ofr20081095
+357,AZ,Gila,"unnamed prospect along Bear Creek","past prospect",33.553,-110.325,chrysotile,serpentine,"magnesian limestone",ofr20081095
+358,AZ,Gila,"unnamed prospect along Bear Creek","past prospect",33.5469,-110.3285,chrysotile,serpentine,"magnesian limestone",ofr20081095
+359,AZ,Gila,"unnamed prospect along Bear Creek","past prospect",33.5436,-110.3281,chrysotile,serpentine,"magnesian limestone",ofr20081095
+360,AZ,Gila,"G and H No. 1 prospect","past prospect",33.543,-110.892,chrysotile,"not reported","magnesian limestone",ofr20081095
+361,AZ,Gila,"unnamed prospect along Bear Creek","past prospect",33.542,-110.337,chrysotile,serpentine,"magnesian limestone",ofr20081095
+362,AZ,Gila,"Bear Canyon Mining Co. properties","past producer",33.5352,-110.3333,chrysotile,serpentine,"magnesian limestone",ofr20081095
+363,AZ,Gila,"prospect west of Blue River","past prospect",33.52,-110.285,chrysotile,serpentine,"magnesian limestone",ofr20081095
+364,AZ,Gila,"Black Mesa (Cassadore) deposit","past prospect",33.485,-110.398,chrysotile,serpentine,"magnesian limestone",ofr20081095
+365,AZ,Gila,"Chuckwalla claims","past prospect",33.476,-110.91,chrysotile,serpentine,"magnesian limestone",ofr20081095
+366,AZ,Gila,"unnamed prospects","past prospect",33.464,-110.907,chrysotile,serpentine,"magnesian limestone",ofr20081095
+367,AZ,Pinal,"North American Asbestos Co. claims","past prospect",33.46,-111.067,chrysotile,serpentine,"magnesian limestone",ofr20081095
+368,AZ,Gila,"occurrences near Pinto Creek",occurrence,33.4547,-111.0212,chrysotile,serpentine,"magnesian limestone",ofr20081095
+369,AZ,Gila,"G and H No. 2 prospects","past prospect",33.4502,-110.7037,chrysotile,serpentine,"magnesian limestone",ofr20081095
+370,AZ,Gila,"Chromo Butte prospect","past prospect",33.45,-110.7032,chrysotile,serpentine,"magnesian limestone",ofr20081095
+371,AZ,Pinal,"Independence group","past prospect",33.4415,-111.0573,chrysotile,serpentine,"magnesian limestone",ofr20081095
+372,AZ,Pinal,"Last Time group","past prospect",33.4313,-111.064,chrysotile,"serpentine, magnetite, copper-oxide minerals, garnet, epidote, tremolite, antigorite","magnesian limestone",ofr20081095
+373,AZ,Pinal,"Mountain of Mystery group","past prospect",33.4284,-111.0819,chrysotile,serpentine,"magnesian limestone",ofr20081095
+374,AZ,Pinal,"K and S group","past prospect",33.4262,-111.0651,chrysotile,serpentine,"magnesian limestone",ofr20081095
+375,AZ,Gila,"asbestos occurrence on Oak Creek",occurrence,33.422,-110.417,chrysotile,serpentine,"magnesian limestone",ofr20081095
+376,AZ,Gila,"Metate Asbestos Corp. claims (Apache mine)","past producer",33.4117,-110.6054,chrysotile,"serpentine, quartz, hematite","magnesian limestone",ofr20081095
+377,AZ,"La Paz","prospects on Cemetery Ridge","past prospect",33.3853,-113.4895,"actinolite asbestos","chlorite, magnetite","amphibolite dikes",ofr20081095
+378,AZ,Pinal,"Lucky Lager claims","past prospect",33.322,-111.23,chrysotile,serpentine,"magnesian limestone",ofr20081095
+379,AZ,Gila,"Lone Pine prospects","past prospect",33.289,-110.736,chrysotile,serpentine,"magnesian limestone",ofr20081095
+380,AZ,Gila,"Indian Springs deposit","past prospect",33.2876,-110.7322,chrysotile,serpentine,"magnesian limestone",ofr20081095
+381,AZ,Gila,"Chiricahua group","past prospect",33.263,-110.633,chrysotile,serpentine,"magnesian limestone",ofr20081095
+382,AZ,Gila,"Mystery prospect","past prospect",33.262,-110.647,chrysotile,serpentine,"magnesian limestone",ofr20081095
+383,AZ,Gila,"prospect north of Red Whiskers Spring","past prospect",33.244,-110.634,chrysotile,"not reported","magnesian limestone",ofr20081095
+384,AZ,Gila,"unnamed prospects","past prospect",33.198,-110.804,chrysotile,serpentine,"magnesian limestone",ofr20081095
+385,AZ,Gila,"Mescal Mountain deposit","past prospect",33.191,-110.805,chrysotile,serpentine,"magnesian limestone",ofr20081095
+386,AZ,Pinal,"Ray-Kelvin silver-lead mine",occurrence,33.1778,-110.9475,"vein of asbestos"""" (Anonymous, 1918, p. 20)",serpentine,"magnesian limestone",ofr20081095
+387,AZ,Pinal,"Putnam Wash deposits","past prospect",32.8378,-110.731,chrysotile,"serpentine, manganese","magnesian limestone",ofr20081095
+388,AZ,Cochise,"occurrence near the Empire No. 2 shaft",occurrence,32.0222,-110.0598,"asbestiform, cross-fiber anthophyllite","hematite (martite)",limestone,ofr20081095
+389,AZ,Cochise,"Abril zinc mine",occurrence,31.9083,-109.992,chrysotile,"serpentine, calcite","magnesian limestone",ofr20081095
+390,NV,Pershing,"Segerstrom-Heizer mine",occurrence,40.042,-118.146,crocidolite,"magnetite, hematite, apatite, pyrite, marcasite, chlorite, calcite, actinolite-tremolite","iron ore body replacing diorite",ofr20081095
+391,NV,"White Pine","Windous magnesite deposit",occurrence,38.9288,-115.1609,clinochrysotile,"magnesite, serpentine (deweylite), dolomite, calcite, quartz","calcareous tuff",ofr20081095
+392,NV,Nye,"Tonopah district",occurrence,38.07,-117.23,"tremolite asbestos","not reported","not reported",ofr20081095
+393,UT,Beaver,"Big Pass group",occurrence,38.3038,-112.8216,"short-fiber chrysotile (asbestos)"""", fibrous tremolite","garnet, epidote, wollastonite, fluorite, pyrite, calcite, scheelite, serpentine","calcite-wollastonite marble",ofr20081095
+394,UT,Beaver,"King David mine",occurrence,38.4516,-113.2778,"asbestos""""","alunite, marble [calc-silicate minerals], argentite, chalcopyrite, sphalerite, wurtzite, pyrite, galena",marble,ofr20081095
+395,UT,Millard,"Tremolite no. 1 mine","past producer",38.5815,-112.8409,"mass-fiber tremolite asbestos","calcite, """"potash"""", malachite, chalcopyrite, azurite","marble (dolomitic)",ofr20081095
+396,UT,Duchesne,"unnamed occurrences in Avintaquin Canyon",occurrence,39.98,-110.86,"asbestiform magnesioarfvedsonite","dolomite, quartz, hornblende, plagioclase","dolomitic marlstone (""""oil shale"""")",ofr20081095
+397,UT,"Salt Lake","Bingham stock",occurrence,40.517,-112.157,"asbestos"""", finely fibrous actinolite","numerous minerals reported--see Hunt (1924), Lanier and others (1978), Reid (1978), Atkinson and Einaudi (1978)","dolomitic copper skarn",ofr20081095
+398,UT,Davis,"occurrences in Bair Canyon",occurrence,41.041,-111.859,"slip-fiber tremolite asbestos, fibrous actinolite","microcline feldspar, quartz, actinolite, mica, pyrite","pegmatite sill",ofr20081095
+399,UT,"Box Elder","Pack Rat tremolite prospect","past prospect",41.1994,-113.3375,"tremolite asbestos",dolomite,"dolomitic marble",ofr20081095
+400,AL,Tallapoosa,"Camp Hill Road properties",occurrence,32.867,-85.618,"anthophyllite asbestos","chlorite, enstatite, talc","pyroxenite, amphibolite",ofr20051189
+401,AL,Tallapoosa,"Perry Wise-Sanders property","past prospect",32.887,-85.757,"anthophyllite asbestos","talc, chlorite, vermiculite, enstatite, hornblende, hypersthene, tremolite","amphibolite, """"enstatite rock"""", serpentinite, pyroxenite",ofr20051189
+402,AL,Tallapoosa,"W.B. Railey property",occurrence,32.899,-85.736,"anthophyllite asbestos","talc, chlorite, vermiculite, hornblende, actinolite, mica","hornblende gneiss, amphibolite, pyroxenite, hornblende gabbro, hornblende diorite, actinolite schist",ofr20051189
+403,AL,Tallapoosa,"Sorrell Estate property","past prospect",32.912,-85.697,"anthophyllite asbestos","talc, enstatite, hypersthene, bronzite, corundum, chlorite, vermiculite, tremolite","hornblende gabbro, hornblende gneiss, hornblende diorite, actinolite schist, pyroxenite",ofr20051189
+404,AL,Tallapoosa,"Fargarson property",occurrence,32.92,-85.686,"anthophyllite asbestos","talc, chlorite","pyroxenite, amphibolite, hornblende gabbro",ofr20051189
+405,AL,Tallapoosa,"Clem Vines property, south area","past prospect",32.922,-85.615,"anthophyllite asbestos","enstatite, hypersthene, talc","pyroxenite, biotite gneiss",ofr20051189
+406,AL,Tallapoosa,"Clarence Ware property",occurrence,32.922,-85.604,"anthophyllite asbestos","enstatite, talc","pyroxenite, amphibolite",ofr20051189
+407,AL,Tallapoosa,"Garfield Heard property","past prospect",32.923,-85.622,"anthophyllite asbestos","talc, chlorite, vermiculite, enstatite","pyroxenite, actinolite-hornblende amphibolite",ofr20051189
+408,AL,Tallapoosa,"George Sims property","past prospect",32.924,-85.618,"anthophyllite asbestos","enstatite, hypersthene, talc","pyroxenite, actinolite-hornblende schist, hornblende gneiss",ofr20051189
+409,AL,Tallapoosa,"Pettus Harris property","past prospect",32.925,-85.6,"anthophyllite asbestos",talc,"amphibolite, pyroxenite, mica schist, hornblende gneiss",ofr20051189
+410,AL,Tallapoosa,"Prather property","past prospect",32.926,-85.649,"anthophyllite asbestos","talc, enstatite, hypersthene, corundum, pyroxenes","pyroxenite, amphibolite, biotite gneiss, hornblende diorite, mica schist",ofr20051189
+411,AL,Tallapoosa,"Clema Smith property",occurrence,32.926,-85.643,"anthophyllite asbestos","talc, pyroxenes","pyroxenite, hornblende gneiss",ofr20051189
+412,AL,Tallapoosa,"Clem Vines property, north area","past prospect",32.928,-85.615,"anthophyllite asbestos",talc,"amphibolite, mica schist, biotite gneiss, pyroxenite",ofr20051189
+413,AL,Tallapoosa,"Knight property",occurrence,32.929,-85.668,"anthophyllite asbestos","talc, enstatite, hypersthene, olivine","pyroxenite, amphibolite, hornblende gabbro, hornblende gneiss",ofr20051189
+414,AL,Tallapoosa,"Walker property","past prospect",32.933,-85.659,"anthophyllite asbestos","talc, pyroxenes","pyroxenite, serpentinite, hornblende gneiss, hornblende gabbro",ofr20051189
+415,AL,Chambers,"unnamed occurrence",occurrence,32.936,-85.579,"anthophyllite asbestos",talc,"ultramafic intrusives",ofr20051189
+416,AL,Tallapoosa,"Estes property",occurrence,32.938,-85.634,"anthophyllite asbestos","enstatite, hypersthene, talc, actinolite, chlorite",pyroxenite,ofr20051189
+417,AL,Tallapoosa,"Coosa River News Print property","past prospect",32.94,-85.623,"anthophyllite asbestos","enstatite, hypersthene, bronzite, talc, serpentine, tourmaline",pyroxenite,ofr20051189
+418,AL,Tallapoosa,"Jennings-Satterwhite properties",occurrence,32.94,-85.602,"anthophyllite asbestos","talc, pyroxenes","serpentinite, pyroxenite",ofr20051189
+419,CT,Litchfield,"unnamed mine","past producer",41.8423,-72.9834,"anthophyllite asbestos","serpentine, chlorite, garnet",metaperidotite,ofr20051189
+420,DE,"New Castle","Mount Cuba serpentine body",occurrence,39.795,-75.625,asbestos,"serpentine, talc, magnetite, augite, olivine, magnesite, anthophyllite, marmolite",serpentinite,ofr20051189
+421,GA,Troup,"G.I. Bryan property","past prospect",32.88,-84.92,"anthophyllite asbestos","talc, olivine, enstatite, chromite, picotite, vermiculite",pyroxenite,ofr20051189
+422,GA,Troup,"Mrs. W.M. Higginbothem property","past prospect",32.9,-85.16,"cross-fiber asbestos","pyroxenes, talc, chlorite, amphibole","amphibolite, pyroxenite",ofr20051189
+423,GA,Troup,"Mrs. Leila Beasley property","past prospect",33.08,-84.916,"anthophyllite asbestos","talc, quartz, chromite",peridotite,ofr20051189
+424,GA,Meriwether,"Joseph L. Chambless property","past producer",33.11,-84.66,"anthophyllite asbestos","talc, quartz",peridotite,ofr20051189
+425,GA,Meriwether,"Thrash prospect","past producer",33.11,-84.64,"anthophyllite asbestos","not reported","not reported",ofr20051189
+426,GA,Meriwether,"Primrose Siding",occurrence,33.15,-84.74,"anthophyllite asbestos","talc, olivine, serpentine","ultramafic intrusion",ofr20051189
+427,GA,Meriwether,"Mrs. Mildred Camp property","past prospect",33.21,-84.74,"cross- and slip-fiber asbestos",talc,"not reported",ofr20051189
+428,GA,Coweta,"J.A.R. Camp property","past prospect",33.25,-84.76,"anthophyllite asbestos","talc, chlorite, tremolite","not reported",ofr20051189
+429,GA,Coweta,"P.H. Hawk property","past prospect",33.3,-84.85,"anthophyllite asbestos","talc, chlorite","not reported",ofr20051189
+430,GA,Hancock,"Moses W. Harris property",occurrence,33.33,-83.08,"anthophyllite asbestos","chlorite, """"amphibole of the hornblende group"""", olivine, magnetite, talc, carbonates, quartz","olivine gabbro",ofr20051189
+431,GA,Fulton,"T.D. Longino property","past prospect",33.62,-84.52,"anthophyllite asbestos","talc, olivine","peridotite, hornblende gneiss",ofr20051189
+432,GA,DeKalb,"Soapstone Ridge occurrences",occurrence,33.653,-84.337,"tremolite asbestos","talc, chlorite, cummingtonite, anthophyllite, goethite, hematite, magnetite","ultramafic rocks",ofr20051189
+433,GA,Fulton,"unnamed occurrence",occurrence,33.701,-84.389,asbestos,"not reported",pyroxenite,ofr20051189
+434,GA,Carroll,"unnamed prospect","past prospect",33.723,-84.933,"anthophyllite asbestos, chrysotile","antigorite, chlorite, enstatite, talc",metaperidotite,ofr20051189
+435,GA,Carroll,"unnamed prospect","past prospect",33.735,-84.917,"anthophyllite asbestos","antigorite, chlorite, enstatite, talc",metaperidotite,ofr20051189
+436,GA,Cobb,"J.H. Cantrell's property","past prospect",33.85,-84.53,"anthophyllite asbestos","talc, chlorite, actinolite",harzburgite,ofr20051189
+437,GA,Barrow,"L.M. Arnold and E.R. Arnold properties","past producer",33.98,-83.58,"anthophyllite asbestos, chrysotile","talc, olivine, chlorite","not reported",ofr20051189
+438,GA,Hall,"unnamed prospect","past prospect",34.29,-83.86,"anthophyllite asbestos","talc, clay, chlorite, corundum, margarite",peridotite,ofr20051189
+439,GA,Lumpkin,"unnamed prospect","past prospect",34.446,-83.962,"slip-fiber asbestos",talc,"not reported",ofr20051189
+440,GA,White,"Sall Mountain Company property","past producer",34.639,-83.753,asbestos,talc,"not reported",ofr20051189
+441,GA,Habersham,"Asbestos Mining and Manufacturing Co. (Hollywood) mine","past producer",34.646,-83.451,"anthophyllite asbestos","olivine, actinolite, magnesite, talc, chlorite, serpentine, magnetite, chromite",peridotite,ofr20051189
+442,GA,Habersham,"J.J. Holcomb property",occurrence,34.65,-83.66,"mass-fiber asbestos",talc,"not reported",ofr20051189
+443,GA,White,"Calhoun Mining Company property",occurrence,34.66,-83.715,"anthophyllite asbestos","talc, chlorite","ultramafic intrusion",ofr20051189
+444,GA,White,"Sall Mountain mine","past producer",34.662,-83.685,"anthophyllite asbestos","talc, dolomite, chlorite, serpentine, magnetite, pyrite",amphibolite,ofr20051189
+445,GA,Habersham,"A.E. Berrong property","past producer",34.702,-83.624,"anthophyllite asbestos","olivine, serpentine","serpentinite, dunite",ofr20051189
+446,GA,Habersham,"G.L. Lyons property","past prospect",34.707,-83.624,"anthophyllite asbestos","talc, chlorite","basic rock",ofr20051189
+447,GA,White,"John Martin prospects","past prospect",34.749,-83.631,"anthophyllite asbestos","talc, corundum, chlorite, limonite, magnetite",peridotite,ofr20051189
+448,GA,White,"Mack Mountain (Wykle) prospect","past prospect",34.751,-83.636,"anthophyllite asbestos","talc, olivine","peridotite, pyroxenite",ofr20051189
+449,GA,White,"unnamed prospect","past prospect",34.7517,-83.6464,asbestos,talc,"ultramafic rocks",ofr20051189
+450,GA,Habersham,"unnamed prospect","past prospect",34.7593,-83.5907,asbestos,"not reported","ultramafic rocks",ofr20051189
+451,GA,Habersham,"unnamed prospects","past prospect",34.7693,-83.5881,"chrysotile (""""fibrous serpentine"""")",garnet,"ultramafic rocks",ofr20051189
+452,GA,Murray,"W.Z. Latch property",occurrence,34.775,-84.713,chrysotile,"antigorite, talc",serpentinite,ofr20051189
+453,GA,Rabun,"R.V. Taylor prospect","past prospect",34.803,-83.347,"anthophyllite asbestos","not reported","not reported",ofr20051189
+454,GA,Rabun,"George Lowell prospect","past prospect",34.822,-83.496,"anthophyllite asbestos",talc,"ultramafic intrusion",ofr20051189
+455,GA,Rabun,"H.V.M. Miller mine","past producer",34.874,-83.5745,"anthophyllite asbestos","talc, chlorite, olivine",dunite,ofr20051189
+456,GA,Rabun,"Andrew Gennett property","past producer",34.889,-83.329,"anthophyllite asbestos","talc, vermiculite","basic dike",ofr20051189
+457,GA,Rabun,"Chattooga River prospect","past producer",34.917,-83.187,"anthophyllite asbestos","not reported","not reported",ofr20051189
+458,GA,Rabun,"Pig Pen Mountain locality",occurrence,34.93,-83.17,"mass-fiber asbestos","enstatite, olivine",pyroxenite,ofr20051189
+459,GA,Rabun,"Nicholson estate mine","past producer",34.939,-83.173,"anthophyllite asbestos","talc, chlorite, serpentine, magnetite",peridotite,ofr20051189
+460,GA,Rabun,"Laurel Creek mine","past producer",34.948,-83.177,"anthophyllite asbestos","olivine, diopside, antigorite, corundum, talc, vermiculite, chromite","dunite, peridotite",ofr20051189
+461,GA,Rabun,"unnamed prospect","past prospect",34.95,-83.25,"cross- and slip-fiber asbestos",olivine,peridotite,ofr20051189
+462,GA,Towns,"Thomas Edwards property","past prospect",34.952,-83.798,"anthophyllite asbestos","not reported","not reported",ofr20051189
+463,GA,Rabun,"Reid mine","past producer",34.955,-83.173,"anthophyllite asbestos","vermiculite, chlorite","ultramafic intrusion",ofr20051189
+464,GA,Rabun,"A.A. Darnell property","past prospect",34.959,-83.311,"anthophyllite asbestos","olivine, magnetite, chromite, tremolite or cummingtonite, magnesite, chlorite, talc",dunite,ofr20051189
+465,GA,Rabun,"L.D. Garland property","past producer",34.97,-83.46,"mass-fiber asbestos",talc,intrusion,ofr20051189
+466,GA,Rabun,"Hicks Asbestos mine","past producer",34.97,-83.151,"anthophyllite asbestos","vermiculite, olivine, enstatite","ultramafic intrusion",ofr20051189
+467,GA,Rabun,"Mrs. Margaret Beavett property","past prospect",34.979,-83.423,"anthophyllite asbestos","talc, chlorite, corundum","basic rock intrusion",ofr20051189
+468,GA,Rabun,"McCoy mine","past producer",34.979,-83.419,"anthophyllite asbestos","talc, chlorite, vermiculite",peridotite,ofr20051189
+469,GA,Towns,"Bell Creek mine",occurrence,34.98,-83.734,"anthophyllite asbestos","corundum, chlorite, talc, olivine, serpentine, amphibole, magnetite",dunite,ofr20051189
+470,GA,Rabun,"Dillard prospect","past producer",34.984,-83.415,"anthophyllite asbestos","corundum, olivine, serpentine, talc, vermiculite","basic intrusion",ofr20051189
+471,GA,Rabun,"R.H. Lamb property","past prospect",34.99,-83.44,"mass-fiber asbestos","talc, corundum, serpentine",peridotite,ofr20051189
+472,GA,Rabun,"Frank Kelly prospect","past prospect",34.99,-83.318,"anthophyllite asbestos","chlorite, olivine, serpentine, vermiculite, talc","ultramafic intrusion",ofr20051189
+473,MA,Hampshire,"Pelham asbestos quarry","past producer",42.35,-72.441,"anthophyllite asbestos, chrysotile","antigorite, olivine, enstatite, chromite, magnetite, talc, chlorite, anorthite, rutile, tourmaline, allanite, apatite, zoisite, biotite, vermiculite, actinolite, corundum, hornblende, epidote",metaharzburgite,ofr20051189
+474,MA,Berkshire,"Hinsdale mine","past producer",42.4787,-73.127,"anthophyllite asbestos","serpentine, actinolite, tremolite, talc, chromite","meta-ultramafic rock",ofr20051189
+475,MA,Franklin,"New Salem serpentinite body",occurrence,42.505,-72.305,"anthophyllite asbestos","olivine, clinochlore, talc",metaperidotite,ofr20051189
+476,MA,Berkshire,"North Mountain dunite",occurrence,42.5272,-73.1667,chrysotile,serpentine,dunite,ofr20051189
+477,MD,Montgomery,"Hunting Hill quarry",occurrence,39.0806,-77.2239,chrysotile,"numerous minerals reported--see Bernstein (1980, p. 71-76) and Larrabee (1969)","serpentinite, rodingite",ofr20051189
+478,MD,Montgomery,"Muddy Branch talc prospect",occurrence,39.088,-77.275,"amphibole asbestos",talc,serpentinite,ofr20051189
+479,MD,Howard,"unnamed occurrence",occurrence,39.25,-76.764,"anthophyllite asbestos",talc,cortlandite,ofr20051189
+480,MD,Baltimore,"Gwynn Falls gneiss quarry",occurrence,39.2895,-76.6678,"tremolite asbestos","numerous minerals reported--see Ostrander and Price (1940, p. 16)","not reported",ofr20051189
+481,MD,Howard,"National Park Service quarry",occurrence,39.29,-76.79,chrysotile,"picrolite, williamsite, antigorite, talc, psilomelane",serpentinite,ofr20051189
+482,MD,Howard,"Daniels quarry (Alberton deposit)","past producer",39.317,-76.814,"anthophyllite asbestos",rutile,"serpentinite, """"schistose actinolite",ofr20051189
+483,MD,Baltimore,"Bok asbestos mine","past producer",39.3183,-76.7883,"anthophyllite asbestos","talc, actinolite-tremolite, chlorite, magnetite","gabbro, pyroxenite",ofr20051189
+484,MD,Baltimore,"unnamed prospect at Powhatan","past prospect",39.32,-76.73,"tremolite asbestos","not reported","not reported",ofr20051189
+485,MD,Baltimore,"Bare Hills serpentine quarries and Bare Hills chrome mine",occurrence,39.385,-76.663,chrysotile,"numerous minerals reported--see Ostrander and Price (1940, p. 27, 29)","not reported",ofr20051189
+486,MD,Carroll,"Springfield iron-copper mine",occurrence,39.39,-76.97,"actinolite asbestos","numerous minerals reported--see Ostrander and Price (1940, p. 42)","not reported",ofr20051189
+487,MD,Carroll,"Mineral Hill mine",occurrence,39.44,-76.93,"hornblendic asbestos","numerous minerals reported--see Ostrander and Price (1940, p. 42, 44)","not reported",ofr20051189
+488,MD,Baltimore,"Delight quarry",occurrence,39.44,-76.8289,chrysotile,"serpentine, magnesite, opal, deweylite, chalcedony, quartz, calcite, chromite, rutile, garnierite, chlorite, dolomite, limonite, magnetite",serpentinite,ofr20051189
+489,MD,Harford,"Reed chrome mine",occurrence,39.612,-76.456,chrysotile,"chromite, talc, kammererite, chromian antigorite, serpentine, rhodochrome, brucite, magnesite, limonite, williamsite, picrolite, baltimorite, chalcedony",serpentinite,ofr20051189
+490,MD,Harford,"unnamed occurrences near Mine Fields",occurrence,39.639,-76.36,asbestos,"quartz, chalcedony, opal, magnetite, hematite, tourmaline, graphite, jasper, pyrolusite, goethite, chromite, deweylite, magnesite, marmolite, bronzite, enstatite, talc",serpentinite,ofr20051189
+491,MD,Harford,"Dublin talc quarries",occurrence,39.651,-76.285,"anthophyllite asbestos, chrysotile","talc, antigorite, vermiculite, actinolite, ankerite, dolomite, calcite, chlorite, chromite, magnesite, limonite",serpentinite,ofr20051189
+492,MD,Harford,"unnamed occurrences near Clermont Mills",occurrence,39.66,-76.45,asbestos,"actinolite, talc, epidote, smaragdite","not reported",ofr20051189
+493,MD,Harford,"Neikirk mine","past producer",39.697,-76.384,"tremolite asbestos, anthophyllite asbestos","not reported","not reported",ofr20051189
+494,MD,Harford,"Jenkins (Todd) mine","past producer",39.699,-76.377,"tremolite asbestos, anthophyllite asbestos","talc, dolomite, calcite, actinolite, limonite, malachite, tetrahedrite, picrolite, quartz, psilomelane",dunite,ofr20051189
+495,MD,Cecil,"Bald Friar quarries",occurrence,39.699,-76.207,asbestos,"serpentine, talc, pyrite, albite",serpentinite,ofr20051189
+496,MD,Cecil,"Conowingo Marble and Mineral Company serpentine quarry",occurrence,39.709,-76.187,chrysotile,"antigorite, talc, chromite, calcite",serpentinite,ofr20051189
+497,MD,Cecil,"Weiant (Wiant) serpentine quarry",occurrence,39.71,-76.191,chrysotile,"numerous minerals reported--see Ostrander and Price (1940, p. 59)",serpentinite,ofr20051189
+498,MD,Harford,"Cardiff serpentine quarry",occurrence,39.72,-76.34,chrysotile,"antigorite, magnetite, chlorite, carbonate",serpentinite,ofr20051189
+499,ME,Hancock,"Deer Isle serpentine",occurrence,44.259,-68.636,chrysotile,"serpentine, magnetite, olivine, pyroxene, amphibole, chlorite, muscovite",serpentinite,ofr20051189
+500,ME,Hancock,"Traprock quarry",occurrence,44.2854,-68.7026,chrysotile,"serpentine, magnetite, magnesite, olivine, pyroxene, amphibole",serpentinite,ofr20051189
+501,ME,Hancock,"Little Deer Isle serpentine body",occurrence,44.293,-68.706,chrysotile,"picrolite, diallage, pyrite, magnetite",serpentinite,ofr20051189
+502,ME,Franklin,"serpentine body",occurrence,45.2232,-70.7397,clinochrysotile,"serpentine, chlorite, magnesite, talc, carbonate, chromite, muscovite, olivine, orthopyroxene, epidote, sulfides",serpentinite,ofr20051189
+503,ME,Franklin,"Alder Stream area serpentine",occurrence,45.2275,-70.6606,clinochrysotile,"serpentine, chlorite, magnesite, talc, carbonate, chromite, muscovite, olivine, orthopyroxene, epidote, sulfides",serpentinite,ofr20051189
+504,ME,Franklin,"Tea Pond area serpentine",occurrence,45.23,-70.5303,clinochrysotile,"serpentine, chlorite, magnesite, talc, carbonate, chromite, muscovite, olivine, orthopyroxene, epidote, sulfides",serpentinite,ofr20051189
+505,ME,Franklin,"serpentinite outcrop",occurrence,45.2302,-70.8121,clinochrysotile,"serpentine, talc, magnesite(?), magnetite, clinopyroxene, olivine",serpentinite,ofr20051189
+506,ME,Franklin,"serpentinite outcrop",occurrence,45.2317,-70.7909,clinochrysotile,"serpentine, magnesite(?), talc, magnetite",serpentinite,ofr20051189
+507,ME,Franklin,"serpentinite outcrop at top of 2,720-foot knob",occurrence,45.2357,-70.7677,clinochrysotile,"serpentine, magnetite, talc, olivine",serpentinite,ofr20051189
+508,ME,Oxford,"serpentinite outcrop",occurrence,45.2385,-70.8313,clinochrysotile,"serpentine, magnesite(?), magnetite",serpentinite,ofr20051189
+509,ME,Franklin,"Little Tea Pond area serpentine",occurrence,45.2393,-70.5399,clinochrysotile,"serpentine, chlorite, magnesite, talc, carbonate, chromite, muscovite, olivine, orthopyroxene, epidote, sulfides",serpentinite,ofr20051189
+510,ME,Franklin,"Greenbush Mountain area serpentine",occurrence,45.2393,-70.5308,clinochrysotile,"serpentine, chlorite, magnesite, talc, carbonate, chromite, muscovite, olivine, orthopyroxene, epidote, sulfides",serpentinite,ofr20051189
+511,ME,Somerset,"Little Spencer Stream serpentine","past prospect",45.3256,-70.259,chrysotile,"serpentine, dolomite, talc, magnetite, pyrite",serpentinite,ofr20051189
+512,ME,Somerset,"Stony Brook Mountain serpentine",occurrence,45.3276,-70.1844,chrysotile,"serpentine, dolomite, talc, magnetite, pyrite",serpentinite,ofr20051189
+513,ME,Oxford,"serpentine body",occurrence,45.335,-70.993,clinochrysotile,"serpentine, carbonate, talc, magnetite",serpentinite,ofr20051189
+514,ME,Somerset,"Eagle Pond serpentine",occurrence,45.345,-70.22,"asbestos fibers",serpentine,serpentinite,ofr20051189
+515,ME,Somerset,"Lower Enchanted Pond serpentine",occurrence,45.356,-70.128,"cross-fiber asbestos",serpentine,serpentinite,ofr20051189
+516,ME,Franklin,"serpentinite body",occurrence,45.3678,-70.7874,chrysotile,"serpentine, carbonate, talc, magnetite",serpentinite,ofr20051189
+517,ME,Franklin,"serpentinite body",occurrence,45.3764,-70.7904,chrysotile,"serpentine, carbonate, talc, magnetite",serpentinite,ofr20051189
+518,ME,Franklin,"serpentinite body",occurrence,45.3904,-70.7944,chrysotile,"serpentine, carbonate, talc, magnetite",serpentinite,ofr20051189
+519,ME,Franklin,"serpentinite body",occurrence,45.4027,-70.7843,chrysotile,"serpentine, carbonate, talc, magnetite",serpentinite,ofr20051189
+520,ME,Aroostook,"Porcupine Hill serpentinite",occurrence,46.4435,-67.996,chrysotile,"antigorite, magnesite, magnetite, chromite",serpentinite,ofr20051189
+521,NC,Macon,"Peterman mine","past producer",35.009,-83.382,"anthophyllite asbestos",talc,"dunite or peridotite",ofr20051189
+522,NC,Macon,"Commissioner Creek prospect","past producer",35.01,-83.402,"anthophyllite asbestos","tremolite, olivine, chlorite, talc, serpentine, magnesite, magnetite, limonite",peridotite,ofr20051189
+523,NC,Jackson,"Round Mountain mine","past producer",35.029,-83.033,"anthophyllite asbestos","not reported","peridotite, dunite",ofr20051189
+524,NC,Jackson,"Coldsides Mountain mine","past producer",35.036,-83.081,"anthophyllite asbestos","chlorite, vermiculite",peridotite,ofr20051189
+525,NC,Jackson,"Jennings No. 2 mine","past producer",35.052,-83.055,"anthophyllite asbestos","enstatite, olivine, corundum","not reported",ofr20051189
+526,NC,Jackson,"Jennings No. 1 mine","past producer",35.052,-83.054,"anthophyllite asbestos","chlorite, vermiculite, tourmaline, garnet",peridotite,ofr20051189
+527,NC,Transylvania,"L.E. Cash property","past prospect",35.086,-82.988,"anthophyllite asbestos","not reported","not reported",ofr20051189
+528,NC,Transylvania,"Miller mine","past producer",35.095,-83.006,"anthophyllite asbestos","enstatite, talc, chlorite, serpentine, olivine, magnetite, chromite, pyrite",pyroxenite,ofr20051189
+529,NC,Jackson,"Bad Creek prospect","past prospect",35.1,-83.018,"anthophyllite asbestos","corundum, chlorite, vermiculite, olivine, tremolite, talc, limonite, magnetite, magnesite","not reported",ofr20051189
+530,NC,Transylvania,"Socrates corundum mine",occurrence,35.1,-83.014,"anthophyllite asbestos","corundum, talc, magnesite, serpentine, olivine, tremolite, chlorite, magnetite, chromite, limonite","dunite or peridotite",ofr20051189
+531,NC,Transylvania,"Oakland mine","past producer",35.114,-82.983,"anthophyllite asbestos","enstatite, tremolite, talc, chlorite, actinolite, olivine",pyroxenite,ofr20051189
+532,NC,Jackson,"Sapphire mine","past producer",35.118,-83.006,"anthophyllite asbestos",enstatite,"dunite, pyroxenite",ofr20051189
+533,NC,Jackson,"Asbestos mine","past producer",35.1181,-83.0105,"anthophyllite asbestos","olivine, chromite, magnetite, talc, chlorite, vermiculite",dunite,ofr20051189
+534,NC,Jackson,"Hogback Creek mine","past prospect",35.119,-83.005,"anthophyllite asbestos","not reported","not reported",ofr20051189
+535,NC,Jackson,"Rattlesnake corundum mine",occurrence,35.126,-83.005,"anthophyllite asbestos","corundum, enstatite, olivine, talc, chlorite, serpentine, magnetite","not reported",ofr20051189
+536,NC,Jackson,"Brockton mine","past producer",35.128,-83.001,"anthophyllite asbestos","corundum, enstatite, magnesite, magnetite","ultramafic rocks",ofr20051189
+537,NC,Macon,"unnamed prospect","past prospect",35.131,-83.287,asbestos,"not reported","not reported",ofr20051189
+538,NC,Jackson,"Manus mine","past producer",35.133,-83.175,"anthophyllite asbestos","vermiculite, talc",peridotite,ofr20051189
+539,NC,Jackson,"Bryson mine","past producer",35.134,-83.172,"anthophyllite asbestos","not reported","dunite, peridotite",ofr20051189
+540,NC,Macon,"unnamed occurrence",occurrence,35.155,-83.299,asbestos,talc,amphibolite,ofr20051189
+541,NC,Jackson,"Henderson mine","past producer",35.165,-83.167,"anthophyllite asbestos","not reported","not reported",ofr20051189
+542,NC,Transylvania,"Walnut Cove mine","past producer",35.17,-82.92,"anthophyllite asbestos","talc, chlorite, vermiculite",peridotite,ofr20051189
+543,NC,Jackson,"Holden mine","past producer",35.182,-83.115,"anthophyllite asbestos","not reported",dunite,ofr20051189
+544,NC,Jackson,"Alders mine","past producer",35.185,-83.113,"anthophyllite asbestos",talc,peridotite,ofr20051189
+545,NC,Transylvania,"Kilpatrick mine","past producer",35.188,-82.922,"anthophyllite asbestos","talc, chlorite",dunite,ofr20051189
+546,NC,Macon,"Deposit Number Nine",occurrence,35.19,-83.28,chrysotile,"olivine, vermiculite, chlorite, chromite, antigorite",dunite,ofr20051189
+547,NC,Macon,"Higdon mine","past producer",35.19,-83.277,"anthophyllite asbestos",olivine,dunite,ofr20051189
+548,NC,Jackson,"Harris prospect","past prospect",35.212,-82.978,"anthophyllite asbestos","vermiculite, talc, tourmaline","dunite or peridotite",ofr20051189
+549,NC,Jackson,"Chesnut Gap chromite prospect",occurrence,35.375,-83.149,"anthophyllite asbestos","chromite, talc, vermiculite",dunite,ofr20051189
+550,NC,Jackson,"Addie chromite prospect",occurrence,35.3992,-83.1593,"anthophyllite asbestos","chromite, talc, chlorite",dunite,ofr20051189
+551,NC,Jackson,"Balsam Gap olivine deposit",occurrence,35.43,-83.087,chrysotile,"olivine, antigorite, talc, bronzite, chromite, magnetite, chlorite",dunite,ofr20051189
+552,NC,Caldwell,"Johns River mine","past producer",35.884,-81.703,"anthophyllite asbestos","serpentine, olivine, magnetite, chlorite, magnesite, talc",dunite,ofr20051189
+553,NC,Yancey,"Blue Rock mine","past producer",35.8922,-82.1872,"anthophyllite asbestos","chlorite, talc, magnetite, olivine, serpentine","ultramafic rock",ofr20051189
+554,NC,Yancey,"C.W. Allen prospect (Cane River mine)","past producer",35.894,-82.373,"anthophyllite asbestos","olivine, serpentine, chlorite",dunite,ofr20051189
+555,NC,Mitchell,"unnamed occurrences",occurrence,35.896,-82.065,"anthophyllite asbestos","tremolite, olivine, magnetite, talc","peridotite, dunite",ofr20051189
+556,NC,Yancey,"Newdale mine","past producer",35.916,-82.2003,"anthophyllite asbestos","enstatite, talc, olivine, chlorite, serpentine, magnetite, chromite, vermiculite",dunite,ofr20051189
+557,NC,Yancey,"Sam Grindstaff mine","past producer",35.9653,-82.2168,"anthophyllite asbestos","not reported",dunite,ofr20051189
+558,NC,Yancey,"Day Book dunite deposit",occurrence,35.97,-82.289,"anthophyllite asbestos","olivine, talc, vermiculite, chromite, enstatite, tremolite, antigorite, ferroan phlogopite, bronzite, chlorite",dunite,ofr20051189
+559,NC,Yancey,"J.C. Woody mine","past producer",35.978,-82.21,"anthophyllite asbestos","talc, chlorite, vermiculite, magnetite, limonite",dunite,ofr20051189
+560,NC,Yancey,"Cas Thomas prospect","past prospect",35.984,-82.194,"anthophyllite asbestos","not reported",pyroxenite,ofr20051189
+561,NC,Mitchell,"J.H. Pannell prospect","past prospect",36.0025,-82.1467,"anthophyllite asbestos, chrysotile","olivine, serpentine",peridotite,ofr20051189
+562,NC,Mitchell,"Soapstone Branch prospect",occurrence,36.025,-82.06,"anthophyllite asbestos","talc, serpentine, olivine, chlorite, tremolite and/or actinolite, chromite","peridotite, dunite",ofr20051189
+563,NC,Avery,"unnamed prospect","past prospect",36.044,-81.939,"anthophyllite asbestos","not reported","ultramafic body",ofr20051189
+564,NC,Avery,"unnamed prospect","past prospect",36.05,-81.97,"anthophyllite asbestos","not reported","ultramafic body",ofr20051189
+565,NC,Avery,"Burleson mine","past producer",36.058,-81.952,"anthophyllite asbestos","talc, enstatite",pyroxenite,ofr20051189
+566,NC,Avery,"Frank mine","past producer",36.07,-82.002,"anthophyllite asbestos","enstatite, bronzite, talc, vermiculite, olivine, antigorite, chlorite, chromite",dunite,ofr20051189
+567,NC,Wilkes,"unnamed prospect","past prospect",36.19,-81.17,chrysotile,serpentine,serpentinite,ofr20051189
+568,NC,Watauga,"unnamed occurrences",occurrence,36.23,-81.73,chrysotile,"enstatite, talc, chromite","peridotite, pyroxenite, dunite",ofr20051189
+569,NC,Ashe,"unnamed occurrences",occurrence,36.34,-81.59,chrysotile,"enstatite, olivine, talc, chlorite",harzburgite,ofr20051189
+570,NJ,Hunterdon,"Barber and Ireland's trap rock quarry",occurrence,40.351,-74.943,"amphibole mountain leather","not reported","trap rock",ofr20051189
+571,NJ,Mercer,"Cope's quarry",occurrence,40.378,-74.777,crocidolite,"not reported",diabase,ofr20051189
+572,NJ,Hunterdon,"unnamed occurrence",occurrence,40.642,-74.866,crocidolite,"not reported","Precambrian granitic rock",ofr20051189
+573,NJ,Hunterdon,"unnamed occurrence",occurrence,40.65,-75.026,"asbestiform actinolite-hornblende","hornblende, andesine, clinopyroxene, magnetite, apatite, chlorite",lamprophyre,ofr20051189
+574,NJ,Hunterdon,"unnamed occurrence",occurrence,40.667,-74.896,crocidolite,"not reported","hornblende granite",ofr20051189
+575,NJ,Warren,"Green Marble quarry",occurrence,40.7226,-75.1843,"asbestiform tremolite-actinolite","serpentine, molybdenite, pyrrhotite, diopside, calcite, dolomite","serpentinite, marble",ofr20051189
+576,NJ,Hudson,"unnamed occurrence",occurrence,40.735,-74.067,"amphibole mountain leather","numerous minerals reported--see Mason (1960)",diabase,ofr20051189
+577,NJ,Hudson,"occurrence in Stevens Park",occurrence,40.742,-74.033,clinochrysotile,"lizardite, chlorite, dolomite, calcite, chromite, talc, aragonite, brucite, chalcedony, hydromagnesite, magnesite, magnetite, anthophyllite",serpentinite,ofr20051189
+578,NJ,Hudson,"Castle Point occurrence",occurrence,40.745,-74.024,chrysotile,"serpentine, chlorite, dolomite, calcite, chromite, talc, aragonite, brucite, hydromagnesite, magnesite, magnetite, anthophyllite",serpentinite,ofr20051189
+579,NJ,Morris,"unnamed occurrence",occurrence,40.746,-74.533,crocidolite,"not reported","Precambrian granitic rock",ofr20051189
+580,NJ,Hudson,"unnamed occurrence",occurrence,40.758,-74.086,"asbestiform actinolite","albite, calcite, chlorite, epidote, magnetite, chalcopyrite, pyrite, sphene, galena, malachite, barite, garnet, apophyllite, prehnite",diabase,ofr20051189
+581,NJ,Morris,"unnamed occurrences",occurrence,40.785,-74.62,crocidolite,"feldspar, hornblende, quartz, riebeckite-magnesioriebeckite","pegmatite-amphibolite-gneiss complex",ofr20051189
+582,NJ,Morris,"Sander's marble quarry",occurrence,40.7837,-74.5623,chrysotile,"serpentine, calcite, graphite, phlogopite",marble,ofr20051189
+583,NJ,Morris,"unnamed occurrences",occurrence,40.811,-74.482,crocidolite,"albite, chlorite","albite pegmatite",ofr20051189
+584,NJ,Warren,"Edison quarry",occurrence,40.8195,-75.019,"tremolite asbestos","not reported",marble,ofr20051189
+585,NJ,Warren,"Oxford quarry",occurrence,40.824,-75.024,"asbestiform actinolite","numerous minerals reported--see Germine (1981)","amphibolite, migmatite, albite pegmatite",ofr20051189
+586,NJ,Bergen,"unnamed occurrence",occurrence,40.853,-73.961,"asbestiform actinolite","pyroxene, albite, clinopyroxene, sphene, plagioclase, chlorite",diabase,ofr20051189
+587,NJ,Morris,"unnamed occurrence",occurrence,40.891,-74.689,"actinolite asbestos","albite, hornblende, chlorite, epidote, clay","Precambrian granitic pegmatite",ofr20051189
+588,NJ,Passaic,"unnamed occurrences",occurrence,40.907,-74.182,"asbestiform actinolite","numerous minerals reported--see Peters and Peters (1978)",basalt,ofr20051189
+589,NJ,Warren,"unnamed occurrence",occurrence,40.921,-74.894,asbestos,talc,marble,ofr20051189
+590,NJ,Warren,"unnamed occurrence",occurrence,40.9298,-74.8912,"asbestiform tremolite-actinolite","dolomite, magnetite, iron-oxide minerals, talc, chlorite","marble, amphibolite, pegmatite, diabase",ofr20051189
+591,NJ,Sussex,"unnamed occurrence",occurrence,40.927,-74.699,"richterite asbestos","hornblende, epidote, potassium feldspar, chlorite","Precambrian granitic pegmatite"""", alaskite",ofr20051189
+592,NJ,Morris,"Beach iron mine",occurrence,40.9335,-74.4833,"light green asbestos","magnetite, apatite, hornblende, calcite, feldspar","iron ore",ofr20051189
+593,NJ,Warren,"unnamed occurrence",occurrence,40.927,-74.892,"dark green asbestos of good quality","serpentine, pyroxene",marble,ofr20051189
+594,NJ,Morris,"unnamed marble quarry",occurrence,40.9298,-74.3853,chrysotile,"diopside, serpentine, pyroxene, phlogopite, dolomite, calcite, magnetite",marble,ofr20051189
+595,NJ,Passaic,"Prospect Park quarry",occurrence,40.9422,-74.177,"asbestiform actinolite","numerous minerals reported--see Mason (1960) and Peters and Peters (1978)",basalt,ofr20051189
+596,NJ,Sussex,"Roseville iron mine",occurrence,40.991,-74.698,"light bluish-green asbestos","magnetite, pyrite, calcite, talc, quartz, pyroxene","pyroxene skarn",ofr20051189
+597,NJ,Morris,"Split Rock Pond iron mine",occurrence,40.9763,-74.438,"chrysotile, asbestiform actinolite","pyroxene, hornblende, serpentine, calcite, dolomite, magnetite, chondrodite, mica","marble, pyroxene skarn, hornblende skarn",ofr20051189
+598,NJ,Sussex,"Andover and Sulfur Hill iron mines",occurrence,41.006,-74.735,"bluish-green asbestiform actinolite","numerous minerals reported--see Germine (1981)","garnet skarn",ofr20051189
+599,NJ,Passaic,"Debow's marble quarry",occurrence,41.0233,-74.3055,chrysotile,"not reported",marble,ofr20051189
+600,NJ,Passaic,"Green Swamp Dam site",occurrence,41.038,-74.3223,chrysotile,"phlogopite, serpentine, calcite",marble,ofr20051189
+601,NJ,Passaic,"Kanouse mine",occurrence,41.0357,-74.2842,chrysotile,"not reported","iron ore",ofr20051189
+602,NJ,Sussex,"Limecrest (Sparta) quarry",occurrence,41.0542,-74.6817,"asbestiform tremolite-actinolite, chrysotile","numerous minerals reported--see Germine (1981, 1986)",marble,ofr20051189
+603,NJ,Passaic,"Old Blue mine",occurrence,41.0583,-74.3187,chrysotile,"not reported",marble,ofr20051189
+604,NJ,Sussex,"Sterling Hill mines",occurrence,41.082,-74.61,"chrysotile, asbestiform tremolite-actinolite","numerous minerals reported--see Frondel (1972)","zinc ore",ofr20051189
+605,NJ,Sussex,"Franklin marble quarry",occurrence,41.0917,-74.5985,"asbestiform tremolite-actinolite","numerous minerals reported--see Germine (1986)",marble,ofr20051189
+606,NJ,Sussex,"Franklin zinc mines",occurrence,41.1147,-74.5879,"crocidolite, chrysotile, tremolite-actinolite asbestos","numerous minerals reported--see Frondel (1972)","zinc-lead ore",ofr20051189
+607,NJ,Sussex,"unnamed occurrence",occurrence,41.224,-74.486,"asbestiform tremolite-actinolite","calcite, dolomite, limonite, hematite, chlorite, talc, phlogopite, graphite, sericite",marble,ofr20051189
+608,NY,Richmond,"Staten Island occurrence",occurrence,40.5722,-74.1514,chrysotile,lizardite,serpentinite,ofr20051189
+609,NY,Richmond,"Staten Island occurrence",occurrence,40.579,-74.136,chrysotile,lizardite,serpentinite,ofr20051189
+610,NY,Richmond,"Staten Island occurrence",occurrence,40.5811,-74.1131,chrysotile,"lizardite, talc",serpentinite,ofr20051189
+611,NY,Richmond,"Staten Island occurrence",occurrence,40.5873,-74.1042,chrysotile,"lizardite, antigorite, talc",serpentinite,ofr20051189
+612,NY,Richmond,"Staten Island occurrence",occurrence,40.5902,-74.1015,chrysotile,lizardite,serpentinite,ofr20051189
+613,NY,Richmond,"Staten Island occurrence",occurrence,40.5962,-74.0956,"chrysotile, anthophyllite asbestos","serpentine, lizardite, talc",serpentinite,ofr20051189
+614,NY,Richmond,"Staten Island occurrence",occurrence,40.601,-74.1,chrysotile,"lizardite, talc, carbonates",serpentinite,ofr20051189
+615,NY,Richmond,"Staten Island occurrence",occurrence,40.6089,-74.1214,chrysotile,"lizardite, anthophyllite, talc, carbonates, olivine, opaque oxides",serpentinite,ofr20051189
+616,NY,Richmond,"Staten Island occurrence",occurrence,40.6099,-74.092,chrysotile,"lizardite, talc",serpentinite,ofr20051189
+617,NY,Richmond,"U.S. Route 278 roadcut",occurrence,40.609,-74.123,"chrysotile, anthophyllite asbestos","lizardite, talc, carbonates, olivine, opaque oxides",serpentinite,ofr20051189
+618,NY,Richmond,"Staten Island occurrence",occurrence,40.6159,-74.1127,chrysotile,"lizardite, talc, carbonates, opaque oxides",serpentinite,ofr20051189
+619,NY,Richmond,"Staten Island occurrence",occurrence,40.6168,-74.0874,"chrysotile, anthophyllite asbestos",lizardite,serpentinite,ofr20051189
+620,NY,Richmond,"Clove Lake occurrence",occurrence,40.6198,-74.112,"asbestiform amphibole, chrysotile",serpentine,serpentinite,ofr20051189
+621,NY,Richmond,"Staten Island occurrence",occurrence,40.6214,-74.0862,"anthophyllite asbestos, chrysotile","lizardite, serpentine, talc, opaque oxides",serpentinite,ofr20051189
+622,NY,Richmond,"Staten Island occurrence",occurrence,40.6236,-74.0858,chrysotile,"lizardite, talc, opaque oxides",serpentinite,ofr20051189
+623,NY,Richmond,"Silver Lake Reservior occurrence",occurrence,40.6265,-74.0969,chrysotile,lizardite,serpentinite,ofr20051189
+624,NY,Richmond,"Tompkinsville area",occurrence,40.636,-74.08,"chrysotile, anthophyllite asbestos","serpentine, lizardite, talc, carbonates, opaque oxides, olivine",serpentinite,ofr20051189
+625,NY,Westchester,"New Rochelle serpentinite",occurrence,40.904,-73.768,chrysotile,"serpentine, pyroxene, calcite, dolomite, chromite, magnetite, tremolite, limonite, spinel, brucite, chalcedony, magnesite",serpentinite,ofr20051189
+626,NY,Putnam,"Tilly Foster iron mine",occurrence,41.4125,-73.6425,"actinolite asbestos, chrysotile, crocidolite","magnetite, pyrrhotite, microcline, bronzite, hornblende, enstatite, tremolite, tourmaline, calcite, dolomite","serpentine, dolomite, gneiss",ofr20051189
+627,NY,Putnam,"unnamed occurrences",occurrence,41.44,-73.92,"chrysotile asbestos veins","serpentine, dolomite",dolomite,ofr20051189
+628,NY,Warren,"Thurman prospect",prospect,43.53,-73.92,"chrysotile asbestos veins","serpentine, dolomite",dolomite,ofr20051189
+629,NY,Warren,"Brant Lake prospect",prospect,43.75,-73.67,"long-fiber serpentine asbestos","serpentine, dolomite",dolomite,ofr20051189
+630,NY,"Saint Lawrence","Arnold talc mine",occurrence,44.2682,-75.3847,"asbestiform anthophyllite, asbestiform tremolite","talc, tremolite, anthophyllite, dolomite, calcite, diopside, serpentine, quartz, gypsum, chlorite, tirodite","dolomitic marble",ofr20051189
+631,PA,Lancaster,"Line Pit (Lowe's) chromium mine",occurrence,39.722,-76.172,chrysotile,"numerous minerals reported--see Foord and others (1981)",serpentinite,ofr20051189
+632,PA,Lancaster,"Red Pit mine",occurrence,39.723,-76.161,"amphibole asbestos","serpentine, chromite, chalcedony, garnierite, williamsite, magnetite",serpentinite,ofr20051189
+633,PA,Chester,"Keystone quarry",occurrence,39.7251,-76.0538,"clinochrysotile, amphibole asbestos","lizardite, talc, olivine, actinolite, pyroxene, chromite, magnetite",metaperidotite,ofr20051189
+634,PA,Chester,"Hillside chromite mine",occurrence,39.727,-76.112,"amphibole asbestos","serpentine, chromite, magnetite, williamsite, picrolite, magnesite, kammererite",serpentinite,ofr20051189
+635,PA,Chester,"Dunlap (Rhodewalt) serpentine quarry",occurrence,39.728,-76.044,"amphibole asbestos","serpentine, anthophyllite",metaperidotite,ofr20051189
+636,PA,Chester,"White Barrens serpentine quarry",occurrence,39.728,-75.931,chrysotile,"lizardite, anthophyllite, chromite, talc, olivine, pyroxene, chlorite",serpentinite,ofr20051189
+637,PA,Lancaster,"Cedar Hill (Geiger) serpentine quarry",occurrence,39.7285,-76.1364,"chrysotile, crocidolite","numerous minerals reported--see Lapham (1962a) and Geyer and others (1976, p. 128-133)",serpentinite,ofr20051189
+638,PA,Chester,"Kirk mine",occurrence,39.73,-76.05,chrysotile,"antigorite, lizardite, anthophyllite, talc, olivine, pyroxene, chromite, chlorite, calcite",serpentinite,ofr20051189
+639,PA,Lancaster,"Carter (Texas) mine",occurrence,39.731,-76.1,clinochrysotile,"stevensite, hydromagnesite, dolomite, brookite, magnetite, chromite, magnesite, zaratite",serpentinite,ofr20051189
+640,PA,Lancaster,"Wood's chromite mine",occurrence,39.7311,-76.1068,clinochrysotile,"numerous minerals reported--see Gordon (1922, p. 205-206) and Geyer and others (1976, p. 157-161)",metaperidotite,ofr20051189
+641,PA,Chester,"Moro Phillips' chrome mine",occurrence,39.737,-76.016,"chrysotile, amphibole asbestos","lizardite, talc, olivine, chromite, pyroxene, magnetite, chlorite, kammererite, zaratite",metaperidotite,ofr20051189
+642,PA,Lancaster,"Gray's quarry",occurrence,39.741,-76.185,chrysotile,"lizardite, antigorite, talc, calcite, olivine, pyroxene",serpentinite,ofr20051189
+643,PA,Lancaster,"Boyce (Spence) mine",occurrence,39.746,-76.186,chrysotile,"antigorite, lizardite, talc, olivine, pyroxene, chromite, magnetite",serpentinite,ofr20051189
+644,PA,Adams,"Russel prospect",occurrence,39.7881,-77.43,crocidolite,"azurite, calcite, chlorite, native copper, cuprite, epidote, malachite, quartz",metabasalt,ofr20051189
+645,PA,Adams,"Teeter quarry",occurrence,39.8007,-77.2126,"tremolite asbestos","numerous minerals reported--see Geyer and others (1976, p. 29-30)",diabase,ofr20051189
+646,PA,Lancaster,"White Rock serpentine quarry",occurrence,39.824,-76.091,"chrysotile, amphibole asbestos","serpentine, talc, magnetite",serpentinite,ofr20051189
+647,PA,Lancaster,"Burkholder (Stillwell's) serpentine quarry",occurrence,39.838,-76.07,chrysotile,serpentine,serpentinite,ofr20051189
+648,PA,Delaware,"Village Green (Hannum) asbestos pits","past producer",39.865,-75.433,"amphibole asbestos","serpentine, talc, clinochlore",metaperidotite,ofr20051189
+649,PA,Delaware,"Rockdale (Jacob Side's) pits","past producer",39.882,-75.431,"amphibole asbestos","enstatite, serpentine, quartz, talc",metapyroxenite,ofr20051189
+650,PA,Delaware,"Lenni occurrence",occurrence,39.894,-75.443,asbestos,"actinolite, tremolite, hornblende, serpentine, chlorite, talc, quartz",metaperidotite,ofr20051189
+651,PA,Delaware,"occurrence near Elwyn",occurrence,39.905,-75.418,chrysotile,serpentine,metaperidotite,ofr20051189
+652,PA,Chester,"Corundum Hill serpentine quarry",occurrence,39.91,-75.716,"amphibole asbestos","numerous minerals reported--see Gordon (1922, p. 173-174)",metaperidotite,ofr20051189
+653,PA,Chester,"Brinton's quarries",occurrence,39.9152,-75.5966,"amphibole asbestos, chrysotile","numerous minerals reported--see Gordon (1922, p. 182) and Geyer and others (1976, p. 65-68)",metaperidotite,ofr20051189
+654,PA,Delaware,"Smedley's asbestos mine","past producer",39.94,-75.399,"amphibole asbestos","serpentine, enstatite, anthophyllite, chlorite",metapyroxenite,ofr20051189
+655,PA,Delaware,"Blue Hill occurrence",occurrence,39.95,-75.41,"amphibole asbestos, chrysotile","enstatite, bronzite, hypersthene, actinolite, diaclasite, chlorite, serpentine, talc, apatite, chromite, zircon, quartz",metaperidotite,ofr20051189
+656,PA,Delaware,"Moro Phillips' chromite mine",occurrence,39.969,-75.392,"chrysotile, amphibole asbestos","serpentine, chromite, magnetite, anthophyllite, chlorite, talc, quartz, limonite",metaperidotite,ofr20051189
+657,PA,Chester,"Taylor's quarry",occurrence,39.974,-75.614,"amphibole asbestos, chrysotile","serpentine, chromite, epidote, talc, magnetite, deweylite, calcite, aragonite, magnesite",metaperidotite,ofr20051189
+658,PA,Delaware,"Castle Rock occurrence",occurrence,39.976,-75.438,"anthophyllite asbestos","olivine, enstatite, hypersthene, tremolite, talc, serpentine, limonite, chalcedony","metapyroxenite, metaperidotite",ofr20051189
+659,PA,Chester,"General McCall's quarry",occurrence,39.981,-75.603,chrysotile,serpentine,metaperidotite,ofr20051189
+660,PA,Chester,"Edward's (Gorman's) quarry",occurrence,40.01,-75.526,"amphibole asbestos","serpentine, actinolite, chromite, magnetite, chalcedony",serpentinite,ofr20051189
+661,PA,Delaware,"John Stacker's quarry",occurrence,40.047,-75.368,"amphibole asbestos, chrysotile","serpentine, enstatite, chromite, vermiculite, sepiolite, genthite, quartz, chalcedony","metapyroxenite, metaperidotite",ofr20051189
+662,PA,Montgomery,"Gladwyne quarries","past producer",40.053,-75.265,"amphibole asbestos","serpentine, talc",serpentinite,ofr20051189
+663,PA,Philadelphia,"Prince's soapstone quarry",occurrence,40.055,-75.259,"amphibole asbestos","numerous minerals reported--see Gordon (1922, p. 221-222) and Rand and others (1893, p. 181-182)","metaperidotite, metapyroxenite",ofr20051189
+664,PA,Montgomery,"Rose's quarry",occurrence,40.059,-75.276,"amphibole asbestos","enstatite, hypersthene, serpentine, talc, prochlorite, dolomite, bornite, millerite","metapyroxenite, metaperidotite",ofr20051189
+665,PA,Bucks,"unnamed occurrence near Flushing",occurrence,40.117,-74.908,"amphibole asbestos","enstatite, anthophyllite, actinolite, serpentine, talc, magnetite, quartz","metaperidotite, metapyroxenite",ofr20051189
+666,PA,Chester,"French Creek and Jones mines",occurrence,40.1843,-75.7288,"actinolite asbestos","numerous minerals reported--see Geyer and others (1976, p. 79-82)",dolomite,ofr20051189
+667,PA,Bucks,"Wissahickon Valley occurrence",occurrence,40.225,-75.08,"amphibole asbestos","serpentine, actinolite, tremolite, hornblende, chlorite, talc, dolomite, fluorite?, chalcopyrite, magnetite, chromite","metapyroxenite, metaperidotite",ofr20051189
+668,PA,Berks,"Dyer quarry",occurrence,40.266,-75.8546,crocidolite,"numerous minerals reported--see Geyer and others (1976, p. 39-40)",diabase,ofr20051189
+669,PA,Lebanon,"Cornwall magnetite mine",occurrence,40.2665,-76.41,"actinolite asbestos, chrysotile","numerous minerals reported--see Lapham (1962b) and Geyer and others (1976, p. 165-169)",limestone,ofr20051189
+670,PA,Northampton,"Quarry L",occurrence,40.6995,-75.2321,"tremolite asbestos","numerous minerals reported--see Geyer and others (1976, p. 196-197)","serpentine, marble",ofr20051189
+671,PA,Northampton,"C.K. Williams quarry",occurrence,40.7133,-75.1962,"chrysotile, tremolite asbestos","numerous minerals reported--see Geyer and others (1976, p. 194-196)","serpentine, marble",ofr20051189
+672,RI,Providence,"unnamed occurrence",occurrence,41.995,-71.451,crocidolite,"microperthite, quartz, aegirine, riebeckite","peralkaline porphyritic granite",ofr20051189
+673,SC,Newberry,"Abbeville-York zone (Survey No. 5430)",occurrence,34.21,-81.86,asbestos,"not reported","igneous intrusion",ofr20051189
+674,SC,Spartanburg,"Abbeville-York zone (Survey No. 5667)",occurrence,34.65,-81.91,"ordinary grade of asbestos","not reported","magnesian rocks",ofr20051189
+675,SC,Pickens,"Saluda zone (Survey No. 1522)",occurrence,34.77,-82.87,asbestos,"not reported","not reported",ofr20051189
+676,SC,Pickens,"Saluda zone (Survey No. 1570)",occurrence,34.88,-82.81,asbestos,"not reported","not reported",ofr20051189
+677,SC,Pickens,"Saluda zone (Survey No. 1610)","past prospect",34.9,-82.71,asbestos,"not reported","magnesian rock",ofr20051189
+678,SC,Spartanburg,"Anderson-Spartanburg zone (Survey No. 5890)","past prospect",34.9,-81.89,"excellent grade of asbestos",soapstone,amphibolite,ofr20051189
+679,SC,Cherokee,"Black Nos. 1, 3, and 4 mines",occurrence,35.08,-81.62,asbestos,"magnetite, chlorite, talc, dolomite, tremolite","basic igneous intrusion",ofr20051189
+680,SC,Cherokee,"Black No. 2 mine",occurrence,35.09,-81.59,"asbestos with long white fibres","magnetite, chlorite, talc, dolomite, tremolite","basic igneous intrusion",ofr20051189
+681,VA,Grayson,"Crabill prospect","past prospect",36.5749,-80.9319,asbestos,ilmenite,"not reported",ofr20051189
+682,VA,Henry,"F.W. Garrett deposit",occurrence,36.6,-79.85,asbestos,"mica, vermiculite","not reported",ofr20051189
+683,VA,Henry,"unnamed occurrence",occurrence,36.6,-79.83,"anthophyllite asbestos","not reported","not reported",ofr20051189
+684,VA,Henry,"unnamed occurrence",occurrence,36.65,-79.69,"anthophyllite asbestos","not reported","not reported",ofr20051189
+685,VA,Floyd,"Barton mine",occurrence,36.88,-80.23,"anthophyllite asbestos","not reported","not reported",ofr20051189
+686,VA,Floyd,"unnamed prospect","past prospect",36.89,-80.25,asbestos,"not reported","not reported",ofr20051189
+687,VA,Bedford,"American Asbestos Company mine","past producer",37.2,-79.49,"anthophyllite asbestos","pyroxene, hornblende, olivine","peridotite, pyroxenite",ofr20051189
+688,VA,Amelia,"unnamed mine","past producer",37.38,-77.88,"amphibole asbestos","not reported","not reported",ofr20051189
+689,VA,Buckingham,"unnamed mine",occurrence,37.478,-78.465,"amphibole asbestos","not reported","not reported",ofr20051189
+690,VA,Amherst,"Turner Town prospect","past prospect",37.496,-79.027,asbestos,"copper minerals","not reported",ofr20051189
+691,VA,Goochland,"unnamed prospects","past prospect",37.661,-77.817,chrysotile,serpentine,"peridotite dike",ofr20051189
+692,VA,Goochland,"unnamed prospect","past prospect",37.663,-77.812,asbestos,"not reported","not reported",ofr20051189
+693,VA,Nelson,"Albemarle and Nelson Counties soapstone belt",occurrence,37.67,-78.85,"actinolite asbestos",talc,"not reported",ofr20051189
+694,VA,Fluvanna,"Holland prospect","past prospect",37.921,-78.169,asbestos,"not reported","not reported",ofr20051189
+695,VA,Rockingham,"L.B. Lam occurrence",occurrence,38.399,-78.544,asbestos,"not reported","not reported",ofr20051189
+696,VA,Madison,"unnamed occurrence",occurrence,38.482,-78.251,"anthophyllite asbestos","not reported","amphibolite dike",ofr20051189
+697,VA,Madison,"Dark Hollow copper property",occurrence,38.53,-78.416,"asbestiform serpentine","native copper, carbonates, chalcopyrite, malachite, cuprite, epidote, quartz, calcite",basalt,ofr20051189
+698,VA,Madison,"Stony Man copper mine",occurrence,38.597,-78.371,"asbestiform amphibole","epidote, native copper, quartz, copper oxides",metabasalt,ofr20051189
+699,VA,Page,"Ida copper mine",occurrence,38.603,-78.426,"serpentine asbestos","epidote, quartz, malachite, native copper, azurite, jasper",basalt,ofr20051189
+700,VA,Warren,"Empire vein copper prospects",occurrence,38.79,-78.291,asbestos,"malachite, azurite, bornite, epidote, quartz, calcite, serpentine, feldspar",basalt,ofr20051189
+701,VA,Fairfax,"Centreville (Fairfax) quarry",occurrence,38.826,-77.4902,"actinolite-tremolite asbestos","numerous minerals reported--see Bernstein (1980, p. 133-137) and Medici (1972)",diabase,ofr20051189
+702,VA,Fairfax,"Sissler's quarry",occurrence,38.838,-77.399,"anthophyllite asbestos",tremolite,"not reported",ofr20051189
+703,VA,Rappahannock,"unnamed occurrences",occurrence,38.86,-78.13,"actinolite asbestos","quartz, feldspar, chlorite, epidote, carbonate","metavolcanics (mainly metabasalt)",ofr20051189
+704,VA,Fairfax,"Piney Branch Complex",occurrence,38.86,-77.33,"actinolite-tremolite asbestos, chrysotile","antigorite, serpentine, clinopyroxene, talc, magnetite, chromite, olivine, chlorite","peridotite, pyroxenite, metagabbro, serpentinite, actinolite schist",ofr20051189
+705,VA,Fauquier,"Manassas Gap copper mine",occurrence,38.87,-78.12,"asbestiform serpentine",quartz,basalt,ofr20051189
+706,VA,Fairfax,"Hise prospect","past prospect",38.936,-77.304,asbestos,"not reported","not reported",ofr20051189
+707,VA,Fairfax,"Jenkins Farm prospects",occurrence,38.983,-77.325,"actinolite-tremolite asbestos, chrysotile","serpentine, talc, malachite, chlorite, magnetite",serpentinite,ofr20051189
+708,VA,Loudoun,"Arlington quarry",occurrence,39.0691,-77.5165,"asbestoform amphibole",calcite,diabase,ofr20051189
+709,VT,Windham,"Dover area ultramafic body",occurrence,42.96,-72.765,chrysotile,"serpentine, olivine","serpentinite, dunite, peridotite",ofr20051189
+710,VT,Windsor,"Carleton quarry (Chester talc mine)",occurrence,43.272,-72.6336,"anthophyllite asbestos, actinolite(?) asbestos","serpentine, talc, dolomite, calcite, chlorite, biotite, magnetite, jimthompsonite, clinojimthompsonite, chesterite, tourmaline, pyrite, apatite, pyrrhotite, quartz, spinel","meta-ultramafic intrusion, serpentinite",ofr20051189
+711,VT,Windsor,"Ludlow area ultramafic body",occurrence,43.387,-72.652,chrysotile,"serpentine, olivine","serpentinite, dunite, peridotite",ofr20051189
+712,VT,Windsor,"Five Corners occurrence",occurrence,43.527,-72.678,"tremolite asbestos","serpentine, talc, carbonate, chlorite",serpentinite,ofr20051189
+713,VT,Windsor,"Bridgewater Hill occurrence",occurrence,43.61,-72.718,asbestos,"serpentine, talc, carbonate",serpentinite,ofr20051189
+714,VT,Windsor,"Greeley talc mine",occurrence,43.795,-72.771,chrysotile,"serpentine, dolomite, chlorite, magnetite, actinolite, talc, chalcopyrite, pyrite, quartz, titanite",serpentinite,ofr20051189
+715,VT,Windsor,"Rochester (Williams) talc mine",occurrence,43.8601,-72.7583,asbestos,"serpentine, talc, carbonate",serpentinite,ofr20051189
+716,VT,Washington,"Mad River mine",occurrence,44.2371,-72.7974,chrysotile,"antigorite, magnesite, dolomite, chromite, magnetite, talc, olivine, pyroxene",serpentinite,ofr20051189
+717,VT,Washington,"Waterbury mine",occurrence,44.3155,-72.7294,chrysotile,"antigorite, magnesite, dolomite, chromite, magnetite, talc, olivine, pyroxene",serpentinite,ofr20051189
+718,VT,Washington,"Barnes Hill locality",occurrence,44.4005,-72.6923,chrysotile,"antigorite, magnesite, dolomite, talc, magnetite, chromite, olivine, pyroxene, chlorite",serpentinite,ofr20051189
+719,VT,Lamoille,"Scofield Ledges area ultramafic body",occurrence,44.75,-72.553,chrysotile,"antigorite, lizardite, olivine, magnesite, talc, quartz, chlorite, magnetite, calcite, brucite, dolomite, pyroxene, chromite, anthophyllite, graphite","serpentinite, dunite",ofr20051189
+720,VT,Lamoille,"Cortez Pond area ultramafic body",occurrence,44.7584,-72.5247,chrysotile,"antigorite, lizardite, olivine, magnesite, talc, quartz, chlorite, magnetite, calcite, brucite, dolomite, pyroxene, chromite, anthophyllite, graphite","serpentinite, dunite",ofr20051189
+721,VT,Lamoille,"C-area quarry","past producer",44.7633,-72.5304,chrysotile,"antigorite, lizardite, olivine, magnesite, talc, quartz, chlorite, magnetite, calcite, brucite, dolomite, pyroxene, chromite, anthophyllite, graphite","serpentinite, dunite",ofr20051189
+722,VT,Lamoille,"Eden quarry","past producer",44.765,-72.547,chrysotile,"antigorite, lizardite, olivine, magnesite, talc, quartz, chlorite, magnetite, calcite, brucite, dolomite, pyroxene, chromite, anthophyllite, graphite","serpentinite, dunite",ofr20051189
+723,VT,Orleans,"Lowell quarry","past producer",44.7673,-72.5274,"chrysotile, tremolite-actinolite asbestos","antigorite, lizardite, olivine, magnesite, talc, quartz, chlorite, magnetite, calcite, brucite, dolomite, pyroxene, chromite, anthophyllite, graphite","serpentinite, dunite",ofr20051189
+724,VT,Orleans,"unnamed prospect","past prospect",44.8062,-72.4561,chrysotile,"antigorite, magnetite, carbonate, brucite, talc, olivine, chromite, pyroxene, chlorite",serpentinite,ofr20051189
+725,VT,Orleans,"unnamed prospect","past prospect",44.815,-72.4241,chrysotile,"antigorite, magnetite, carbonate, brucite, talc, olivine, chromite, pyroxene, chlorite",serpentinite,ofr20051189
+726,VT,Orleans,"unnamed prospect","past prospect",44.816,-72.4251,chrysotile,"antigorite, magnetite, carbonate, brucite, talc, olivine, chromite, pyroxene, chlorite",serpentinite,ofr20051189
+727,VT,Orleans,"unnamed prospect","past prospect",44.8337,-72.4464,chrysotile,"antigorite, magnetite, carbonate, brucite, talc, olivine, chromite, pyroxene, chlorite",serpentinite,ofr20051189
+728,VT,Orleans,"unnamed prospect","past prospect",44.8736,-72.4053,chrysotile,"talc, magnesite, antigorite, magnetite, chlorite","talc-carbonate rock",ofr20051189
+729,VT,Orleans,"Troy asbestos deposit (East Hill prospect)","past prospect",44.934,-72.381,chrysotile,"antigorite, magnetite, carbonate, brucite, talc, olivine, chromite, pyroxene, chlorite",serpentinite,ofr20051189
+730,VT,Orleans,"unnamed prospect","past prospect",44.9644,-72.4304,chrysotile,"antigorite, magnetite, carbonate, brucite, talc, olivine, chromite, pyroxene, chlorite",serpentinite,ofr20051189
+731,CO,Fremont,"Gem Park complex",occurrence,38.2669,-105.5449,"asbestiform winchite, asbestiform richterite, asbestiform riebeckite","aegirine, tremolite-actinolite, augite, phlogopite, vermiculite, dolomite, calcite, barite, apatite, magnetite","pyroxenite, gabbro",ofr20071182
+732,CO,Fremont,"Pinon Peak breccia pipes",occurrence,38.4057,-105.4768,crocidolite,"quartz, orthoclase, sodic plagioclase, aegirine, rutile, calcite, chlorite, ferruginous clay mineral, phlogopite, hematite, biotite","lamprophyre breccia pipes",ofr20071182
+733,CO,Chaffee,"Sedalia mine",occurrence,38.5892,-106.0203,"asbestos"""" (amphibole)","numerous minerals reported--see Lindgren (1908) and Sheridan and Raymond (1984)",amphibolite,ofr20071182
+734,CO,Boulder,"Camp Albion mining district",occurrence,40.0429,-105.5939,"asbestiform ferrian winchite","pyroxene, quartz, feldspar, calcite, galena, pyrite, sphalerite","syenite dike",ofr20071182
+735,CO,Larimer,"Sloan pipe",occurrence,40.8426,-105.4562,chrysotile,"numerous minerals reported--see McCallum and Eggler (1971)","kimberlite diatreme",ofr20071182
+736,CO,Jackson,"Salt Creek vermiculite deposits",occurrence,40.9836,-106.332,"asbestiform tremolite","hornblende, biotite, vermiculite, chlorite, serpentine, olivine","serpentinite, hornblendite",ofr20071182
+737,ID,Adams,"unnamed occurrences",occurrence,45.213,-116.352,"tremolite asbestos","antigorite, talc, magnesite, chlorite, actinolite","ultramafic rock",ofr20071182
+738,ID,Idaho,"Blacktail asbestos prospect","past prospect",45.922,-115.964,"slip-fiber anthophyllite, cross-fiber tremolite asbestos","antigorite, talc, chlorite, iron oxides",metaperidotite,ofr20071182
+739,ID,Idaho,"Kamiah asbestos deposits","past producer",46.216,-115.838,"brittle mass-fiber anthophyllite","talc, olivine, magnetite, chromite, spinel, antigorite, kammererite(?), magnesite(?), pyrite, tremolite, clinochlore",dunite,ofr20071182
+740,ID,Clearwater,"Orofino Creek anthophyllite deposits",occurrence,46.488,-116.027,"mass-fiber anthophyllite","olivine, enstatite, tremolite, talc",harzburgite,ofr20071182
+741,ID,Clearwater,"Olson asbestos","past prospect",46.536,-116.315,asbestos,"not reported","not reported",ofr20071182
+742,ID,Clearwater,"Teakean asbestos deposits","past prospect",46.547,-116.354,"slip-fiber anthophyllite","talc, serpentine, enstatite, tremolite, olivine",harzburgite,ofr20071182
+743,ID,Shoshone,"Tamarack-Custer mine",occurrence,47.5385,-115.8575,"asbestiform actinolite",galena,"lead-ore vein",ofr20071182
+744,MT,Madison,"Little Mile Creek (Cliff Lake) asbestos deposit","past prospect",44.7559,-111.4252,chrysotile,"antigorite, aragonite","metacarbonate (marble)",ofr20071182
+745,MT,Beaverhead,"Anderson deposit","past prospect",44.7841,-112.9526,chrysotile,"serpentine minerals","serpentinized dolomitic marble",ofr20071182
+746,MT,Beaverhead,"Jake Creek ultramafic body",occurrence,44.9589,-112.5167,"cross-fiber veins of anthophyllite","serpentine, talc, chlorite, phlogopite, tremolite, magnetite, hornblende, calcic plagioclase",serpentinite,ofr20071182
+747,MT,Carbon,"Red Lodge chromite district",occurrence,45.0386,-109.4497,chrysotile,"antigorite, lizardite, amphibole, orthopyroxene, olivine, clinopyroxene, chromite, talc, chlorite, phlogopite, carbonates, epidote","ultramafic rocks",ofr20071182
+748,MT,Beaverhead,"Wolf Creek ultramafic pluton",occurrence,45.075,-112.427,"chrysotile, anthophyllite asbestos","serpentine minerals",peridotite,ofr20071182
+749,MT,Madison,"unnamed occurrences",occurrence,45.1867,-112.4167,"cross-fiber serpentine asbestos","serpentine minerals",marble,ofr20071182
+750,MT,Madison,"unnamed occurrences",occurrence,45.1928,-112.4425,"cross-fiber serpentine asbestos","serpentine minerals",marble,ofr20071182
+751,MT,Carbon,"Rosebud asbestos claim","past prospect",45.255,-109.554,asbestos,"serpentine minerals","not reported",ofr20071182
+752,MT,Park,"Copper Queen claim",occurrence,45.2876,-110.5833,asbestos,"quartz, graphite, malachite, chalcanthite, limonite","hornblende diorite, """"metadiorite schist",ofr20071182
+753,MT,Gallatin,"Moon Lake asbestos","past prospect",45.319,-111.278,"anthophyllite asbestos",amphibole,"amphibolite gneiss",ofr20071182
+754,MT,Gallatin,"Table Mountain prospect","past prospect",45.3317,-111.2523,"anthophyllite asbestos","antigorite, chromite, talc, limonite, cummingtonite, chlorite, actinolite-tremolite","altered mafic dike (amphibolite)",ofr20071182
+755,MT,Gallatin,"Karst asbestos mine","past producer",45.3561,-111.1825,"anthophyllite asbestos","serpentine (antigorite), pyroxene, actinolite","serpentinized peridotite",ofr20071182
+756,MT,Gallatin,"Wilson Creek asbestos",occurrence,45.483,-111.146,asbestos,serpentine,serpentinite,ofr20071182
+757,MT,Gallatin,"unnamed asbestos prospect","past prospect",45.5668,-110.9696,"anthophyllite asbestos","not reported",diabase,ofr20071182
+758,MT,Madison,"Hudson Group",occurrence,45.694,-112.3105,asbestos,"garnet, epidote, siderite, serpentine, calcite, magnetite, quartz, limonite, hematite, bornite, galena",skarn,ofr20071182
+759,MT,Lincoln,"Rainy Creek complex",occurrence,48.4348,-115.4081,"asbestiform winchite, asbestiform richterite, asbestiform tremolite","calcite, talc, dolomite, K-feldspar, pyroxene, hydrobiotite, quartz, vermiculite, biotite, magnesioriebeckite, magnesio-arfvedsonite","biotitite, biotite pyroxenite, magnetite pyroxenite",ofr20071182
+760,MT,Lincoln,"Larue-Cripe asbestos",occurrence,48.773,-115.696,"tremolite asbestos","not reported",argillite,ofr20071182
+761,MT,Lincoln,"Esther May asbestos claims","past prospect",48.835,-115.715,"tremolite asbestos, anthophyllite asbestos",autunite,argillite,ofr20071182
+762,NM,Hidalgo,"Gold Hill mine",occurrence,31.8211,-108.4519,"tremolite asbestos","quartz, chlorite, muscovite, calcite, pyrite, hematite, chalcopyrite, sphalerite, galena, tetradymite, gold, arsenopyrite, tourmaline, copper and bismuth carbonates","syenite dike",ofr20071182
+763,NM,"Dona Ana","Hilltop mine",occurrence,32.4575,-106.5575,"chrysotile asbestos, actinolite asbestos","quartz, galena, pyrite, altaite, sphalerite, rickardite",dolomite,ofr20071182
+764,NM,Grant,"Ricolite district",occurrence,32.7475,-108.7128,"chrysotile asbestos","serpentine, talc, calcite","serpentinite (""""ricolite"""")",ofr20071182
+765,NM,Grant,"Fierro-Hanover mining district",occurrence,32.8186,-108.0747,"chrysotile asbestos, fibrous actinolite (""""mountain leather"""")","numerous minerals reported--see Schmitt (1935, p. 204)",dolomite,ofr20071182
+766,NM,Socorro,"Jones Camp mining district",occurrence,33.8681,-106.1785,"asbestiform actinolite","magnetite, hematite, limonite, calcite, tremolite, azurite, malachite, pyrite","limestone, replacement iron deposit",ofr20071182
+767,WY,Albany,"Halleck Canyon area",occurrence,41.878,-105.397,chrysotile,serpentine,serpentinite,ofr20071182
+768,WY,Carbon,"Sunday Morning Creek area (Seminoe Mountains)",occurrence,42.205,-107.004,"anthophyllite asbestos","serpentine, chlorite",serpentinite,ofr20071182
+769,WY,Fremont,"Fire King deposit","past producer",42.54,-108.7402,chrysotile,"serpentine, magnetite, carbonate",serpentinite,ofr20071182
+770,WY,Fremont,"Beaver Creek (Abernathy) deposit","past prospect",42.5586,-108.3499,chrysotile,"vermiculite, talc, anthophyllite",serpentinite,ofr20071182
+771,WY,Natrona,"Smith Creek deposit","past producer",42.638,-106.226,"cross-fiber chrysotile","serpentine, olivine, quartz, magnetite",serpentinite,ofr20071182
+772,WY,Natrona,"Green Hill deposit","past prospect",42.6409,-106.1522,chrysotile,"serpentine, magnetite, quartz, talc",serpentinite,ofr20071182
+773,WY,Converse,"Koch deposit (Deer Creek area)","past prospect",42.655,-106.051,"chrysotile, amphibole asbestos","serpentine, vermiculite",serpentinite,ofr20071182
+774,WY,Converse,"Smith vermiculite deposit and serpentinite bodies near the head of Dry Creek (Stardust claims)",occurrence,42.729,-105.868,chrysotile,"serpentine, vermiculite, chlorite, fibrous tremolite, fibrous anthophyllite, actinolite, talc, carbonates, magnetite, biotite, hornblende",serpentinite,ofr20071182
+775,WY,Natrona,"Casper Mountain asbestos deposits","past producer",42.74,-106.33,"cross-fiber chrysotile","serpentine, olivine, quartz, carbonate",serpentinite,ofr20071182
+776,WY,Fremont,"Western Owl Creek Mountains",occurrence,43.62,-109.383,"amphibole asbestos","serpentine, calcite, pyrite, chalcopyrite","diabase porphyry dikes",ofr20071182
+777,WY,Teton,"Berry Creek (Brown Bear) deposit","past prospect",44.03,-110.81,"slip-fiber chrysotile, slip-fiber amphibole","serpentine, chlorite, magnetite, quartz","ultrabasic dike (serpentinite)",ofr20071182
+778,WY,Washakie,"Canyon Creek (Grey Goose) claim","past prospect",44.094,-107.14,"amphibole asbestos","fibrous talc","talc schist",ofr20071182
+779,AR,Pike,"Prairie Creek lamproite",occurrence,34.0336,-93.6756,clinochrysotile,"serpentine, olivine, clinopyroxene, phlogopite, chromite, perovskite, magnetite, priderite, amphibole",peridotite,ofr20061211
+780,AR,Scott,"unnamed peridotite dikes",occurrence,34.9373,-93.7603,chrysotile,"serpentine, olivine, phlogopite, calcite, magnetite",peridotite,ofr20061211
+781,KS,Woodson,"Silver City (Hills Pond) dome",occurrence,37.7475,-95.7867,chrysotile,"olivine, antigorite, lizardite, phlogopite, richterite, magnetite","lamproite sill",ofr20061211
+782,KS,Riley,"Bala intrusion",occurrence,39.3058,-96.9156,chrysotile,"numerous minerals reported--see Eastwood and Brookins (1965)","ultramafic rock",ofr20061211
+783,KS,Riley,"Stockdale pipe",occurrence,39.342,-96.7239,chrysotile,"numerous minerals reported--see Rosa and Brookins (1966)","ultramafic rock",ofr20061211
+784,MI,Dickinson,"Metronite quarry",occurrence,46.0032,-87.7746,chrysotile,"antigorite, dolomite, pigeonite, fibrous tremolite, actinolite, anthophyllite, diopside, phlogopite, pyrrhotite, pyrite, chalcopyrite, ilmenite, quartz, zoisite, talc, magnetite","dolomitic marble",ofr20061211
+785,MI,Marquette,"Washington iron mine",occurrence,46.4927,-87.8805,"asbestiform actinolite","quartz, magnetite, garnet, chlorite",iron-formation,ofr20061211
+786,MI,Marquette,"Verde Antique quarry and Ropes gold mine property",occurrence,46.5252,-87.7246,chrysotile,"serpentine, dolomite",serpentinite,ofr20061211
+787,MI,Marquette,"Presque Isle",occurrence,46.5904,-87.3772,chrysotile,"serpentine, augite, hypersthene, olivine, magnetite, hematite, dolomite, kaolinite",peridotite,ofr20061211
+788,MI,Baraga,"Taylor mine",occurrence,46.6637,-88.4416,clinochrysotile,"numerous minerals reported--see Bailey and Tyler (1960)","goethite iron-formation",ofr20061211
+789,MN,"Saint Louis","occurrence in the Aurora sill",occurrence,47.5513,-92.1917,crocidolite,"quartz, siderite, iron-silicate minerals",taconite,ofr20061211
+790,MO,Iron,"unnamed prospect","former prospect",37.625,-90.802,"asbestiform actinolite","not reported","basic dike"""" (Dake, 1930)",ofr20061211
+791,MO,"Saint Francois","Iron Mountain mine",occurrence,37.7006,-90.6406,"crocidolite, fibrous actinolite","numerous minerals reported--see Kisvarsanyi and Kisvarsanyi (1989)","iron skarn",ofr20061211
+792,SD,Custer,"occurrence near Iron Mountain",occurrence,43.852,-103.43,"actinolite asbestos","not reported",iron-formation,ofr20061211
+793,SD,Lawrence,"unnamed prospect","former prospect",44.188,-103.729,"actinolite asbestos","not reported",iron-formation,ofr20061211
+794,SD,Lawrence,"Homestake gold mine",occurrence,44.3562,-103.7643,"asbestiform grunerite-cummingtonite, """"fibrous, dark green, radiating aggregates of actinolite, often with a silky luster"""" (Roberts and Rapp, 1965, p. 14)","numerous minerals reported--see Sharwood (1911), Noble (1950), and McCarthy (1976)",iron-formation,ofr20061211
+795,TX,Hudspeth,"T & P Number 1 quarry",occurrence,31.1185,-105.0308,"asbestiform richterite","talc, chlorite, dolomite, quartz","talcose phyllite",ofr20061211
+796,TX,Hudspeth,"Buck quarry",occurrence,31.1542,-105.1106,"long-fiber asbestiform richterite","talc, carbonate minerals, quartz","talcose phyllite",ofr20061211
+797,TX,Hudspeth,"Neal Mann prospect",occurrence,31.0561,-104.9125,"asbestiform actinolite","talc, calcite, tremolite, quartz, montmorillonite","metamorphosed limestone",ofr20061211
+798,TX,Hudspeth,"Diablo prospect, western locality","former prospect",31.1653,-105.0681,"potassian richterite to potassian winchite"""" asbestos (Wylie and Huggins, 1980), crocidolite","talc, dolomite, richterite, white mica, quartz",dolomite,ofr20061211
+799,TX,Hudspeth,"Diablo prospect, eastern locality","former prospect",31.1658,-105.0639,"potassian richterite to potassian winchite"""" asbestos (Wylie and Huggins, 1980), crocidolite","talc, dolomite, richterite, white mica, quartz",dolomite,ofr20061211
+800,TX,Blanco,"Coal Creek area",occurrence,30.4779,-98.5752,"brittle long-fiber amphibole asbestos, chrysotile","serpentine, magnetite, zaratite",serpentinite,ofr20061211
+801,TX,Llano,"Oxford area",occurrence,30.6258,-98.7096,"amphibole asbestos","serpentine, magnetite, anthophyllite, pyroxene, talc, vermiculite",serpentinite,ofr20061211
+802,TX,Llano,"Keener Branch area",occurrence,30.5084,-98.7777,"amphibole asbestos","serpentine, talc, anthophyllite, tremolite, magnetite",serpentinite,ofr20061211
+803,WI,Marinette,"Herriman prospect","former prospect",45.574,-87.824,"cross-fiber chrysotile veins","not reported",peridotite,ofr20061211
+804,WI,Marinette,"occurrence along the Sturgeon Falls sill",occurrence,45.753,-87.892,"cross-fiber chrysotile asbestos","antigorite, carbonate minerals (dolomite or magnesite), magnetite, chromite, chlorite",serpentinite,ofr20061211
+1001,OR,Jackson,"Upper Applegate Creek 1 talc",outcrops,42.7467,-123.0389,"***large boulders and pieces of float***contains abundant radiating fibrous amphibole"""" (Ferns and Ramp, 1988, p. 36).","talc, serpentine",metaserpentinite,
+1002,OR,Jackson,"Doe Peak 1 talc occurrence",outcrops,42.0151,-122.767,"A pale-green, foliated platy talc with minor and very finely disseminated magnetite***consists mostly of talc with trace amounts of chlorite and fibrous tremolite"""" (Ferns and Ramp, 1988, p. 35).","talc, magnetite, chlorite",serpentinite,
+1003,WA,Stevens,"Van Stone mine","historic lead-zinc mine",48.7606,-117.7564,"Tremolite occurs as radiating fibrous crystals up to 1 inch in length, generally colorless or, where intergrown with sphalerite, having a brown cast"""" (Cox, 1968, p. 1516-1517).","jasperoid (silica), sphalerite, galena, brucite, calcite, palygorskite, pyrite, pyrrhotite, jamesonite, barite",dolomite,
+1004,WA,Chelan,"Golden Horn batholith",outcrops,48.503,-120.667,"Single prismatic amphibole crystals are occasionally encountered with fibrous blue terminations resembling paint brushes or are totally covered with fibrous blue needles oriented parallel to the c-axis. According to analyses of the composite crystals, composition ranges from fluorine-rich riebeckite at the fibrous termination to ferrorichterite, then to riebeckite, ferrowinchite, ferrorichterite, and finally to katophorite at the base of the prism"""" (Becker, 1991, p. 457).","numerous minerals reported--see Becker (1991)","alkaline granite",
+1005,WA,Skagit,"Burlington quarry",quarry,48.4848,-122.3197,"Asbestos-Talc Products of Washington, Inc., of Burlington, Skagit County, mines a somewhat fibrous soapstone-actinolite mixture that has developed in shear zones cutting greenstone. It is ground, mixed with asbestos and use [sic] for special cements"""" (Glover, 1936, p. 14).","talc, serpentine",greenstone,
+1006,WA,Stevens,"Stranger Creek",outcrops,48.407,-117.986,"Fibrous radiating tremolite interbedded with dolomite throughout a thickness of 1,000 ft"""" (Valentine, 1960, p. 8).","not reported",dolomite,
+1007,WA,Stevens,"Boundary Butte","prospect hole",48,-118.163,"Fibrous radiating tremolite occurs in a bed of altered dolomite 4 ft. thick"""" (Valentine, 1960, p. 8).","not reported",dolomite,
+1008,CA,Calaveras,"New Melones Lake spillway",occurrence,37.946,-120.531,"Actinolite commonly occurs as white to very pale-green flexible fibers in areas 1 and 3 as well as in many of the other smaller veins. In area 1, fibrous crystals to 1 cm cover areas up to 60 x 30 cm and occur with albite to form attractive plates. Actinolite has also been found in one vein south of area 3 as flexible, long-fibered (up to 15 cm) parallel aggregates."""" (Pohl and others, 1982, p. 297)","ferroaxinite, albite, calcite, chlorite, epidote, quartz","metagabbro, metabasalt",
+1009,CA,Fresno,"occurrence on California State Highway 168, just west of Humphreys",roadcut,36.9621,-119.4469,"Radial tufty anthophyllite"""" (Pabst, 1942, p. 575)","antigorite, pyroxene, talc, tremolite, actinolite, biotite, chlorite, olivine, plagioclase, hornblende, biotite, quartz, magnetite, apatite, vermiculite","serpentine nodules in mica schist",
+1010,CA,Fresno,"Occurrence near Twin Lakes",outcrops,37.2956,-119.1529,"These [tremolite] crystals have no common orientation, but occur in crisscrossing mats, or as nodular lumps protruding from the marble"""" (Chesterman, 1942, p. 254)","diopside, phlogopite, spinel, grossularite garnet, clinohumite, anorthite","dolomitic marble",
+1011,CA,Madera,"Occurrence near Shadow Lake",outcrops,37.697,-119.125,"Dark blades and needles of piedmontite, embedded in quartz and associated with white, fibrous tremolite"""" (Short, 1933, p. 494)","piedmontite, quartz","schistose volcanic rocks",
+1012,CA,Marin,"unnamed occurrence",occurrence,37.89,-122.45,"AMPHIBOLE var. TREMOLITE--Fiberous [sic] seams up to 1"""" thick are found in the chlorite schist about 3/4 of a mile northeast of Reed Station, Tiburon Peninsula."""" Pelletier (1962, p. 5)","not reported","chlorite schist",
+1013,CA,Mendocino,"Laytonville quarry","rock quarry",39.618,-123.462,"""""Riebeckite occurs as bluish-black prismatic crystals as much as 1 cm long and 2 mm wide, and as aggregates of radiating greyish-blue fibers."""" """"Grunerite occurs in brown fibrous and silky crystals."""" (Chesterman, 1966, p. 506)","quartz, stilpnomelane, crossite, aegerite, pyrite, deerite, zussmanite, and garnet with riebeckite; stilpnomelane, zussmanite, quartz, oligonite with grunerite","meta-chert (riebeckite), meta-ironstone (grunerite)",
+1014,CA,Monterey,"Cape San Martin",outcrops,35.8903,-121.461,"Thin layers of talc separate some individuals and both talc and finely fibrous white tremolite are pressed into the valleys between protuberances."""" (Crippen, 1976, p. 15)","talc, nephrite",serpentinite,
+1015,CA,Monterey,"Jade Cove",outcrops,35.9179,-121.4708,"Tremolite-actinolite is the most common new mineral, usually in finely fibrous bundles dispersed in the cloudy isotropic material."""" (Crippen, 1976, p. 14)",nephrite,mylonite,
+1016,CA,Riverside,"Eagle Mountains iron-ore district","historic iron mines",33.875,-115.536,"The tremolite and anthophyllite are generally present in fibrous radial masses, single fibrous sheaves an inch or two in length occurring frequently"""" (Harder, 1912, p. 76)","hematite, magnetite, and numerous other minerals--see Harder (1912, p. 73-77)","iron-ore deposits replacing dolomite",
+1017,CA,Riverside,"Jensen quarry","rock quarry",34.0225,-117.4296,"Amphiboles are scattered throughout this area [of the quarry] as blackish sprays of needles in the course [sic] garnet-epidote rocks and as soft green mats along the pocket zone. Samples from one pocket show a continuous range from masses of course [sic] green actinolite to the delicate variety called amianthus"""" (DeVito and Ordway, 1984, p. 277)","numerous minerals reported--see Cooney (1956) and DeVito and Ordway (1984)","dolomitic marble",
+1018,CA,"San Benito","Mina Numero Uno claim","boulders and outcrops",36.38,-120.68,"The vugs are commonly lined with albite and silvery gray fibrous amphibole"""" (Laurs and others, 1997, p. 174)","albite, benitoite, neptunite, joaquinite-group minerals",blueschist,
+1019,CA,"San Bernardino","Cascade Canyon",outcrops,34.212,-117.663,"A fibrous, pale blue mineral which optical and chemical examination has shown to be soda tremolite occurs on the cleavage planes of the rock."""" (Merriam and Laudermilk, 1936, p. 716)",diopside,"metamorphic rocks",
+1020,CA,"San Diego","Inspiration Point area",outcrops,33.05,-116.567,"The rocks of this area, being within the zone of uralitic (?) alteration, are partly to completely altered to the light green fibrous amphibole."""" (Creasey, 1946, p. 21-22)","olivine, hornblende, hypersthene, feldspar, pyrrhotite","altered ultramafic rock",
+1021,CA,"Santa Cruz","Kalkar quarry","rock quarry",36.9812,-122.0467,"A variety of tremolite called mountain leather can be found along fractures in sheared and faulted limestones."""" (Gross and others, 1967, p. 8)","numerous minerals reported--see Gross and others (1967)","recrystallized limestone with interbedded calc-silicate rocks",
+1022,CA,"Santa Cruz","Gabbro body near Pine Flat Road",outcrops,37.079,-122.14,"Colorless cummingtonite may occur as fibrous, radiating aggregates"""" (Leo, 1967, p. 34)","plagioclase, hornblende, biotite, hypersthene, quartz, ilmenite, apatite, sphene, rutile",gabbro,
+1023,CA,Tuolumne,"Moccasin area",outcrops,37.84,-120.349,"Riebeckite occurs most commonly as irregular bundles of elongate prisms, pseudomorphous after hornblende, and as fine needles in groundmass....In altered phyllitic rocks it forms felted to nematoblastic aggregates, commonly preferentially replacing specific beds or lamellae."""" (Albino, 1995, p. 387)",albite,"altered phyllitic rocks",
+1024,CA,Inyo,"Bonnie mine",,36.0163,-116.8944,,,,
+1025,CA,Inyo,"Death Valley mine (includes Mammoth workings and Sidewinder claims)",,36.0142,-116.9167,,,,
+1026,CA,Inyo,"Timmy deposit",,36.0062,-116.891,,,,
+1027,CA,Inyo,"Montgomery (Panamint) mine",,35.9899,-116.9421,,,,
+1028,CA,Inyo,"Warm Spring-Grantham mines",,35.9614,-116.8946,,,,
+1029,CA,Inyo,"Panamint mine",,35.9509,-116.8794,,,,
+1030,CA,Inyo,"Anvil Spring Canyon deposit",,35.9401,-116.884,,,,
+1031,CA,Inyo,"Owlshead deposits",,35.869,-116.7175,,,,
+1032,CA,Inyo,"Markley deposits",,35.8466,-116.4049,,,,
+1033,CA,Inyo,"Eclipse mine",,35.8428,-116.3789,,,,
+1034,CA,Inyo,"Comet deposit",,35.8338,-116.3835,,,,
+1035,CA,Inyo,"Arletta deposits",,35.8284,-116.3763,,,,
+1036,CA,Inyo,"Jim Francis (Giant) mine",,35.8189,-116.384,,,,
+1037,CA,Inyo,"Mammoth mine",,35.8188,-116.3941,,,,
+1038,CA,Inyo,"Donna Loy mine",,35.8071,-116.085,,,,
+1039,CA,Inyo,"Atlas (Brown, Valley) deposits (includes the Ibex mine)",,35.806,-116.4542,,,,
+1040,CA,Inyo,"Tough (A.C.) deposits",,35.804,-116.2666,,,,
+1041,CA,"San Bernardino","Crystal Spring mine",,35.7931,-115.9608,,,,
+1042,CA,"San Bernardino","Omega mine",,35.7869,-115.9739,,,,
+1043,CA,"San Bernardino","Smith (Tecopa) mine",,35.7863,-115.9951,,,,
+1044,CA,"San Bernardino","Vulcan (Harry Adams) mine",,35.7852,-115.9343,,,,
+1045,CA,"San Bernardino","Western (Acme, Lindsay) mine",,35.7839,-116.1263,,,,
+1046,CA,"San Bernardino","Amargosa mine",,35.7833,-116.2033,,,,
+1047,CA,"San Bernardino","Rogers mine",,35.783,-116.0079,,,,
+1048,CA,"San Bernardino","Ibex (Moorehouse) mine",,35.7805,-116.4179,,,,
+1049,CA,"San Bernardino","Monarch mine",,35.7797,-116.4082,,,,
+1050,CA,"San Bernardino","Excelsior deposit (Excelsior mine, Pioneer mine, and Apex workings)",,35.7786,-115.8368,,,,
+1051,CA,"San Bernardino","Pleasanton mine",,35.7775,-116.4111,,,,
+1052,CA,"San Bernardino","Snow White (Kingston No. 1) mine",,35.7772,-115.8308,,,,
+1053,CA,"San Bernardino","Kingston (Kingston No. 8) deposit",,35.7738,-115.9123,,,,
+1054,CA,"San Bernardino","Acme mine",,35.7681,-116.1277,,,,
+1055,CA,"San Bernardino","Booth mine",,35.761,-116.06,,,,
+1056,CA,"San Bernardino","Pongo mine",,35.7276,-116.4251,,,,
+1057,CA,"San Bernardino","Superior mine",,35.7116,-116.4055,,,,
+1058,CA,"San Bernardino","Johnson (Kingston) deposit",,35.7094,-115.8578,,,,
+1059,CA,"San Bernardino","White Cap mine",,35.7058,-116.4125,,,,
+1060,CA,"San Bernardino","Saratoga mine",,35.7015,-116.4184,,,,
+1061,CA,"San Bernardino","Caliente (B.F.J.) mine",,35.6911,-116.3617,,,,
+1062,CA,"San Bernardino","Rainbow mine",,35.685,-116.3597,,,,
+1063,CA,"San Bernardino","Sheep Creek (Western Atlas) mine",,35.5949,-116.3598,,,,
+1064,CA,"San Bernardino","Annex (Mammoth) mine",,35.5287,-116.0987,,,,
+1065,CA,"San Bernardino","Berryhill (Riggs) mine",,35.5252,-116.1012,,,,
+1066,CA,"San Bernardino","Ceramic mine (and Patricia deposit)",,35.5064,-116.0276,,,,
+1067,CA,"San Bernardino","Number 5 workings",,35.4593,-116.0066,,,,
+1068,CA,"San Bernardino","Addenda Extension mine",,35.4579,-116.0264,,,,
+1069,CA,"San Bernardino","Addenda mine",,35.4573,-116.0226,,,,
+1070,CA,"San Bernardino","Gould mine",,35.456,-116.0195,,,,
+1071,CA,"San Bernardino","Number 2 1/2 workings",,35.4548,-116.0114,,,,
+1072,CA,"San Bernardino","Number 2 shaft",,35.4547,-116.0147,,,,
+1073,CA,"San Bernardino","Number 3 workings",,35.4535,-116.016,,,,
+1074,CA,"San Bernardino","Yucca mine",,35.45,-115.9207,,,,
+1075,CA,"San Bernardino","Number 4 workings",,35.4498,-116.0003,,,,
+1076,CA,"San Bernardino","Pomona mine (Yucca Grove, Desert Talc and Clay)",,35.4238,-115.8073,,,,
+1077,CA,"San Bernardino","Great Wanamingo mine (Calmasil Extension, Halloran Spring deposit)",,35.4238,-115.8445,,,,
+1078,CA,"San Bernardino","Calmasil mine",,35.4182,-115.8017,,,,
+1079,AZ,Yavapai,"Boggs mine","former gold-silver-copper-zinc mine",34.452,-112.258,"veinlike masses of white coarse quartz, surrounded by rims of garnet, epidote, and a fine felted radiating amphibole"""" Lindgren (1926, p. 140)","quartz, garnet, epidote, sphalerite, arsenopyrite, calcite, bournonite",schist,
+1080,AZ,Gila,"Old Dominion mine","former copper mine",33.4147,-110.7902,"Actinolite """"as mountain leather along bedding planes of Mescal limestone"""" (Galbraith, 1947, p. 82)","numerous minerals reported--see Peterson (1962)","magnesian limestone",
+1081,AZ,Greenlee,"Morenci district","copper mines",33.099,-109.366,"A fibrous green amphibole replaces chlorite"""" (Moolick and Durek, 1966, p. 228)","chlorite, epidote, pyrite","hornfels (contact-metamorphosed shale)",
+1082,AZ,Graham,"occurrence on Ash Peak",outcrops,32.752,-109.262,"Actinolite """"as mountain leather, Ash Peak"""" (Goldbraith, 1947, p. 82)","not reported","not reported",
+1083,AZ,Cochise,"Toughnut mine","former lead-silver-zinc-copper-gold mine",31.707,-110.0671,"Tremolite occurs as long, fibrous masses that replace Blue limestone in the fourth level of the Toughnut Mine"""" (Butler and others, 1938, p. 60).","numerous minerals reported--see Butler and others (1938)",limestone,
+1084,NV,Eureka,"Goldstrike mine","gold mine",40.9708,-116.3644,"Actinolite """"as medium green, acicular to fibrous crystals to 1.5 cm"""" (Castor and Ferdock, 2004, p. 128). Tremolite """"reported as byssolite in dark-green, filiform to needlelike crystals"""" (Castor and Ferdock, 2004, p. 440).","plagioclase, pyroxene, hornblende, biotite, potassium feldspar, quartz, calcite, pyrite, apatite, magnetite, sphene, chlorite","diorite, skarn",
+1085,NV,Humboldt,"Gold Run district","gold prospects",40.7907,-117.5033,"Actinolite """"reported as uralite in gray fibrous masses to 1 cm"""" (Castor and Ferdock, 2004, p. 128)","garnet, quartz, hematite",skarn,
+1086,NV,Nye,"Bare Mountain district",outcrops,36.75,-116.77,"Tremolite """"in fibrous, radiating masses to 5 cm"""" (Castor and Ferdock, 2004, p. 440).","not reported","metamorphosed Paleozoic carbonate",
+1087,CO,Dolores,"Rico mining district","former Pb-Zn-Cu-Ag-Au-mining district",37.6993,-108.0167,"Tremolite occurs as disseminated silky white fibers or tufts of fibers in metamorphosed Leadville and lower Hermosa limestones"""". Actinolite: """"The fibers and needles in which it crystallizes are gray green and are commonly radiating"""" (McKnight, 1974, p. 68).","other metamorphic minerals"""" (McKnight, 1974, p. 68)","contact metamorphosed limestone",
+1088,CO,Gunnison,"Iron Hill carbonatite complex",outcrops,38.2489,-107.0504,"Fibrous blue magnesio-arfvedsonite and richterite are found in the groundmass, often occurring as large mats"""" (Lowers, 2005, p. 23)","calcite, dolomite, apatite, biotite, iron-titanium oxides, barite, pyroxene, pyrite","mixed zone along carbonatite-pyroxenite contact",
+1089,CO,Chaffee,"Calumet iron mine","former iron mine",38.6374,-105.9475,"Near the contact fibrous tremolite and especially coarse poikilitic augite crystals are conspicuous"""" (Behre and others, 1936, p. 798).","diopside, epidote, garnet, biotite, wernerite, actinolite, magnetite, hematite, pyrite, chalcopyrite","contact metamorphosed limestone",
+1090,CO,Jefferson,"Creswell mine","historic shallow adits",39.6949,-105.3665,"Fibrous green to blue-green masses of edenite have been identified associated with diopside, tremolite, and piemontite"""" (Eckel, 1997, p. 188). """"White to very pale green fibrous masses of tremolite occur with edenite, diopside, and other calc-silicates"""" (Eckel, 1997, p. 497).","diopside, piemontite, """"other calc-silicates"""" (Eckel, 1997, p. 497)","not reported",
+1091,CO,Larimer,"Copper King uranium mine","former uranium mine",40.851,-105.495,"The anthophyllite typically occurs as sheaves of curved fibers, oriented at random, as much as an inch long and averaging about half an inch in length"""" (Sims and others, 1958, p. 182).","cummingtonite, phlogopite, apatite, quartz, calcite, sulfides, magnetite","anthophyllite skarn",
+1092,ID,Latah,"Gold Hill stock",outcrops,46.9668,-116.7486,"A [vermiculite] deposit in the Gold Hill district in Latah County, Idaho, contains abundant fibers of actinolite on the surface of vermiculite grains."""" (Van Gosen and others, 2005, p. 4)","augite, biotite, vermiculite, feldspar, magnetite, sphene, pyrite, chalcopyrite","syenite stock and dikes",
+1093,MT,Ravalli,"Ravalli County carbonatites","former niobium prospects",45.5194,-114.3165,"light green actinolite forms clusters of fibers, usually in radiating groups"""" (Heinrich and Levinson, 1961, p. 1437)","numerous minerals reported--see Crowley (1960) and Heinrich and Levinson (1961)",carbonatite,
+1094,NM,Hidalgo,"Copper Dick mine","former gold mine",31.8566,-108.4606,"Fibrous actinolite"""" (V.T. McLemore, New Mexico Bureau of Mines and Geology, written communication, 2007)","chalcopyrite, unknown Ag- and Au-bearing minerals, galena, garnet, epidote, chlorite, albite, calcite, quartz",skarn,
+1095,NM,Luna,"Victorio mining district","drill core",32.1855,-108.1055,"Fibrous actinolite"""" (V.T. McLemore, New Mexico Bureau of Mines and Geology, written communication, 2007)","numerous minerals reported--see Dunbar and McLemore (2000)",skarn,
+1096,NM,Otero,"Cinco de Mayo and Iron Duke mines","former iron mines",32.4231,-106.1222,"Fibrous actinolite"""" (V.T. McLemore, New Mexico Bureau of Mines and Geology, written communication, 2007)","magnetite, hematite, garnet, pyrite, fluorite, chalcopyrite, cuprite, malachite, quartz, calcite, diopside",skarn,
+1097,NM,Grant,"Scheelite mine","former tungsten mine",32.7658,-108.456,"Fibrous tremolite"""" (V.T. McLemore, New Mexico Bureau of Mines and Geology, written communication, 2007)","scheelite, andradite, spessartine, actinolite, epidote, quartz, calcite",skarn,
+1098,NM,Grant,"Pinos Altos district","former gold-copper-lead-zinc mines",32.8678,-108.2513,"Fibrous actinolite"""" (V.T. McLemore, New Mexico Bureau of Mines and Geology, written communication, 2007)","numerous minerals reported--see McKnight and Fellows (1978)",skarn,
+1099,NM,Lincoln,"Capitan iron deposit","former iron mine",33.6217,-105.5533,"The tremolite is finely fibrous"""" (Kelley, 1952, p. 74)","numerous minerals reported--see Kelley (1952, p. 73-75)","magnetite iron ore replacing dolomite",
+1100,MI,Marinette,"occurrences in metagabbro sills",outcrops,45.775,-88,"The actinolite may be dense and more or less confined to sites of previous augite, or fibrous and matted and interlaced with adjacent alteration minerals"""" (Bayley and others, 1966, p. 68).","plagioclase, albite, saussurite, labradorite, andesine, quartz, hornblende, augite, chlorite, calcite, epidote, magnetite",metagabbro,
+1101,MI,Marquette,"Empire iron mine","iron mine",46.4583,-87.6,"A thin zone with one-quarter inch bands of finely fibrous blue-black riebeckite occurs near the base of the iron formation in a host rock of very fine-grained quartz-garnet-biotite"""" (Heinrich, 1976, p. 185).","magnetite, chert, siderite, ankerite, minnesotaite, stilpnomelane, chlorite, biotite",iron-formation,
+1102,MI,Marquette,"actinolitic slates and schists",outcrops,46.5066,-87.3906,"In plagioclase-rich layers, fibrous actinolite grows along cleavage and twin planes in the plagioclase and apparently formed by replacement of plagioclase"""" (Gair and Thaden, 1968, p. 13).","sodic plagioclase, carbonates, magnetite, quartz, secondary iron oxides","actinolitic slates and schists",
+1103,MI,Houghton,"Centennial mine","former copper mine",47.2558,-88.422,"capillary tremolite ('byssolite')"""" (Williams, 1963, p. 614).","anthonyite, calumetite, quartz, epidote, monazite, native copper, cuprite, paratacamite, """"numerous unidentified basic copper chlorides",basalt,
+1104,MN,"Saint Louis","Eastern Mesabi district","taconite deposits",47.667,-91.917,"In cherty taconite, grunerite develops as tabular crystals and fibrous radiating sheaves composed of fine needles"""" (French, 1968, p. 36). """"Much of the cummingtonite and hornblende occurs as fibrous masses that surround and replace coarser crystals of fayalite and pyroxene"""" (French, 1968, p. 40).","numerous minerals reported--see French (1968)","taconite (banded iron-formation)",
+1105,MO,Shannon,"Thorny Mountain mine","former manganese mine",37.1032,-91.186,"Tremolite """"appears in silky, white, radial, fibrous tuffs on the coppery red mangansericite in the specimen from Thorny Mountain"""" (Grawe, 1943, p. 20)","mangansericite, clay minerals, feldspar, quartz, alunite, fluorite","veins and brecciated zones that cut rhyolite porphyry",
+1106,MO,Iron,"Ketcherside Gap deposit","small former copper mine",37.5132,-90.66,"Actinolite exhibits colour-zoned prismatic to fibrous grains replacing clinopyroxene, garnet, and early scapolite"""" (Lowell and Noll, 2001, p. 379). """"Colour-zoned prismatic to fibrous amphibole with colourless to pale green pleochroism is the dominant late skarn phase in both volcaniclastic and dolomite protoliths"""" (Lowell and Noll, 2001, p. 388).","numerous minerals reported--see Lowell and Noll (2001)","scapolite skarn",
+1107,SD,Pennington,"occurrence along small branch of Spring Creek","mineral specimen collection site",43.8988,-103.74,"beautiful columnar masses and also fibrous radiating, often densely matted, aggregates of actinolite"""" (Roberts and Rapp, 1965, p. 14)","calcite, quartz, phlogopite",marble,
+1108,SD,Pennington,"Bullion gold mine","former gold mine",43.9007,-103.4203,"radiating groups of needles or fibers of cummingtonite"""" (Roberts and Rapp, 1965, p. 12)","garnet, hornblende, quartz, feldspar",iron-formation,
+1109,SD,Pennington,"occurrence along Spring Creek",outcrops,43.9859,-103.4028,"radiating groups of needles or fibers of cummingtonite"""" (Roberts and Rapp, 1965, p. 12)","garnet, hornblende, quartz, feldspar",amphibolite,

@@ -1,0 +1,725 @@
+https://mrdata.usgs.gov/usmin/
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: Horton, John D.
+      Originator: San Juan, Carma A.
+      Publication_Date: 20180430
+      Title: Prospect- and Mine-Related Features from U.S. Geological Survey 7.5- and 15-Minute Topographic Quadrangle Maps of the United States
+      Edition: Version 2.0
+      Geospatial_Data_Presentation_Form: Vector Digital Data Set (Point and Polygon)
+      Series_Information:
+        Series_Name: U.S. Geological Survey data release
+        Issue_Identification: DOI: 10.5066/F78W3CHG
+      Publication_Information:
+        Publication_Place: Denver, CO
+        Publisher: U.S. Geological Survey
+      Other_Citation_Details: Horton, J.D. ORCID 0000-0003-2969-9073; San Juan, C.A. ORCID 0000-0002-9151-1919
+      Online_Linkage: https://doi.org/10.5066/F78W3CHG
+  Description:
+    Abstract: These data are part of a larger USGS project to develop an updated geospatial database of mines, mineral deposits and mineral regions in the United States. Mine and prospect-related symbols, such as those used to represent prospect pits, mines, adits, dumps, tailings, etc., hereafter referred to as “mine” symbols or features, are currently being digitized on a state-by-state basis from the 7.5-minute (1:24,000-scale) and the 15-minute (1:48,000 and 1:62,500-scale) archive of the USGS Historical Topographic Maps Collection, or acquired from available databases (California and Nevada, 1:24,000-scale only). Compilation of these features is the first phase in capturing accurate locations and general information about features related to mineral resource exploration and extraction across the U.S. To date, the compilation of 565,000-plus point and polygon mine symbols from approximately 74,500 maps of 26 states has been completed: Arizona (AZ), Arkansas (AR), California (CA), Colorado (CO), Idaho (ID), Iowa (IA), Illinois (IL), Indiana (IN), Kansas (KS), Louisiana (LA), Michigan (MI), Minnesota (MN), Missouri (MO), Montana (MT), North Dakota (ND), Nebraska (NE), New Mexico (NM), Nevada (NV), Oklahoma (OK), Oregon (OR), South Dakota (SD), Texas (TX), Utah (UT), Washington (WA), Wisconsin (WI), and Wyoming (WY). The process renders not only a more complete picture of exploration and mining in the western U.S., but an approximate time line of when these activities occurred. The data may be used for land use planning, assessing abandoned mine lands and mine-related environmental impacts, assessing the value of mineral resources from Federal, State and private lands, and mapping mineralized areas and systems for input into the land management process. The data are presented as three groups of layers based on the scale of the source maps. No reconciliation between the data groups was done.
+    Purpose: These data are a digital version of mine symbols found on USGS 7.5- and 15-minute series topographic maps. The data are suitable for use in Geographic Information Systems (GIS) or other database and geospatial software. Collection of data of this type is a part of the mission of the Mineral Resources Program of the USGS. The information is intended to meet the needs of a wide community of users that extends from geoscience and mineral exploration communities to State and Federal agencies, private industry, and the general public.
+    Supplemental_Information: This USGS data release consists of an ArcGIS 10.5 geodatabase (USGS_TopoMineSymbols_ver2.gdb) containing three point feature classes: USGS_TopoMineSymbols_24k_Points,  USGS_TopoMineSymbols_48k_Points, and USGS_TopoMineSymbols_625k_Points; and three polygon feature classes: USGS_TopoMineSymbols_24k_Polygons, USGS_TopoMineSymbols_48k_Polygons, and USGS_TopoMineSymbols_625k_Polygons. No reconciliation between the data sets was done. All feature classes have attribute fields “GDA_ID” and "ScanID" which contain unique identification numbers of corresponding USGS 7.5- or 15-minute topographic maps from which the features were obtained. Raster images of these topographic maps may be obtained from the USGS Historical Topographic Map Collection (HTMC) (https://nationalmap.gov/historical/) by entering either number in the Map Name of the HTMC "text query application" or the HTMC TopoView web mapping application (https://ngmdb.usgs.gov/topoview/). Some states that have not been completed may contain data if a topographic map from a completed state crosses a state boundary. This includes: Kentucky (KY), Tennessee (TN), Mississippi (MS), and Ohio (OH).
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 1888
+        Ending_Date: 2006
+    Currentness_Reference: Topographic map date
+  Status:
+    Progress: In work
+    Maintenance_and_Update_Frequency: As needed
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -124.695087333
+      East_Bounding_Coordinate: -82.466828891
+      North_Bounding_Coordinate: 49.333597115
+      South_Bounding_Coordinate: 25.948373817
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: USGS Thesaurus
+      Theme_Keyword: data services
+      Theme_Keyword: geospatial datasets
+      Theme_Keyword: geographic information systems
+      Theme_Keyword: land use and land cover
+      Theme_Keyword: mine waste
+      Theme_Keyword: mining and quarrying
+      Theme_Keyword: mine drainage
+      Theme_Keyword: mining hazards
+      Theme_Keyword: topographic maps
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+      Theme_Keyword: geoscientificInformation
+      Theme_Keyword: location
+    Theme:
+      Theme_Keyword_Thesaurus: American Geological Institute, 1997
+      Theme_Keyword: abandoned mine
+      Theme_Keyword: adit
+      Theme_Keyword: air shaft
+      Theme_Keyword: borrow pit
+      Theme_Keyword: diggings
+      Theme_Keyword: dredge tailings
+      Theme_Keyword: evaporation pond
+      Theme_Keyword: gravel pit
+      Theme_Keyword: hydraulic mine
+      Theme_Keyword: leach pond
+      Theme_Keyword: linear prospect
+      Theme_Keyword: mill site
+      Theme_Keyword: mine
+      Theme_Keyword: mine dump
+      Theme_Keyword: mine shaft
+      Theme_Keyword: mineral resource
+      Theme_Keyword: open pit mine
+      Theme_Keyword: ore dump
+      Theme_Keyword: ore stockpile/storage
+      Theme_Keyword: placer mine
+      Theme_Keyword: placer tailings
+      Theme_Keyword: prospect pit
+      Theme_Keyword: quarry
+      Theme_Keyword: settling pond
+      Theme_Keyword: strip mine
+      Theme_Keyword: tailings
+      Theme_Keyword: topographic map
+      Theme_Keyword: trench
+    Theme:
+      Theme_Keyword_Thesaurus: none
+      Theme_Keyword: Geology, Geophysics, and Geochemistry Science Center
+      Theme_Keyword: GGGSC
+      Theme_Keyword: Historical Topographic Maps Collection
+      Theme_Keyword: HTMC
+      Theme_Keyword: Mineral Resources Program
+      Theme_Keyword: MRP
+      Theme_Keyword: U.S. Geological Survey
+      Theme_Keyword: USGS
+      Theme_Keyword: USGS Quadrangles
+    Place:
+      Place_Keyword_Thesaurus: Common geographic areas
+      Place_Keyword: United States
+      Place_Keyword: Arizona (AZ)
+      Place_Keyword: Arkansas (AR)
+      Place_Keyword: California (CA)
+      Place_Keyword: Colorado (CO)
+      Place_Keyword: Idaho (ID)
+      Place_Keyword: Illinois (IL)
+      Place_Keyword: Indiana (IN)
+      Place_Keyword: Iowa (IA)
+      Place_Keyword: Kansas (KS)
+      Place_Keyword: Kentucky (KY)
+      Place_Keyword: Louisiana (LA)
+      Place_Keyword: Michigan (MI)
+      Place_Keyword: Minnesota (MN)
+      Place_Keyword: Mississippi (MS)
+      Place_Keyword: Missouri (MO)
+      Place_Keyword: Montana (MT)
+      Place_Keyword: Nebraska (NE)
+      Place_Keyword: North Dakota (ND)
+      Place_Keyword: New Mexico (NM)
+      Place_Keyword: Nevada (NV)
+      Place_Keyword: Ohio (OH)
+      Place_Keyword: Oklahoma (OK)
+      Place_Keyword: Oregon (OR)
+      Place_Keyword: South Dakota (SD)
+      Place_Keyword: Tennessee (TN)
+      Place_Keyword: Texas (TX)
+      Place_Keyword: Utah (UT)
+      Place_Keyword: Washington (WA)
+      Place_Keyword: Wisconsin (WI)
+      Place_Keyword: Wyoming (WY)
+  Access_Constraints: None. Please see 'Distribution Info' for details.
+  Use_Constraints: The data are intended for use at approximately 1:24,000-scale or smaller. There is no guarantee concerning the accuracy of the data. Any user who modifies the data is obligated to describe the types of modifications they perform. Data have been checked to ensure the accuracy. If any errors are detected, please notify the originating office. The U.S. Geological Survey strongly recommends that careful attention be paid to the metadata file associated with these data. Acknowledgment of the U.S. Geological Survey would be appreciated in products derived from these data. User specifically agrees not to misrepresent the data, nor to imply that changes made were approved or endorsed by the U.S. Geological Survey. Please refer to https://www2.usgs.gov/laws/privacy.html for the USGS disclaimer.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: John D. Horton
+        Contact_Organization: U.S. Geological Survey, Southwest Region
+      Contact_Position: Physical Scientist
+      Contact_Address:
+        Address_Type: mailing address
+        Address: Denver Federal Center, PO Box 25046, MS-973
+        City: Denver
+        State_or_Province: CO
+        Postal_Code: 80225
+      Contact_Voice_Telephone: 303-236-1921
+      Contact_Facsimile_Telephone: 303-236-3200
+      Contact_Electronic_Mail_Address: jhorton@usgs.gov
+  Data_Set_Credit: Datasets were developed by the U.S. Geological Survey Geology, Geophysics, and Geochemistry Science Center (GGGSC). Compilation work was completed by USGS student contractors Thomas Carroll, Margaret Brantley, Germán Schmeda, and Logan Barrett; and by USGS personnel Damon Bickerstaff and E.G. Boyce.
+  Native_Data_Set_Environment: Environment as of Metadata Creation: Microsoft [Unknown] Version 6.2 (Build 9200); Esri ArcGIS 10.5.1 (Build 7333) Service Pack N/A (Build N/A)
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report: Attribute fields and values were reviewed and checked for consistency of schema, accuracy, adherence to established vocabularies, and completeness.
+  Logical_Consistency_Report: Digital data were checked throughout the compilation process for accuracy of mine feature locations, completeness, accuracy, and consistency of attributes; completeness of data capture; and appropriate representation of mine features through time. A final review (see “Process Step” section – fourth level review) consisted of randomly selecting 5 quadrangles per state (some with multiple versions per quadrangle), and comparing the maps to the digitized data. Errors, which included missing, mislocated or misattributed data, were tabulated and an error percentage was calculated. From these results it is estimated that the error in the data is less than 1-percent.
+  Completeness_Report: Available 7.5- and 15-minute topographic maps were acquired on a state-by-state basis from the HTMC for the archived period of record (1888 to 2006). More recent topographic maps in the USGS USTopo series do not include mine symbols and thus were not relevant. For quadrangles where HTMC topographic maps were not available, a lower-resolution USGS digital raster graphic (DRG) version of the map was used. In specific regions such as South Dakota, 1:25,000-scale topographic maps were used to fill gaps. Mine feature data compiled by the states of California and Nevada were also based on USGS 7.5-minute topographic maps. Because the HTMC archive was not available at the time of those compilations, the California and Nevada mine features were probably acquired from a single, most recent version of each topographic map. The California and Nevada datasets were subsequently updated by USGS staff to include polygonal and point mine features from older versions of topographic maps where available. Automated routines and reviews were used to check the completeness of map coverage for each state.
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report:
+        U.S. Geological Survey topographic maps adhere to National Map Accuracy Standards that specify that for maps on publication scales larger than 1:20,000, not more than 10 percent of the points tested shall be in error by more than 1/30th inch, measured on the publication scale; for maps on publication scales of 1:20,000 or smaller, 1/50th inch. As applied to the USGS 7.5-minute quadrangle topographic map, the horizontal accuracy standard requires that the positions of 90 percent of all points tested must be accurate within 1/50th of an inch on the map. At 1:24,000 scale, 1/50th of an inch is 40 feet, at 1:48,000 scale, 1/50th of an inch is 80 feet, at 1:62,500 scale, 1/50th of an inch is 104 feet.
+        This data set was captured by heads-up digitizing from georeferenced raster images of USGS topographic maps from the HTMC. Georeferencing error was checked by measuring the distance between the corners of topographic maps and the actual coordinates of the corner. This error was found to be 50 feet on the average.
+        The combination of map accuracy and georeferencing error gives an average horizontal accuracy for features in the data set that ranges from about 100 to 155 feet.
+    Vertical_Positional_Accuracy:
+      Vertical_Positional_Accuracy_Report: Not applicable.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Fernette, G.L., Horton, J.D., King, Zachary, San Juan, C.A., and Schweitzer, P.N.
+          Publication_Date: 2016
+          Title: Prospect- and Mine-Related Features from U.S. Geological Survey 7.5- and 15-Minute Topographic Quadrangle Maps of the Western United States
+          Geospatial_Data_Presentation_Form: Vector Digital Dataset
+          Publication_Information:
+            Publication_Place: Denver, CO
+            Publisher: USGS ScienceBase
+          Online_Linkage: https://www.sciencebase.gov/catalog/item/57962314e4b007df0739fede
+      Source_Scale_Denominator: 24000, 25000, 48000, 62500
+      Type_of_Source_Media: Digital and/or Hardcopy Resources
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2016
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: Source Data
+      Source_Contribution: Source information used in support of the development of the data set.
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Geological Survey
+          Publication_Date: 2015
+          Title: USGS Historical Topographic Map Collection (HTMC)
+          Geospatial_Data_Presentation_Form: Raster Digital Dataset
+          Publication_Information:
+            Publication_Place: Denver, CO
+            Publisher: U.S. Geological Survey
+          Online_Linkage: https://nationalmap.gov/historical/
+      Type_of_Source_Media: Digital and/or Hardcopy Resources
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1888
+            Ending_Date: 2006
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: HTMC
+      Source_Contribution: Source information used in support of the development of the data set.
+    Process_Step:
+      Process_Description:
+        A data search by state was conducted to ascertain where digital, geospatial mine feature information from 7.5 and 15-minute topographic maps were available. Geospatial mine feature data, available for Nevada and California at 1;24,000-scale, were acquired and used as a starting point for those states. For remaining states, historical 7.5- and 15-minute topographic maps were acquired from the HTMC website (https://geonames.usgs.gov/pls/topomaps/) as geoPDF files. In the 7.5-minute series, about 60 percent of the quadrangles had multiple versions. In the 15-minute, 1:48,000-scale series, about 10 percent of the maps had multiple versions, and in the 15-minute, 1:62,500-scale series, about 20 percent of the maps had multiple versions. For quadrangles with two map versions at the same scale, both maps were acquired. For quadrangles with more than two versions at the same scale, the oldest map, and versions at approximately 10-year intervals up to the most recent were acquired. Using Global Mapper software, acquired maps were converted from geoPDF to geoTIF format to make them accessible in ArcGIS.
+
+        Capture of mine features was accomplished at each scale by visually inspecting the maps for mine symbols and digitizing points and/or polygons into an ArcGIS file geodatabase. No reconciliation between the data from different map scales was done. For example, if a mine feature occurred on a 7.5-minute map and a similar feature occurred on a 15-minute map, the feature was digitized twice. Information describing the feature type (prospect pits, mines, adits, dumps, tailings, etc.) and the map date, name, and GDA and Scan identification number was compiled in the corresponding attribute table. Where mine symbols occurred on multiple versions (dates) of a map of the same scale, the first occurrence of the symbol was digitized. If subsequent versions of the map showed the same symbol within a permissible tolerance of the original location, the symbol was not re-digitized. The permissible tolerance for point symbols was roughly the area of a “box” which completely enclosed the map symbol. In the case of polygonal features, if the shape of the feature changed between map versions, the entire polygon was re-digitized. Slight shifts between versions of a map were common and reflected map scanning and georegistration variance.
+
+        When mine symbols were located within a topographic depression but no explicit pit outline was shown on the map, the depression was assumed to be a pit related to mining activity and the outermost depression contour was digitized as a polygon. The polygon was then attributed according to the mine symbol and/or the label contained on the map. When a map label name was surrounded by numerous symbols, the closest major symbol received the name. For example, if a name was surrounded by prospect pit and adit symbols on the map, the name would be applied to the closest adit symbol.
+
+        Pre-existing, 1:24,000-scale mine feature data for the states of Nevada and California were checked for locational accuracy; attribute table schema were modified and updated for consistency; and mine features (point and polygon) from older versions of maps were captured.
+
+        Data inspection and checks were performed by the individual digitizing the maps (first-level review), by team members reviewing a random selection of maps in a state (second-level review), by a project lead who reviewed data compiled at the state level (third-level review), and a final spot check of the merged data for the western US by USGS colleagues (fourth-level review). In each case, reviews addressed the accuracy and completeness of mine feature capture, completeness and consistency of attributes, adherence to established project schema, and representation of mine features through time.
+      Process_Date: 20160630
+    Process_Step:
+      Process_Description:
+        Similar to the initial process step, mine symbols on 7.5- and 15-minute topographic maps for the states of Arkansas (AR), Iowa (IA), Louisiana (LA), Minnesota (MN), Missouri (MO), and Texas (TX) were digitized and appended to the existing source data. Some notable changes were made to some of the database attribute values.
+
+        Terms in the attribute field Ftr_Type were modified as follows: 1) added ‘Iron Pit’ and ‘Shell Pit’; 2) changed ‘Ore Storage Pond’ to ‘Ore Stockpile/Storage’; moved ‘Ore Storage Pond’ to Ftr_Name; 3) changed ‘Tailings - Thickener’ to ‘Tailings - Undifferentiated’; moved ‘Tailing Thickeners’ to Ftr_Name; 4) changed ‘Pumice Mine’ to ‘Pumice Pit’; moved ‘Pumice Mine’ to Ftr_Name; 5) changed ‘Unidentified Feature’ to ‘Disturbed Surface’ or ‘Disturbed Surface - Pit’; and 6) changed ‘Gravel/Borrow pit - Undifferentiated’ to ‘Gravel/Borrow Pit - Undifferentiated’.
+
+        Terms removed from the Remarks field include:  1) “Unidentified - generic disturbed ground symbol"; 2) "Unidentified - generic disturbed ground symbol. Labeled as Pit only”; 3) "Photorevised"; 4) "Revised"; and 5) “Coincident feature labeled as <Ftr_Type> on 19xx map” (changed to “Feature designated as <Ftr_Type> from feature on 19xx map”).
+
+        Unlabeled features attributed as Ftr_Type ‘Disturbed Surface’ or ‘Disturbed Surface - Pit’ (previously attributed as ‘Unidentified Feature’), were re-evaluated in an attempt to identify some of these features. A buffer was applied to identify other nearby labeled features within approximately 1 kilometer. If it was reasonable to assume that a nearby labeled feature could be used to infer the Ftr_Type of the unlabeled ‘Disturbed Surface’ feature, then the Ftr_Type was changed and the Remark 'Inferred <Ftr_Type> from adjacent feature' was entered in the Remarks field. For example, several polygons labeled as “gravel pits” are present on a map dated 1950. A 1980 version of the map contains some pink, photorevised unlabeled disturbed surface polygons near the 1950 polygons. The 1980 disturbed surface polygons were assigned the Ftr_Type 'Gravel Pit' and “Inferred Gravel Pit from adjacent feature” was entered in the Remarks field. This was not done when multiple Ftr_Type’s surrounded an unlabeled feature or if it was not reasonable to infer the Ftr_Type based on geographic factors.
+
+        The field ‘Topo_Date’ has been changed from a text field type to an integer field type to facilitate numeric analysis.
+
+        Some features included in the original source dataset may have been added, deleted or otherwise modified if errors were discovered while performing these updates.
+      Process_Date: 20171119
+    Process_Step:
+      Process_Description:
+        Version 2.0 - Similar to the initial process step, mine symbols on 7.5- and 15-minute topographic maps for the states of Michigan (MI), Wisconsin (WI), Indiana (IN), and Illinois (IL) were digitized and appended to the existing source data. The terms 'Tipple' and 'Mine' have been added to the Ftr_Type field domain.
+
+        Some features included in the original source dataset may have been added, deleted or otherwise modified if errors were discovered while performing these updates.
+      Process_Date: 20180430
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Entity point
+      Point_and_Vector_Object_Count: 485789
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: G-polygon
+      Point_and_Vector_Object_Count: 79449
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 0.000000001
+      Longitude_Resolution: 0.000000001
+      Geographic_Coordinate_Units: Decimal degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: D_WGS_1984
+      Ellipsoid_Name: WGS_1984
+      Semi-major_Axis: 6378137.0
+      Denominator_of_Flattening_Ratio: 298.257223563
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: Attribute Table
+      Entity_Type_Definition: Table containing attribute information associated with the data set.
+      Entity_Type_Definition_Source: USGS Authors
+    Attribute:
+      Attribute_Label: State
+      Attribute_Definition: Abbreviated name of state where mine feature is located.
+      Attribute_Definition_Source: United States Postal Service
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: State name abbreviated using the U.S. Postal Service two-letter codes. The following states have not been completed but may contain features if a topographic map in a completed state crosses a state boundary: Kentucky (KY), Tennessee (TN), Mississippi (MS), and Ohio (OH).
+    Attribute:
+      Attribute_Label: County
+      Attribute_Definition: U.S. county name
+      Attribute_Definition_Source: Geographic Names Information System (GNIS)
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Name of the county in which the mine feature is located.
+    Attribute:
+      Attribute_Label: Ftr_Type
+      Attribute_Definition: The type of mine symbol (feature) shown on the topographic map. The mine feature was attributed using standard USGS symbol names with two exceptions – “Prospect” was attributed as 'Prospect Pit' and  “Mine Tunnel" or "Cave Entrance” was attributed as 'Adit'. Mine feature definitions were derived largely from the American Geological Institute, 1997, Dictionary of mining, mineral, and related terms, 2nd Ed.: American Geological Institute in Cooperation with the Society for Mining, Metallurgy, and Exploration, Inc., Alexandria, VA, 646 p.
+      Attribute_Definition_Source: American Geological Institute, 1997
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Adit
+          Enumerated_Domain_Value_Definition: A horizontal or inclined tunnel driven from the surface for exploration, extracting ore or for dewatering a mine; also referred to as a tunnel or prospect tunnel. The symbol is named a "mine tunnel or cave entrance" in the USGS topographic map legend. Direction approximated by the value in Ftr_Azimuth field. The adit direction shown on USGS topographic maps is generally perpendicular to the slope rather than the actual direction of the adit. Any associated descriptive label such as the proper mine name, "Tunnel", "Mine", "Coal Mine" or "Cave" were entered in the Ftr_Name field.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Air Shaft
+          Enumerated_Domain_Value_Definition: A shaft used wholly or mainly for ventilating mines.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Bentonite Pit
+          Enumerated_Domain_Value_Definition: An opening or excavation in the ground for the purpose of extracting bentonite.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Borrow Pit
+          Enumerated_Domain_Value_Definition: An area where materials including soil, clay, sand, or gravel have been excavated for use in construction at another location.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Caliche Pit
+          Enumerated_Domain_Value_Definition: An opening or excavation in the ground for the purpose of extracting caliche.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Cinder Pit
+          Enumerated_Domain_Value_Definition: An opening or excavation in the ground for the purpose of extracting cinder.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Clay Pit
+          Enumerated_Domain_Value_Definition: An opening or excavation in the ground for the purpose of extracting clay.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Coal Mine
+          Enumerated_Domain_Value_Definition: A mine working or excavation in the ground for the purpose of extracting coal.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Diggings
+          Enumerated_Domain_Value_Definition: Shallow pits or mine workings where near-surface deposits were mined. In the U.S. the term is commonly applied to placer deposits.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Disturbed Surface
+          Enumerated_Domain_Value_Definition: These are unlabeled polygonal features symbolized with a generic brown/pink disturbed surface symbol (common on photorevised maps).
+          Enumerated_Domain_Value_Definition_Source: USGS Authors
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Disturbed Surface - Pit
+          Enumerated_Domain_Value_Definition: These are "Pit" labeled polygonal features symbolized with a generic brown/pink disturbed surface symbol (common on photorevised maps).
+          Enumerated_Domain_Value_Definition_Source: USGS Authors
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Evaporation Pond
+          Enumerated_Domain_Value_Definition: An artificial pond with very large surface areas that are designed to efficiently evaporate water by sunlight and exposure to ambient temperatures.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Glory Hole
+          Enumerated_Domain_Value_Definition: A funnel-shaped vertical pit cut at the bottom of a stope (stepped excavation) or surface mine through which ore is passed to underground workings before being hoisted to the surface.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Gravel Pit
+          Enumerated_Domain_Value_Definition: An opening or excavation in the ground for the purpose of extracting gravel.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Gravel/Borrow Pit - Undifferentiated
+          Enumerated_Domain_Value_Definition: A pit or excavation from which sand, gravel, clay or aggregate are extracted, usually for construction purposes. A feature was given this designation where there was no label associated with a borrow pit symbol or it was only labeled "Pit". The designation was also used if no Ftr_Type domain existed for a descriptive label associated with a borrow pit symbol. In these cases, the descriptive label was entered in the Ftr_Name field. Some examples: Shale Pit, Gypsum Pit, Marl Pit, Asphalt Pit, Coal Pit, and Rock Pit.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Hydraulic Mine
+          Enumerated_Domain_Value_Definition: A mine where material is mined using high-pressure jets of water to break up the ore and wash it to the processing site. The method has been typically used in placer gold mines in California.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Iron Pit
+          Enumerated_Domain_Value_Definition: An opening or excavation in the ground for the purpose of extracting iron.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Leach Pond
+          Enumerated_Domain_Value_Definition: An artificial pond that is designed to collect leach solution. The leach solution results when mined ore, typically crushed into small chunks, is heaped on an impermeable plastic and/or clay lined leach pad and irrigated with a leach solution to dissolve valuable metals.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Lignite Pit
+          Enumerated_Domain_Value_Definition: An opening or excavation in the ground for the purpose of extracting lignite.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Mill Site
+          Enumerated_Domain_Value_Definition: The site of a mineral processing plant. A plant referred to as a "mill" usually involves crushing and grinding as a part of the process.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Mine
+          Enumerated_Domain_Value_Definition: This generic term was used when a label containing the word 'mine' appeared on a map with no corresponding map symbol. A point was put in the center of the label or on the nearest building symbol along with the appropriate standardized remark. For example, a label of 'John Doe Mine' appeared on a map with no corresponding symbolization (point or polygon). A point was put in the center of the label, Ftr_Type = Mine, Ftr_Name = John Doe Mine, and "Label without symbol. Point placed at center of label and feature type inferred from label" was entered in the Remarks field.
+          Enumerated_Domain_Value_Definition_Source: USGS Authors
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Mine Dump
+          Enumerated_Domain_Value_Definition: A pile of material excavated from a mine and then transported and dumped in a heap or pile at or near a mine opening or open pit. Also called a waste dump, heap, pile, or spoil pile.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Mine Shaft
+          Enumerated_Domain_Value_Definition: A vertical or inclined excavation used for the purpose of opening, servicing, and accessing an underground mine. It may be equipped with a hoist at the top or collar, which lowers and raises a conveyance for transporting rock, people and mining equipment.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Open Pit Mine
+          Enumerated_Domain_Value_Definition: A mine working or excavation that is open to the surface. Also referred to as an open cut or open cast mine. The USGS topographic map symbol for open pit mine and quarry is the same, so the designation was used only when the symbol was labeled “mine”.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Open Pit Mine or Quarry
+          Enumerated_Domain_Value_Definition: Designation used when the open pit mine/quarry symbol on a topographic map had no distinguishing label.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Ore Stockpile/Storage
+          Enumerated_Domain_Value_Definition: A location where ore materials are stored as piles after being removed from the mine and before being processed. The material is then transported to a process plant or site.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Placer Mine
+          Enumerated_Domain_Value_Definition: A mine where unconsolidated material such as sand, gravel, talus or regolith is mined to extract valuable material.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Prospect Pit
+          Enumerated_Domain_Value_Definition: A shallow pit excavated for the purpose of exposing mineralization and/or extracting sample material. Named a “Prospect” in the USGS topographic map legend.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Pumice Pit
+          Enumerated_Domain_Value_Definition: An opening or excavation in the ground for the purpose of extracting pumice. Sometimes these features were labeled "Pumice Mine" which was entered in the Ftr_Name field.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Quarry
+          Enumerated_Domain_Value_Definition: An open or surface mineral excavation usually for the extraction of stone. It is distinguished from a mine based on geometry (a quarry is open at the top and front) and by the material being extracted. The USGS topographic map symbol for open pit mine and quarry is the same, so the designation was used only when the symbol was labeled “quarry”.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Quarry - Gypsum
+          Enumerated_Domain_Value_Definition: An open or surface mineral working for the purpose of extracting gypsum.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Quarry - Limestone
+          Enumerated_Domain_Value_Definition: An open or surface mineral working for the purpose of extracting limestone.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Quarry - Pumice
+          Enumerated_Domain_Value_Definition: An open or surface mineral working for the purpose of extracting pumice.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Quarry - Rock
+          Enumerated_Domain_Value_Definition: An open or surface mineral working for the purpose of extracting rock.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Salt Evaporator
+          Enumerated_Domain_Value_Definition: An area of ground that is being used to evaporate brine to produce salt.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Sand and Gravel Pit
+          Enumerated_Domain_Value_Definition: An opening or excavation in the ground for the purpose of extracting sand and gravel.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Sand Pit
+          Enumerated_Domain_Value_Definition: An opening or excavation in the ground for the purpose of extracting sand.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Scoria Pit
+          Enumerated_Domain_Value_Definition: An opening or excavation in the ground for the purpose of extracting scoria.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Settling Pond
+          Enumerated_Domain_Value_Definition: A pond, natural or artificial, for recovering solids from watery effluent.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Shale Pit
+          Enumerated_Domain_Value_Definition: An opening or excavation in the ground for the purpose of extracting shale.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Shell Pit
+          Enumerated_Domain_Value_Definition: An opening or excavation in the ground for the purpose of extracting shells.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Silica Mine
+          Enumerated_Domain_Value_Definition: A mine working or excavation in the ground for the purpose of extracting silica.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Slag Pile
+          Enumerated_Domain_Value_Definition: A pile of slag which is waste from the smelting of ore.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Strip Mine
+          Enumerated_Domain_Value_Definition: A surface mine in which ore is exposed by removal of overburden (barren material). Coal, numerous nonmetals, and metallic ore deposits may be mined in this manner. May also be referred to as open cast mines.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Tailings - Dredge
+          Enumerated_Domain_Value_Definition: Sand and gravel that was mined and processed by a dredge. Dredge tailings typically occur as regularly spaced, curved mounds of sand and gravel in streambeds.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Tailings - Mill
+          Enumerated_Domain_Value_Definition: The gangue and other refuse material resulting from the washing, concentration, or treatment of ground ore.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Tailings - Placer
+          Enumerated_Domain_Value_Definition: Undifferentiated placer tailings include mounds and curved rills (material rolled down a slope) of sand and gravel that were mined and processed by placer methods.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Tailings - Pond
+          Enumerated_Domain_Value_Definition: An area closed at the lower end by a constraining wall or dam into which tailings, mineral processing waste, containing a high proportion of water are deposited. The pond is generally impounded with a dam, referred to as a tailings dam. Also known as tailings impoundments.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Tailings - Undifferentiated
+          Enumerated_Domain_Value_Definition: The gangue and other refuse material resulting from the washing, concentration, or other treatment of ground ores. Also called slimes, tails, refuse, and leach residue.  Generally differentiated from mine dumps on topographic maps by label only.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Tipple
+          Enumerated_Domain_Value_Definition: Originally the place where the mine cars were tipped and emptied of their coal, and still used in that sense, but more generaly applied to the surface structures of a mine, including the preparation plant and loading tracks.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Trench
+          Enumerated_Domain_Value_Definition: A long, narrow surface excavation, usually created by a bulldozer, excavator or backhoe, that exposes rock buried under shallow overburden. Rock exposed in trenches is mapped and sampled as part of the exploration process.
+          Enumerated_Domain_Value_Definition_Source: American Geological Institute (1997)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Uranium Mine
+          Enumerated_Domain_Value_Definition: A mine working or excavation in the ground for the purpose of extracting uranium.
+          Enumerated_Domain_Value_Definition_Source: USGS Authors
+    Attribute:
+      Attribute_Label: Ftr_Name
+      Attribute_Definition: The name of the mine feature as labeled on the topographic map. Could also contain descriptive labels associated with some features.
+      Attribute_Definition_Source: USGS Authors
+      Attribute_Domain_Values:
+        Unrepresentable_Domain:
+          The name of the feature as labeled on the topographic map. This could be a proper name like “Carlin Mine” or “Johnson Shaft” or may contain other descriptive parts of the label depending on the Ftr_Type. For example, "Tunnel", "Pit", "Mine", "Cave", or "Reclaimed Area". Descriptors were recorded where the map label clarified a symbol (e.g. a “Mine” label was adjacent to an adit symbol). This field was also used for any descriptive labels of features that do not have their own feature type. For example: a gravel/borrow pit symbol with a label of "Slate Pit". The Ftr_Type is 'Gravel/Borrow Pit - Undifferentiated' and the Ftr_Name is "Slate Pit".
+          When a map label name was surrounded by numerous symbols, the closest major symbol received the name. For example, if a feature label name was surrounded by prospect pit and adit symbols on the map, the name would be applied to the closest adit symbol. In the rare case where more than three proper mine names were within the same polygon, the Ftr_Name was attributed "Jack's Mine; and others - see Remarks" and the Remarks field contains the other names.
+    Attribute:
+      Attribute_Label: Ftr_Azimuth
+      Attribute_Definition: Approximate direction of an adit symbol, measured as degrees of clockwise rotation from a horizontal angle from North.
+      Attribute_Definition_Source: USGS Authors
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 360
+          Attribute_Units_of_Measure: Degree
+    Attribute:
+      Attribute_Label: Topo_Name
+      Attribute_Definition: The USGS topographic map name.
+      Attribute_Definition_Source: USGS Authors
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: The name of the USGS topographic map as it appears on the printed map. Quadrangle names are occasionally used in two or more states and thus are non-unique. In addition, some quadrangle map names change through time.
+    Attribute:
+      Attribute_Label: Topo_Date
+      Attribute_Definition: The date of the USGS topographic map.
+      Attribute_Definition_Source: USGS Authors
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: The year of the USGS topographic map as it appears on the printed map. If a map also has a photorevision date, the photorevised year is used for those mine features digitized from symbols which are revised and shown in the pink photorevised color. Where topographic quadrangles have multiple versions, the date reflects the first appearance of a mine symbol on a map. For instance, an adit symbol is shown on a topographic map printed in 1960, 1970, and 1980. The value of “Topo_Date” is 1960. The database does not indicate rare cases when symbols are removed from later versions of a map.
+    Attribute:
+      Attribute_Label: Topo_Scale
+      Attribute_Definition: The USGS topographic map scale.
+      Attribute_Definition_Source: USGS Authors
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 24000
+          Enumerated_Domain_Value_Definition: The representative fraction scale of the source map is 1:24,000.
+          Enumerated_Domain_Value_Definition_Source: USGS Authors
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 25000
+          Enumerated_Domain_Value_Definition: The representative fraction scale of the source map is 1:25,000.
+          Enumerated_Domain_Value_Definition_Source: USGS Authors
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 48000
+          Enumerated_Domain_Value_Definition: The representative fraction scale of the source map is 1:48,000.
+          Enumerated_Domain_Value_Definition_Source: USGS Authors
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 62500
+          Enumerated_Domain_Value_Definition: The representative fraction scale of the source map is 1:62,500.
+          Enumerated_Domain_Value_Definition_Source: USGS Authors
+    Attribute:
+      Attribute_Label: CompiledBy
+      Attribute_Definition: Agency responsible for primary data capture.
+      Attribute_Definition_Source: USGS Authors
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: The majority of the data were captured by USGS contractor personnel via heads-up digitizing of mine symbols and labels on scanned topographic maps. Point data from 1:24,000-scale maps for the states of California and Nevada were obtained from the California Department of Conservation ("CA Dept Conserv") and the Nevada Bureau of Mines and Geology (NBMG). The obtained data were reviewed and modified to include point and polygon features from older versions of maps, and to conform to the USGS attribute schema.
+    Attribute:
+      Attribute_Label: Remarks
+      Attribute_Definition: Additional information pertaining to digitized mine features; standardized when possible.
+      Attribute_Definition_Source: USGS Authors
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Feature crosses into and digitized on <Topo_Date> <Topo_Name> map.
+          Enumerated_Domain_Value_Definition: Used when a polygon feature crossed a quadrangle boundary and was digitized from more than one map. For example, the extent of a gravel pit polygon crosses a 1:24,000 quadrangle boundary and is digitized from a 1982 Globe and a 1982 Inspiration map. The quadrangle containing the largest extent of the polygon (1982 Globe map) was entered into the Topo_Date and Topo_Name field and "Feature crosses into and digitized on 1982 Inspiration map" was entered in the Remarks field.
+          Enumerated_Domain_Value_Definition_Source: USGS Authors
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Feature designated as <Ftr_Type> from feature on 19xx map.
+          Enumerated_Domain_Value_Definition: Denotes where point/polygon features on one map were used to attribute a point/polygon on a different year version of the map. For example, a 1950 map had numerous point symbols labeled as “gravel pits”. A 1980 map had an unlabeled polygon that overlaps these point symbols. The unlabeled polygon was assigned the Ftr_Type of 'Gravel Pit' and "Feature designated as Gravel Pit from feature on 1950 map" was entered in the Remarks field.
+          Enumerated_Domain_Value_Definition_Source: USGS Authors
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Inferred <Ftr_Type> from adjacent feature.
+          Enumerated_Domain_Value_Definition: Used when an unlabeled feature (usually generic disturbed surface polygon) was assigned the Ftr_Type of a nearby or adjacent labeled feature.
+          Enumerated_Domain_Value_Definition_Source: USGS Authors
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Labeled as abandoned.
+          Enumerated_Domain_Value_Definition: Used when a map symbol was labeled “abandoned”.
+          Enumerated_Domain_Value_Definition_Source: USGS Authors
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Labeled as active.
+          Enumerated_Domain_Value_Definition: Used when a map symbol was labeled “active”.
+          Enumerated_Domain_Value_Definition_Source: USGS Authors
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Labeled as inactive.
+          Enumerated_Domain_Value_Definition: Used when a map symbol was labeled “inactive”.
+          Enumerated_Domain_Value_Definition_Source: USGS Authors
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Labeled as <Ftr_Type> on 19xx map.
+          Enumerated_Domain_Value_Definition: Used when the label (not the symbol) of a feature changes on a different year version of the map. For example, a borrow pit symbol on a 1950 map was unlabeled. On the 1980 version of the map, the same symbol was labeled "gravel pit". The Ftr_Type was changed to 'Gravel Pit', and "Labeled as Gravel Pit on 1980 map" was entered in the Remarks field.
+          Enumerated_Domain_Value_Definition_Source: USGS Authors
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Label without symbol. Point placed on building symbol and feature type inferred from label.
+          Enumerated_Domain_Value_Definition: Used when a mine name was adjacent to a generic circle or square building symbol on the map. If more than one building symbol was near the map label, then the remark below was used.
+          Enumerated_Domain_Value_Definition_Source: USGS Authors
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Label without symbol. Point placed at center of label and feature type inferred from label.
+          Enumerated_Domain_Value_Definition: Used when a label (typically a mine name) had no corresponding map symbol. In these cases, a point was digitized at the center of the label and this remark was entered in the Remarks field.
+          Enumerated_Domain_Value_Definition_Source: USGS Authors
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Named on 19xx map.
+          Enumerated_Domain_Value_Definition: Used when a label appeared on a later version of a map. For example, a mine shaft symbol on a 1950 map had no label. A 1980 map had the same mine shaft with the label "John Doe Mine". The 1950 feature was attributed "John Doe Mine" in the Ftr_Name field and "Named on 1980 map" was entered in the Remarks field.
+          Enumerated_Domain_Value_Definition_Source: USGS Authors
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Reference map USGS DRG
+          Enumerated_Domain_Value_Definition: Denotes when the topographic map was not available from the HTMC archive at the time of digitizing. In these cases, a slightly lower resolution digital raster graphic (DRG) version of the map was used. Features digitized from these maps have no attributes in the GDA_ID or ScanID fields; since no HTMC map was used.
+          Enumerated_Domain_Value_Definition_Source: USGS Authors
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Symbolized as <Ftr_Type>, but labeled <Ftr_Type>.
+          Enumerated_Domain_Value_Definition: Used when a symbolized feature type was labeled as a different feature type. For example, an open pit mine or quarry symbol was labeled as “gravel pit” on the map. The Ftr_Type entered was 'Gravel Pit' and "Symbolized as Open Pit Mine or Quarry, but labeled Gravel Pit" was entered in the Remarks field.
+          Enumerated_Domain_Value_Definition_Source: USGS Authors
+    Attribute:
+      Attribute_Label: GDA_ID
+      Attribute_Definition: Geospatial Data Architecture identification number
+      Attribute_Definition_Source: USGS Authors
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Geospatial Data Architecture (GDA) is a USGS National Geospatial Program repository for cell-based or rectangular area map products. The GDA ID is a permanent and unique reference to every product instance. This number can be used to download the referenced topographic map from the Historic Topographic Map Collection (HTMC) (https://nationalmap.gov/historical/) by entering it in the Map Name of the HTMC text query application or the HTMC TopoView web mapping application.
+    Attribute:
+      Attribute_Label: ScanID
+      Attribute_Definition: HTMC map scan identification number.
+      Attribute_Definition_Source: USGS Authors
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: A unique 6- or 7-digit integer assigned to scanned maps archived at the HTMC. This number changes if a map is re-scanned. This number can be used to download the referenced topographic map from the Historic Topographic Map Collection (HTMC) (https://nationalmap.gov/historical/) by entering it in the Map Name of the HTMC text query application or the HTMC TopoView web mapping application.
+  Overview_Description:
+    Entity_and_Attribute_Overview: The entity and attribute information provided here describes the tabular data associated with the six point and polygon feature classes in the file geodatabase (see "Supplemental Information" for details). The structure of the attribute table was generated by the USGS authors of this dataset. Please review the detailed descriptions that are provided (the individual attribute descriptions) for information on the values that appear as fields/table entries of the dataset.
+    Entity_and_Attribute_Detail_Citation: The entity and attribute values were generated by the USGS authors of this dataset. Where possible, consistent terminology was used to describe mine features. Please review the metadata record for additional details and information.
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: U.S. Geological Survey - ScienceBase
+      Contact_Address:
+        Address_Type: mailing address
+        Address: Denver Federal Center, Building 810, Mail Stop 302
+        City: Denver
+        State_or_Province: CO
+        Postal_Code: 80225
+        Country: USA
+      Contact_Voice_Telephone: 1-888-ASK-USGS (1-888-275-8747)
+      Contact_Electronic_Mail_Address: sciencebase@usgs.gov
+  Resource_Description: Downloadable Data
+  Distribution_Liability:
+    This database, identified as USGS Data Release https://doi.org/10.5066/F78W3CHG, has been approved for release and publication by the U.S. Geological Survey (USGS). Although this database has been subjected to rigorous review and is substantially complete, the USGS reserves the right to revise the data pursuant to further analysis and review. Furthermore, it is released on condition that neither the USGS nor the United States Government may be held liable for any damages resulting from its authorized or unauthorized use.
+    Although these data have been processed successfully on a computer system at the U.S. Geological Survey (USGS), no warranty expressed or implied is made regarding the display or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. The USGS or the U.S. Government shall not be held liable for improper or incorrect use of the data described and/or contained herein.
+    Any use of trade, product or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Geological Survey.
+    Permission to reproduce copyrighted items must be secured from the copyright owner.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: File geodatabase
+        Format_Version_Number: 10.5.1
+        File_Decompression_Technique: Unzip
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: https://doi.org/10.5066/F78W3CHG
+    Fees: None. No fees are applicable for obtaining the data set.
+Metadata_Reference_Information:
+  Metadata_Date: 20180430
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: John D. Horton
+        Contact_Organization: U.S. Geological Survey, Southwest Region
+      Contact_Position: Physical Scientist
+      Contact_Address:
+        Address_Type: mailing address
+        Address: Denver Federal Center, PO Box 25046
+        Address: MS 973
+        City: Denver
+        State_or_Province: CO
+        Postal_Code: 80225-0046
+        Country: USA
+      Contact_Voice_Telephone: 303-236-1921
+      Contact_Facsimile_Telephone: 303-236-3200
+      Contact_Electronic_Mail_Address: jhorton@usgs.gov
+  Metadata_Standard_Name: FGDC Content Standard for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
