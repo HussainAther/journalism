@@ -1,8 +1,6 @@
 # Journalism tools
 
-Results summary can be found here: https://hussainather.com/2019/06/25/data-based-analysis-reveals-data-science-job-prospects/
-
-These tools are for data journalists and other writers and researchers to use in reporting stories. The scripts are found in the corresponding language in the `src` directory. Data was obtained from Corey Seliger and Megan Sapp Nelson of Purdue University through the Purdue University Research Repository (PURR). The raw input data files are found in `data`, and the output files are created and stored in `output`.
+These tools are for data journalists and other writers and researchers to use in reporting stories. The scripts are found in the corresponding language in the `src` directory. The raw input data files are found in `data`, and the output files are created and stored in `output`.
  
 ## How to use these tools
 
