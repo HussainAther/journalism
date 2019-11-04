@@ -2,6 +2,10 @@
 
 Run these python scripts to analyze data. Each python script begins with `import` statements that let the user import functions and modules from various classes. Then there are lines that are separated by `"""`. These lines are commented out.
 
+* `arcread.py` and `arcread2.py`: These scripts read the input ArcGIS files.
+    - Usage: `python arcread.py`
+    - Requirements: [arcpy](https://anaconda.org/esri/arcpy)
+
 * `citeToCSV.py` : This script converts a list of citations into a readable .csv with a panda DataFrame as a middle product.
     - Usage: `python citeToCSV.py citationsfile`  
       - For example: `python citetocsv.py ../../data/citation/statllcpub.txt`
