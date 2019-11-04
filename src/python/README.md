@@ -2,11 +2,11 @@
 
 Run these python scripts to analyze data. Each python script begins with `import` statements that let the user import functions and modules from various classes. Then there are lines that are separated by `"""`. These lines are commented out.
 
-* `arcread.py` and `arcread2.py`: These scripts read the input ArcGIS files.
+* In `arc`, `arcread.py` and `arcread2.py`: These scripts read the input ArcGIS files.
     - Usage: `python arcread.py`
     - Requirements: [arcpy](https://anaconda.org/esri/arcpy)
 
-* `citeToCSV.py` : This script converts a list of citations into a readable .csv with a panda DataFrame as a middle product.
+* In `citation`, `citeToCSV.py` : This script converts a list of citations into a readable .csv with a panda DataFrame as a middle product.
     - Usage: `python citeToCSV.py citationsfile`  
       - For example: `python citetocsv.py ../../data/citation/statllcpub.txt`
     - Requirements: [pandas](https://anaconda.org/anaconda/pandas), [matplotlib](https://anaconda.org/conda-forge/matplotlib).
@@ -14,7 +14,7 @@ Run these python scripts to analyze data. Each python script begins with `import
     - Comments in the input files must begin with #.
     - Uses pandas as a method of storing and manipulating data with DataFRames and matplotlib for plotting graphs.
 
-* `curriculaAnalysis.py` : This script analyzes the Data Science curricula across universities. 
+* In `curricula`, `curriculaAnalysis.py` : This script analyzes the Data Science curricula across universities. 
     - Usage: `python curriculaAnalysis.py`
     - Requirements: pandas, matplotlib.
     - Uses the curricula `.csv` files in the `data/curricula` directory as input.
