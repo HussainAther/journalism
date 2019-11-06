@@ -41,6 +41,8 @@ Run these python scripts to analyze data. Each python script begins with `import
     - Usage: `python src/python/franciscan/read.py`
     - Requirements: [json](https://anaconda.org/jmcmurray/json), pandas.
 
+* In `geophysical`, `grd.py` : Generic script to read a .grd file.
+
 * In `postings`, `extractInfo.py` : This script extracts additional info from the raw input data.
     - Usage: `python extractInfo.py`
     - Requirements: pandas, matplotlib.
