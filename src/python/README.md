@@ -99,4 +99,24 @@ Run these python scripts to analyze data. Each python script begins with `import
 
 * In `rock`, `read.py` : This reads data on igneous rocks in the US extracted from the PLUTO database.
     - Usage: `python src/python/rock/read.py`
-    - Requirements: geopandas, matplotlib, pandas. 
+    - Requirements: geopandas, matplotlib, pandas.
+
+* In `santacruz/airborne`, `csvread.py` : This maps the csv files of magnetic and radiometric of Santa Cruz.
+    - Usage: `python src/python/santacruz/airborne/csvread.py`
+    - Requirements: matplotlib, numpy, pandas, seaborn.
+    
+  * `knn.py`, `lr.py`, and `svm.py` : These three scripts perform k-nearest neighbors clustering, logistic regression, and support vector machine classification.
+    - Usage: `python src/python/santacruz/airborne/knn.py`
+    - Requirements: matplotlib, pandas, seaborn, scikit-learn.
+
+* In `santacruz/asbestos`, `read.py` : This reads and maps asbestos mines.
+    - Usage: `python src/python/santacruz/asbestos/read.py`
+    - Requirements: geopandas, matplotlib, pandas, [shapely](https://anaconda.org/conda-forge/shapely).
+
+* In `santacruz/usmin`, `read.py` : This maps historical USGS topographic maps of the Santa Cruz area.
+    - Usage: `python src/python/santacruz/usmin/read.py`
+    - Requirements: geopandas, matplotlib, numpy.
+
+* In `santacruz/volc`, `volc.py` : This reads data on tertiary granitic rocks in the area.
+    - Usage: `python src/python/santacruz/volc/volc.py`
+    - Requirements: json, pandas. 
