@@ -30,12 +30,16 @@ Run these python scripts to analyze data. Each python script begins with `import
     - Uses the curricula `.csv` files in the `data/curricula` directory as input.
 
 * In `defaunation`, `graphy.py` : This creates graphs of the various studies used in _Gardner et al., 2019_.
-    - Usage: `python src/python/graph.py`
+    - Usage: `python src/python/defaunation/graph.py`
     - Requirements: matplotlib, numpy, pandas.
 
   * `stat.py` : Testing some statistics functions on the paper. 
-    - Usage: `python src/python/stat.py`
-    - Requirements: matplotlib, numpy, pandas, [researchpy](https://anaconda.org/researchpy/researchpy). 
+    - Usage: `python src/python/defaunation/stat.py`
+    - Requirements: matplotlib, numpy, pandas, [researchpy](https://anaconda.org/researchpy/researchpy).
+
+* In `franciscan`, `read.py` : Read the JSON file of crust formation data of the Western Cordillera (Franciscan equivalents) and print it in DataFrame form. 
+    - Usage: `python src/python/franciscan/read.py`
+    - Requirements: [json](https://anaconda.org/jmcmurray/json), pandas.
 
 * In `postings`, `extractInfo.py` : This script extracts additional info from the raw input data.
     - Usage: `python extractInfo.py`
