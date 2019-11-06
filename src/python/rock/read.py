@@ -3,7 +3,6 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 from geopandas.tools import sjoin
-from shapely import wkt
 
 """
 Rocks.
