@@ -43,6 +43,14 @@ Run these python scripts to analyze data. Each python script begins with `import
 
 * In `geophysical`, `grd.py` : Generic script to read a .grd file.
 
+* In `mineral`, `mine.py`, `mineplant.py`, `shapefileread.py`, `specificmine.py`, `uscopper.py`, `usmanganese.py`, and `usplatinum.py` : These scripts analyze the active mines and mineral plants in the US 
+    - Usage: `python src/python/mineral/mine.py`
+    - Requirements: [basemap](https://anaconda.org/anaconda/basemap), [chart_studio](https://anaconda.org/plotly/chart-studio), [ipython](https://anaconda.org/anaconda/ipython), matplotlib, numpy, pandas, [plotly](https://anaconda.org/plotly/plotly), [pyshp](https://anaconda.org/conda-forge/pyshp)
+
+  * `svm.py` : This script creates a decision boundary as part of a support vector machine in classifying the data.
+    - Usage: `python src/python/mineral/svm.py`
+    - Requirements: geopandas, matplotlib, numpy, pandas, [scikit-learn](https://anaconda.org/anaconda/scikit-learn), seaborn. 
+
 * In `postings`, `extractInfo.py` : This script extracts additional info from the raw input data.
     - Usage: `python extractInfo.py`
     - Requirements: pandas, matplotlib.
@@ -53,7 +61,7 @@ Run these python scripts to analyze data. Each python script begins with `import
     - Requirements: pandas.
   * `latentAnalysis.py` : This script performs latent analysis of the semantics of the job descriptions.
     - Usage: `python latentAnalysis.py`
-    - Requirements: [gensim](https://anaconda.org/anaconda/gensim), [ipython](https://anaconda.org/anaconda/ipython), [keras](https://anaconda.org/conda-forge/keras), matplotlib, [nltk](https://anaconda.org/anaconda/gensimv), pandas, [pyLDAvis](https://anaconda.org/conda-forge/pyldavis), [basemap](https://anaconda.org/anaconda/basemap),[scikit-learn](https://anaconda.org/anaconda/scikit-learn), [seaborn](https://anaconda.org/anaconda/seaborn), [stop_words](https://anaconda.org/conda-forge/r-stopwords), [wordcloud](https://anaconda.org/conda-forge/wordcloud). 
+    - Requirements: [gensim](https://anaconda.org/anaconda/gensim), [ipython](https://anaconda.org/anaconda/ipython), [keras](https://anaconda.org/conda-forge/keras), matplotlib, [nltk](https://anaconda.org/anaconda/gensimv), pandas, [pyLDAvis](https://anaconda.org/conda-forge/pyldavis), [basemap](https://anaconda.org/anaconda/basemap), scikit-learn], [seaborn](https://anaconda.org/anaconda/seaborn), [stop_words](https://anaconda.org/conda-forge/r-stopwords), [wordcloud](https://anaconda.org/conda-forge/wordcloud). 
     - Input zip files can be downloaded from https://www.dropbox.com/sh/713fruhtcqlj28s/AAAIFwRfcrGL4leUlsJzVhgGa?dl=0 
     - You must have unzipped the `raw.zip` file and `postings.csv.zip` in `data/postings` before running.
     - Uses gensim, nltk, pLDAvis, scikit-learn, and stop_words to perform the analysis, pandas for data manipulation, and matplotlib, seaborn, and wordcloud for plotting.
