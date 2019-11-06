@@ -16,7 +16,7 @@ Run these python scripts to analyze data. Each python script begins with `import
 
 * In `criticalmaterials`, `graph.py`, `prepare.py` and `table.py` : These scripts produce graphs of critical minerals across the world.
     - Usage: `python src/criticalminerals/graph.py`
-    - Requirements: [geopandas](https://anaconda.org/conda-forge/geopandas), [geoplot](https://anaconda.org/conda-forge/geoplot), [numpy](https://anaconda.org/anaconda/numpy), [pyshp](https://anaconda.org/conda-forge/pyshp). 
+    - Requirements: [bokeh](https://anaconda.org/bokeh/bokeh), [geopandas](https://anaconda.org/conda-forge/geopandas), [geoplot](https://anaconda.org/conda-forge/geoplot), [numpy](https://anaconda.org/anaconda/numpy), [pyshp](https://anaconda.org/conda-forge/pyshp). 
     - Uses the input shapefile in `data/criticalminerals`.
 
 * In `curricula`, `curriculaAnalysis.py` : This script analyzes the Data Science curricula across universities. 
