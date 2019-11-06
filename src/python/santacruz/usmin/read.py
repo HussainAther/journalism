@@ -1,8 +1,6 @@
-import shapefile
+import matplotlib.pyplot as plt
 import numpy as np
 import geopandas as gpd
-
-import matplotlib.pyplot as plt
 
 fp = "data/santacruz/usmin/poly.shp"
 
