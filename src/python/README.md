@@ -47,9 +47,17 @@ Run these python scripts to analyze data. Each python script begins with `import
     - Usage: `python src/python/mineral/mine.py`
     - Requirements: [basemap](https://anaconda.org/anaconda/basemap), [chart_studio](https://anaconda.org/plotly/chart-studio), [ipython](https://anaconda.org/anaconda/ipython), matplotlib, numpy, pandas, [plotly](https://anaconda.org/plotly/plotly), [pyshp](https://anaconda.org/conda-forge/pyshp)
 
-  * `svm.py` : This script creates a decision boundary as part of a support vector machine in classifying the data.
+  * `svm.py` : This script creates a decision boundary as part of a support vector machine (SVM) in classifying the data.
     - Usage: `python src/python/mineral/svm.py`
     - Requirements: geopandas, matplotlib, numpy, pandas, [scikit-learn](https://anaconda.org/anaconda/scikit-learn), seaborn. 
+
+* In `nicr`, `table.py` and `usmap.py` : These scripts create maps and tables of Ni-Cr deposits across the US and the world.
+    - Usage: `python src/python/nicr/table.py`
+    - Requirements: matplotlib, numpy, pandas.
+
+  * `svm.py` : This script uses an SVM to extract information and draw trends from platinum-group elements (PGE) with nickel and chromium mineralization. 
+    - Usage: `python src/python/nicr/svm.py`
+    - Requirements: matplotlib, numpy, pandas, scikit-learn.
 
 * In `postings`, `extractInfo.py` : This script extracts additional info from the raw input data.
     - Usage: `python extractInfo.py`
