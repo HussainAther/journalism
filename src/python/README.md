@@ -51,6 +51,15 @@ Run these python scripts to analyze data. Each python script begins with `import
     - Usage: `python src/python/mineral/svm.py`
     - Requirements: geopandas, matplotlib, numpy, pandas, [scikit-learn](https://anaconda.org/anaconda/scikit-learn), seaborn. 
 
+* In `misc,` `uncertainty.py` : This script has simple statistics tests for evaluating uncertainty.
+    - Usage: `python uncertainty.py`
+    - Requirements: matplotlib, numpy.
+
+  * `visualizeDataset.py` : This script creates an example dataset and plots it.
+    - Usage: `python visualizeDataset.py`
+    - Requirements: matplotlib, pandas, [seaborn](https://anaconda.org/anaconda/seaborn). 
+    - Uses matplotlib and seaborn for plotting and pandas for data manipulation.
+
 * In `nicr`, `table.py` and `usmap.py` : These scripts create maps and tables of Ni-Cr deposits across the US and the world.
     - Usage: `python src/python/nicr/table.py`
     - Requirements: matplotlib, numpy, pandas.
@@ -88,11 +97,6 @@ Run these python scripts to analyze data. Each python script begins with `import
     - You must have unzipped the `raw.zip` file and `postings.csv.zip` in `data/postings` before running.
     - Uses gensim for latent analysis and matplotlib and numpy for plotting. 
 
-* In `misc,` `uncertainty.py` : This script has simple statistics tests for evaluating uncertainty.
-    - Usage: `python uncertainty.py`
-    - Requirements: matplotlib, numpy.
-
-  * `visualizeDataset.py` : This script creates an example dataset and plots it.
-    - Usage: `python visualizeDataset.py`
-    - Requirements: matplotlib, pandas, [seaborn](https://anaconda.org/anaconda/seaborn). 
-    - Uses matplotlib and seaborn for plotting and pandas for data manipulation.
+* In `rock`, `read.py` : This reads data on igneous rocks in the US extracted from the PLUTO database.
+    - Usage: `python src/python/rock/read.py`
+    - Requirements: geopandas, matplotlib, pandas. 
