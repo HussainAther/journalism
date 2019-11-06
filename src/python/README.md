@@ -14,6 +14,11 @@ Run these python scripts to analyze data. Each python script begins with `import
     - Comments in the input files must begin with #.
     - Uses pandas as a method of storing and manipulating data with DataFRames and matplotlib for plotting graphs.
 
+* In `criticalmaterials`, `graph.py`, `prepare.py` and `table.py` : These scripts produce graphs of critical minerals across the world.
+    - Usage: `python src/criticalminerals/graph.py`
+    - Requirements: [geopandas](https://anaconda.org/conda-forge/geopandas), [geoplot](https://anaconda.org/conda-forge/geoplot), [numpy](https://anaconda.org/anaconda/numpy), [pyshp](https://anaconda.org/conda-forge/pyshp). 
+    - Uses the input shapefile in `data/criticalminerals`.
+
 * In `curricula`, `curriculaAnalysis.py` : This script analyzes the Data Science curricula across universities. 
     - Usage: `python curriculaAnalysis.py`
     - Requirements: pandas, matplotlib.
@@ -45,7 +50,7 @@ Run these python scripts to analyze data. Each python script begins with `import
     - Usage: `python postingAnalysis.py`
     - This file must be run after running `extractInfo.py`.
     - Uses the `extracted.csv` file in the `output/postings` as input.
-    - Requirements: [basemap](https://anaconda.org/anaconda/basemap), [numpy](https://anaconda.org/anaconda/numpy), matplotlib, pandas, [proj4](https://anaconda.org/conda-forge/proj), scikit-learn.
+    - Requirements: [basemap](https://anaconda.org/anaconda/basemap), numpy, matplotlib, pandas, [proj4](https://anaconda.org/conda-forge/proj), scikit-learn.
     - Uses numpy for numerical operations, pandas for data manipulation, scikit-learn for machine learning, and basemap and proj4 for plotting.
 
 * `tfidf.py`: This script performs latent analysis by outputting word similarity and frequency statistics for a set of documents.
