@@ -20,7 +20,7 @@ Run these python scripts to analyze data. Each python script begins with `import
     - Uses pandas for data manipulation.
 
 * In `criticalmaterials`, `graph.py`, `prepare.py` and `table.py` : These scripts produce graphs of critical minerals across the world.
-    - Usage: `python src/criticalminerals/graph.py`
+    - Usage: `python src/python/criticalminerals/graph.py`
     - Requirements: [bokeh](https://anaconda.org/bokeh/bokeh), [geopandas](https://anaconda.org/conda-forge/geopandas), [geoplot](https://anaconda.org/conda-forge/geoplot), [numpy](https://anaconda.org/anaconda/numpy), [pyshp](https://anaconda.org/conda-forge/pyshp). 
     - Uses the input shapefile in `data/criticalminerals`.
 
@@ -28,6 +28,14 @@ Run these python scripts to analyze data. Each python script begins with `import
     - Usage: `python curriculaAnalysis.py`
     - Requirements: pandas, matplotlib.
     - Uses the curricula `.csv` files in the `data/curricula` directory as input.
+
+* In `defaunation`, `graphy.py` : This creates graphs of the various studies used in _Gardner et al., 2019_.
+    - Usage: `python src/python/graph.py`
+    - Requirements: matplotlib, numpy, pandas.
+
+  * `stat.py` : Testing some statistics functions on the paper. 
+    - Usage: `python src/python/stat.py`
+    - Requirements: matplotlib, numpy, pandas, [researchpy](https://anaconda.org/researchpy/researchpy). 
 
 * In `postings`, `extractInfo.py` : This script extracts additional info from the raw input data.
     - Usage: `python extractInfo.py`
