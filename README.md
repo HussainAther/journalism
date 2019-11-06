@@ -17,7 +17,7 @@ The required packages are found in the `README.md` file in the directory for a c
 
 ## Sources
 
-Gardner, C.J., Bicknell, J.E., Baldwin-Cantello, W. et al. **Quantifying the impacts of defaunation on natural forest regeneration in a global meta-analysis**. _Nat Commun_ 10, 4590 (2019) doi:10.1038/s41467-019-12539-1
+Gardner, C.J., Bicknell, J.E., Baldwin-Cantello, W. et al. (2019) **Quantifying the impacts of defaunation on natural forest regeneration in a global meta-analysis**. _Nat Commun_ 10, 4590 doi:10.1038/s41467-019-12539-1
 
 Nelson, M. S. (2016). **Scaffolding for data management skills: From undergraduate education through postgraduate training and beyond**. _Purdue University Research Repository_. doi:10.4231/R7QJ7F9R
 
