@@ -17,6 +17,8 @@ The required packages are found in the `README.md` file in the directory for a c
 
 ## Sources
 
+Barry, J.J., Matos, G.R., and Menzie, W.D., 2013, **U.S. mineral dependence—Statistical compilation of U.S. and world mineral production, consumption, and trade**, 1990–2010: U.S. Geological Survey Open-File Report 2013–1184, 6 p., http://pubs.usgs.gov/of/2013/1184.
+
 Gardner, C.J., Bicknell, J.E., Baldwin-Cantello, W. et al. (2019) **Quantifying the impacts of defaunation on natural forest regeneration in a global meta-analysis**. _Nat Commun_ 10, 4590 doi:10.1038/s41467-019-12539-1
 
 Nelson, M. S. (2016). **Scaffolding for data management skills: From undergraduate education through postgraduate training and beyond**. _Purdue University Research Repository_. doi:10.4231/R7QJ7F9R
