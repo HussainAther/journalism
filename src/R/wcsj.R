@@ -72,3 +72,8 @@ state_category_summary <- pfizer %>%
   group_by(state, category) %>%
   summarize(sum = sum(total), median = median(total), count = n()) %>%
   arrange(state, category)
+
+# FDA warning letters sent from the start of 2005 onwards.
+post2005 <- fda %>%
+  filter(issued >= "2005-01-01") %>%
+  arrange(issued)
