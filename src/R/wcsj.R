@@ -18,3 +18,8 @@ summary(pfizer) # Summary of pfizer data
 ca_expert_10000 <- pfizer %>%
   filter(state == "CA" & total >= 10000 & category == "Expert-Led Forums") %>%
   arrange(desc(total))
+
+# Doctors in California *or* New York who were paid $10,000 or more by Pfizer to run “Expert-Led Forums.
+ca_ny_expert_10000 <- pfizer %>%
+  filter((state == "CA" | state == "NY") & total >= 10000 & category == "Expert-Led Forums") %>%
+  arrange(desc(total))
