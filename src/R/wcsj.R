@@ -201,3 +201,9 @@ food_stamps_chart +
 food_stamps_chart +
   geom_line(size = 1.5, color = "red") +
   ggtitle("Line chart")
+
+# Add a second layer to make a dot-and-line chart.
+food_stamps_chart +
+  geom_line() +
+  geom_point() +
+  ggtitle("Dot-and-line chart")
