@@ -6,12 +6,12 @@ can generally be exported from software such as Microsoft Excel.
 
 * `wcsj.R` : This script plots the data from the World Conference of Science Journalists (WCSJ) 2017 workshop R for Data Journalism. 
     - Usage: `R wcsj.R`
-    - Requirements: [ggplot2](https://anaconda.org/r/r-ggplot2), [tidyverse](https://anaconda.org/r/r-tidyverse)
-    - Uses tidyverse for plotting. 
+    - Requirements: [dplyr](https://anaconda.org/r/r-dplyr), [ggplot2](https://anaconda.org/r/r-ggplot2), [readr](https://anaconda.org/conda-forge/r-readr), [tidyverse](https://anaconda.org/r/r-tidyverse)
+    - Uses dplyr for processing data, ggplot2 and tidyverse for plotting, and readr for reading and writing files.
 
 * `techdict.R` : This script creates a technology dictionary for skills and education required for data science jobs. 
     - Usage: `R techdict.R dspos.tsv` 
-    - Requirements: [dplyr](https://anaconda.org/r/r-dplyr), [gdata](https://anaconda.org/anaconda/gdata), ggplot2,  [tidyr](https://anaconda.org/r/r-tidyr).
+    - Requirements: dplyr, [gdata](https://anaconda.org/anaconda/gdata), ggplot2,  [tidyr](https://anaconda.org/r/r-tidyr).
     - Uses gdata, dplyr, and tidyr for manipulating and cleaning data and ggplot2 for plotting. 
 
 * `yearexp.R` : This script plots the number of data science job postings for minimum years and educational requirements for an input `tsv` file.
