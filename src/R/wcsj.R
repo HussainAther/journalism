@@ -221,3 +221,8 @@ food_stamps_chart +
            alpha = 0.5) +
   ggtitle("Column chart")
 
+# Load required package.
+library(scales)
+
+# Load data.
+immun <- read_csv("data/wcsj/kindergarten.csv")
