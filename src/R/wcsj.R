@@ -121,3 +121,9 @@ ggplot(disease_democ, aes(x = infect_rate, y = democ_score)) +
   xlab("Infectious disease prevalence score") + 
   ylab("Democratization score") +
   theme_minimal(base_size = 14, base_family = "Georgia")
+
+# Save chart template, and plot.
+disease_democ_chart <- ggplot(disease_democ, aes(x = infect_rate, y = democ_score)) +
+  xlab("Infectious disease prevalence score") + 
+  ylab("Democratization score") +
+  theme_minimal(base_size = 14, base_family = "Georgia")
