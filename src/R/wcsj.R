@@ -83,3 +83,8 @@ letters_year <- fda %>%
   mutate(year = format(issued, "%Y")) %>%
   group_by(year) %>%
   summarize(letters=n())
+
+# Add new columns showing many days and weeks elapsed since each letter was sent.
+fda <- fda %>%
+  mutate(days_elapsed = Sys.Date() - issued,
+          weeks_elapsed = difftime(Sys.Date(), issued, units = "weeks"))
