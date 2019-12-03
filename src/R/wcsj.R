@@ -51,3 +51,6 @@ not_expert_advice <- pfizer %>%
 
 # Merge/append data frames
 pfizer2 <- bind_rows(expert_advice, not_expert_advice)
+
+# Write expert_advice data to a csv file
+write_csv(expert_advice, "expert_advice.csv", na="")
