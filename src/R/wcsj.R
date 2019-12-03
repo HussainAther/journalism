@@ -8,3 +8,4 @@ pfizer <- read_csv("data/wcsj/pfizer.csv") # Load data of pfizer payments to doc
                                  # and warning letters sent by food and drug 
                                  # adminstration
 fda <- read_csv("data/wcsj/fda.csv")
+str(pfizer) # View structure of data
