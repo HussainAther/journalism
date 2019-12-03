@@ -130,3 +130,7 @@ disease_democ_chart <- ggplot(disease_democ, aes(x = infect_rate, y = democ_scor
 
 # Plot saved chart template.
 plot(disease_democ_chart)
+
+# Add a layer with points.
+disease_democ_chart +
+  geom_point()
