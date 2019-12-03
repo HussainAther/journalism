@@ -66,3 +66,9 @@ state_summary <- pfizer %>%
   group_by(state) %>%
   summarize(sum = sum(total), median = median(total), count = n()) %>%
   arrange(desc(sum))
+
+# As above, but group by state and category.
+state_category_summary <- pfizer %>%
+  group_by(state, category) %>%
+  summarize(sum = sum(total), median = median(total), count = n()) %>%
+  arrange(state, category)
