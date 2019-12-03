@@ -35,12 +35,12 @@ ca_ny_tx_fl_prof_top20 <- pfizer %>%
   arrange(desc(total)) %>%
   head(20)
 
-# Filter the data for all payments for running Expert-Led Forums or for Professional Advising, and arrange alphabetically by doctor (last name, then first name)
+# Filter the data for all payments for running Expert-Led Forums or for Professional Advising, and arrange alphabetically by doctor (last name, then first name).
 expert_advice <- pfizer %>%
   filter(category == "Expert-Led Forums" | category == "Professional Advising") %>%
   arrange(last_name, first_name)
 
-# Use pattern matching to filter text
+# Use pattern matching to filter text.
 expert_advice <- pfizer %>%
   filter(grepl("Expert|Professional", category)) %>%
   arrange(last_name, first_name)
@@ -49,8 +49,14 @@ not_expert_advice <- pfizer %>%
   filter(!grepl("Expert|Professional", category)) %>%
   arrange(last_name, first_name)
 
-# Merge/append data frames
+# Merge/append data frames.
 pfizer2 <- bind_rows(expert_advice, not_expert_advice)
 
-# Write expert_advice data to a csv file
+# Write expert_advice data to a csv file.
 write_csv(expert_advice, "data/wcsj/expert_advice.csv", na="")
+
+# Calculate total payments by state.
+state_sum <- pfizer %>%
+  group_by(state) %>%
+  summarize(sum = sum(total)) %>%
+  arrange(desc(sum))
