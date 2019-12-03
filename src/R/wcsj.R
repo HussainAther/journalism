@@ -4,3 +4,7 @@ install.packages("tidyverse") # Install tidyverse, if you haven't already
 library(readr) # Load required packages
 library(dplyr)
 library(ggplot2)
+pfizer <- read_csv("data/wcsj/pfizer.csv") # Load data of pfizer payments to doctors 
+                                 # and warning letters sent by food and drug 
+                                 # adminstration
+fda <- read_csv("data/wcsj/fda.csv")
