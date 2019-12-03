@@ -230,3 +230,17 @@ immun <- read_csv("data/wcsj/kindergarten.csv")
 # Create new column with numbers of children with incomplete immunizations.
 immun <- immun %>%
   mutate(incomplete = enrollment - complete)
+
+# proportion incomplete, entire state, by year
+immun_year <- immun %>%
+  group_by(start_year) %>%
+  summarize(enrollment = sum(enrollment, na.rm=TRUE), 
+            incomplete = sum(incomplete, na.rm=TRUE)) %>%
+  mutate(proport_incomplete = incomplete/enrollment)
+
+# proportion incomplete, by county and year
+immun_counties_year <- immun %>%
+  group_by(county,start_year) %>%
+  summarize(enrollment = sum(enrollment, na.rm=TRUE), 
+            incomplete = sum(incomplete, na.rm=TRUE)) %>%
+  mutate(proport_incomplete = incomplete/enrollment)
