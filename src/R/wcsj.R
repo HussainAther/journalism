@@ -28,3 +28,9 @@ ca_ny_expert_10000 <- pfizer %>%
 not_ca_expert_10000 <- pfizer %>%
   filter(state != "CA" & total >= 10000 & category=="Expert-Led Forums") %>%
   arrange(desc(total))
+
+# 20 doctors across the four largest states (CA, TX, FL, NY) who were paid the most for professional advice.
+ca_ny_tx_fl_prof_top20 <- pfizer %>%
+  filter((state=="CA" | state == "NY" | state == "TX" | state == "FL") & category == "Professional Advising") %>%
+  arrange(desc(total)) %>%
+  head(20)
