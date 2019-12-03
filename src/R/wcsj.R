@@ -34,3 +34,8 @@ ca_ny_tx_fl_prof_top20 <- pfizer %>%
   filter((state=="CA" | state == "NY" | state == "TX" | state == "FL") & category == "Professional Advising") %>%
   arrange(desc(total)) %>%
   head(20)
+
+# Filter the data for all payments for running Expert-Led Forums or for Professional Advising, and arrange alphabetically by doctor (last name, then first name)
+expert_advice <- pfizer %>%
+  filter(category == "Expert-Led Forums" | category == "Professional Advising") %>%
+  arrange(last_name, first_name)
