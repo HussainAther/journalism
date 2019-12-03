@@ -88,3 +88,10 @@ letters_year <- fda %>%
 fda <- fda %>%
   mutate(days_elapsed = Sys.Date() - issued,
           weeks_elapsed = difftime(Sys.Date(), issued, units = "weeks"))
+
+# Join to identify doctors paid to run Expert-led forums who also received a warning letter.
+expert_warned_inner <- inner_join(pfizer, fda, by=c("first_name" = "name_first", "last_name" = "name_last")) %>%
+  filter(category=="Expert-Led Forums")
+
+expert_warned_semi <- semi_join(pfizer, fda, by=c("first_name" = "name_first", "last_name" = "name_last")) %>%
+  filter(category=="Expert-Led Forums")
