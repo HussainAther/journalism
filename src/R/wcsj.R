@@ -266,3 +266,16 @@ ggplot(immun_year, aes(x = start_year, y = proport_incomplete)) +
   ylab("Incomplete") +
   ggtitle("Immunization in California kindergartens, entire state") + 
   theme(panel.grid.minor.x = element_blank())
+
+# dot and line chart, top5 counties, by year
+ggplot(immun_top5_year, aes(x = start_year, y = proport_incomplete, color = county)) + 
+  scale_color_brewer(palette = "Set1", name = "") +
+  geom_line(size=1) +
+  geom_point(size=3) +
+  theme_minimal(base_size = 12, base_family = "Georgia") +
+  scale_y_continuous(labels = percent, limits = c(0,0.15)) +
+  scale_x_continuous(breaks = c(2002,2004,2006,2008,2010,2012,2014)) +
+  xlab("") +
+  ylab("Incomplete") +
+  theme(legend.position = "bottom") +
+  ggtitle("Immunization in California kindergartens\n(five largest counties)")
