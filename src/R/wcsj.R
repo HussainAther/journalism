@@ -244,3 +244,14 @@ immun_counties_year <- immun %>%
   summarize(enrollment = sum(enrollment, na.rm=TRUE), 
             incomplete = sum(incomplete, na.rm=TRUE)) %>%
   mutate(proport_incomplete = incomplete/enrollment)
+
+# Identify the five counties with the largest enrollment over all years.
+top5 <- immun %>%
+  group_by(county) %>%
+  summarize(enrollment = sum(enrollment, na.rm = TRUE)) %>%
+  arrange(desc(enrollment)) %>%
+  head(5) %>%
+  select(county)
+
+# proportion incomplete, top 5 counties for enrollment, by year
+immun_top5_year <- semi_join(immun_counties_year, top5)
