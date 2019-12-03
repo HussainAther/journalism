@@ -207,3 +207,8 @@ food_stamps_chart +
   geom_line() +
   geom_point() +
   ggtitle("Dot-and-line chart")
+
+# Make a column chart.
+food_stamps_chart +
+  geom_bar(stat = "identity", color = "white") +
+  ggtitle("Column chart")
