@@ -226,3 +226,7 @@ library(scales)
 
 # Load data.
 immun <- read_csv("data/wcsj/kindergarten.csv")
+
+# Create new column with numbers of children with incomplete immunizations.
+immun <- immun %>%
+  mutate(incomplete = enrollment - complete)
