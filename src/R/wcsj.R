@@ -173,3 +173,22 @@ disease_democ_chart +
   scale_color_brewer(palette = "Set1",
                      name="Income group",
                      breaks=c("High income: OECD","High income: non-OECD","Upper middle income","Lower middle income","Low income"))
+
+# Save final disease and democracy chart.
+final_disease_democ_chart <- disease_democ_chart +
+  geom_point(size = 3, alpha = 0.5, aes(color = income_group)) +
+  geom_smooth(method = lm, se = FALSE, color = "black", linetype = "dotdash", size = 0.3) +
+  scale_x_continuous(limits=c(0,60)) +
+  scale_y_continuous(limits=c(0,100)) +
+  scale_color_brewer(palette = "Set1",
+                     name="Income group", 
+                     breaks=c("High income: OECD","High income: non-OECD","Upper middle income","Lower middle income","Low income"))
+
+# Load data.
+food_stamps <- read_csv("data/wcsj/food_stamps.csv")
+
+# Save basic chart template.
+food_stamps_chart <- ggplot(food_stamps, aes(x = year, y = participants)) +
+  xlab("Year") +cl
+  ylab("Participants (millions)") +
+  theme_minimal(base_size = 14, base_family = "Georgia")
