@@ -39,3 +39,12 @@ ca_ny_tx_fl_prof_top20 <- pfizer %>%
 expert_advice <- pfizer %>%
   filter(category == "Expert-Led Forums" | category == "Professional Advising") %>%
   arrange(last_name, first_name)
+
+# Use pattern matching to filter text
+expert_advice <- pfizer %>%
+  filter(grepl("Expert|Professional", category)) %>%
+  arrange(last_name, first_name)
+
+not_expert_advice <- pfizer %>%
+  filter(!grepl("Expert|Professional", category)) %>%
+  arrange(last_name, first_name)
