@@ -107,3 +107,6 @@ expert_warned <- inner_join(pfizer, fda, by=c("first_name" = "name_first", "last
 
 # Load disease and democracy data.
 disease_democ <- read_csv("data/wcsj/disease_democ.csv")
+
+# Map values in data to X and Y axes.
+ggplot(disease_democ, aes(x = infect_rate, y = democ_score))
