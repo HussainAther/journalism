@@ -150,4 +150,9 @@ disease_democ_chart +
 # Customize the two geom layers.
 disease_democ_chart +
   geom_point(size = 3, alpha = 0.5) +
-  geom_smooth(method = lm, se=FALSE, color = "red")
+  geom_smooth(method = lm, se=FALSE, color = "#FF0000")
+
+# Customize again, coloring the points by income group.
+disease_democ_chart +
+  geom_point(size = 3, alpha = 0.5, aes(color = income_group)) +
+  geom_smooth(method = lm, se = FALSE, color = "black", linetype = "dotdash", size = 0.3)
