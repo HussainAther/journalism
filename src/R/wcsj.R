@@ -48,3 +48,6 @@ expert_advice <- pfizer %>%
 not_expert_advice <- pfizer %>%
   filter(!grepl("Expert|Professional", category)) %>%
   arrange(last_name, first_name)
+
+# Merge/append data frames
+pfizer2 <- bind_rows(expert_advice, not_expert_advice)
