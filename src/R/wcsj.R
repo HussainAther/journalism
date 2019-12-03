@@ -12,3 +12,4 @@ str(pfizer) # View structure of data
 pfizer$total # Print values for total in pfizer data
 pfizer$total <- as.numeric(pfizer$total) # Convert total to numeric variable
 str(pfizer)
+summary(pfizer) # Summary of pfizer data
