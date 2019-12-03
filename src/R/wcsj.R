@@ -95,3 +95,12 @@ expert_warned_inner <- inner_join(pfizer, fda, by=c("first_name" = "name_first",
 
 expert_warned_semi <- semi_join(pfizer, fda, by=c("first_name" = "name_first", "last_name" = "name_last")) %>%
   filter(category=="Expert-Led Forums")
+
+# As above, but select desired columns from data
+expert_warned <- inner_join(pfizer, fda, by=c("first_name" = "name_first", "last_name" = "name_last")) %>%
+  filter(category=="Expert-Led Forums") %>%
+  select(first_plus, last_name, city, state, total, issued)
+
+expert_warned <- inner_join(pfizer, fda, by=c("first_name" = "name_first", "last_name" = "name_last")) %>%
+  filter(category=="Expert-Led Forums") %>%
+  select(2:5,10,12)
