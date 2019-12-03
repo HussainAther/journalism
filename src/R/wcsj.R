@@ -134,3 +134,10 @@ plot(disease_democ_chart)
 # Add a layer with points.
 disease_democ_chart +
   geom_point()
+
+# Themed scatterplot
+ggplot(disease_democ, aes(x = infect_rate, y = democ_score)) +
+  xlab("Infectious disease prevalence score") + 
+  ylab("Democratization score") +
+  theme_minimal(base_size = 14, base_family = "Georgia") +
+  geom_point()
