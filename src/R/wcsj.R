@@ -77,3 +77,9 @@ state_category_summary <- pfizer %>%
 post2005 <- fda %>%
   filter(issued >= "2005-01-01") %>%
   arrange(issued)
+
+# Count the letters by year.
+letters_year <- fda %>%
+  mutate(year = format(issued, "%Y")) %>%
+  group_by(year) %>%
+  summarize(letters=n())
