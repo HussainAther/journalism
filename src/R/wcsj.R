@@ -110,3 +110,14 @@ disease_democ <- read_csv("data/wcsj/disease_democ.csv")
 
 # Map values in data to X and Y axes.
 ggplot(disease_democ, aes(x = infect_rate, y = democ_score))
+
+# Customize axis labels.
+ggplot(disease_democ, aes(x = infect_rate, y = democ_score)) +
+  xlab("Infectious disease prevalence score") +
+  ylab("Democratization score")
+
+# Change the theme.
+ggplot(disease_democ, aes(x = infect_rate, y = democ_score)) +
+  xlab("Infectious disease prevalence score") + 
+  ylab("Democratization score") +
+  theme_minimal(base_size = 14, base_family = "Georgia")
