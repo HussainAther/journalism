@@ -279,3 +279,20 @@ ggplot(immun_top5_year, aes(x = start_year, y = proport_incomplete, color = coun
   ylab("Incomplete") +
   theme(legend.position = "bottom") +
   ggtitle("Immunization in California kindergartens\n(five largest counties)")
+
+# heat map, all counties, by year
+ggplot(immun_counties_year, aes(x = start_year, y = county)) +
+  geom_tile(aes(fill = proport_incomplete), colour = "white") +
+  scale_fill_gradient(low = "white",
+                      high = "red",
+                      name="",
+                      labels = percent) +
+  scale_x_continuous(breaks = c(2002,2004,2006,2008,2010,2012,2014)) +
+  theme_minimal(base_size = 12, base_family = "Georgia") +
+  xlab("") +
+  ylab("County") +
+  theme(panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        legend.position="bottom",
+        legend.key.height = unit(0.4, "cm")) +
+  ggtitle("Immunization in California kindergartens, by county")
