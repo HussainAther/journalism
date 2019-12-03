@@ -146,3 +146,8 @@ ggplot(disease_democ, aes(x = infect_rate, y = democ_score)) +
 disease_democ_chart +
   geom_point() +
   geom_smooth()
+
+# Customize the two geom layers.
+disease_democ_chart +
+  geom_point(size = 3, alpha = 0.5) +
+  geom_smooth(method = lm, se=FALSE, color = "red")
