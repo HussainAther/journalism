@@ -9,3 +9,4 @@ pfizer <- read_csv("data/wcsj/pfizer.csv") # Load data of pfizer payments to doc
                                  # adminstration
 fda <- read_csv("data/wcsj/fda.csv")
 str(pfizer) # View structure of data
+pfizer$total # Print values for total in pfizer data
