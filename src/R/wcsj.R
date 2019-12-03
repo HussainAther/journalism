@@ -255,3 +255,14 @@ top5 <- immun %>%
 
 # proportion incomplete, top 5 counties for enrollment, by year
 immun_top5_year <- semi_join(immun_counties_year, top5)
+
+# bar chart by year, entire state
+ggplot(immun_year, aes(x = start_year, y = proport_incomplete)) + 
+  geom_bar(stat = "identity", fill = "red", alpha = 0.7) +
+  theme_minimal(base_size = 12, base_family = "Georgia") +
+  scale_y_continuous(labels = percent) +
+  scale_x_continuous(breaks = c(2002,2004,2006,2008,2010,2012,2014)) +
+  xlab("") +
+  ylab("Incomplete") +
+  ggtitle("Immunization in California kindergartens, entire state") + 
+  theme(panel.grid.minor.x = element_blank())
