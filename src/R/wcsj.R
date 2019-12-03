@@ -60,3 +60,9 @@ state_sum <- pfizer %>%
   group_by(state) %>%
   summarize(sum = sum(total)) %>%
   arrange(desc(sum))
+
+# As above, but for each state also calculate the median payment, and the number of payments.
+state_summary <- pfizer %>%
+  group_by(state) %>%
+  summarize(sum = sum(total), median = median(total), count = n()) %>%
+  arrange(desc(sum))
