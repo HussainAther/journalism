@@ -13,3 +13,7 @@ pfizer$total # Print values for total in pfizer data
 pfizer$total <- as.numeric(pfizer$total) # Convert total to numeric variable
 str(pfizer)
 summary(pfizer) # Summary of pfizer data
+
+# Doctors in California who were paid $10,000 or more by Pfizer to run “Expert-Led Forums.”
+ca_expert_10000 <- pfizer %>%
+  filter(state == "CA" & total >= 10000 & category == "Expert-Led Forums")
