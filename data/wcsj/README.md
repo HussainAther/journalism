@@ -18,26 +18,27 @@
     - `office`: Office within the FDA that sent the letter.
     - `disease_democ.csv`: Data illustrating a controversial theory suggesting that the emergence of democratic political systems has depended largely on nations having low rates of infectious disease, from the [Global Infectious Diseases and Epidemiology Network](http://www.gideononline.com/) and _[Democratization: A Comparative Analysis of 170 Countries](http://www.amazon.com/Democratization-Comparative-Analysis-Countries-Routledge/dp/0415318602)_.
 
-food_stamps.csv U.S. Department of Agriculture data on the number of participants, in millions, and costs, in $ billions, of the federal Supplemental Nutrition Assistance Program from 1969 to 2016.
+* `food_stamps.csv`: [U.S. Department of Agriculture data](http://www.fns.usda.gov/pd/supplemental-nutrition-assistance-program-snap) on the number of `participants`, in millions, and `costs`, in $ billions, of the federal Supplemental Nutrition Assistance Program from 1969 to 2016.
 
-kindergarten.csv Data from the California Department of Public Health, documenting enrollment and the number of children with complete immunizations at entry into kindergartens in California from 2001 to 2015. Contains the following variables:
+* `kindergarten.csv`: Data from the [California Department of Public Health](https://data.chhs.ca.gov/dataset/school-immunizations-in-kindergarten-by-academic-year), documenting enrollment and the number of children with complete immunizations at entry into kindergartens in California from 2001 to 2015. Contains the following variables:
 
-district School district.
-sch_code Unique identifying code for each school.
-pub_priv Whether school is public or private.
-school School name.
-enrollment Number of children enrolled.
-complete Number of children with complete immunizations.
-start_year Year of entry (for the 2015-2016 school year, for example, this would be 2015).
-nations.csv Data from the World Bank Indicators portal, which is an incredibly rich resource. Contains the following variables, from 1990 onwards:
+    - `district`: School district.
+    - `sch_code`: Unique identifying code for each school.
+    - `pub_priv`: Whether school is public or private.
+    - `school`: School name.
+    - `enrollment`: Number of children enrolled.
+    - `complete`: Number of children with complete immunizations.
+    - `start_year`: Year of entry (for the 2015-2016 school year, for example, this would be 2015).
 
-iso2c iso3c Two- and Three-letter codes for each country, assigned by the International Organization for Standardization.
-country Country name.
-year
-population Estimated total population at mid-year, including all residents apart from refugees.
-gdp_percap Gross Domestic Product per capita in current international dollars, corrected for purchasing power in different territories.
-life_expect Life expectancy at birth, in years.
-population Estimated total population at mid-year, including all residents apart from refugees.
-birth_rate Live births during the year per 1,000 people, based on mid-year population estimate.
-neonat_mortal_rate Neonatal mortality rate: babies dying before reaching 28 days of age, per 1,000 live births in a given year.
-region income World Bank regions and income groups, explained here.
+* `nations.csv`: Data from the [World Bank Indicators](http://data.worldbank.org/indicator/all) portal, which is an incredibly rich resource. Contains the following variables, from 1990 onwards:
+
+    - `iso2c` `iso3c`: Two- and Three-letter [codes](http://www.nationsonline.org/oneworld/country_code_list.htm) for each country, assigned by the [International Organization for Standardization](http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=63545).
+    - `country`: Country name.
+    - `year`
+    - `population`: Estimated [total population](http://data.worldbank.org/indicator/SP.POP.TOTL) at mid-year, including all residents apart from refugees.
+    - `gdp_percap`: [Gross Domestic Product per capita](http://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD) in current international dollars, corrected for purchasing power in different territories.
+    - `life_expect`: [Life expectancy at birth](http://data.worldbank.org/indicator/SP.DYN.LE00.IN), in years.
+    - `population`: Estimated total population at mid-year, including all residents apart from refugees.
+    - `birth_rate`: [Live births during the year per 1,000 people](http://data.worldbank.org/indicator/SP.DYN.LE00.IN), based on mid-year population estimate.
+    - `neonat_mortal_rate`: [Neonatal mortality rate](http://data.worldbank.org/indicator/SH.DYN.NMRT): babies dying before reaching 28 days of age, per 1,000 live births in a given year.
+    - `region` `income`: World Bank [regions](http://siteresources.worldbank.org/DATASTATISTICS/Resources/CLASS.XLS) and income groups, explained [here](http://data.worldbank.org/about/country-and-lending-groups).
