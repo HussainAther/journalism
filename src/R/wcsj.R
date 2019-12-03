@@ -104,3 +104,6 @@ expert_warned <- inner_join(pfizer, fda, by=c("first_name" = "name_first", "last
 expert_warned <- inner_join(pfizer, fda, by=c("first_name" = "name_first", "last_name" = "name_last")) %>%
   filter(category=="Expert-Led Forums") %>%
   select(2:5,10,12)
+
+# Load disease and democracy data.
+disease_democ <- read_csv("data/wcsj/disease_democ.csv")
