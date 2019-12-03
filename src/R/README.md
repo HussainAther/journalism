@@ -1,10 +1,10 @@
 # R scripts
 
-`Run these R scripts to analyze data. Take apart knowledge, skills, and abilities (KSA) as they relate to data science jobs and research.
+Run these R scripts to analyze data. Take apart knowledge, skills, and abilities (KSA) as they relate to data science jobs and research.
 These files require input `.tsv` files, tab-separated value files that have data science information in rows separated by tabs. `.tsv` files
 can generally be exported from software such as Microsoft Excel.
 
-* `wcsj.R` : This script plots the data from the WCSJ 2017 workshop R for Data Journalism. 
+* `wcsj.R` : This script plots the data from the World Conference of Science Journalists (WCSJ) 2017 workshop R for Data Journalism. 
     - Usage: `R wcsj.R`
     - Requirements: [tidyverse](https://anaconda.org/r/r-tidyverse)
     - Uses tidyverse for plotting. 
