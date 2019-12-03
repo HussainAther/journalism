@@ -141,3 +141,8 @@ ggplot(disease_democ, aes(x = infect_rate, y = democ_score)) +
   ylab("Democratization score") +
   theme_minimal(base_size = 14, base_family = "Georgia") +
   geom_point()
+
+# Add a trend line.
+disease_democ_chart +
+  geom_point() +
+  geom_smooth()
