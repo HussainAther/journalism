@@ -212,3 +212,12 @@ food_stamps_chart +
 food_stamps_chart +
   geom_bar(stat = "identity", color = "white") +
   ggtitle("Column chart")
+
+# Set color and fill.
+food_stamps_chart +
+  geom_bar(stat = "identity", 
+           color = "#888888", 
+           fill = "#CCCCCC", 
+           alpha = 0.5) +
+  ggtitle("Column chart")
+
