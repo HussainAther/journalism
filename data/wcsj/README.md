@@ -1,6 +1,6 @@
 # World Conference of Science Journalists 2017 R for Data Journalism workshop
 
-* pfizer.csv Payments made by Pfizer to doctors across the United States in the second half on 2009. Contains the following variables:
+* `pfizer.csv`: Payments made by Pfizer to doctors across the United States in the second half on 2009. Contains the following variables:
 
     - `org_indiv`: Full name of the doctor, or their organization.
     - `first_plus`: Doctor’s first and middle names.
@@ -11,12 +11,12 @@
     - `other`: Value of payments made in-kind, for example puschase of meals.
     - `total`: value of payment, whether cash or in-kind.
 
-* fda.csv Data on warning letters sent to doctors by the U.S. Food and Drug Administration, because of problems in the way in which they ran clinical trials testing experimental treatments. Contains the following variables:
+* `fda.csv`: Data on warning letters sent to doctors by the U.S. Food and Drug Administration, because of problems in the way in which they ran clinical trials testing experimental treatments. Contains the following variables:
 
-name_last name_first name_middle Doctor’s last, first, and middle names.
-issued Date letter was sent.
-office Office within the FDA that sent the letter.
-disease_democ.csv Data illustrating a controversial theory suggesting that the emergence of democratic political systems has depended largely on nations having low rates of infectious disease, from the Global Infectious Diseases and Epidemiology Network and Democratization: A Comparative Analysis of 170 Countries.
+    - `name_last` `name_first` `name_middle`: Doctor’s last, first, and middle names.
+    - `issued`: Date letter was sent.
+    - `office`: Office within the FDA that sent the letter.
+    - `disease_democ.csv`: Data illustrating a controversial theory suggesting that the emergence of democratic political systems has depended largely on nations having low rates of infectious disease, from the [Global Infectious Diseases and Epidemiology Network](http://www.gideononline.com/) and _[Democratization: A Comparative Analysis of 170 Countries](http://www.amazon.com/Democratization-Comparative-Analysis-Countries-Routledge/dp/0415318602)_.
 
 food_stamps.csv U.S. Department of Agriculture data on the number of participants, in millions, and costs, in $ billions, of the federal Supplemental Nutrition Assistance Program from 1969 to 2016.
 
