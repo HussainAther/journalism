@@ -192,3 +192,12 @@ food_stamps_chart <- ggplot(food_stamps, aes(x = year, y = participants)) +
   xlab("Year") +cl
   ylab("Participants (millions)") +
   theme_minimal(base_size = 14, base_family = "Georgia")
+
+# line chart
+food_stamps_chart +  
+  geom_line()
+
+# Customize the line, add a title.
+food_stamps_chart +
+  geom_line(size = 1.5, color = "red") +
+  ggtitle("Line chart")
