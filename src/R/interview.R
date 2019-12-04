@@ -49,3 +49,6 @@ revoked_ca_year <- ca_discipline %>%
          & state == "CA") %>%
   group_by(year) %>%
   summarize(revocations = n())
+
+datatable(revoked_ca_year, extensions = "Responsive")
+
