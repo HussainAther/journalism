@@ -13,7 +13,6 @@ can generally be exported from software such as Microsoft Excel.
     - Usage: `R techdict.R dspos.tsv` 
     - Requirements: dplyr, [gdata](https://anaconda.org/anaconda/gdata), [ggplot2](https://anaconda.org/r/r-ggplot2), [tidyr](https://anaconda.org/r/r-tidyr).
     - Uses gdata, dplyr, and tidyr for manipulating and cleaning data and ggplot2 for plotting. 
-
 * `wcsj.R` : This script plots the data from the World Conference of Science Journalists (WCSJ) 2017 workshop R for Data Journalism. 
     - Usage: `R wcsj.R`
     - Requirements: dplyr, ggplot2, readr, [tidyverse](https://anaconda.org/r/r-tidyverse)
