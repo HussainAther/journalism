@@ -18,3 +18,8 @@ types <- ca_discipline %>%
 
 # Make a searchable web table.
 datatable(types, extensions = "Responsive")
+
+# Clean data for reprimands.
+ca_discipline <- ca_discipline %>%
+  mutate(action_type = case_when(grepl("reprimand", ignore.case = TRUE, action_type) ~ "Reprimand",
+                                 TRUE ~ action_type))
