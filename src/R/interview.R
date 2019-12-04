@@ -29,3 +29,11 @@ revoked <- ca_discipline %>%
   filter(action_type == "Revoked")
   
 datatable(revoked, extensions = "Responsive")
+
+# Filter for license revocations by doctors based in California, and sort by city.
+revoked_ca <- ca_discipline %>%
+  filter(action_type == "Revoked"
+         & state == "CA") %>%
+  arrange(city)
+
+datatable(revoked_ca, extensions = "Responsive")
