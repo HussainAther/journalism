@@ -52,3 +52,12 @@ revoked_ca_year <- ca_discipline %>%
 
 datatable(revoked_ca_year, extensions = "Responsive")
 
+# License revokations for doctors based in California, by month.
+revoked_ca_month <- ca_discipline %>%
+  filter(action_type == "Revoked" 
+         & state == "CA"
+         & year >= 2009) %>%
+  group_by(month) %>%
+  summarize(revocations = n())
+
+datatable(revoked_ca_month)
