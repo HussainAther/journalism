@@ -133,3 +133,6 @@ plot(scatterplot)
 # Make interactive version with tooltip.
 ggplotly(scatterplot, tooltip = "text") %>%
   config(displayModeBar = FALSE)
+
+# Load data.
+npi_license <- read_csv("../../data/mbc/npi_license.csv")
