@@ -106,3 +106,10 @@ library(plotly)
 # Histogram of the costs data.
 ggplot(provider_summary, aes(x = prescriptions)) +
   geom_histogram()
+
+ggplot(provider_summary, aes(x = prescriptions)) +
+  geom_histogram(binwidth = 50) +
+  theme_minimal() +
+  scale_x_continuous(limits = c(0,3000),
+                     labels = comma) +
+  scale_y_continuous(labels = comma)
