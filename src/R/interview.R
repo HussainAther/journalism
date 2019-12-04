@@ -84,3 +84,17 @@ datatable(actions_year_month, extensions = "Responsive")
 ca_opioids <- read_csv("../../data/mbc/ca_medicare_opioids.csv")
 
 glimpse(ca_opioids)
+
+# Create a summary, showing the number of opioid prescriptions written by each provider, the total cost of the opioids prescribed, and the cost per claim.
+provider_summary <- ca_opioids %>% 
+  group_by(npi,
+           nppes_provider_last_org_name,
+           nppes_provider_first_name,
+           nppes_provider_city,
+           specialty_description) %>%
+  summarize(prescriptions = sum(total_claim_count),
+            cost = sum(total_drug_cost)) %>%
+  mutate(cost_per_prescription = cost/prescriptions) %>%
+  arrange(desc(prescriptions))
+
+datatable(provider_summary, extensions = "Responsive")
