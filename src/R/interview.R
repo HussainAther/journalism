@@ -144,3 +144,9 @@ ca_discipline_npi <- left_join(ca_discipline, npi_license)
 ca_discipline_npi <- left_join(ca_discipline, npi_license, by = "license")
 
 datatable(ca_discipline_npi, extensions = "Responsive")
+
+# Join disciplinary action data to the opioid prescription data.
+provider_summary_actions <- inner_join(provider_summary, ca_discipline_npi, by = "npi") %>%
+  arrange(desc(prescriptions))
+
+datatable(provider_summary_actions,  extensions = "Responsive")
