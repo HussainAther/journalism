@@ -150,3 +150,15 @@ provider_summary_actions <- inner_join(provider_summary, ca_discipline_npi, by =
   arrange(desc(prescriptions))
 
 datatable(provider_summary_actions,  extensions = "Responsive")
+
+# change case of variables to be used in the join
+ca_discipline_npi <- ca_discipline_npi %>%
+  mutate(last_name = toupper(last_name),
+         first_name = toupper(first_name),
+         city = toupper(city))
+
+# Join disciplinary action data to the opioid prescription data.
+provider_summary_actions_2 <- inner_join(provider_summary, ca_discipline_npi, by = c("nppes_provider_last_org_name" = "last_name", 
+                                                                                 "nppes_provider_first_name" = "first_name",
+                                                                                 "nppes_provider_city" = "city")) %>%
+  arrange(desc(prescriptions))
