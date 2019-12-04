@@ -98,3 +98,11 @@ provider_summary <- ca_opioids %>%
   arrange(desc(prescriptions))
 
 datatable(provider_summary, extensions = "Responsive")
+
+library(ggplot2)
+library(scales)
+library(plotly)
+
+# Histogram of the costs data.
+ggplot(provider_summary, aes(x = prescriptions)) +
+  geom_histogram()
