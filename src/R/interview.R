@@ -37,3 +37,8 @@ revoked_ca <- ca_discipline %>%
   arrange(city)
 
 datatable(revoked_ca, extensions = "Responsive")
+
+# Extract year and month from action_date.
+ca_discipline <- ca_discipline %>%
+  mutate(year = year(action_date),
+         month = month(action_date))
