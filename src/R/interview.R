@@ -15,3 +15,6 @@ glimpse(ca_discipline)
 types <- ca_discipline %>%
   select(action_type) %>%
   unique()
+
+# Make a searchable web table.
+datatable(types, extensions = "Responsive")
