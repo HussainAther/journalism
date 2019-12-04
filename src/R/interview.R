@@ -129,3 +129,7 @@ scatterplot <- ggplot(provider_summary, aes(x = prescriptions,
   scale_y_continuous(labels = dollar)
 
 plot(scatterplot)
+
+# Make interactive version with tooltip.
+ggplotly(scatterplot, tooltip = "text") %>%
+  config(displayModeBar = FALSE)
