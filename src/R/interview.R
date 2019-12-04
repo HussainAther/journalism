@@ -69,3 +69,13 @@ revoked_ca_month <- ca_discipline %>%
          & year != 2008) %>%
   group_by(month) %>%
   summarize(revocations = n())
+
+# Disciplinary actions for doctors in California by year and month, from 2009 to 2017.
+actions_year_month <- ca_discipline %>%
+  filter(state == "CA"
+         & year >= 2009) %>%
+  group_by(year, month) %>%
+  summarize(actions = n()) %>%
+  arrange(year, month)
+
+datatable(actions_year_month, extensions = "Responsive")
