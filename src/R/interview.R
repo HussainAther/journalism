@@ -136,3 +136,6 @@ ggplotly(scatterplot, tooltip = "text") %>%
 
 # Load data.
 npi_license <- read_csv("../../data/mbc/npi_license.csv")
+
+# Join those two data frames.
+ca_discipline_npi <- left_join(ca_discipline, npi_license)
