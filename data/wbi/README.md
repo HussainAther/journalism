@@ -8,7 +8,7 @@
     - `gdp_percap`: Gross Domestic Product per capita in current international dollars, corrected for purchasing power in different territories.
     - `life_expect`: Life expectancy at birth, in years.
     - `population`: Estimated total population at mid-year, including all residents apart from refugees.
-    - `region` `income`: World Bank regions and income groups, explained here.
+    - `region` `income`: World Bank regions and income groups, explained [here](https://data.worldbank.org/about/country-and-lending-groups).
 
 * `nations2.csv`: Again from the World Bank Indicators portal. Contains the following fields:
 
