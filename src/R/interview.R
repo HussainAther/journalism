@@ -79,3 +79,8 @@ actions_year_month <- ca_discipline %>%
   arrange(year, month)
 
 datatable(actions_year_month, extensions = "Responsive")
+
+# Load opioid prescription data.
+ca_opioids <- read_csv("../../data/mbc/ca_medicare_opioids.csv")
+
+glimpse(ca_opioids)
