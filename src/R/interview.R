@@ -23,3 +23,9 @@ datatable(types, extensions = "Responsive")
 ca_discipline <- ca_discipline %>%
   mutate(action_type = case_when(grepl("reprimand", ignore.case = TRUE, action_type) ~ "Reprimand",
                                  TRUE ~ action_type))
+
+# Filter for license revocations only.
+revoked <- ca_discipline %>%
+  filter(action_type == "Revoked")
+  
+datatable(revoked, extensions = "Responsive")
