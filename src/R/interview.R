@@ -116,3 +116,16 @@ ggplot(provider_summary, aes(x = prescriptions)) +
 
 median(provider_summary$prescriptions)
 
+# Make a scatterplot of prescriptions and costs data.
+scatterplot <- ggplot(provider_summary, aes(x = prescriptions, 
+                                            y = cost,
+                                            text = paste0("<b>Name: </b>",nppes_provider_first_name," ",nppes_provider_last_org_name,"<br>",
+                                                          "<b>Location: </b>",nppes_provider_city,"<br>",
+                                                          "<b>Specialty: </b>",specialty_description,"<br>",
+                                                          "<b>NPI: </b>",npi))) +
+  geom_point(alpha = 0.3) +
+  theme_minimal() +
+  scale_x_continuous(labels = comma) +
+  scale_y_continuous(labels = dollar)
+
+plot(scatterplot)
