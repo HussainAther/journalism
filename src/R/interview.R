@@ -162,3 +162,8 @@ provider_summary_actions_2 <- inner_join(provider_summary, ca_discipline_npi, by
                                                                                  "nppes_provider_first_name" = "first_name",
                                                                                  "nppes_provider_city" = "city")) %>%
   arrange(desc(prescriptions))
+
+# Join disciplinary action data to the opioid prescription data.
+provider_summary_actions_extra <- anti_join(provider_summary_actions_2, provider_summary_actions)
+
+datatable(provider_summary_actions_extra, extensions = "Responsive")
