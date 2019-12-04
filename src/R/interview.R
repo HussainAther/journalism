@@ -10,3 +10,8 @@ ca_discipline <- read_csv("../../data/mbc/ca_discipline.csv")
 
 # View structure of data.
 glimpse(ca_discipline)
+
+# Look at types of disciplinary actions.
+types <- ca_discipline %>%
+  select(action_type) %>%
+  unique()
