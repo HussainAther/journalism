@@ -14,7 +14,7 @@ toproper <- function(x) {
 }
 
 # import CA kindergarten immunization data and calculate incomplete rate by county
-immun <- read_tsv("datat/vacc/kindergarten.tsv") %>%
+immun <- read_tsv("data/vacc/kindergarten.tsv") %>%
   mutate(county=toproper(county),
          district=toproper(district),
          school=toproper(school),
