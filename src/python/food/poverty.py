@@ -8,3 +8,6 @@ report.
 """
 
 allraces = pd.read_csv("data/food/poverty/allraces.csv")
+aa = pd.read_csv("data/food/poverty/asianalone.csv")
+aaoic = pd.read_csv("data/food/poverty/asianaloneorincombination.csv")
+aapi = pd.read_csv("data/food/poverty/asianandpacificislander.csv")
