@@ -3,8 +3,8 @@ import numpy as np
 import pandas as pd
 
 """
-Analyze poverty data from the Income and Poverty in the United States: 2016
-report.
+Analyze poverty data from the Income and Poverty in the United 
+States: 2016 report.
 """
 
 # Read each .csv file as a pandas DataFrame.
@@ -21,10 +21,3 @@ wa = pd.read_csv("data/food/poverty/whitealone.csv")
 wanh = pd.read_csv("data/food/poverty/whitealonenothispanic.csv")
 wnh = pd.read_csv("data/food/poverty/whitenothispanic.csv")
 
-# List of the DataFrames
-dflist = [allraces, aa, aaoic, aapi, b, ba, baoic, har, w, wa, wanh, wnh]
-
-fig = plt.figure()
-ax = plt.axes()
-for df in dflist:
-#    plt.plot(df["All people (Total)"])
