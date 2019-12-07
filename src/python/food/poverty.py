@@ -7,7 +7,7 @@ Analyze poverty data from the Income and Poverty in the United States: 2016
 report.
 """
 
-# Read ecah .csv file as a pandas DataFrame.
+# Read each .csv file as a pandas DataFrame.
 allraces = pd.read_csv("data/food/poverty/allraces.csv")
 aa = pd.read_csv("data/food/poverty/asianalone.csv")
 aaoic = pd.read_csv("data/food/poverty/asianaloneorincombination.csv")
