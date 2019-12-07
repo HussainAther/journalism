@@ -1,0 +1,11 @@
+Supplemental Nutrition Assistance Program Participation and Costs (Data as of December 8, 2017)
+Food stamps
+http://www.fns.usda.gov/pd/supplemental-nutrition-assistance-program-snap
+
+Poverty
+https://www.census.gov/hhes/www/poverty/data/historical/people.html
+
+All data are subject to revision.
+1] Represents average monthly benefits per person.
+2] Includes the Federal share of State administrative expenses, Nutrition Education, and Employment and Training programs. Also includes other Federal costs (e.g., Benefit and Retailer Redemption and Monitoring, Payment Accuracy, EBT Systems, Program Evaluation and Modernization, Program Access, Health and Nutrition Pilot Projects).
+3] Puerto Rico initiated Food Stamp operations during FY 1975 and participated through June of FY 1982. A separate Nutrition Assistance Grant began in July 1982.
