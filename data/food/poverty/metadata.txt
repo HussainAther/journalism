@@ -1,3 +1,24 @@
 Table 2. Poverty Status of People by Family Relationship, Race, and Hispanic Origin: 1959 to 2016
 NOTE: Numbers in thousands. People as of March of the following year.
 SOURCE: U.S. Bureau of the Census, Current Population Survey, Annual Social and Economic Supplements.   For information on confidentiality protection, sampling error, nonsampling error, and definitions, see www2.census.gov/programs-surveys/cps/techdocs/cpsmar17.pdf. Footnotes are available at www.census.gov/topics/income-poverty/poverty/guidance/poverty-footnotes/cps-historic-footnotes.html.
+
+Parenthetical letters.
+N Not available .
+1 The 2014 CPS ASEC included redesigned questions for income and health insurance coverage . All of the approximately 98,000 addresses were eligible to receive the redesigned set of health insurance coverage questions . The redesigned income questions were implemented to a subsample of these 98,000 addresses using a probability split panel design . Approximately 68,000 addresses were eligible to receive a set of income questions similar to those used in the 2013 CPS ASEC and the remaining 30,000 addresses were eligible to receive the redesigned income questions . The source of these 2013 estimates
+is the portion of the CPS ASEC sample which received the redesigned income questions, approximately 30,000 addresses .
+2 The source of these 2013 estimates is the portion of the CPS ASEC sample which received the income questions consistent with the 2013 CPS ASEC, approximately 68,000 addresses .
+3 Implementation of 2010 Census-based population controls .
+4 For 2004, estimates are revised to reflect a correction to the weights in the 2005 CPS ASEC .
+5 Implementation of 2000 Census-based population controls and a 28,000 household sample expansion .
+6 For 1999, estimates are based on 2000 Census population controls .
+7 For 1992, estimates are based on 1990 Census population controls .
+8 For 1991, estimates are revised to correct for nine omitted weights from the original
+March 1992 CPS ASEC file .
+U.S. Census Bureau
+9 For 1988 and 1987, estimates are based on new processing procedures and are also revised to reflect corrections to the files after publication of the 1988 advance report Money Income and Poverty Status in the United States: 1988, P-60, No . 166 .
+10 The 2003 CPS allowed respondents to choose more than one race . White alone refers to people who reported White and did not report any other race category . The use of this single-race population does not imply that it is the preferred method of presenting or analyzing data . The Census Bureau uses a variety of approaches . Information on people who reported more than one race, such as White and American Indian and Alaska Native or Asian and Black or African American, is available from the 2010 Census through American FactFinder . About 2 .9 percent of people reported more than one race in the 2010 Census .
+11 For 2001 and earlier years, the CPS allowed respondents to report only one race group . The reference race groups for 2001 and earlier poverty data are White, non-Hispanic White, Black, and Asian and Pacific Islander .
+12 Black alone refers to people who reported Black and did not report any other race .
+13 Asian alone refers to people who reported Asian and did not report any other race . Note: Before 1979, people in unrelated subfamilies were included as people in families .
+Beginning in 1979, people in unrelated subfamilies are included in all people but are excluded from people in families .
+Source: U .S . Census Bureau, Current Population Survey, 1960 to 2017 Annual Social and Economic Supplements .
