@@ -41,6 +41,10 @@ Run these python scripts to analyze data. Each python script begins with `import
     - Usage: `python src/python/foia/read.py`
     - Requirements: pandas.
 
+* In `food`, `poverty.py` : This reads the poverty statistics from the U.S. Bureau of the Census, Current Population Survey "Income and Poverty in the United States: 2016" report.
+    - Usage: `python src/python/food/poverty.py`
+    - Requirements: matplotlib, numpy, pandas.
+
 * In `franciscan`, `read.py` : Read the JSON file of crust formation data of the Western Cordillera (Franciscan equivalents) and print it in DataFrame form. 
     - Usage: `python src/python/franciscan/read.py`
     - Requirements: [json](https://anaconda.org/jmcmurray/json), pandas.
