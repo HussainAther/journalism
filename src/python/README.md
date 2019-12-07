@@ -37,6 +37,10 @@ Run these python scripts to analyze data. Each python script begins with `import
     - Usage: `python src/python/defaunation/stat.py`
     - Requirements: matplotlib, numpy, pandas, [researchpy](https://anaconda.org/researchpy/researchpy).
 
+* In `foia`, `read.py` : This reads through the FOIA contacts and prints a view of the top records.
+    - Usage: `python src/python/foia/read.py`
+    - Requirements: pandas.
+
 * In `franciscan`, `read.py` : Read the JSON file of crust formation data of the Western Cordillera (Franciscan equivalents) and print it in DataFrame form. 
     - Usage: `python src/python/franciscan/read.py`
     - Requirements: [json](https://anaconda.org/jmcmurray/json), pandas.
