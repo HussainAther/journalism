@@ -24,4 +24,7 @@ wnh = pd.read_csv("data/food/poverty/whitenothispanic.csv")
 # List of the DataFrames
 dflist = [allraces, aa, aaoic, aapi, b, ba, baoic, har, w, wa, wanh, wnh]
 
-print(allraces.head)
+fig = plt.figure()
+ax = plt.axes()
+for df in dflist:
+#    plt.plot(df["All people (Total)"])
