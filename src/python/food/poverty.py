@@ -6,3 +6,5 @@ import pandas as pd
 Analyze poverty data from the Income and Poverty in the United States: 2016
 report.
 """
+
+allraces = pd.read_csv("data/food/poverty/allraces.csv")
