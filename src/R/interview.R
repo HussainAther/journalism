@@ -163,21 +163,11 @@ provider_summary_actions_extra <- anti_join(provider_summary_actions_2, provider
 
 datatable(provider_summary_actions_extra, extensions = "Responsive")
 
-
  # doctors in Berkeley or Oakland who have had their licenses revoked 
 revoked_oak_berk <- ca_discipline %>%
   filter(action_type == "Revoked"
        & (city == "Oakland" | city == "Berkeley"))
 
-# doctors in Berkeley who had their licenses revoked
-revoked_berk <- ca_discipline %>%
-  filter(action_type == "Revoked"
-       & city == "Berkeley")
-
-# doctors in Oakland who had their licenses revoked
-revoked_oak <- ca_discipline %>%
-  filter(action_type == "Revoked"
-       & city == "Oakland")
 
 # doctors in Berkeley or Oakland who have had their licenses revoked
 revoked_oak_berk <- bind_rows(revoked_oak, revoked_berk)
@@ -197,22 +187,6 @@ revoked_ca_year <- ca_discipline %>%
   group_by(year) %>%
   summarize(revocations = n())
 
- # license revokations for doctors based in California, by month
-revoked_ca_month <- ca_discipline %>%
-  filter(action_type == "Revoked" 
-         & state == "CA"
-         & year >= 2009) %>%
-  group_by(month) %>%
-  summarize(revocations = n())
-
-# license revokations for doctors based in California, by month
-revoked_ca_month <- ca_discipline %>%
-  filter(action_type == "Revoked" 
-         & state == "CA"
-         & year != 2008) %>%
-  group_by(month) %>%
-  summarize(revocations = n())
-
 # disciplinary actions for doctors in California by year and month, from 2009 to 2017
 actions_year_month <- ca_discipline %>%
   filter(state == "CA"
@@ -226,7 +200,6 @@ ca_opioids <- read_csv("../../data/mbc/ca_medicare_opioids.csv")
 
 # look at the data
 View(ca_opioids)
-
 
 # Create a summary, showing the number of opioid prescriptions written by each provider, the total cost of the opioids prescribed, and the cost per claim
 provider_summary <- ca_opioids %>% 
@@ -261,13 +234,3 @@ ggplot(provider_summary, aes(x = prescriptions, y = cost)) +
   theme_minimal() +
   scale_x_continuous(labels = comma) +
   scale_y_continuous(labels = dollar)
-
-# load data
-npi_license <- read_csv("../../data/mbc/npi_license.csv")
-
-# join those two data frames
-ca_discipline_npi <- left_join(ca_discipline, npi_license)
- 
-# join disciplinary action data to the opioid prescription data
-provider_summary_actions <- inner_join(provider_summary, ca_discipline_npi, by = "npi") %>%
-  arrange(desc(prescriptions))
