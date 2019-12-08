@@ -188,7 +188,7 @@ revoked_oak <- ca_discipline %>%
 revoked_oak_berk <- bind_rows(revoked_oak, revoked_berk)
 
 # write data to CSV file
-write_csv(revoked_oak_berk, "revoked_oak_berk.csv", na = "")
+write_csv(revoked_oak_berk, "../../data/mbc/revoked_oak_berk.csv", na = "")
 
 # extract year and month from action_date
 ca_discipline <- ca_discipline %>%
@@ -227,7 +227,7 @@ actions_year_month <- ca_discipline %>%
   arrange(year, month)
 
 # load opioid prescription data
-ca_opioids <- read_csv("ca_medicare_opioids.csv")
+ca_opioids <- read_csv("../../data/mbc/ca_medicare_opioids.csv")
 
 # look at the data
 View(ca_opioids)
@@ -268,7 +268,7 @@ ggplot(provider_summary, aes(x = prescriptions, y = cost)) +
   scale_y_continuous(labels = dollar)
 
 # load data
-npi_license <- read_csv("npi_license.csv")
+npi_license <- read_csv("../../data/mbc/npi_license.csv")
 
 # join those two data frames
 ca_discipline_npi <- left_join(ca_discipline, npi_license)
@@ -291,18 +291,6 @@ provider_summary_actions_2 <- inner_join(provider_summary, ca_discipline_npi, by
 
 # join disciplinary action data to the opioid prescription data
 provider_summary_actions_extra <- anti_join(provider_summary_actions_2, provider_summary_actions)
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
