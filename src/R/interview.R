@@ -212,10 +212,7 @@ provider_summary <- ca_opioids %>%
             cost = sum(total_drug_cost)) %>%
   mutate(cost_per_prescription = cost/prescriptions) %>%
   arrange(desc(prescriptions))
-
-library(ggplot2)
-library(scales)
-
+  
 # histogram of the costs data
 ggplot(provider_summary, aes(x = prescriptions)) +
   geom_histogram()
