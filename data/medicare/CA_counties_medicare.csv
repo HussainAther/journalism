@@ -1,0 +1,59 @@
+state,state_code,county_code,county,county_name,Hospital & skilled nursing facility reimbursements per enrollee (2012),Physician reimbursements per enrollee (2012),Outpatient facility reimbursements per enrollee (2012),Home health agency reimbursements per enrollee (2012),Hospice reimbursements per enrollee (2012),Durable medical equipment reimbursements per enrollee (2012)
+CA,06,001,Alameda County,Alameda,4197,2526,1023,375,257,187
+CA,06,003,Alpine County,Alpine,2999,1971,1205,345,161,227
+CA,06,005,Amador County,Amador,3437,2552,911,327,152,179
+CA,06,007,Butte County,Butte,4427,2193,1308,324,187,274
+CA,06,009,Calaveras County,Calaveras,3740,2103,1107,408,254,177
+CA,06,011,Colusa County,Colusa,3899,1702,1784,214,132,226
+CA,06,013,Contra Costa County,Contra Costa,4178,2714,1010,359,301,181
+CA,06,015,Del Norte County,Del Norte,3603,2286,1171,127,,289
+CA,06,017,El Dorado County,El Dorado,3771,2290,1244,269,226,216
+CA,06,019,Fresno County,Fresno,3802,3037,985,251,227,283
+CA,06,021,Glenn County,Glenn,3638,1928,1403,317,176,256
+CA,06,023,Humboldt County,Humboldt,3260,1940,1189,337,350,200
+CA,06,025,Imperial County,Imperial,3907,2532,1336,346,134,307
+CA,06,027,Inyo County,Inyo,3191,1710,2287,206,48,201
+CA,06,029,Kern County,Kern,4606,3339,967,335,339,340
+CA,06,031,Kings County,Kings,4123,2665,1229,236,95,359
+CA,06,033,Lake County,Lake,4095,2256,1321,338,218,236
+CA,06,035,Lassen County,Lassen,4181,2058,1156,169,108,260
+CA,06,037,Los Angeles County,Los Angeles,5627,3694,1035,747,291,274
+CA,06,039,Madera County,Madera,3638,2745,872,167,170,265
+CA,06,041,Marin County,Marin,3634,2575,1042,321,302,144
+CA,06,043,Mariposa County,Mariposa,3249,2281,1342,160,188,210
+CA,06,045,Mendocino County,Mendocino,3147,1651,1201,262,100,173
+CA,06,047,Merced County,Merced,3777,2766,1079,183,147,287
+CA,06,049,Modoc County,Modoc,3506,1383,1811,56,85,374
+CA,06,051,Mono County,Mono,2955,1833,1915,147,164,220
+CA,06,053,Monterey County,Monterey,3432,2410,872,362,207,199
+CA,06,055,Napa County,Napa,4383,2796,1304,225,275,132
+CA,06,057,Nevada County,Nevada,3320,2225,1189,258,271,178
+CA,06,059,Orange County,Orange,4568,3671,1099,519,361,240
+CA,06,061,Placer County,Placer,3470,2737,882,328,286,173
+CA,06,063,Plumas County,Plumas,3426,1858,1732,216,76,202
+CA,06,065,Riverside County,Riverside,4514,3180,1034,412,458,218
+CA,06,067,Sacramento County,Sacramento,3951,2326,898,323,272,201
+CA,06,069,San Benito County,San Benito,3581,2342,857,265,151,194
+CA,06,071,San Bernardino County,San Bernardino,5117,2704,1061,466,554,252
+CA,06,073,San Diego County,San Diego,4256,2833,970,384,483,205
+CA,06,075,San Francisco County,San Francisco,3561,1969,1264,417,229,165
+CA,06,077,San Joaquin County,San Joaquin,4443,2490,1007,356,139,223
+CA,06,079,San Luis Obispo County,San Luis Obispo,2823,2945,597,432,231,210
+CA,06,081,San Mateo County,San Mateo,3188,2298,1138,386,296,166
+CA,06,083,Santa Barbara County,Santa Barbara,2896,2912,885,294,237,200
+CA,06,085,Santa Clara County,Santa Clara,3530,2495,1025,350,267,194
+CA,06,087,Santa Cruz County,Santa Cruz,3078,2567,733,357,397,187
+CA,06,089,Shasta County,Shasta,3935,2629,913,306,182,270
+CA,06,091,Sierra County,Sierra,3881,2018,1432,193,135,208
+CA,06,093,Siskiyou County,Siskiyou,2685,1718,1480,179,295,232
+CA,06,095,Solano County,Solano,3697,2166,922,290,271,193
+CA,06,097,Sonoma County,Sonoma,3351,2678,875,307,329,191
+CA,06,099,Stanislaus County,Stanislaus,4240,2487,1107,338,275,227
+CA,06,101,Sutter County,Sutter,4074,2516,1108,279,323,232
+CA,06,103,Tehama County,Tehama,3610,2113,1343,360,181,281
+CA,06,105,Trinity County,Trinity,3457,2150,665,158,106,286
+CA,06,107,Tulare County,Tulare,3769,2774,1158,185,207,337
+CA,06,109,Tuolumne County,Tuolumne,3147,2012,1728,420,154,197
+CA,06,111,Ventura County,Ventura,3895,3483,876,502,332,226
+CA,06,113,Yolo County,Yolo,2926,1920,1117,280,248,165
+CA,06,115,Yuba County,Yuba,4629,2328,1180,312,352,281
