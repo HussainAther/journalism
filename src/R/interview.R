@@ -138,9 +138,6 @@ ggplotly(scatterplot, tooltip = "text") %>%
 npi_license <- read_csv("../../data/mbc/npi_license.csv")
 
 # Join those two data frames.
-ca_discipline_npi <- left_join(ca_discipline, npi_license)
-
-# Join those two data frames.
 ca_discipline_npi <- left_join(ca_discipline, npi_license, by = "license")
 
 datatable(ca_discipline_npi, extensions = "Responsive")
@@ -162,8 +159,6 @@ provider_summary_actions_2 <- inner_join(provider_summary, ca_discipline_npi, by
                                                                                  "nppes_provider_first_name" = "first_name",
                                                                                  "nppes_provider_city" = "city")) %>%
   arrange(desc(prescriptions))
-
-# Join disciplinary action data to the opioid prescription data.
 provider_summary_actions_extra <- anti_join(provider_summary_actions_2, provider_summary_actions)
 
 datatable(provider_summary_actions_extra, extensions = "Responsive")
@@ -276,24 +271,3 @@ ca_discipline_npi <- left_join(ca_discipline, npi_license)
 # join disciplinary action data to the opioid prescription data
 provider_summary_actions <- inner_join(provider_summary, ca_discipline_npi, by = "npi") %>%
   arrange(desc(prescriptions))
-
-# change case of variables to be used in the join
-ca_discipline_npi <- ca_discipline_npi %>%
-  mutate(last_name = toupper(last_name),
-         first_name = toupper(first_name),
-         city = toupper(city))
-
-# join disciplinary action data to the opioid prescription data
-provider_summary_actions_2 <- inner_join(provider_summary, ca_discipline_npi, by = c("nppes_provider_last_org_name" = "last_name", 
-                                                                                     "nppes_provider_first_name" = "first_name",
-                                                                                     "nppes_provider_city" = "city")) %>%
-  arrange(desc(prescriptions))
-
-# join disciplinary action data to the opioid prescription data
-provider_summary_actions_extra <- anti_join(provider_summary_actions_2, provider_summary_actions)
-
-
-
-
-
-
