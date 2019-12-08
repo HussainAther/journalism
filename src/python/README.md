@@ -49,6 +49,10 @@ Run these python scripts to analyze data. Each python script begins with `import
     - Usage: `python src/python/franciscan/read.py`
     - Requirements: [json](https://anaconda.org/jmcmurray/json), pandas.
 
+* In `geocode`, `jsonread.py` : Read the JSON file to automate geocoding.
+    - Usage: `python src/python/geocode/jsonread.py`
+    - Requirements: geopandas, json.
+
 * In `geophysical`, `grd.py` : Generic script to read a .grd file.
 
 * In `mineral`, `mine.py`, `mineplant.py`, `shapefileread.py`, `specificmine.py`, `uscopper.py`, `usmanganese.py`, and `usplatinum.py` : These scripts analyze the active mines and mineral plants in the US 
