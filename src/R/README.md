@@ -11,8 +11,8 @@ can generally be exported from software such as Microsoft Excel.
 
 * `interview.R` : This script looks for story leads and context.
    - Usage: `R interview.R`
-   - Requirements: dplyr, [DT](https://anaconda.org/r/r-dt), [lubridate](https://anaconda.org/r/r-dt), readr
-   - Uses dplyr for processing data, DT for creating searchable web tables, lubridate to extract information, and readr for reading data.
+   - Requirements: dplyr, [DT](https://anaconda.org/r/r-dt), ggplot2, [lubridate](https://anaconda.org/r/r-dt), [plotly](https://anaconda.org/plotly/plotly), readr, scales
+   - Uses dplyr for processing data, DT for creating searchable web tables, lubridate to extract information, plotly for plotting, readr for reading data, and scales for mapping.
 
 * `techdict.R` : This script creates a technology dictionary for skills and education required for data science jobs. 
     - Usage: `R techdict.R dspos.tsv` 
