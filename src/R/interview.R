@@ -2,6 +2,9 @@ library(readr)
 library(dplyr)
 library(lubridate)
 library(DT)
+library(ggplot2)
+library(scales)
+library(plotly)
 
 # Looking for leads and context for stories.
 
@@ -99,9 +102,7 @@ provider_summary <- ca_opioids %>%
 
 datatable(provider_summary, extensions = "Responsive")
 
-library(ggplot2)
-library(scales)
-library(plotly)
+
 
 # Histogram of the costs data.
 ggplot(provider_summary, aes(x = prescriptions)) +
@@ -167,7 +168,6 @@ datatable(provider_summary_actions_extra, extensions = "Responsive")
 revoked_oak_berk <- ca_discipline %>%
   filter(action_type == "Revoked"
        & (city == "Oakland" | city == "Berkeley"))
-
 
 # doctors in Berkeley or Oakland who have had their licenses revoked
 revoked_oak_berk <- bind_rows(revoked_oak, revoked_berk)
