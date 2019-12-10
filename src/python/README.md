@@ -55,7 +55,8 @@ Run these python scripts to analyze data. Each python script begins with `import
 
 * In `geophysical`, `grd.py` : Generic script to read a .grd file.
     - Usage: `python src/python/geophysical/grd.py`
-    
+  
+* In `map`, `cartoread.py` : SQl script with code for creating interactive maps using Carto. 
 
 * In `mineral`, `mine.py`, `mineplant.py`, `shapefileread.py`, `specificmine.py`, `uscopper.py`, `usmanganese.py`, and `usplatinum.py` : These scripts analyze the active mines and mineral plants in the US 
     - Usage: `python src/python/mineral/mine.py`
