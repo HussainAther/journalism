@@ -29,6 +29,11 @@ Run these python scripts to analyze data. Each python script begins with `import
     - Requirements: pandas, matplotlib.
     - Uses the curricula `.csv` files in the `data/curricula` directory as input.
 
+* In `dam`, `read.py` : This script analyzes the Oregon dam inventory data.
+    - Usage: `python src/python/dam/read.py`
+    - Requirements: numpy, pandas.
+    - Uses the `oregondams.csv` file in `data/dam` as input.
+
 * In `defaunation`, `graphy.py` : This creates graphs of the various studies used in _Gardner et al., 2019_.
     - Usage: `python src/python/defaunation/graph.py`
     - Requirements: matplotlib, numpy, pandas.
