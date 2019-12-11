@@ -42,3 +42,5 @@
     - `birth_rate`: [Live births during the year per 1,000 people](http://data.worldbank.org/indicator/SP.DYN.LE00.IN), based on mid-year population estimate.
     - `neonat_mortal_rate`: [Neonatal mortality rate](http://data.worldbank.org/indicator/SH.DYN.NMRT): babies dying before reaching 28 days of age, per 1,000 live births in a given year.
     - `region` `income`: World Bank [regions](http://siteresources.worldbank.org/DATASTATISTICS/Resources/CLASS.XLS) and income groups, explained [here](http://data.worldbank.org/about/country-and-lending-groups).
+
+* `warming.csv` : [National Oceanic and Atmospheric Administration](https://www.ncdc.noaa.gov/cag/global/time-series/globe/land_ocean/ytd/12/1880-2017.csv) data on the annual average global temperature, from 1880 to 2017.
