@@ -4,20 +4,26 @@ Run these R scripts to analyze data. Take apart knowledge, skills, and abilities
 These files require input `.tsv` files, tab-separated value files that have data science information in rows separated by tabs. `.tsv` files
 can generally be exported from software such as Microsoft Excel.
 
+* `animation.R` : Make animated gifs and videos from the charts.
+    - Usage `R/src/R/animation.R`
+    - Requirements: [dplyr](https://anaconda.org/r/r-dplyr), [gganimate](https://anaconda.org/conda-forge/r-gganimate), [ggplot2](https://anaconda.org/r/r-ggplot2), [readr](https://anaconda.org/conda-forge/r-readr), [scales](https://anaconda.org/r/r-scales)
+    - Uses dplyr for processing data, gganimate for animating, ggplot2 for graphing, readr for processing data, and scales for mapping.
+
 * `caimmun.R` : Graphs the vaccination and immunization data in California.
-   - Usage `R src/R/caimmun.R`
-   - Requirements: [dplyr](https://anaconda.org/r/r-dplyr), [ggplot2](https://anaconda.org/r/r-ggplot2), [readr](https://anaconda.org/conda-forge/r-readr), [scales](https://anaconda.org/r/r-scales)
-   - Uses dplyr for processing data, ggplot2 for graphing, readr for processing data, and scales for mapping.
+    - Usage `R src/R/caimmun.R`
+    - Requirements: dplyr, ggplot2, readr, [scales](https://anaconda.org/r/r-scales)
+    - Uses dplyr for processing data, ggplot2 for graphing, readr for processing data, and scales for mapping.
 
 * `interview.R` : This script looks for story leads and context.
-   - Usage: `R interview.R`
-   - Requirements: dplyr, [DT](https://anaconda.org/r/r-dt), ggplot2, [lubridate](https://anaconda.org/r/r-dt), [plotly](https://anaconda.org/plotly/plotly), readr, scales
-   - Uses dplyr for processing data, DT for creating searchable web tables, lubridate to extract information, plotly for plotting, readr for reading data, and scales for mapping.
+    - Usage: `R interview.R`
+    - Requirements: dplyr, [DT](https://anaconda.org/r/r-dt), ggplot2, [lubridate](https://anaconda.org/r/r-dt), [plotly](https://anaconda.org/plotly/plotly), readr, scales
+    - Uses dplyr for processing data, DT for creating searchable web tables, lubridate to extract information, plotly for plotting, readr for reading data, and scales for mapping.
 
 * `techdict.R` : This script creates a technology dictionary for skills and education required for data science jobs. 
     - Usage: `R techdict.R dspos.tsv` 
     - Requirements: dplyr, [gdata](https://anaconda.org/anaconda/gdata), [ggplot2](https://anaconda.org/r/r-ggplot2), [tidyr](https://anaconda.org/r/r-tidyr).
     - Uses gdata, dplyr, and tidyr for manipulating and cleaning data and ggplot2 for plotting. 
+
 * `wcsj.R` : This script plots the data from the World Conference of Science Journalists (WCSJ) 2017 workshop R for Data Journalism. 
     - Usage: `R wcsj.R`
     - Requirements: dplyr, ggplot2, readr, [tidyverse](https://anaconda.org/r/r-tidyverse)
