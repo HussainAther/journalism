@@ -44,3 +44,5 @@
     - `region` `income`: World Bank [regions](http://siteresources.worldbank.org/DATASTATISTICS/Resources/CLASS.XLS) and income groups, explained [here](http://data.worldbank.org/about/country-and-lending-groups).
 
 * `warming.csv` : [National Oceanic and Atmospheric Administration](https://www.ncdc.noaa.gov/cag/global/time-series/globe/land_ocean/ytd/12/1880-2017.csv) data on the annual average global temperature, from 1880 to 2017.
+    - `year`
+    - `value` : Average global temperature, compared to average from 1900-2000.
