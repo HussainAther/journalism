@@ -69,3 +69,20 @@ warming_plot <- ggplot(warming, aes(x = year, y = value)) +
   xlab("") +
   ylab("Difference from 1900-2000 (ºC)") +
   theme_minimal(base_size = 16, base_family = "Georgia")
+
+# Draw chart.
+warming_plot <- ggplot(warming, aes(x = year, y = value)) +
+  geom_line(colour = "black") +
+  geom_point(shape = 21, colour = "black", aes(fill = value), size = 5, stroke = 1) +
+  scale_x_continuous(limits = c(1880,2017)) +
+  scale_y_continuous(limits = c(-0.5,1)) +
+  scale_fill_distiller(palette = "RdYlBu", limits = c(-1,1), guide = FALSE) +
+  xlab("") +
+  ylab("Difference from 1900-2000 (ºC)") +
+  theme_minimal(base_size = 16, base_family = "Georgia") +
+  # gganimate code
+  transition_reveal(id = 1, along = year)
+
+# Save as a GIF.
+animate(warming_plot, fps = 10, end_pause = 30, width = 750, height = 450)
+anim_save("output/animation/warming.gif")
