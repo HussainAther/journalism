@@ -45,3 +45,13 @@ nations_plot <- ggplot(nations, aes(x = gdp_percap, y = life_expect)) +
   ease_aes("linear") +
   enter_fade() +
   exit_fade()
+
+animate(nations_plot)
+
+# Save as a GIF.
+animate(nations_plot, fps = 10, end_pause = 30, width = 750, height = 450)
+anim_save("output/animation/nations.gif")
+
+# Save as a video.
+animate(nations_plot, renderer = ffmpeg_renderer(), fps = 30, duration = 20, width = 800, height = 450)
+anim_save("output/animation/nations.mp4")
