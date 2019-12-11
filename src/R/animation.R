@@ -103,3 +103,27 @@ warming_points <- ggplot(warming, aes(x = year, y = value)) +
 # Save as a GIF.
 animate(warming_points, fps = 10, end_pause = 30, width = 750, height = 450)
 anim_save("output/animation/warming_points.gif")
+
+# Load data.
+simulations <- read_csv("data/wcsj/simulations.csv")
+
+# Draw chart.
+simulations_plot <- ggplot(simulations, aes(x=year, y=value, color = value)) +
+  geom_line(size = 1) +
+  scale_y_continuous(limits = c(-0.6,0.75)) +
+  scale_colour_distiller(palette = "RdYlBu", limits = c(-1,1), guide = FALSE) +
+  ylab("Diff. from 1900-2000 average (ºC)") +
+  xlab("") +
+  theme_dark(base_size = 16, base_family = "Georgia") +
+  #gganimate code
+  ggtitle("{closest_state}") +
+  transition_states(
+    type,
+    transition_length = 0.5,
+    state_length = 2
+  ) +
+  ease_aes("sine-in-out")
+
+# Save as a GIF.
+animate(simulations_plot, fps = 10, width = 750, height = 450)
+anim_save("output/animation/simulations.gif")
