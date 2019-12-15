@@ -51,4 +51,21 @@ def main()
     datarows = []
     with open(afile, "r") as f:
         reader = csv.reader(f)
-        reader.next() # Skip the header. 
+        reader.next() # Skip the header.
+        for row in reader:
+            datarows.append(row)
+            # Describe data.
+            description = {"country":("string", "Country"),
+                           "dpi": ("number", "EUR"),}
+            # Build list of dictionaries.
+            data = []
+            for each in datarows:
+                data.append({"country": each[0],
+                        "dpi":(float(each[1]), each[1])})
+            # Instantiate DataTable with structure defined in 'description'.
+            datatable = gviz_api.DataTable(description)
+            # Load it into gviz_api.DataTable.
+            datatable.LoadData(data)
+            # Create a JSon string.
+            json = datatable.ToJSon(columns_order=("country", "dpi"), order_by="country",)
+            # Put JSON string into the template. 
