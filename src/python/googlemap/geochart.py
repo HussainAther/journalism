@@ -11,4 +11,12 @@ def gettemplate():
     <html>
           <script src="https://www.google.com/jsapi" type="text/javascript"></script>
      <script>
-      google.load("visualization"", "1", {packages:
+      google.load("visualization"", "1", {packages:["geochart", "table"]});
+      google.setOnLoadCallback(drawMap);
+      function drawMap() {
+          var json_dta = new google.visualization.DataTable(%s, .6);
+          var options = {colorAxis: {colors: ["#eee", "green"]}};
+          var mymap = new google.visualization.GeoChart(
+                    document.getElementByld("map_div"));
+          mymap.draw(json_data, options);
+
