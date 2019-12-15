@@ -11,16 +11,16 @@ def gettemplate():
     <html>
           <script src="https://www.google.com/jsapi" type="text/javascript"></script>
      <script>
-      google.load("visualization"", "1", {packages:["geochart", "table"]});
+      google.load("visualization", "1", {packages:["geochart", "table"]});
       google.setOnLoadCallback(drawMap);
       function drawMap() {
-          var json_dta = new google.visualization.DataTable(%s, .6);
+          var json_data = new google.visualization.DataTable(%s, .6);
           var options = {colorAxis: {colors: ["#eee", "green"]}};
           var mymap = new google.visualization.GeoChart(
-                    document.getElementByld("map_div"));
+                    document.getElementById("map_div"));
           mymap.draw(json_data, options);
           var mtable = new google.visualization.Table(
-                    document.getElementByld("table_div"));
+                    document.getElementById("table_div"));
           mytable.draw(json_data, {showRowNumber: true})
     }
     </script>
@@ -33,8 +33,8 @@ def gettemplate():
     <hr/>
     <small>
     Source:
-        <a href="http://www.numbeo.com/cost-of-living/prices_by_-country.jsp?display-rency=EUR$itemId=105">
-        http://www.numbeo.com/cost-of-living/prices_by_-country.jsp?display-rency=EUR$itemId=105
+        <a href="http://www.numbeo.com/cost-of-living/prices_by_country.jsp?display-rency=EUR$itemId=105">
+        http://www.numbeo.com/cost-of-living/prices_by_country.jsp?display-rency=EUR$itemId=105
     </a>
     </small>
     </div>
@@ -71,6 +71,6 @@ def main():
             # Put JSON string into the template
             # and save to output.html. 
             with open("output/googlemap/output.html", "w") as out:
-                out.write(getpagetemplate() % (json,))
+                out.write(gettemplate() % (json,))
 
 main()
