@@ -43,7 +43,7 @@ def gettemplate():
     """
     return pagetemplate 
 
-def main()
+def main():
     """
     Load data from a .csv file and visualize it.
     """
@@ -68,4 +68,9 @@ def main()
             datatable.LoadData(data)
             # Create a JSon string.
             json = datatable.ToJSon(columns_order=("country", "dpi"), order_by="country",)
-            # Put JSON string into the template. 
+            # Put JSON string into the template
+            # and save to output.html. 
+            with open("output/googlemap/output.html", "w") as out:
+                out.write(getpagetemplate() % (json,))
+
+main()
