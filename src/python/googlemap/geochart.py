@@ -19,4 +19,10 @@ def gettemplate():
           var mymap = new google.visualization.GeoChart(
                     document.getElementByld("map_div"));
           mymap.draw(json_data, options);
-
+          var mtable = new google.visualization.Table(
+                    document.getElementByld("table_div"));
+          mytable.draw(json_data, {showRowNumber: true})
+    }
+    </script>
+    <body>
+       <H1>Median Monthly Disposable Salary World Countries</H1>
