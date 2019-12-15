@@ -19,7 +19,7 @@ Run these python scripts to analyze data. Each python script begins with `import
     - Requirements: pandas.
     - Uses pandas for data manipulation.
 
-* In `criticalmaterials`, `graph.py`, `prepare.py` and `table.py` : These scripts produce graphs of critical minerals across the world.
+* In `criticalmaterials`, `graph.py`, `periodic.py`, `prepare.py` and `table.py` : These scripts produce graphs of critical minerals across the world.
     - Usage: `python src/python/criticalminerals/graph.py`
     - Requirements: [bokeh](https://anaconda.org/bokeh/bokeh), [geopandas](https://anaconda.org/conda-forge/geopandas), [geoplot](https://anaconda.org/conda-forge/geoplot), [numpy](https://anaconda.org/anaconda/numpy), [pyshp](https://anaconda.org/conda-forge/pyshp). 
     - Uses the input shapefile in `data/criticalminerals`.
