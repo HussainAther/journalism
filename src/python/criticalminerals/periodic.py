@@ -26,6 +26,9 @@ df = df[df.symbol != "Lu"]
 #     "nonmetal"             : "#f1d4Af",
 #     "transition metal"     : "#599d7A",
 # }
+
+# Color map with the crustal abundace (ppm)
+# corresponds to a specific color between white and red.
 cmap : {"Sb":"#D1C7C7",
 "Ba":"#BAABAB",
 "Be":"#AD1F1F",
