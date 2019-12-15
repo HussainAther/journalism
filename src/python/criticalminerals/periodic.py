@@ -3,7 +3,7 @@ from bokeh.plotting import figure
 from bokeh.sampledata.periodic_table import elements
 from bokeh.transform import dodge, factor_cmap
 
-output_file("../../../output/criticalminerals/critmincolor.html")
+output_file("output/criticalminerals/critmincolor.html")
 
 periods = ["I", "II", "III", "IV", "V", "VI", "VII"]
 groups = [str(x) for x in range(1, 19)]
@@ -139,9 +139,10 @@ hovertt = [
     ("Crustal abundance (ppm)", "@ca")
 ]
 
-p = figure(title="Periodic Table (omitting LA and AC Series)", plot_width=1000, plot_height=450,
+p = figure(plot_width=1000, plot_height=450,
            x_range=groups, y_range=list(reversed(periods)),
            tools="hover", toolbar_location=None, tooltips=hovertt)
+p.title.text_font_size = "36pt"
 
 r = p.rect("group", "period", 0.95, 0.95, source=df, fill_alpha=0.6,
            color=factor_cmap("symbol", palette=list(cmap.values()), factors=list(cmap.keys())))
