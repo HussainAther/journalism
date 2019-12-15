@@ -47,4 +47,8 @@ def main()
     """
     Load data from a .csv file and visualize it.
     """
-    
+    afile = "data/googlemap/median-dpi-countries.csv"
+    datarows = []
+    with open(afile, "r") as f:
+        reader = csv.reader(f)
+        reader.next() # Skip the header. 
