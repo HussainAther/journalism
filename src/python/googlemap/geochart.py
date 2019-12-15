@@ -38,3 +38,13 @@ def gettemplate():
     </a>
     </small>
     </div>
+    </body>
+    </html>
+    """
+    return pagetemplate 
+
+def main()
+    """
+    Load data from a .csv file and visualize it.
+    """
+    
