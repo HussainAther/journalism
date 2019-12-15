@@ -7,5 +7,6 @@ Search for correlations among the periodic table
 of critical minerals.
 """
 
-
 df = "data/criticalminerals/input.csv"
+
+print(df.head)
