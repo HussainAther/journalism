@@ -26,4 +26,15 @@ def gettemplate():
     </script>
     <body>
        <H1>Median Monthly Disposable Salary World Countries</H1>
-    
+    <div id="map_div"></div>
+    <hr/>
+    <div id="table_div"></div>
+    <div id="source">
+    <hr/>
+    <small>
+    Source:
+        <a href="http://www.numbeo.com/cost-of-living/prices_by_-country.jsp?display-rency=EUR$itemId=105">
+        http://www.numbeo.com/cost-of-living/prices_by_-country.jsp?display-rency=EUR$itemId=105
+    </a>
+    </small>
+    </div>
