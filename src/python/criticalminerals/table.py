@@ -61,7 +61,7 @@ if not cbar_standoff:
 if not cbar_fontsize:
 	cbar_fontsize = 12
 
-#Error handling
+# Error handling
 if width < 0:
 	raise argparse.ArgumentTypeError("--width must be a positive integer")
 if alpha < 0 or alpha > 1:
@@ -69,7 +69,7 @@ if alpha < 0 or alpha > 1:
 if cbar_height is not None and cbar_height < 0:
 	raise argparse.ArgumentTypeError("--cbar_height must be a positive integer")
 
-#Assign color palette based on input argument
+# Assign color palette based on input argument.
 if cmap_choice == 0:
 	cmap = plasma
 	bokeh_palette = "Plasma256"
@@ -83,11 +83,11 @@ elif cmap_choice == 3:
 	cmap = viridis
 	bokeh_palette = "Viridis256"
 	
-#Define number of and groups
+# Define number of and groups.
 period_label = ["1", "2", "3", "4", "5", "6", "7"]
 group_range = [str(x) for x in range(1, 19)]
 
-#Remove any groups or periods
+# Remove any groups or periods.
 if group_remove:
 	for gr in group_remove:
 		gr = gr.strip()
@@ -97,7 +97,7 @@ if period_remove:
 		pr = pr.strip()
 		period_label.remove(pr)
 
-#Read in data from CSV file
+# Read in data from CSV file.
 data_elements = []
 data_list = []
 for row in reader(open(filename)):
@@ -125,7 +125,7 @@ if extended:
 	    elements.group[i] = str(count+4)
 	    count += 1
 
-#Define matplotlib and bokeh color map
+# Define matplotlib and bokeh color map.
 if log_scale == 0:
 	color_mapper = LinearColorMapper(palette = bokeh_palette, low=min(data), 
 		high=max(data))
@@ -140,13 +140,13 @@ elif log_scale == 1:
 	norm = LogNorm(vmin = min(data), vmax = max(data))
 color_scale = ScalarMappable(norm=norm, cmap=cmap).to_rgba(data,alpha=None)
 
-#Define color for blank entries
+# Define color for blank entries.
 blank_color = "#c4c4c4"
 color_list = []
 for i in range(len(elements)):
 	color_list.append(blank_color)
 
-#Compare elements in dataset with elements in periodic table
+# Compare elements in dataset with elements in periodic table.
 for i, data_element in enumerate(data_elements):
 	element_entry = elements.symbol[elements.symbol.str.lower() == data_element.lower()]
 	if element_entry.empty == False:
@@ -157,7 +157,7 @@ for i, data_element in enumerate(data_elements):
 		print("WARNING: Multiple entries for element "+data_element)
 	color_list[element_index] = to_hex(color_scale[i])
 
-#Define figure properties for visualizing data
+# Define figure properties for visualizing data.
 source = ColumnDataSource(
     data=dict(
         group=[str(x) for x in elements["group"]],
@@ -168,7 +168,7 @@ source = ColumnDataSource(
     )
 )
 
-#Plot the periodic table
+# Plot the periodic table.
 p = figure(x_range=group_range, y_range=list(reversed(period_label)),
 	tools="save")
 p.plot_width = width
