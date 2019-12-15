@@ -26,3 +26,4 @@ def gettemplate():
     </script>
     <body>
        <H1>Median Monthly Disposable Salary World Countries</H1>
+    
