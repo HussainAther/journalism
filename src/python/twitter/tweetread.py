@@ -17,6 +17,13 @@ consumersecret = sys.argv[2]
 accesstoken = sys.argv[3] 
 accesssecret = sys.arv[4]
 
+# Read in the keyword file.
+kwfile = sys.argv[5]
+
+keywords = [] # Initialize the list we will use to store keywords
+with open(kwfile, "r") as file: # Open the keyword file
+    for line in file: # For each line in the file,
+        keywords.append(line.replace("\n", "")) # append each line to the list keywords
 
 class TweetsListener(StreamListener):
 
@@ -45,3 +52,9 @@ class TweetsListener(StreamListener):
         """
         print(status)
         return True
+
+def sendData(csocket):
+    auth = OAuthHandler(consumerkey, consumersecret)
+    auth.setaccesstoken(accesstoken, accesssecret)
+    twitterstream = Stream(auth, TweetsListener(csocket))
+    twitterstream.filter(track=["soccer"])
