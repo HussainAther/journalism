@@ -53,8 +53,11 @@ class TweetsListener(StreamListener):
         print(status)
         return True
 
-def sendData(csocket):
+def sendData(csocket, keywords):
     auth = OAuthHandler(consumerkey, consumersecret)
     auth.setaccesstoken(accesstoken, accesssecret)
     twitterstream = Stream(auth, TweetsListener(csocket))
-    twitterstream.filter(track=["soccer"])
+    for word in keywords:
+        twitterstream.filter(track=[word])
+
+
