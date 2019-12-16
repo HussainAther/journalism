@@ -69,7 +69,7 @@ Run these python scripts to analyze data. Each python script begins with `import
 
   * `svm.py` : This script creates a decision boundary as part of a support vector machine (SVM) in classifying the data.
     - Usage: `python src/python/mineral/svm.py`
-    - Requirements: geopandas, matplotlib, numpy, pandas, [scikit-learn](https://anaconda.org/anaconda/scikit-learn), seaborn. 
+    - Requirements: geopandas, matplotlib, numpy, pandas, [scikit-learn](https://anaconda.org/anaconda/scikit-learn), [seaborn](https://anaconda.org/anaconda/seaborn). 
 
 * In `misc,` `uncertainty.py` : This script has simple statistics tests for evaluating uncertainty.
     - Usage: `python uncertainty.py`
@@ -77,7 +77,7 @@ Run these python scripts to analyze data. Each python script begins with `import
 
   * `visualizeDataset.py` : This script creates an example dataset and plots it.
     - Usage: `python visualizeDataset.py`
-    - Requirements: matplotlib, pandas, [seaborn](https://anaconda.org/anaconda/seaborn). 
+    - Requirements: matplotlib, pandas, seaborn. 
     - Uses matplotlib and seaborn for plotting and pandas for data manipulation.
 
 * In `nicr`, `table.py` and `usmap.py` : These scripts create maps and tables of Ni-Cr deposits across the US and the world.
@@ -145,4 +145,7 @@ Run these python scripts to analyze data. Each python script begins with `import
     - Usage: `python src/python/twitter/tweetread.py ckey csecret atoken asecret kwfile`
     - Requirements: json, [tweepy](https://anaconda.org/conda-forge/tweepy). 
     - In order to use all of this though, we need to setup a Developer API acocunt with Twitter and create an application to get credentials. Review the video for instructions on how to do this or if you are already familiar with it, just get the credentials from https://apps.twitter.com/.
- 
+    
+    `network.py` : For creating a network and communities.
+    - Usage:
+    - Requirements: [i-graph](https://anaconda.org/conda-forge/python-igraph), json, maplotlib, [networkx](https://anaconda.org/anaconda/networkx), numpy, pandas, seaborn, [tqdm](https://anaconda.org/conda-forge/tqdm), tweepy. 
