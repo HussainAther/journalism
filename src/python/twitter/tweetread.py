@@ -53,11 +53,23 @@ class TweetsListener(StreamListener):
         print(status)
         return True
 
-def sendData(csocket, keywords):
+def sendData(csocket, kw):
+    """
+    Filter by the keywords.
+    """
     auth = OAuthHandler(consumerkey, consumersecret)
     auth.setaccesstoken(accesstoken, accesssecret)
     twitterstream = Stream(auth, TweetsListener(csocket))
-    for word in keywords:
+    for word in kw:
         twitterstream.filter(track=[word])
 
 
+s = socket.socket() # Create a socket object.
+host = "127.0.0.1" # Get local machine name.
+port = 5555  # Reserve a port for your service.
+s.bind((host, port)) # Bind to the port.
+print("Listening on port: %s" % str(port))
+s.listen(5) # Now wait for client connection.
+c, addr = s.accept() # Establish connection with client.
+print("Received request from: " + str( addr ))
+sendData(c, keywords)
