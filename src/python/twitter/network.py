@@ -28,10 +28,13 @@ Visualizing Twitter followers to analyze the public opinion of a keyword input.
 Usage: `python keyword image` for some keyword to search Twitter for and an image
 file to use as a mask for the word cloud.
 
-This script runs the entire shindig 
+This script runs the entire shindig from querying Twitter, preprocessing the obtained text,
+visualizing the data, preparing the data for the neural network, training the neural network
+on the data, testing it, and figuring out which model is the most accurate in predicting new
+tweets. 
 """
 
-# Get the user-input.
+# Get the user input.
 kw = sys.argv[1] # keyword
 if len(sys.argv) == 2:
     mi = None
