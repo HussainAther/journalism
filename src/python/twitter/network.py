@@ -136,7 +136,7 @@ def handling_negation(row):
             break
     return " ".join(words)
 
-def cleaning_table(table):
+def cleantable(table):
     """
     This function will process all the required cleaning for the text in our tweets.
     """
@@ -278,7 +278,7 @@ def test(X_test, model_nn):
 
 tabletweets = "tweets_anime" # table name
 tweet_table = querydb(tabletweets)
-tweet_table = cleaning_table(tweet_table)
+tweet_table = cleantable(tweet_table)
 
 # Draw a word cloud.
 word_cloud(pd.Series([t for t in tweet_table.tweet]).str.cat(sep=" ")) 
@@ -306,7 +306,7 @@ table_regression.columns = ["Positive", "Negative"]
 regression_graph(table_regression)
 
 tabletweets = "tweets_anime_labeled"
-tweet_table = query_database(tabletweets)
+tweet_table = querydb(tabletweets)
 tweet_table["sentiment"] = tweet_table["sentiment"].apply(lambda x: 2 if x == "Positive" else (0 if x == "Negative" else 1))
 
 X_train, X_test, y_train, y_test = splitting(tweet_table)
@@ -473,3 +473,7 @@ def save_model(model):
     with open("model.json", "w") as json_file:
         json_file.write(model_json)
     model.save_weights("model.h5")
+
+tabletweetsnew = "tweets_predict_anime"
+tweet_table_new = querydb(tabletweetsnew)
+tweet_table_new = cleantable(tweet_table_new)
