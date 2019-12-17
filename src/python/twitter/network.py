@@ -27,6 +27,8 @@ from wordcloud import WordCloud
 Visualizing Twitter followers to analyze the public opinion of a keyword input.
 Usage: `python keyword image` for some keyword to search Twitter for and an image
 file to use as a mask for the word cloud.
+
+This script runs the entire shindig 
 """
 
 # Get the user-input.
@@ -280,7 +282,7 @@ def train(X_train_mod, y_train, features, shuffle, drop, layer1, layer2, epoch, 
                  verbose=1,
                  validation_split=validation,
                  shuffle=shuffle)
-    return model_nneturn
+    return model_nn
 
 def test(X_test, model_nn):
     """
@@ -490,16 +492,36 @@ def save_model(model):
         json_file.write(model_json)
     model.save_weights("model.h5")
 
-# After testing out models, choose one to save.
-model_final = model7(X_train, y_train)
-save_model(model_final)
+# Test out each model to find the one with the greatest accuracy.
+winner = model1 # winning model
+winacc = model1(X_train, y_train).history["accuracy"] # winning accuracy
+modellist = [model1,
+             model2,
+             model3,
+             model4,
+             model5,
+             model6,
+             model7,
+             model8,
+             model9,
+             model10,
+             model11]
+for modelno in modellist:
+    curracc = modelno(X_train, y_train).history["accuracy"] # currency model accuracy
+    if curacc > winacc:
+        winacc = curacc
+        winner = modelno
 
+print("The most accurate model is: " + str(winner))
+save_model(winner)
+
+# Predict Tweets based off the keyword.
 tabletweetsnew = "tweets_predict_" + kw
 tweet_table_new = querydb(tabletweetsnew)
 tweet_table_new = cleantable(tweet_table_new)
 
 X_new = tokenization_tweets(tweet_table_new.tweet, 3500)
-new_prediction = model_final.predict(X_new)
+new_prediction = winner.predict(X_new)
 
 labels = ["Negative", "Neutral", "Positive"]
 sentiments = [labels[np.argmax(pred)] for pred in new_prediction]
