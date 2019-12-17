@@ -84,9 +84,10 @@ Run these python scripts to analyze data. Each python script begins with `import
     - Usage: `python src/python/mineral/svm.py`
     - Requirements: geopandas, matplotlib, numpy, pandas, [scikit-learn](https://anaconda.org/anaconda/scikit-learn), [seaborn](https://anaconda.org/anaconda/seaborn). 
 
-* In `misc`, `makewordcloud.py` : This script makes a word cloud for a given set of text input from a file and an optional mask image of an image on which to place the words.
-    - Usage: `python src/python/misc/makewordcloud.py inputfile maskimage`
-    - Requirements: [nltk](https://anaconda.org/anaconda/gensimv), [wordcloud](https://anaconda.org/conda-forge/wordcloud).
+* In `misc`, `makewordcloud.py` : This script makes a word cloud for a given set of text input from an input file.
+    - Usage: `python src/python/misc/makewordcloud.py inputfile`
+    - Requirements: [nltk](https://anaconda.org/anaconda/nltk), [wordcloud](https://anaconda.org/conda-forge/wordcloud).
+    - This script is written to be as succinct and concise, using as few lines of code as possible.
 
   * `uncertainty.py` : This script has simple statistics tests for evaluating uncertainty.
     - Usage: `python uncertainty.py`
