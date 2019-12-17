@@ -467,3 +467,9 @@ def model11(X_train, y_train):
     X_train_mod = tokenization_tweets(X_train, features)
     model = train(X_train_mod, y_train, features, shufle, drop, layer1, layer2, epoch, lr, epsilon, validation)
     return model
+
+def save_model(model):
+    model_json = model.to_json()
+    with open("model.json", "w") as json_file:
+        json_file.write(model_json)
+    model.save_weights("model.h5")
