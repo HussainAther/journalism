@@ -229,3 +229,10 @@ def regression_graph(table):
     plt.title("Word frequency in Positive vs. Negative Tweets", size=14)
     plt.grid(False)
     sns.despine()
+
+def splitting(table):
+    """
+    Split the data into training and test datasets.
+    """
+    X_train, X_test, y_train, y_test = train_test_split(table.tweet, table.sentiment, test_size=0.2, shuffle=True)
+    return X_train, X_test, y_train, y_test
