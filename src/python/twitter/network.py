@@ -307,3 +307,4 @@ regression_graph(table_regression)
 
 tabletweets = "tweets_anime_labeled"
 tweet_table = query_database(tabletweets)
+tweet_table["sentiment"] = tweet_table["sentiment"].apply(lambda x: 2 if x == "Positive" else (0 if x == "Negative" else 1))
