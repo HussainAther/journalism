@@ -145,3 +145,26 @@ def cleaning_table(table):
     table["tweet"] = table["tweet"].apply(lambda x: handling_negation(x))
     table = stop_words(table)
     return table
+
+def vectorization(table):
+    """
+    Vectorize the table into a format that can be visualized.
+    This lets pandas and matplotlib create visuals that can be stretched
+    and fitted.
+    """
+    # CountVectorizer will convert a collection of text documents to a matrix of token counts.
+    # Produces a sparse representation of the counts.
+    # Initialize.
+    vector = CountVectorizer()
+    # We fit and transform the vector created.
+    frequency_matrix = vector.fit_transform(table.tweet)
+    # Sum all the frequencies for each word.
+    sum_frequencies = np.sum(frequency_matrix, axis=0)
+    # Now we use squeeze to remove single-dimensional entries 
+    # from the shape of an array that we got from applying 
+    # np.asarray to the sum of frequencies.
+    frequency = np.squeeze(np.asarray(sum_frequencies))
+    # Now we get into a dataframe all the frequencies 
+    # and the words that they correspond to.
+    frequency_df = pd.DataFrame([frequency], columns=vector.get_feature_names()).transpose()
+    return frequency_df
