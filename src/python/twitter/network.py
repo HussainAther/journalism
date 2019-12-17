@@ -493,3 +493,6 @@ plt.pie(sizes, explode=explode, colors="bwr", labels=labels, autopct="%1.1f%%",
         shadow=True, startangle=90, wedgeprops={"alpha":0.8})
 plt.axis("equal")
 plt.show()
+
+engine = create_engine("postgresql+psycopg2://%s:%s@%s:%d/%s" %(usertwitter, passwordtwitter, hosttwitter, porttwitter, dbnametwitter))
+tweet_table_new.to_sql("tweets_avengers_new_labeled", con=engine, if_exists="append")
