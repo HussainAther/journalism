@@ -236,3 +236,12 @@ def splitting(table):
     """
     X_train, X_test, y_train, y_test = train_test_split(table.tweet, table.sentiment, test_size=0.2, shuffle=True)
     return X_train, X_test, y_train, y_test
+
+def tokenization_tweets(dataset, features):
+    """
+    Tokenize the tweets into an easy-to-read format.
+    """
+    tokenization = TfidfVectorizer(max_features=features)
+    tokenization.fit(dataset)
+    dataset_transformed = tokenization.transform(dataset).toarray()
+    return dataset_transformed
