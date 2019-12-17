@@ -308,3 +308,22 @@ regression_graph(table_regression)
 tabletweets = "tweets_anime_labeled"
 tweet_table = query_database(tabletweets)
 tweet_table["sentiment"] = tweet_table["sentiment"].apply(lambda x: 2 if x == "Positive" else (0 if x == "Negative" else 1))
+
+X_train, X_test, y_train, y_test = splitting(tweet_table)
+
+def model1(X_train, y_train):
+    """
+    Train our sequential neural network.
+    """
+    features = 3500
+    shuffle = True
+    drop = 0.5
+    layer1 = 512
+    layer2 = 256
+    epoch = 5
+    lr = 0.001
+    epsilon = None
+    validation = 0.1
+    X_train_mod = tokenization_tweets(X_train, features)
+    model = train(X_train_mod, y_train, features, shuffle, drop, layer1, layer2, epoch, lr, epsilon, validation)
+    return model;
