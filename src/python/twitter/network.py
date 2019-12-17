@@ -79,8 +79,19 @@ def detect_elongated_words(row):
     Find the long ones.
     """
     regexrep = r'(\w*)(\w+)(\2)(\w*)'
-    words = [''.join(i) for i in re.findall(regexrep, row)]
+    words = ["".join(i) for i in re.findall(regexrep, row)]
     for word in words:
         if not in_dict(word):
             row = re.sub(word, replace_elongated_word(word), row)
     return row
+
+
+def stop_words(table):
+    """
+    We need to remove the stop words. These are the prepositions, small words, etc., that
+    don't give us more info.
+    """
+    stop_words_list = stopwords.words("english")
+    table["tweet"] = table["tweet"].str.lower()
+    table["tweet"] = table["tweet"].apply(lambda x: " ".join([word for word in x.split() if word not in (stop_words_list)]))
+    return table
