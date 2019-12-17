@@ -168,3 +168,25 @@ def vectorization(table):
     # and the words that they correspond to.
     frequency_df = pd.DataFrame([frequency], columns=vector.get_feature_names()).transpose()
     return frequency_df
+
+def word_cloud(tweets):
+    """
+    Create the word cloud.
+    """
+    file = os.getcwd()
+    # We read the mask image into a numpy array.
+    anime_mask = np.array(Image.open(os.path.join(file, "anime.png")))
+    # Now we store the tweets into a series to be able to process.
+    #tweets_list = pd.Series([t for t in tweet_table.tweet]).str.cat(sep=" ") 
+    # We generate the wordcloud using the series created and the mask.
+    wc = WordCloud(width=2000, height=1000, max_font_size=200, background_color="black", max_words=2000, mask=anime_mask, contour_width=1, 
+                           contour_color="steelblue", colormap="nipy_spectral", stopwords=["anime"])
+    wc.generate(tweets)
+    # wordcloud = WordCloud(width=1600, height=800,max_font_size=200).generate(tweets_list)
+    # Now we plot both figures, the wordcloud and the mask
+    plt.figure(figsize=(10,10))
+    plt.imshow(wc, interpolation="hermite")
+    plt.axis("off")
+    # plt.imshow(anime_mask, cmap=plt.cm.gray, interpolation="bilinear")
+    # plt.axis("off")    
+    plt.show()
