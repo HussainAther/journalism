@@ -4,7 +4,7 @@ Run these python scripts to analyze data. Each python script begins with `import
 
 * In `arc`, `arcread.py` and `arcread2.py`: These scripts read the input ArcGIS files.
     - Usage: `python arcread.py`
-    - Requirements: [arcpy](https://anaconda.org/esri/arcpy)
+    - Requirements: [arcpy](https://anaconda.org/esri/arcpy).
 
 * In `citation`, `citeToCSV.py` : This script converts a list of citations into a readable .csv with a panda DataFrame as a middle product.
     - Usage: `python citeToCSV.py citationsfile`  
@@ -77,7 +77,8 @@ Run these python scripts to analyze data. Each python script begins with `import
 
 * In `mineral`, `mine.py`, `mineplant.py`, `shapefileread.py`, `specificmine.py`, `uscopper.py`, `usmanganese.py`, and `usplatinum.py` : These scripts analyze the active mines and mineral plants in the US 
     - Usage: `python src/python/mineral/mine.py`
-    - Requirements: [basemap](https://anaconda.org/anaconda/basemap), [chart_studio](https://anaconda.org/plotly/chart-studio), [ipython](https://anaconda.org/anaconda/ipython), matplotlib, numpy, pandas, [plotly](https://anaconda.org/plotly/plotly), [pyshp](https://anaconda.org/conda-forge/pyshp)
+    - Requirements: [basemap](https://anaconda.org/anaconda/basemap), [chart_studio](https://anaconda.org/plotly/chart-studio), [ipython](https://anaconda.org/anaconda/ipython), matplotlib, numpy, pandas, [plotly](https://anaconda.org/plotly/plotly), [pyshp](https://anaconda.org/conda-forge/pyshp).
+    - Output stored in `output/mineral`.
 
   * `svm.py` : This script creates a decision boundary as part of a support vector machine (SVM) in classifying the data.
     - Usage: `python src/python/mineral/svm.py`
