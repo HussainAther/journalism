@@ -326,4 +326,18 @@ def model1(X_train, y_train):
     validation = 0.1
     X_train_mod = tokenization_tweets(X_train, features)
     model = train(X_train_mod, y_train, features, shuffle, drop, layer1, layer2, epoch, lr, epsilon, validation)
-    return model;
+    return model
+
+def model2(X_train, y_train):   
+    features = 3000
+    shufle = True
+    drop = 0.5
+    layer1 = 512
+    layer2 = 256
+    epoch = 5
+    lr = 0.001
+    epsilon = None
+    validation = 0.1
+    X_train_mod = tokenization_tweets(X_train, features)
+    model = train(X_train_mod, y_train, features, shufle, drop, layer1, layer2, epoch, lr, epsilon, validation)
+    return model
