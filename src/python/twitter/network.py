@@ -135,3 +135,13 @@ def handling_negation(row):
             words = words+[replace_antonyms(word_tag[0])]+words_2[index+2:]
             break
     return " ".join(words)
+
+def cleaning_table(table):
+    """
+    This function will process all the required cleaning for the text in our tweets.
+    """
+    table = preprocessing_text(table)
+    table["tweet"] = table["tweet"].apply(lambda x: detect_elongated_words(x))
+    table["tweet"] = table["tweet"].apply(lambda x: handling_negation(x))
+    table = stop_words(table)
+    return table
