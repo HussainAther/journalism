@@ -23,6 +23,7 @@ Run these python scripts to analyze data. Each python script begins with `import
     - Usage: `python src/python/criticalminerals/graph.py`
     - Requirements: [bokeh](https://anaconda.org/bokeh/bokeh), [geopandas](https://anaconda.org/conda-forge/geopandas), [geoplot](https://anaconda.org/conda-forge/geoplot), [numpy](https://anaconda.org/anaconda/numpy), [pyshp](https://anaconda.org/conda-forge/pyshp). 
     - Uses the input shapefile in `data/criticalminerals`.
+    - A periodic table of the critical minerals can be found here: https://hussainather.com/2019/12/15/global-mapping-mineral-trends/
 
 * In `curricula`, `curriculaAnalysis.py` : This script analyzes the Data Science curricula across universities. 
     - Usage: `python curriculaAnalysis.py`
