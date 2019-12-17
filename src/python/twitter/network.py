@@ -269,3 +269,9 @@ def train(X_train_mod, y_train, features, shuffle, drop, layer1, layer2, epoch, 
                  shuffle=shuffle)
     return model_nneturn dataset_transformed
 
+def test(X_test, model_nn):
+    """
+    Test the model.
+    """
+    prediction = model_nn.predict(X_test)
+    return prediction
