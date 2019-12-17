@@ -9,6 +9,7 @@ import psycopg2
 import re
 import seaborn as sns
 import sklearn
+import sys
 import tqdm
 
 from keras.layers import Acivation, Dense, Dropout
@@ -23,8 +24,17 @@ from sqlalchemy import create_engine
 from wordcloud import WordCloud
 
 """
-Visualizing Twitter followers to analyze the public opinion of "anime".
+Visualizing Twitter followers to analyze the public opinion of a keyword input.
+Usage: `python keyword image` for some keyword to search Twitter for and an image
+file to use as a mask for the word cloud.
 """
+
+# Get the user-input.
+kw = sys.argv[1] # keyword
+if len(sys.argv) == 2:
+    mi = None
+elif len(sys.argv) == 3:
+    mi = sys.argv[2] 
 
 def base(tabletweets):
     """
@@ -169,25 +179,28 @@ def vectorization(table):
     frequency_df = pd.DataFrame([frequency], columns=vector.get_feature_names()).transpose()
     return frequency_df
 
-def word_cloud(tweets):
+def word_cloud(tweets, maskimage):
     """
-    Create the word cloud.
+    Create the word cloud for input tweets and a maskimage image file of a shape
+    or picture on which to display the wordcloud.
     """
-    file = os.getcwd()
     # We read the mask image into a numpy array.
-    anime_mask = np.array(Image.open(os.path.join(file, "anime.png")))
+    if maskimage:
+        wordmask = np.array(Image.open(os.path.join(os.getcwd(), maskimage)))
+    else:
+        wordmask = None 
     # Now we store the tweets into a series to be able to process.
-    #tweets_list = pd.Series([t for t in tweet_table.tweet]).str.cat(sep=" ") 
+    # tweets_list = pd.Series([t for t in tweet_table.tweet]).str.cat(sep=" ") 
     # We generate the wordcloud using the series created and the mask.
-    wc = WordCloud(width=2000, height=1000, max_font_size=200, background_color="black", max_words=2000, mask=anime_mask, contour_width=1, 
-                           contour_color="steelblue", colormap="nipy_spectral", stopwords=["anime"])
+    wc = WordCloud(width=2000, height=1000, max_font_size=200, background_color="black", max_words=2000, mask=wordmask, contour_width=1, 
+                           contour_color="steelblue", colormap="nipy_spectral", stopwords=[kw])
     wc.generate(tweets)
     # wordcloud = WordCloud(width=1600, height=800,max_font_size=200).generate(tweets_list)
     # Now we plot both figures, the wordcloud and the mask
     plt.figure(figsize=(10,10))
     plt.imshow(wc, interpolation="hermite")
     plt.axis("off")
-    # plt.imshow(anime_mask, cmap=plt.cm.gray, interpolation="bilinear")
+    # plt.imshow(wordmask, cmap=plt.cm.gray, interpolation="bilinear")
     # plt.axis("off")    
     plt.show()
 
@@ -276,18 +289,18 @@ def test(X_test, model_nn):
     prediction = model_nn.predict(X_test)
     return prediction
 
-tabletweets = "tweets_anime" # table name
+tabletweets = "tweets_" + kw # table name
 tweet_table = querydb(tabletweets)
 tweet_table = cleantable(tweet_table)
 
 # Draw a word cloud.
-word_cloud(pd.Series([t for t in tweet_table.tweet]).str.cat(sep=" ")) 
+word_cloud(pd.Series([t for t in tweet_table.tweet]).str.cat(sep=" "), mi) 
     
 # For positive tweets 
-word_cloud(pd.Series([t for t in tweet_table[tweet_table.sentiment == "Positive"].tweet]).str.cat(sep=" "))   
+word_cloud(pd.Series([t for t in tweet_table[tweet_table.sentiment == "Positive"].tweet]).str.cat(sep=" "), mi)   
 
 # For negative tweets
-word_cloud(pd.Series([t for t in tweet_table[tweet_table.sentiment == "Negative"].tweet]).str.cat(sep=" "))
+word_cloud(pd.Series([t for t in tweet_table[tweet_table.sentiment == "Negative"].tweet]).str.cat(sep=" "), mi)
 
 # Get the frequency.
 word_frequency = vectorization(tweet_table).sort_values(0, ascending = False)
@@ -305,7 +318,7 @@ table_regression = pd.concat([word_frequency_pos, word_frequency_neg], axis=1, s
 table_regression.columns = ["Positive", "Negative"]
 regression_graph(table_regression)
 
-tabletweets = "tweets_anime_labeled"
+tabletweets = "tweets_" + kw + "_labeled"
 tweet_table = querydb(tabletweets)
 tweet_table["sentiment"] = tweet_table["sentiment"].apply(lambda x: 2 if x == "Positive" else (0 if x == "Negative" else 1))
 
@@ -477,10 +490,11 @@ def save_model(model):
         json_file.write(model_json)
     model.save_weights("model.h5")
 
+# After testing out models, choose one to save.
 model_final = model7(X_train, y_train)
 save_model(model_final)
 
-tabletweetsnew = "tweets_predict_anime"
+tabletweetsnew = "tweets_predict_" + kw
 tweet_table_new = querydb(tabletweetsnew)
 tweet_table_new = cleantable(tweet_table_new)
 
@@ -501,4 +515,4 @@ plt.axis("equal")
 plt.show()
 
 engine = create_engine("postgresql+psycopg2://%s:%s@%s:%d/%s" %(usertwitter, passwordtwitter, hosttwitter, porttwitter, dbnametwitter))
-tweet_table_new.to_sql("tweets_anime_new_labeled", con=engine, if_exists="append")
+tweet_table_new.to_sql("tweets_" + kw + "_new_labeled", con=engine, if_exists="append")
