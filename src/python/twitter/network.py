@@ -95,3 +95,43 @@ def stop_words(table):
     table["tweet"] = table["tweet"].str.lower()
     table["tweet"] = table["tweet"].apply(lambda x: " ".join([word for word in x.split() if word not in (stop_words_list)]))
     return table
+
+def replace_antonyms(word):
+    """
+    We get all the lemma for the word.
+    """
+    for syn in wordnet.synsets(word): 
+        for lemma in syn.lemmas(): 
+            #if the lemma is an antonyms of the word
+            if lemma.antonyms(): 
+                #we return the antonym
+                return lemma.antonyms()[0].name()
+    return word
+            
+def handling_negation(row):
+    """
+    Tokenize the row.
+    """
+    words = word_tokenize(row)
+    speach_tags = ["JJ", "JJR", "JJS", "NN", "VB", "VBD", "VBG", "VBN", "VBP"]
+    #We obtain the type of words that we have in the text, we use the pos_tag function
+    tags = nltk.pos_tag(words)
+    #Now we ask if we found a negation in the words
+    tags_2 = ""
+    if "n't" in words and "not" in words:
+        tags_2 = tags[min(words.index("n't"), words.index("not")):]
+        words_2 = words[min(words.index("n't"), words.index("not")):]
+        words = words[:(min(words.index("n't"), words.index("not")))+1]
+    elif "n't" in words:
+        tags_2 = tags[words.index("n't"):]
+        words_2 = words[words.index("n't"):] 
+        words = words[:words.index("n't")+1]
+    elif "not" in words:
+        tags_2 = tags[words.index("not"):]
+        words_2 = words[words.index("not"):]
+        words = words[:words.index("not")+1] 
+    for index, word_tag in enumerate(tags_2):
+        if word_tag[1] in speach_tags:
+            words = words+[replace_antonyms(word_tag[0])]+words_2[index+2:]
+            break
+    return " ".join(words)
