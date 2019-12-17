@@ -26,4 +26,10 @@ from wordcloud import WordCloud
 Visualizing Twitter followers.
 """
 
-
+def query_database(tabletweets):
+    """
+    Query the databse from a table of tweets. 
+    """
+    engine = create_engine("postgresql+psycopg2://%s:%s@%s:%d/%s" %(usertwitter, passwordtwitter, hosttwitter, porttwitter, dbnametwitter))
+    table = pd.read_sql_query("select * from %s" %tabletweets,con=engine, index_col="id")
+    return table
