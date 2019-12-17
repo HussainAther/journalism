@@ -276,7 +276,7 @@ def test(X_test, model_nn):
     prediction = model_nn.predict(X_test)
     return prediction
 
-tabletweets = "tweets_avengers" # table name
+tabletweets = "tweets_anime" # table name
 tweet_table = querydb(tabletweets)
 tweet_table = cleaning_table(tweet_table)
 
@@ -304,3 +304,6 @@ graph(word_frequency_neg, "negative")
 table_regression = pd.concat([word_frequency_pos, word_frequency_neg], axis=1, sort=False)
 table_regression.columns = ["Positive", "Negative"]
 regression_graph(table_regression)
+
+tabletweets = "tweets_anime_labeled"
+tweet_table = query_database(tabletweets)
