@@ -484,3 +484,12 @@ new_prediction = model_final.predict(X_new)
 labels = ["Negative", "Neutral", "Positive"]
 sentiments = [labels[np.argmax(pred)] for pred in new_prediction]
 tweet_table_new["sentiment"] = sentiments
+
+sizes = [sentiments.count("Negative"), sentiments.count("Neutral"), sentiments.count("Positive")]
+explode = (0, 0, 0.1)
+labels = "Negative", "Neutral", "Positive"
+plt.figure(figsize=(5,5))
+plt.pie(sizes, explode=explode, colors="bwr", labels=labels, autopct="%1.1f%%",
+        shadow=True, startangle=90, wedgeprops={"alpha":0.8})
+plt.axis("equal")
+plt.show()
