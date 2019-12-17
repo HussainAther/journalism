@@ -284,7 +284,17 @@ tweet_table = cleaning_table(tweet_table)
 word_cloud(pd.Series([t for t in tweet_table.tweet]).str.cat(sep=" ")) 
     
 # For positive tweets 
-word_cloud(pd.Series([t for t in tweet_table[tweet_table.sentiment == "Positive"].tweet]).str.cat(sep=' '))   
+word_cloud(pd.Series([t for t in tweet_table[tweet_table.sentiment == "Positive"].tweet]).str.cat(sep=" "))   
 
 # For negative tweets
-word_cloud(pd.Series([t for t in tweet_table[tweet_table.sentiment == "Negative"].tweet]).str.cat(sep=' '))
+word_cloud(pd.Series([t for t in tweet_table[tweet_table.sentiment == "Negative"].tweet]).str.cat(sep=" "))
+
+# Get the frequency.
+word_frequency = vectorization(tweet_table).sort_values(0, ascending = False)
+word_frequency_pos = vectorization(tweet_table[tweet_table["sentiment"] == "Positive"]).sort_values(0, ascending = False)
+word_frequency_neg = vectorization(tweet_table[tweet_table["sentiment"] == "Negative"]).sort_values(0, ascending = False)
+
+#Graph with frequency words all, positive and negative tweets and get the frequency
+graph(word_frequency, "all")
+graph(word_frequency_pos, "positive")
+graph(word_frequency_neg, "negative")
