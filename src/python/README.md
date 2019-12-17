@@ -84,7 +84,11 @@ Run these python scripts to analyze data. Each python script begins with `import
     - Usage: `python src/python/mineral/svm.py`
     - Requirements: geopandas, matplotlib, numpy, pandas, [scikit-learn](https://anaconda.org/anaconda/scikit-learn), [seaborn](https://anaconda.org/anaconda/seaborn). 
 
-* In `misc,` `uncertainty.py` : This script has simple statistics tests for evaluating uncertainty.
+* In `misc`, `makewordcloud.py` : This script makes a word cloud for a given set of text input from a file and an optional mask image of an image on which to place the words.
+    - Usage: `python src/python/misc/makewordcloud.py inputfile maskimage`
+    - Requirements: [nltk](https://anaconda.org/anaconda/gensimv), [wordcloud](https://anaconda.org/conda-forge/wordcloud).
+
+  * `uncertainty.py` : This script has simple statistics tests for evaluating uncertainty.
     - Usage: `python uncertainty.py`
     - Requirements: matplotlib, numpy.
 
@@ -112,7 +116,7 @@ Run these python scripts to analyze data. Each python script begins with `import
     - Requirements: pandas.
   * `latentAnalysis.py` : This script performs latent analysis of the semantics of the job descriptions.
     - Usage: `python latentAnalysis.py`
-    - Requirements: [gensim](https://anaconda.org/anaconda/gensim), [ipython](https://anaconda.org/anaconda/ipython), [keras](https://anaconda.org/conda-forge/keras), matplotlib, [nltk](https://anaconda.org/anaconda/gensimv), pandas, [pyLDAvis](https://anaconda.org/conda-forge/pyldavis), [basemap](https://anaconda.org/anaconda/basemap), scikit-learn], [seaborn](https://anaconda.org/anaconda/seaborn), [stop_words](https://anaconda.org/conda-forge/r-stopwords), [wordcloud](https://anaconda.org/conda-forge/wordcloud). 
+    - Requirements: [gensim](https://anaconda.org/anaconda/gensim), [ipython](https://anaconda.org/anaconda/ipython), [keras](https://anaconda.org/conda-forge/keras), matplotlib, nltk, pandas, [pyLDAvis](https://anaconda.org/conda-forge/pyldavis), [basemap](https://anaconda.org/anaconda/basemap), scikit-learn], [seaborn](https://anaconda.org/anaconda/seaborn), [stop_words](https://anaconda.org/conda-forge/r-stopwords), wordcloud. 
     - Input zip files can be downloaded from https://www.dropbox.com/sh/713fruhtcqlj28s/AAAIFwRfcrGL4leUlsJzVhgGa?dl=0 
     - You must have unzipped the `raw.zip` file and `postings.csv.zip` in `data/postings` before running.
     - Uses gensim, nltk, pLDAvis, scikit-learn, and stop_words to perform the analysis, pandas for data manipulation, and matplotlib, seaborn, and wordcloud for plotting.
