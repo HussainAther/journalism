@@ -275,3 +275,16 @@ def test(X_test, model_nn):
     """
     prediction = model_nn.predict(X_test)
     return prediction
+
+tabletweets = "tweets_avengers" # table name
+tweet_table = querydb(tabletweets)
+tweet_table = cleaning_table(tweet_table)
+
+# Draw a word cloud.
+word_cloud(pd.Series([t for t in tweet_table.tweet]).str.cat(sep=" ")) 
+    
+# For positive tweets 
+word_cloud(pd.Series([t for t in tweet_table[tweet_table.sentiment == "Positive"].tweet]).str.cat(sep=' '))   
+
+# For negative tweets
+word_cloud(pd.Series([t for t in tweet_table[tweet_table.sentiment == "Negative"].tweet]).str.cat(sep=' '))
