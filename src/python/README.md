@@ -88,6 +88,7 @@ Run these python scripts to analyze data. Each python script begins with `import
     - Usage: `python src/python/misc/makewordcloud.py`
     - Requirements: [nltk](https://anaconda.org/anaconda/nltk), [wordcloud](https://anaconda.org/conda-forge/wordcloud).
     - This script is written to be as succinct and concise, using as few lines of code as possible.
+    - A full explanation is found here: https://hussainather.com/2019/12/17/make-a-word-cloud-in-a-single-line-of-python/
 
   * `uncertainty.py` : This script has simple statistics tests for evaluating uncertainty.
     - Usage: `python uncertainty.py`
