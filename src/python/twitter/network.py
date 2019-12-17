@@ -425,3 +425,18 @@ def model8(X_train, y_train):
     X_train_mod = tokenization_tweets(X_train, features)
     model = train(X_train_mod, y_train, features, shufle, drop, layer1, layer2, epoch, lr, epsilon, validation)
     return model
+
+
+def model9(X_train, y_train):   
+    features = 3500
+    shufle = False
+    drop = 0.5
+    layer1 = 512
+    layer2 = 256
+    epoch = 5
+    lr = 0.002
+    epsilon = 1e-9
+    validation = 0.1
+    X_train_mod = tokenization_tweets(X_train, features)
+    model = train(X_train_mod, y_train, features, shufle, drop, layer1, layer2, epoch, lr, epsilon, validation)
+    return model
