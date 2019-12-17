@@ -223,7 +223,7 @@ lda = models.LdaMulticore(corpus=bowcorpus,
 print("LDA model created.")
 lda.save("output/latent/topic.model")
 
-# Create wordlcoud.
+# Create wordcloud.
 wc = WordCloud(background_color="white", max_words=5000, contour_width=3, contour_color="steelblue")
 wordstring = ""
 for item in mydict.token2id:
