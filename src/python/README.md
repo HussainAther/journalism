@@ -97,7 +97,7 @@ Run these python scripts to analyze data. Each python script begins with `import
     - Usage: `python src/python/nicr/table.py`
     - Requirements: matplotlib, numpy, pandas.
 
-  * `svm.py` : This script uses an SVM to extract information and draw trends from platinum-group elements (PGE) with nickel and chromium mineralization. 
+  * `svm.py` : This script uses a support vector machine (SVM) to extract information and draw trends from platinum-group elements (PGE) with nickel and chromium mineralization. 
     - Usage: `python src/python/nicr/svm.py`
     - Requirements: matplotlib, numpy, pandas, scikit-learn.
 
