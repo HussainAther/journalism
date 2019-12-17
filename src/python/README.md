@@ -63,7 +63,12 @@ Run these python scripts to analyze data. Each python script begins with `import
 
 * In `geophysical`, `grd.py` : Generic script to read a .grd file.
     - Usage: `python src/python/geophysical/grd.py`
-  
+
+* In `googlemap`, `geochart.py` : Visualize a map of disposable median monthly salary per country on the world map projection using Google Geochart and Table Visualization.
+    - Usage: `python src/python/googlemap/geochart.py`
+    - Requirements: [gviz_api](https://pypi.org/project/gviz-api/).
+    - Output stored as `output/googlemap/output.html`.
+ 
 * In `map`, `cartoread.py` : SQl script with code for creating interactive maps using Carto. 
 
 * In `mineral`, `mine.py`, `mineplant.py`, `shapefileread.py`, `specificmine.py`, `uscopper.py`, `usmanganese.py`, and `usplatinum.py` : These scripts analyze the active mines and mineral plants in the US 
