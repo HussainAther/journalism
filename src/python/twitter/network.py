@@ -477,3 +477,10 @@ def save_model(model):
 tabletweetsnew = "tweets_predict_anime"
 tweet_table_new = querydb(tabletweetsnew)
 tweet_table_new = cleantable(tweet_table_new)
+
+X_new = tokenization_tweets(tweet_table_new.tweet, 3500)
+new_prediction = model_final.predict(X_new)
+
+labels = ["Negative", "Neutral", "Positive"]
+sentiments = [labels[np.argmax(pred)] for pred in new_prediction]
+tweet_table_new["sentiment"] = sentiments
