@@ -210,3 +210,22 @@ def wfgraph(wf, sent):
     plt.gca().spines["top"].set_visible(False)
     plt.gca().spines["right"].set_visible(False)
     plt.show()
+
+
+def regression_graph(table):
+    """
+    Use regression to graph the table and separate it into the 
+    underlying factors that cause the tweets and data.
+    """
+    table = table[1:]
+    # Plot.
+    sns.set_style("whitegrid")   
+    plt.figure(figsize=(6,6))
+    points = plt.scatter(table["Positive"], table["Negative"], c=table["Positive"], s=75, cmap="bwr")
+    plt.colorbar(points)
+    sns.regplot(x="Positive", y="Negative",fit_reg=False, scatter=False, color=".1", data=table)
+    plt.xlabel("Frequency for Positive Tweets", size=14)
+    plt.ylabel("Frequency for Negative Tweets", size=14)
+    plt.title("Word frequency in Positive vs. Negative Tweets", size=14)
+    plt.grid(False)
+    sns.despine()
