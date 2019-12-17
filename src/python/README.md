@@ -148,4 +148,4 @@ Run these python scripts to analyze data. Each python script begins with `import
     
     `network.py` : For creating a network and communities.
     - Usage:
-    - Requirements: [i-graph](https://anaconda.org/conda-forge/python-igraph), json, maplotlib, [networkx](https://anaconda.org/anaconda/networkx), numpy, pandas, seaborn, [tqdm](https://anaconda.org/conda-forge/tqdm), tweepy. 
+    - Requirements: [i-graph](https://anaconda.org/conda-forge/python-igraph), json, maplotlib, [networkx](https://anaconda.org/anaconda/networkx), numpy, pandas, [PIL](https://anaconda.org/anaconda/pil), [postgresql](https://anaconda.org/anaconda/postgresql), seaborn, [tqdm](https://anaconda.org/conda-forge/tqdm), tweepy, wordcloud. 
