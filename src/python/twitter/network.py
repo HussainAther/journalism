@@ -46,10 +46,41 @@ def preprocessing_text(table):
     # Replace occurences of mentioning @UserNames.
     table["tweet"] = table["tweet"].replace(r"@\w+", "", regex=True)
     # Replace links contained in the tweet.
-    table["tweet"] = table["tweet"].replace(r"http\S+", "", regex=True)
-    table["tweet"] = table["tweet"].replace(r"www.[^ ]+", "", regex=True)
+    table["tweet"] = table["tweet"].replace(r'http\S+', "", regex=True)
+    table["tweet"] = table["tweet"].replace(r'www.[^ ]+', "", regex=True)
     # Remove numbers.
-    table["tweet"] = table["tweet"].replace(r"[0-9]+", "", regex=True)
+    table["tweet"] = table["tweet"].replace(r'[0-9]+', "", regex=True)
     # Replace special characters and puntuation marks.
-    table["tweet"] = table["tweet"].replace(r"[!"#$%&()*+,-./:;<=>?@[\]^_`{|}~]", "", regex=True)
+    table["tweet"] = table["tweet"].replace(r'[!'#$%&()*+,-./:;<=>?@[\]^_`{|}~]', "", regex=True)
     return table
+
+def in_dict(word):
+    """
+    Keep the words that are based off other words as the base words they're
+    made off of.
+    """
+    if wordnet.synsets(word):
+        # If the word is in the dictionary, we'll return True.
+        return True
+
+def replace_elongated_word(word):
+    regex = r'(\w*)(\w+)\2(\w*)'
+    repl = r'\1\2\3'    
+    if in_dict(word):
+        return word
+    new_word = re.sub(regex, repl, word)
+    if new_word != word:
+        return replace_elongated_word(new_word)
+    else:
+        return new_word
+
+def detect_elongated_words(row):
+    """
+    Find the long ones.
+    """
+    regexrep = r'(\w*)(\w+)(\2)(\w*)'
+    words = [''.join(i) for i in re.findall(regexrep, row)]
+    for word in words:
+        if not in_dict(word):
+            row = re.sub(word, replace_elongated_word(word), row)
+    return row
