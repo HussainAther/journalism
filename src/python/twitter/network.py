@@ -39,7 +39,7 @@ def preprocessing_text(table):
     Preprocess the tweets by putting them in an easy-to-understand format. 
     This means getting rid of links, blanks, etc.
     """
-    # Put everythin in lowercase.
+    # Put everything in lowercase.
     table["tweet"] = table["tweet"].str.lower()
     # Replace rt indicating that was a retweet.
     table["tweet"] = table["tweet"].str.replace("rt", "")
