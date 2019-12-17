@@ -69,7 +69,7 @@ def preprocessing_text(table):
     table["tweet"] = table["tweet"].replace(r'[!"#$%&()*+,-./:;<=>?@[\]^_`{|}~]', "", regex=True)
     return table
 
-def in_dict(word):
+def indict(word):
     """
     Keep the words that are based off other words as the base words they're
     made off of.
@@ -81,7 +81,7 @@ def in_dict(word):
 def replace_elongated_word(word):
     regex = r'(\w*)(\w+)\2(\w*)'
     repl = r'\1\2\3'    
-    if in_dict(word):
+    if indict(word):
         return word
     new_word = re.sub(regex, repl, word)
     if new_word != word:
@@ -96,7 +96,7 @@ def detect_elongated_words(row):
     regexrep = r'(\w*)(\w+)(\2)(\w*)'
     words = ["".join(i) for i in re.findall(regexrep, row)]
     for word in words:
-        if not in_dict(word):
+        if not indict(word):
             row = re.sub(word, replace_elongated_word(word), row)
     return row
 
