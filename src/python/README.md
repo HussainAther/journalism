@@ -69,7 +69,11 @@ Run these python scripts to analyze data. Each python script begins with `import
     - Requirements: [gviz_api](https://pypi.org/project/gviz-api/).
     - Output stored as `output/googlemap/output.html`.
  
-* In `map`, `cartoread.py` : SQl script with code for creating interactive maps using Carto. 
+* In `map`, `cartoread.py` : SQL script with code for creating interactive maps using Carto.
+
+* In `medicare`, `read.py` : This reads in medicare data.
+    - Usage: `python src/python/medicare/read.py`
+    - Requirements: pandas.
 
 * In `mineral`, `mine.py`, `mineplant.py`, `shapefileread.py`, `specificmine.py`, `uscopper.py`, `usmanganese.py`, and `usplatinum.py` : These scripts analyze the active mines and mineral plants in the US 
     - Usage: `python src/python/mineral/mine.py`
