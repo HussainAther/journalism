@@ -106,6 +106,7 @@ Run these python scripts to analyze data. Each python script begins with `import
     - Requirements: pandas, matplotlib.
     - Input zip files can be downloaded from https://www.dropbox.com/sh/713fruhtcqlj28s/AAAIFwRfcrGL4leUlsJzVhgGa?dl=0 
     - You must have unzipped the `raw.zip` file and `postings.csv.zip` in `data/postings` before running.
+
   * `dataSkills.py` : This script establishes the scaffolding of data skills.
     - Usage: `python dataSkills.py`
     - Requirements: pandas.
