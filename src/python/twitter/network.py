@@ -294,7 +294,13 @@ word_frequency = vectorization(tweet_table).sort_values(0, ascending = False)
 word_frequency_pos = vectorization(tweet_table[tweet_table["sentiment"] == "Positive"]).sort_values(0, ascending = False)
 word_frequency_neg = vectorization(tweet_table[tweet_table["sentiment"] == "Negative"]).sort_values(0, ascending = False)
 
-#Graph with frequency words all, positive and negative tweets and get the frequency
+# Graph with frequency words all, positive 
+# and negative tweets and get the frequency.
 graph(word_frequency, "all")
 graph(word_frequency_pos, "positive")
 graph(word_frequency_neg, "negative")
+
+# Concatenate word frequency for positive and negative.
+table_regression = pd.concat([word_frequency_pos, word_frequency_neg], axis=1, sort=False)
+table_regression.columns = ["Positive", "Negative"]
+regression_graph(table_regression)
