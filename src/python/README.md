@@ -35,6 +35,8 @@ Run these python scripts to analyze data. Each python script begins with `import
     - Requirements: numpy, pandas.
     - Uses the `oregondams.csv` file in `data/dam` as input.
 
+* In `deeplearning`, `overview.html` : Load this in your web browser to view a tutorial on deep learning with scikit-learn. You can also use Jupyter notebook to view the `overview.ipynb` file. To do this, you need to install [jupyter[(https://anaconda.org/anaconda/jupyter). Then run `jupyter-notebook` in your command line to start the notebook server. Navigate to the `overview.ipynb` file to view it in a reader-friendly format.
+
 * In `defaunation`, `graphy.py` : This creates graphs of the various studies used in _Gardner et al., 2019_.
     - Usage: `python src/python/defaunation/graph.py`
     - Requirements: matplotlib, numpy, pandas.
