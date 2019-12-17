@@ -51,7 +51,7 @@ def preprocessing_text(table):
     # Remove numbers.
     table["tweet"] = table["tweet"].replace(r'[0-9]+', "", regex=True)
     # Replace special characters and puntuation marks.
-    table["tweet"] = table["tweet"].replace(r'[!'#$%&()*+,-./:;<=>?@[\]^_`{|}~]', "", regex=True)
+    table["tweet"] = table["tweet"].replace(r'[!"#$%&()*+,-./:;<=>?@[\]^_`{|}~]', "", regex=True)
     return table
 
 def in_dict(word):
@@ -244,7 +244,7 @@ def tokenization_tweets(dataset, features):
     tokenization = TfidfVectorizer(max_features=features)
     tokenization.fit(dataset)
     dataset_transformed = tokenization.transform(dataset).toarray()
-    r
+    return dataset_transformed
 
 def train(X_train_mod, y_train, features, shuffle, drop, layer1, layer2, epoch, lr, epsilon, validation):
     """
@@ -258,16 +258,16 @@ def train(X_train_mod, y_train, features, shuffle, drop, layer1, layer2, epoch, 
     model_nn.add(Dense(3, activation='softmax'))
     
     optimizer = keras.optimizers.Adam(lr=lr, beta_1=0.9, beta_2=0.999, epsilon=epsilon, decay=0.0, amsgrad=False)
-    model_nn.compile(loss='sparse_categorical_crossentropy',
+    model_nn.compile(loss="sparse_categorical_crossentropy",
                  optimizer=optimizer,
-                 metrics=['accuracy'])
+                 metrics=["accuracy"])
     model_nn.fit(np.array(X_train_mod), y_train,
                  batch_size=32,
                  epochs=epoch,
                  verbose=1,
                  validation_split=validation,
                  shuffle=shuffle)
-    return model_nneturn dataset_transformed
+    return model_nneturn
 
 def test(X_test, model_nn):
     """
@@ -469,10 +469,16 @@ def model11(X_train, y_train):
     return model
 
 def save_model(model):
+    """
+    Save the model as a json fie and an h5 (hierarchical data format).
+    """
     model_json = model.to_json()
     with open("model.json", "w") as json_file:
         json_file.write(model_json)
     model.save_weights("model.h5")
+
+model_final = model7(X_train, y_train)
+save_model(model_final)
 
 tabletweetsnew = "tweets_predict_anime"
 tweet_table_new = querydb(tabletweetsnew)
@@ -495,4 +501,4 @@ plt.axis("equal")
 plt.show()
 
 engine = create_engine("postgresql+psycopg2://%s:%s@%s:%d/%s" %(usertwitter, passwordtwitter, hosttwitter, porttwitter, dbnametwitter))
-tweet_table_new.to_sql("tweets_avengers_new_labeled", con=engine, if_exists="append")
+tweet_table_new.to_sql("tweets_anime_new_labeled", con=engine, if_exists="append")
