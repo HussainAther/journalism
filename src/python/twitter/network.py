@@ -190,3 +190,23 @@ def word_cloud(tweets):
     # plt.imshow(anime_mask, cmap=plt.cm.gray, interpolation="bilinear")
     # plt.axis("off")    
     plt.show()
+
+def wfgraph(wf, sent):
+    """
+    Create a network graph of word frequency wf.
+    """
+    labels = wf[0][1:51].index
+    title = ("Word Frequency for %s" %sent)
+    # Plot.
+    plt.figure(figsize=(10,5))
+    plt.bar(np.arange(50), wf[0][1:51], width = 0.8, color = sns.color_palette("bwr"), alpha=0.5, 
+            edgecolor = "black", capsize=8, linewidth=1)
+    plt.xticks(np.arange(50), labels, rotation=90, size=14)
+    plt.xlabel("50 more frequent words", size=14)
+    plt.ylabel("Frequency", size=14)
+    # plt.title(("Word Frequency for %s", size=18) % sent)
+    plt.title(title, size=18)
+    plt.grid(False)
+    plt.gca().spines["top"].set_visible(False)
+    plt.gca().spines["right"].set_visible(False)
+    plt.show()
