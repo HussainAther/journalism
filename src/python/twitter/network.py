@@ -23,13 +23,33 @@ from sqlalchemy import create_engine
 from wordcloud import WordCloud
 
 """
-Visualizing Twitter followers.
+Visualizing Twitter followers to analyze the public opinion of "anime".
 """
 
-def query_database(tabletweets):
+def base(tabletweets):
     """
     Query the databse from a table of tweets. 
     """
     engine = create_engine("postgresql+psycopg2://%s:%s@%s:%d/%s" %(usertwitter, passwordtwitter, hosttwitter, porttwitter, dbnametwitter))
     table = pd.read_sql_query("select * from %s" %tabletweets,con=engine, index_col="id")
+    return table
+
+def preprocessing_text(table):
+    """
+    Preprocess the tweets by putting them in an easy-to-understand format. 
+    This means getting rid of links, blanks, etc.
+    """
+    # Put everythin in lowercase.
+    table["tweet"] = table["tweet"].str.lower()
+    # Replace rt indicating that was a retweet.
+    table["tweet"] = table["tweet"].str.replace("rt", "")
+    # Replace occurences of mentioning @UserNames.
+    table["tweet"] = table["tweet"].replace(r"@\w+", "", regex=True)
+    # Replace links contained in the tweet.
+    table["tweet"] = table["tweet"].replace(r"http\S+", "", regex=True)
+    table["tweet"] = table["tweet"].replace(r"www.[^ ]+", "", regex=True)
+    # Remove numbers.
+    table["tweet"] = table["tweet"].replace(r"[0-9]+", "", regex=True)
+    # Replace special characters and puntuation marks.
+    table["tweet"] = table["tweet"].replace(r"[!"#$%&()*+,-./:;<=>?@[\]^_`{|}~]", "", regex=True)
     return table
