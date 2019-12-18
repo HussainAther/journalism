@@ -1,8 +1,11 @@
 import matplotlib.pyplot as plt
+import matplotlib.dates as mdates
 import numpy as np
 import pandas as pd
 
 from collections import OrderedDict
+from itertools import cycle, islice
+from matplotlib.dates import DateFormatter
 
 """
 Use pandas to analyze the UCSC Science Communication Class of 2020 
@@ -27,10 +30,11 @@ df["Date"] = pd.to_datetime(df["Date"], format="%Y-%m-%d").dt.strftime("%m-%d")
 mask = (df["Date"] >= "09-30") & (df["Date"] <= "12-13")
 df = df.loc[mask]
 
-
 # Convert the number of messages posted from a string to an integer, if it isn't already.
 df["Messages posted"] = df["Messages posted"].astype(int)
 
+# Keep track of each message posted on that day,
+# not the total number of messages so far.
 dailymessages = []
 prev = 304
 for index, value in enumerate(df["Messages posted"]):
@@ -49,22 +53,27 @@ daydict = {"M" : "#FF0000",
            "Su" : "#8B00FF"}
 
 # Plot.
-fig, ax = plt.subplots()
+fig, ax = plt.subplots(figsize=(10,6))
+
+# Plot each value with color.
 for index, value in enumerate(df["dm"]):
     dow = df.iloc[index]["dow"]
-    plt.bar(index, value, color=daydict[dow], label=dow, tick_label=index)
+    ax.bar(index, value, color=daydict[dow], label=dow)
 
-# Label.
-ax.legend(loc="best")
-ax.set_xlabel("Date")
-ax.set_ylabel("Slack messages")
-ax.set_title("UCSC SciCom 2020 Slack Usage")
+# Format dates on x axis.
+ax.xaxis.set_major_locator(mdates.WeekdayLocator())
+ax.xaxis.set_major_formatter(mdates.DateFormatter("%b %d"))
 
-# Add legend
+# Add legend.
 handles, labels = ax.get_legend_handles_labels()
 labels, handles = zip(*sorted(zip(labels, handles), key=lambda t: t[0]))
 by_label = OrderedDict(zip(labels, handles))
 plt.legend(by_label.values(), by_label.keys(), loc=2)
+
+# Label.
+ax.set_xlabel("Date")
+ax.set_ylabel("Slack messages")
+ax.set_title("UCSC SciCom 2020 Slack Usage")
 
 # Save.
 plt.savefig("output/slack/postfreqfall.png")
