@@ -1,7 +1,7 @@
+import chart_studio.plotly as py
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
-import chart_studio.plotly as py
 import plotly.express as px
 
 from collections import OrderedDict
