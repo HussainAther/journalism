@@ -161,9 +161,13 @@ Run these python scripts to analyze data. Each python script begins with `import
     - Usage: `python src/python/santacruz/volc/volc.py`
     - Requirements: json, pandas. 
 
-* In `slack`, `analyze.py` : This analyzes the slack statistics (or slacktistics, if I may).
+* In `slack`, `analyze.py` : This analyzes the slack statistics (or slacktistics, if I may) and outputs in `output/slack`.
     - Usage: `python src/python/slack/analyze.py`
-    - Requirements: matplotlib, numpy, pandas.
+    - Requirements: matplotlib, pandas.
+
+  * `interactive.py` : This creates an interactive bar graph that will be launched with plotly. 
+    - Usage: `python src/python/slack/intercative.py`
+    - Requirements: chart-studio, matplotlib, pandas, plotly.
 
 * In `twitter`, `tweetread.py` : This reads tweets from accounts with a consumer key `ckey`, consumer secret `csecret`, access token `atoken`, access secret `asecret`, and keyword file `kwfile`. 
     - Usage: `python src/python/twitter/tweetread.py ckey csecret atoken asecret kwfile`
