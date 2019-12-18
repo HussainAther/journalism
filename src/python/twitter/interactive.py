@@ -12,3 +12,4 @@ Create an interactive network of how distant Twitter
 followers are from one another.
 """
 
+pd.set_option("display.float_format", lambda x: "%.f" % x)
