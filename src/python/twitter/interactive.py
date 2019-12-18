@@ -1,3 +1,4 @@
+import chart_studio.plotly as py
 import json
 import matplotlib.pyplot as plt
 import networkx as nx
@@ -136,22 +137,32 @@ def getinteractions(row):
 
 graph = nx.Graph()
 
-for index, tweet in tweets_final.iterrows():
+for index, tweet in tfinal.iterrows():
     user, interactions = getinteractions(tweet)
     user_id, user_name = user
     tweet_id = tweet["id"]
-    #tweet_sent = tweet["sentiment"]
     for interaction in interactions:
         int_id, int_name = interaction
         graph.add_edge(user_id, int_id, tweet_id=tweet_id)
         graph.node[user_id]["name"] = user_name
         graph.node[int_id]["name"] = int_name
 
+largestsubgraph = max(nx.connected_component_subgraphs(graph), key=len)
 degrees = [val for (node, val) in graph.degree()]
-graphcentrality = nx.degree_centrality(largest_subgraph)
-maxde = max(graph_centrality.items(), key=itemgetter(1))
-graphcloseness = nx.closeness_centrality(largest_subgraph)
-maxclo = max(graph_closeness.items(), key=itemgetter(1))
-graphbetweenness = nx.betweenness_centrality(largest_subgraph, normalized=True, endpoints=False)
-maxbet = max(graph_betweenness.items(), key=itemgetter(1))
+graphcentrality = nx.degree_centrality(largestsubgraph)
+maxde = max(graphcentrality.items(), key=itemgetter(1))
+graphcloseness = nx.closeness_centrality(largestsubgraph)
+graphbetweenness = nx.betweenness_centrality(largestsubgraph, normalized=True, endpoints=False)
+maxclo = max(graphcloseness.items(), key=itemgetter(1))
+maxbet = max(graphbetweenness.items(), key=itemgetter(1))
+pos = nx.spring_layout(largestsubgraph, k=0.05)
 
+node_and_degree = largestsubgraph.degree()
+colors_central_nodes = ["orange", "red"]
+central_nodes = ["393852070", "2896294831"]
+fig = nx.draw(largestsubgraph)
+fig.show()
+
+# go = nx.draw(largestsubgraph, pos=pos, node_color=range(1404), 
+#              cmap=plt.cm.PiYG, edge_color="black", linewidths=0.3, 
+#              node_size=60, alpha=0.6, with_labels=False)
