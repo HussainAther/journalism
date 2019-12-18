@@ -133,3 +133,25 @@ def getinteractions(row):
     interactions.discard((None, None))
     # Return user and interactions
     return user, interactions
+
+graph = nx.Graph()
+
+for index, tweet in tweets_final.iterrows():
+    user, interactions = getinteractions(tweet)
+    user_id, user_name = user
+    tweet_id = tweet["id"]
+    #tweet_sent = tweet["sentiment"]
+    for interaction in interactions:
+        int_id, int_name = interaction
+        graph.add_edge(user_id, int_id, tweet_id=tweet_id)
+        graph.node[user_id]["name"] = user_name
+        graph.node[int_id]["name"] = int_name
+
+degrees = [val for (node, val) in graph.degree()]
+graphcentrality = nx.degree_centrality(largest_subgraph)
+maxde = max(graph_centrality.items(), key=itemgetter(1))
+graphcloseness = nx.closeness_centrality(largest_subgraph)
+maxclo = max(graph_closeness.items(), key=itemgetter(1))
+graphbetweenness = nx.betweenness_centrality(largest_subgraph, normalized=True, endpoints=False)
+maxbet = max(graph_betweenness.items(), key=itemgetter(1))
+
