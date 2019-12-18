@@ -103,4 +103,33 @@ def getinteractions(row):
     return user, interactions
 
 tfinal = filldf(tfinal)
+tfinala = tfinal.where((pd.notnull(tfinal)), None)
 
+def getinteractions(row):
+    """
+    Get the interactions between different users.
+    """
+    # From every row of the original dataframe
+    # First we obtain the "user_id" and "screen_name".
+    user = row["user_id"], row["screen_name"]
+    # Be careful if there is no user id
+    if user[0] is None:
+        return (None, None), []
+    
+    # The interactions are going to be a set of tuples.
+    interactions = set()
+    
+    # Add all interactions 
+    # First, we add the interactions corresponding to replies adding the id and screen_name
+    interactions.add((row["in_reply_to_user_id"], row["in_reply_to_screen_name"]))
+    # After that, we add the interactions with retweets
+    interactions.add((row["retweeted_id"], row["retweeted_screen_name"]))
+    # And later, the interactions with user mentions
+    interactions.add((row["user_mentions_id"], row["user_mentions_screen_name"]))
+    
+    # Discard if user id is in interactions
+    interactions.discard((row["user_id"], row["screen_name"]))
+    # Discard all not existing values
+    interactions.discard((None, None))
+    # Return user and interactions
+    return user, interactions
