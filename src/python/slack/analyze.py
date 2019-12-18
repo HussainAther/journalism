@@ -1,10 +1,8 @@
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
-import numpy as np
 import pandas as pd
 
 from collections import OrderedDict
-from itertools import cycle, islice
 from matplotlib.dates import DateFormatter
 
 """
