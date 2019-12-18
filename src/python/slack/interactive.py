@@ -53,6 +53,7 @@ fig = px.bar(graphdata, x="Date", y="Messages sent",
        hover_data=["Messages sent", "Day of the week"], color="Day of the week")
 
 fig.update_yaxes(range=[1, 225])
+fig.update_layout(title="Fall quarter UCSC Sci Com Slack Usage")
 
 fig.show()
 py.plot(fig)
