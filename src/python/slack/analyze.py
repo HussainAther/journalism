@@ -36,7 +36,7 @@ df["Messages posted"] = df["Messages posted"].astype(int)
 # Keep track of each message posted on that day,
 # not the total number of messages so far.
 dailymessages = []
-prev = 304
+prev = 288
 for index, value in enumerate(df["Messages posted"]):
     dailymessages.append(value-prev)
     prev = value
@@ -53,7 +53,7 @@ daydict = {"M" : "#FF0000",
            "Su" : "#8B00FF"}
 
 # Plot.
-fig, ax = plt.subplots(figsize=(10,6))
+fig, ax = plt.subplots()
 
 # Plot each value with color.
 for index, value in enumerate(df["dm"]):
