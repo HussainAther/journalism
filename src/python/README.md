@@ -166,14 +166,22 @@ Run these python scripts to analyze data. Each python script begins with `import
     - Requirements: matplotlib, pandas.
 
   * `interactive.py` : This creates an interactive bar graph that will be launched with plotly. 
-    - Usage: `python src/python/slack/intercative.py`
+    - Usage: `python src/python/slack/interactive.py`
     - Requirements: chart-studio, matplotlib, pandas, plotly.
 
-* In `twitter`, `tweetread.py` : This reads tweets from accounts with a consumer key `ckey`, consumer secret `csecret`, access token `atoken`, access secret `asecret`, and keyword file `kwfile`. 
+* In `twitter`, `interactive.py` : This script makes interactive network graphs of tweets from an input `tweets.json` file found in `data/twitter`.
+    - Usage: `python src/python/twitter/interactive.py` 
+    - Requirements: chart-studio, json, matplotlib, networkx, pandas, plotly. 
+
+  *  `network.py` : For creating a network and communities for a given `keyword` and `image` file. The script uses the `keyword` as the word to search through Twitter and the `image` as the image on which to lay the word cloud.
+    - Usage: `python src/python/twitter/network.py keyword image`
+    - Requirements: [i-graph](https://anaconda.org/conda-forge/python-igraph), json, maplotlib, [networkx](https://anaconda.org/anaconda/networkx), numpy, pandas, [PIL](https://anaconda.org/anaconda/pil), [postgresql](https://anaconda.org/anaconda/postgresql), [pycorenlp](https://pypi.org/project/pycorenlp/), seaborn, [tqdm](https://anaconda.org/conda-forge/tqdm), tweepy, wordcloud.
+
+  * `tweetread.py` : This reads tweets from accounts with a consumer key `ckey`, consumer secret `csecret`, access token `atoken`, access secret `asecret`, and keyword file `kwfile`. 
     - Usage: `python src/python/twitter/tweetread.py ckey csecret atoken asecret kwfile`
     - Requirements: json, [tweepy](https://anaconda.org/conda-forge/tweepy). 
     - In order to use all of this though, we need to setup a Developer API acocunt with Twitter and create an application to get credentials. Review the video for instructions on how to do this or if you are already familiar with it, just get the credentials from https://apps.twitter.com/.
     
-    `network.py` : For creating a network and communities for a given `keyword` and `image` file. The script uses the `keyword` as the word to search through Twitter and the `image` as the image on which to lay the word cloud.
-    - Usage: `python keyword image`
-    - Requirements: [i-graph](https://anaconda.org/conda-forge/python-igraph), json, maplotlib, [networkx](https://anaconda.org/anaconda/networkx), numpy, pandas, [PIL](https://anaconda.org/anaconda/pil), [postgresql](https://anaconda.org/anaconda/postgresql), [pycorenlp](https://pypi.org/project/pycorenlp/), seaborn, [tqdm](https://anaconda.org/conda-forge/tqdm), tweepy, wordcloud.
+  * `ucsc.py` : Get Twitter information for the UCSC Science Communication class of 2020. The usernames in this file can be changed to extract Twitter data from any set of users.
+    - Usage: `python src/python/twitter/ucsc.py`
+    - Requirements: [python-twitter](https://anaconda.org/conda-forge/python-twitter).
