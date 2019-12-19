@@ -71,8 +71,8 @@ def filldf(tfinal):
     """
     getbasics(tfinal)
     getusermentions(tfinal)
-    # getretweets(tfinal)
-    # getinreply(tfinal)
+    getretweets(tfinal)
+    getinreply(tfinal)
     return tfinal
 
 def getinteractions(row):
