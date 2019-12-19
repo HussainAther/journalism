@@ -63,13 +63,23 @@ def sendData(csocket, kw):
     for word in kw:
         twitterstream.filter(track=[word])
 
+# Create a socket object.
+s = socket.socket() 
 
-s = socket.socket() # Create a socket object.
-host = "127.0.0.1" # Get local machine name.
-port = 5555  # Reserve a port for your service.
-s.bind((host, port)) # Bind to the port.
+# Get local machine name.
+host = "127.0.0.1" 
+
+# Reserve a port for your service.
+port = 5555  
+
+# Bind to the port. 
+s.bind((host, port))
 print("Listening on port: %s" % str(port))
-s.listen(5) # Now wait for client connection.
-c, addr = s.accept() # Establish connection with client.
+
+# Wait for client connection.
+s.listen(5)
+
+# Establish connection with client.
+c, addr = s.accept() 
 print("Received request from: " + str( addr ))
 sendData(c, keywords)
