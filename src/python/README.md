@@ -151,7 +151,7 @@ Run these python scripts to analyze data. Each python script begins with `import
 
 * In `santacruz/asbestos`, `interactive.py` : This creates an interactive map that you can zoom and stretch to view the 900 occurrences of asbestiform minerals and fibrous amphiboles in the US.
     - Usage: `python src/python/santacruz/asbestos/interactive.py`
-    - Requirements: chart-studio, geopandas, matplotlib, pandas, plotly. 
+    - Requirements: chart-studio, [dateutil](https://anaconda.org/anaconda/dateutil), geopandas, matplotlib, pandas, plotly. 
 
   * `staticmap.py` : This reads and maps asbestos mines with a static image output.
     - Usage: `python src/python/santacruz/asbestos/read.py`
