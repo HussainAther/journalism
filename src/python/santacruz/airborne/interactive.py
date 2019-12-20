@@ -1,12 +1,9 @@
 import chart_studio.plotly as py
-import geopandas as gpd
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 import plotly.graph_objs as go
 import seaborn as sns
-
-from matplotlib.text import Annotation
 
 """
 Visualize the quadrangle of magnetic activity for the Santa Cruz area.
