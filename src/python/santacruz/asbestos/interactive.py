@@ -19,10 +19,6 @@ geom = [Point(xy) for xy in zip(df["longitude"], df["latitude"])]
 gdf = gpd.GeoDataFrame(
     df, geometry=geom)
 
-# Restrict to America.
-country = gpd.read_file("data/gz_2010_us_040_00_5m.json")
-country = country[country["NAME"].isin(["Alaska","Hawaii"]) == False]
-
 # Plot.
 fig, ax = plt.subplots()
 px.scatter_mapbox(gdf, lat="latitude", lon="longitude", hover_data=["county", "state"]) 
