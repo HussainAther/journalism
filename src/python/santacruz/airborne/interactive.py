@@ -1,9 +1,12 @@
 import chart_studio.plotly as py
+import geopandas as gpd
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 import plotly.graph_objs as go
 import seaborn as sns
+
+from matplotlib.text import Annotation
 
 """
 Visualize the quadrangle of magnetic activity for the Santa Cruz area.
@@ -22,7 +25,6 @@ plot.savefig("output/santacruz/airborne/quadrangle.png")
 
 """
 Make an interactive map with plotly.
-"""
 
 # Load the file.
 simplemagdf = pd.read_csv("data/santacruz/airborne/magsimple.csv")
@@ -40,8 +42,8 @@ fig = go.Figure()
 
 fig.add_trace(
     go.Scattergl(
-        x = simplemagdf["latitude"],
-        y = simplemagdf["longitude"],
+        x = simplemagdf["longitude"],
+        y = simplemagdf["latitude"],
         mode = "markers",
         marker = dict(
                 color=simplemagdf["diurnal"],
