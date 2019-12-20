@@ -143,7 +143,7 @@ Run these python scripts to analyze data. Each python script begins with `import
 
 * In `santacruz/airborne`, `csvread.py` : This maps the csv files of magnetic and radiometric of Santa Cruz.
     - Usage: `python src/python/santacruz/airborne/csvread.py`
-    - Requirements: matplotlib, numpy, pandas, seaborn.
+    - Requirements: chart-studio, matplotlib, numpy, pandas, plotly, seaborn.
     
   * `knn.py`, `lr.py`, and `svm.py` : These three scripts perform k-nearest neighbors clustering, logistic regression, and support vector machine classification.
     - Usage: `python src/python/santacruz/airborne/knn.py`
