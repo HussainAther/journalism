@@ -16,6 +16,7 @@ followers are from one another.
 
 pd.set_option("display.float_format", lambda x: "%.f" % x)
 
+# Read input JSON file.
 tweetsjson = sys.argv[1]
 
 # Read JSON into a pandas DataFrame.
