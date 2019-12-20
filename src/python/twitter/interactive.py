@@ -18,7 +18,7 @@ followers are from one another.
 pd.set_option("display.float_format", lambda x: "%.f" % x)
 
 # Read JSON into a pandas DataFrame.
-df = pd.read_json("data/twitter/tweets.json")
+df = pd.read_json("data/twitter/tweets/shussainather.tweets.json")
 
 # Get the info we want.
 tfinal = pd.DataFrame(columns = ["created_at", "id", "in_reply_to_screen_name", 
@@ -70,7 +70,7 @@ def filldf(tfinal):
     Put it all together.
     """
     getbasics(tfinal)
-    getusermentions(tfinal)
+    # getusermentions(tfinal)
     getretweets(tfinal)
     getinreply(tfinal)
     return tfinal
@@ -148,21 +148,62 @@ for index, tweet in tfinal.iterrows():
         graph.node[user_id]["name"] = user_name
         graph.node[int_id]["name"] = int_name
 
-largestsubgraph = max(nx.connected_component_subgraphs(graph), key=len)
+# Get graph information.
 degrees = [val for (node, val) in graph.degree()]
+print("The maximum degree of the graph is " + str(np.max(degrees))) 
+print("The minimum degree of the graph is " + str(np.min(degrees)))
+print("There are " + str(graph.number_of_nodes()) + " nodes and " + str(graph.number_of_edges()) + " edges present in the graph")
+print("The average degree of the nodes in the graph is " + str(np.mean(degrees))) 
+print("The most frequent degree of the nodes found in the graph is " + str(stats.mode(degrees)[0][0])) 
+
+if nx.is_connected(graph):
+    print("The graph is connected")
+else:
+    print("The graph is not connected")
+print("There are " + str(nx.number_connected_components(graph)) + " connected in the graph.")
+
+largestsubgraph = max(nx.connected_component_subgraphs(graph), key=len)
+print("There are " + str(largestsubgraph.number_of_nodes()) + " nodes and " + str(largestsubgraph.number_of_edges()) + " edges present in the largest component of the graph.")
+
+if nx.is_connected(largestsubgraph):
+    print("The graph is connected")
+else:
+    print("The graph is not connected")
+
+print("The average clustering coefficient is " + str(nx.average_clustering(largestsubgraph)) + " in the largest subgraph")
+print("The transitivity of the largest subgraph is " + str(nx.transitivity(largestsubgraph)))
+print("The diameter of our graph is " + str(nx.diameter(largestsubgraph)))
+print("The average distance between any two nodes is " + str(nx.average_shortest_path_length(largestsubgraph)))
+
 graphcentrality = nx.degree_centrality(largestsubgraph)
 maxde = max(graphcentrality.items(), key=itemgetter(1))
 graphcloseness = nx.closeness_centrality(largestsubgraph)
 graphbetweenness = nx.betweenness_centrality(largestsubgraph, normalized=True, endpoints=False)
 maxclo = max(graphcloseness.items(), key=itemgetter(1))
 maxbet = max(graphbetweenness.items(), key=itemgetter(1))
+
+print("The node with ID " + str(maxde[0]) + " has a degree centrality of " + str(maxde[1]) + " which is the max of the graph.")
+print("The node with ID " + str(maxclo[0]) + " has a closeness centrality of " + str(maxclo[1]) + " which is the max of the graph.")
+print("The node with ID " + str(maxbet[0]) + " has a betweenness centrality of " + str(maxbe[1]) + " which is the max of the graph.")
+
 pos = nx.spring_layout(largestsubgraph, k=0.05)
 
-node_and_degree = largestsubgraph.degree()
-colors_central_nodes = ["orange", "red"]
-central_nodes = ["393852070", "2896294831"]
+nodeanddegree = largestsubgraph.degree()
+colorscentralnodes = ["orange", "red"]
+centralnodes = ["393852070", "2896294831"]
+
 fig = nx.draw(largestsubgraph)
-fig.show()
+plt.figure(figsize = (20,20))
+nx.draw(largestsubgraph, 
+        pos=pos, 
+        cmap=plt.cm.PiYG) 
+nx.draw_networkx_nodes(largestsubgraph, 
+                       pos=pos, 
+                       nodelist=centralnodes, 
+                       node_size=300, 
+                       node_color=colorscentralnodes)
+plt.savefig("output/twitter/shussainathertweets.png")
+plt.show()
 
 # go = nx.draw(largestsubgraph, pos=pos, node_color=range(1404), 
 #              cmap=plt.cm.PiYG, edge_color="black", linewidths=0.3, 
