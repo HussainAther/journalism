@@ -123,19 +123,19 @@ def getinteractions(row):
     # The interactions are going to be a set of tuples.
     interactions = set()
     
-    # Add all interactions 
+    # Add all interactions.
     # First, we add the interactions corresponding to replies adding the id and screen_name
     interactions.add((row["in_reply_to_user_id"], row["in_reply_to_screen_name"]))
-    # After that, we add the interactions with retweets
+    # After that, we add the interactions with retweets.
     interactions.add((row["retweeted_id"], row["retweeted_screen_name"]))
-    # And later, the interactions with user mentions
+    # And later, the interactions with user mentions.
     interactions.add((row["user_mentions_id"], row["user_mentions_screen_name"]))
     
-    # Discard if user id is in interactions
+    # Discard if user id is in interactions.
     interactions.discard((row["user_id"], row["screen_name"]))
-    # Discard all not existing values
+    # Discard all not existing values.
     interactions.discard((None, None))
-    # Return user and interactions
+    # Return user and interactions.
     return user, interactions
 
 graph = nx.Graph()
@@ -211,5 +211,6 @@ nx.draw_networkx_nodes(largestsubgraph,
                        nodelist=centralnodes, 
                        node_size=300, 
                        node_color=centralnodescolors)
-plt.savefig("output/twitter/" + tweetsjson + ".png")
+filename = tweetsjson.split("/")[-1].replace(".json", "")
+plt.savefig("output/twitter/" + filename + ".png")
 plt.close()
