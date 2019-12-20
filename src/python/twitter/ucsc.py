@@ -23,6 +23,11 @@ screennames = ["science_ari", "shussainather", "laragstreiff",
                 "erinmalsbury", "joetting13", "jonathanwosen",
                 "heysmartash"]
 
+CONSUMER_KEY = os.getenv("CONSUMER_KEY")
+CONSUMER_SECRET = os.getenv("CONSUMER_SECRET")
+ACCESS_TOKEN_KEY = os.getenv("ACCESS_TOKEN_KEY")
+ACCESS_TOKEN_SECRET = os.getenv("ACCESS_TOKEN_SECRET")
+
 def getfilenames(sn):
     """
     Build the friends and followers filenames.
