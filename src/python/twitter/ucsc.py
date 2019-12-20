@@ -30,7 +30,7 @@ ACCESS_TOKEN_SECRET = os.getenv("ACCESS_TOKEN_SECRET")
 
 def getfilenames(sn):
     """
-    Build the friends and followers filenames.
+    Build the friends, followers and tweets filenames.
     """
     return os.path.join(datadir, "%s.friends.pickle" % (sn)), os.path.join(datadir, "%s.followers.pickle" % (sn))
 
@@ -48,10 +48,9 @@ if __name__ == "__main__":
         to output pickle and JSON files.
         """
         fr, fo = getfilenames(sn)
-
         # Get the friends infromation.
 	frf = t.GetFriends(user_id = sn)
-        with open(fr, "w") as frfpickle:
+        with open(fr, "w") as frfpickle: # Open a new file for the pickle.
             pickle.dump(frf, frfpickle, protocol = 2) # Write out to a pickle file.
         with open(fr, "r") as frfpickle: # Open the pickle file.
             with open(fr.replace(".pickle", ".json"), "w") as frfjson: 
@@ -68,7 +67,7 @@ if __name__ == "__main__":
                 json.dump(fofdata, fofjson)      
 
         # Get the user's timeline with the ten most recent tweets.
-        timeline = t.GetUserTimeline(screen_name=sn, count=100)
+        timeline = t.GetUserTimeline(screen_name=sn, count=500)
         tweets = [i.AsDict() for i in timeline]
         with open(datadir + "/" + sn + ".tweets.json", "w") as tweetsjson:
-            json.dump(tweets, tweetsjson) 
+            json.dump(tweets, tweetsjson) # Store the informtion in a JSON. 
