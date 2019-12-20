@@ -181,6 +181,10 @@ Run these python scripts to analyze data. Each python script begins with `import
     - Usage: `python src/python/twitter/network.py keyword image`
     - Requirements: [i-graph](https://anaconda.org/conda-forge/python-igraph), json, maplotlib, [networkx](https://anaconda.org/anaconda/networkx), numpy, pandas, [PIL](https://anaconda.org/anaconda/pil), [postgresql](https://anaconda.org/anaconda/postgresql), [pycorenlp](https://pypi.org/project/pycorenlp/), seaborn, [tqdm](https://anaconda.org/conda-forge/tqdm), tweepy, wordcloud.
 
+  * `staticmap.py` : This creates a static map of tweets from a JSON file of tweets.
+    - Usage: `python src/python/twitter/staticmap.py tweets.json`
+    - Requirements: matplotlib, networkx, numpy, pandas.
+
   * `tweetread.py` : This reads tweets from accounts with a consumer key `ckey`, consumer secret `csecret`, access token `atoken`, access secret `asecret`, and keyword file `kwfile`. 
     - Usage: `python src/python/twitter/tweetread.py ckey csecret atoken asecret kwfile`
     - Requirements: json, [tweepy](https://anaconda.org/conda-forge/tweepy). 
