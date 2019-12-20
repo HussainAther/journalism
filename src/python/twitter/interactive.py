@@ -154,7 +154,6 @@ print("The maximum degree of the graph is " + str(np.max(degrees)))
 print("The minimum degree of the graph is " + str(np.min(degrees)))
 print("There are " + str(graph.number_of_nodes()) + " nodes and " + str(graph.number_of_edges()) + " edges present in the graph")
 print("The average degree of the nodes in the graph is " + str(np.mean(degrees))) 
-print("The most frequent degree of the nodes found in the graph is " + str(stats.mode(degrees)[0][0])) 
 
 if nx.is_connected(graph):
     print("The graph is connected")
@@ -184,24 +183,31 @@ maxbet = max(graphbetweenness.items(), key=itemgetter(1))
 
 print("The node with ID " + str(maxde[0]) + " has a degree centrality of " + str(maxde[1]) + " which is the max of the graph.")
 print("The node with ID " + str(maxclo[0]) + " has a closeness centrality of " + str(maxclo[1]) + " which is the max of the graph.")
-print("The node with ID " + str(maxbet[0]) + " has a betweenness centrality of " + str(maxbe[1]) + " which is the max of the graph.")
+print("The node with ID " + str(maxbet[0]) + " has a betweenness centrality of " + str(maxbet[1]) + " which is the max of the graph.")
 
 pos = nx.spring_layout(largestsubgraph, k=0.05)
 
 nodeanddegree = largestsubgraph.degree()
-colorscentralnodes = ["orange", "red"]
-centralnodes = ["393852070", "2896294831"]
+centralnodes = list(set([maxde[0], maxclo[0], maxbet[0]]))
+centralnodescolors = [] 
+colors = ["b", "g", "r", "c", "m", "y", "k", "w"]
+for i in range(len(centralnodes)):
+    if i == 8:
+        centralnodescolors.append("b")  
+    else:
+        centralnodescolors.append(colors[i])
 
 fig = nx.draw(largestsubgraph)
 plt.figure(figsize = (20,20))
 nx.draw(largestsubgraph, 
         pos=pos, 
         cmap=plt.cm.PiYG) 
+
 nx.draw_networkx_nodes(largestsubgraph, 
                        pos=pos, 
                        nodelist=centralnodes, 
                        node_size=300, 
-                       node_color=colorscentralnodes)
+                       node_color=centralnodescolors)
 plt.savefig("output/twitter/shussainathertweets.png")
 plt.show()
 
