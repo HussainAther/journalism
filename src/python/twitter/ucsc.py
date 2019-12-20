@@ -68,7 +68,7 @@ if __name__ == "__main__":
                 json.dump(fofdata, fofjson)      
 
         # Get the user's timeline with the ten most recent tweets.
-        timeline = t.GetUserTimeline(screen_name=sn, count=10)
+        timeline = t.GetUserTimeline(screen_name=sn, count=100)
         tweets = [i.AsDict() for i in timeline]
         with open(datadir + "/" + sn + ".tweets.json", "w") as tweetsjson:
             json.dump(tweets, tweetsjson) 
