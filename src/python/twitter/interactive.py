@@ -204,20 +204,20 @@ for i in range(len(centralnodes)):
 
 # Networkx interactive map
 # Create edges.
-edge_x = []
-edge_y = []
+xedge = []
+yedge = []
 for edge in graph.edges():
     x0, y0 = graph.nodes[edge[0]]["pos"]
     x1, y1 = graph.nodes[edge[1]]["pos"]
-    edge_x.append(x0)
-    edge_x.append(x1)
-    edge_x.append(None)
-    edge_y.append(y0)
-    edge_y.append(y1)
-    edge_y.append(None)
+    xedge.append(x0)
+    xedge.append(x1)
+    xedge.append(None)
+    yedge.append(y0)
+    yedge.append(y1)
+    yedge.append(None)
 
 edge_trace = go.Scatter(
-    x=edge_x, y=edge_y,
+    x=xedge, y=yedge,
     line=dict(width=0.5, color="#888"),
     hoverinfo="none",
     mode="lines")
@@ -235,10 +235,6 @@ node_trace = go.Scatter(
     hoverinfo="text",
     marker=dict(
         showscale=True,
-        # colorscale options
-        #'Greys' | 'YlGnBu' | 'Greens' | 'YlOrRd' | 'Bluered' | 'RdBu' |
-        #'Reds' | 'Blues' | 'Picnic' | 'Rainbow' | 'Portland' | 'Jet' |
-        #'Hot' | 'Blackbody' | 'Earth' | 'Electric' | 'Viridis' |
         colorscale="YlGnBu",
         reversescale=True,
         color=[],
@@ -262,10 +258,10 @@ node_trace.text = node_text
 
 fig = go.Figure(data=[edge_trace, node_trace],
              layout=go.Layout(
-                title='<br>Network graph made with Python',
+                title="<br>Network graph made with Python",
                 titlefont_size=16,
                 showlegend=False,
-                hovermode='closest',
+                hovermode="closest",
                 margin=dict(b=20,l=5,r=5,t=40),
                 annotations=[ dict(
                     text="Python code: <a href=\"https://github.com/HussainAther/journalism/blob/master/src/python/twitter/interactive.py\"> https://github.com/HussainAther/journalism/blob/master/src/python/twitter/interactive.py</a>",
