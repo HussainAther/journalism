@@ -18,5 +18,6 @@ gdf = gpd.GeoDataFrame(
     df, geometry=geom)
 
 # Plot.
-fig = px.scatter_mapbox(gdf, lat="latitude", lon="longitude") 
+fig = px.scatter_mapbox(gdf, lat="latitude", lon="longitude", hover_data=["county", "state"]) 
 fig.show()
+
