@@ -149,7 +149,11 @@ Run these python scripts to analyze data. Each python script begins with `import
     - Usage: `python src/python/santacruz/airborne/knn.py`
     - Requirements: matplotlib, pandas, seaborn, scikit-learn.
 
-* In `santacruz/asbestos`, `read.py` : This reads and maps asbestos mines.
+* In `santacruz/asbestos`, `interactive.py` : This creates an interactive map that you can zoom and stretch to view the 900 occurrences of asbestiform minerals and fibrous amphiboles in the US.
+    - Usage: `python src/python/santacruz/asbestos/interactive.py`
+    - Requirements: chart-studio, geopandas, matplotlib, pandas, plotly. 
+
+  * `staticmap.py` : This reads and maps asbestos mines with a static image output.
     - Usage: `python src/python/santacruz/asbestos/read.py`
     - Requirements: geopandas, matplotlib, pandas, [shapely](https://anaconda.org/conda-forge/shapely).
 
