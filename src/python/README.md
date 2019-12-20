@@ -141,7 +141,7 @@ Run these python scripts to analyze data. Each python script begins with `import
     - Usage: `python src/python/rock/read.py`
     - Requirements: geopandas, matplotlib, pandas.
 
-* In `santacruz/airborne`, `csvread.py` : This maps the csv files of magnetic and radiometric of Santa Cruz.
+* In `santacruz/airborne`, `interactive.py` : This maps the csv files of magnetic and radiometric of Santa Cruz.
     - Usage: `python src/python/santacruz/airborne/csvread.py`
     - Requirements: chart-studio, matplotlib, numpy, pandas, plotly, seaborn.
     
