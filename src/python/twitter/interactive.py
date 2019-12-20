@@ -197,6 +197,7 @@ for i in range(len(centralnodes)):
     else:
         centralnodescolors.append(colors[i])
 
+# Networkx static image.
 fig = nx.draw(largestsubgraph)
 plt.figure(figsize = (20,20))
 nx.draw(largestsubgraph, 
@@ -209,8 +210,6 @@ nx.draw_networkx_nodes(largestsubgraph,
                        node_size=300, 
                        node_color=centralnodescolors)
 plt.savefig("output/twitter/shussainathertweets.png")
-plt.show()
+plt.close()
 
-# go = nx.draw(largestsubgraph, pos=pos, node_color=range(1404), 
-#              cmap=plt.cm.PiYG, edge_color="black", linewidths=0.3, 
-#              node_size=60, alpha=0.6, with_labels=False)
+# Plotly interactive map.
