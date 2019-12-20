@@ -7,6 +7,7 @@ import os
 import pandas as pd
 import plotly.graph_objects as go
 import re
+import sys
 
 from operator import itemgetter
 
@@ -17,8 +18,11 @@ followers are from one another.
 
 pd.set_option("display.float_format", lambda x: "%.f" % x)
 
+# Read input JSON file.
+tweetsjson = sys.argv[1]
+
 # Read JSON into a pandas DataFrame.
-df = pd.read_json("data/twitter/tweets/shussainather.tweets.json")
+df = pd.read_json(tweetsjson)
 
 # Get the info we want.
 tfinal = pd.DataFrame(columns = ["created_at", "id", "in_reply_to_screen_name", 
@@ -136,6 +140,7 @@ def getinteractions(row):
     # Return user and interactions
     return user, interactions
 
+# Initialize the network graph.
 graph = nx.Graph()
 
 for index, tweet in tfinal.iterrows():
@@ -197,19 +202,77 @@ for i in range(len(centralnodes)):
     else:
         centralnodescolors.append(colors[i])
 
-# Networkx static image.
-fig = nx.draw(largestsubgraph)
-plt.figure(figsize = (20,20))
-nx.draw(largestsubgraph, 
-        pos=pos, 
-        cmap=plt.cm.PiYG) 
+# Networkx interactive map
+# Create edges.
+edge_x = []
+edge_y = []
+for edge in graph.edges():
+    x0, y0 = graph.nodes[edge[0]]["pos"]
+    x1, y1 = graph.nodes[edge[1]]["pos"]
+    edge_x.append(x0)
+    edge_x.append(x1)
+    edge_x.append(None)
+    edge_y.append(y0)
+    edge_y.append(y1)
+    edge_y.append(None)
 
-nx.draw_networkx_nodes(largestsubgraph, 
-                       pos=pos, 
-                       nodelist=centralnodes, 
-                       node_size=300, 
-                       node_color=centralnodescolors)
-plt.savefig("output/twitter/shussainathertweets.png")
-plt.close()
+edge_trace = go.Scatter(
+    x=edge_x, y=edge_y,
+    line=dict(width=0.5, color="#888"),
+    hoverinfo="none",
+    mode="lines")
 
-# Plotly interactive map.
+node_x = []
+node_y = []
+for node in graph.nodes():
+    x, y = graph.nodes[node]["pos"]
+    node_x.append(x)
+    node_y.append(y)
+
+node_trace = go.Scatter(
+    x=node_x, y=node_y,
+    mode="markers",
+    hoverinfo="text",
+    marker=dict(
+        showscale=True,
+        # colorscale options
+        #'Greys' | 'YlGnBu' | 'Greens' | 'YlOrRd' | 'Bluered' | 'RdBu' |
+        #'Reds' | 'Blues' | 'Picnic' | 'Rainbow' | 'Portland' | 'Jet' |
+        #'Hot' | 'Blackbody' | 'Earth' | 'Electric' | 'Viridis' |
+        colorscale="YlGnBu",
+        reversescale=True,
+        color=[],
+        size=10,
+        colorbar=dict(
+            thickness=15,
+            title="Node Connections",
+            xanchor="left",
+            titleside="right"
+        ),
+        line_width=2))
+# Color node points.
+node_adjacencies = []
+node_text = []
+for node, adjacencies in enumerate(G.adjacency()):
+    node_adjacencies.append(len(adjacencies[1]))
+    node_text.append("# of connections: " + str(len(adjacencies[1])))
+
+node_trace.marker.color = node_adjacencies
+node_trace.text = node_text
+
+fig = go.Figure(data=[edge_trace, node_trace],
+             layout=go.Layout(
+                title='<br>Network graph made with Python',
+                titlefont_size=16,
+                showlegend=False,
+                hovermode='closest',
+                margin=dict(b=20,l=5,r=5,t=40),
+                annotations=[ dict(
+                    text="Python code: <a href=\"https://github.com/HussainAther/journalism/blob/master/src/python/twitter/interactive.py\"> https://github.com/HussainAther/journalism/blob/master/src/python/twitter/interactive.py</a>",
+                    showarrow=False,
+                    xref="paper", yref="paper",
+                    x=0.005, y=-0.002 ) ],
+                xaxis=dict(showgrid=False, zeroline=False, showticklabels=False),
+                yaxis=dict(showgrid=False, zeroline=False, showticklabels=False))
+                )
+fig.show()
