@@ -80,4 +80,19 @@ layout=dict(title= "My Grapha",
      plot_bgcolor="#EFECEA", #set background color            
      )
 fig = dict(data=[trace_edges, trace_nodes], layout=layout)
+def make_annotations(pos, anno_text, font_size=14, font_color='rgb(10,10,10)'):
+    L=len(pos)
+    if len(anno_text)!=L:
+        raise ValueError("The lists pos and text must have the same len")
+    annotations = []
+    for k in range(L):
+        annotations.append(dict(text=anno_text[k], 
+                                x=pos[k][0], 
+                                y=pos[k][1]+0.075, # This additional value is chosen by trial and error
+                                xref="x1", yref="y1",
+                                font=dict(color= font_color, size=font_size),
+                                showarrow=False)
+                          )
+    return annotations  
+fig["layout"].update(annotations=make_annotations(pos, labels))
 iplot(fig)
