@@ -10,7 +10,7 @@ from plotly.offline import iplot, plot
 
 """
 Create an interactive network of how distant Twitter
-followers are from one another.
+followers are from one another using tweets.
 """
 
 # Read input JSON file.
