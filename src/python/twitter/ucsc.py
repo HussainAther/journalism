@@ -52,7 +52,7 @@ if __name__ == "__main__":
                 fofdata = pickle.load(fofpickle)
                 json.dump(fofdata, fofjson)      
 
-        # Get the user's timeline with the ten most recent tweets.
+        # Get the user's timeline with the 500 most recent tweets.
         timeline = t.GetUserTimeline(screen_name=sn, count=500)
         tweets = [i.AsDict() for i in timeline]
         with open(datadir + "/" + sn + ".tweets.json", "w") as tweetsjson:
