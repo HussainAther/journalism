@@ -1,6 +1,8 @@
+# Import the matplotlib.pyplot and numpy libraries.
 import matplotlib.pyplot as plt
 import numpy as np
 
+# Import the confusion_matrix method from scikit-learn.
 from sklearn.metrics import confusion_matrix
 
 """
@@ -8,13 +10,16 @@ Visualize a confusion matrix with labels.
 """
 
 # Tested results from an experiment
-y_test = ["cat", "cat", "cat", "cat", "cat", "cat", "cat", "cat", "cat", "cat", "cat", "cat", "cat", "cat", "cat", "cat", "cat", "cat", "cat", "cat"]
+y_test = ["cat", "cat", "cat", "cat", "cat", 
+          "cat", "cat", "cat", "cat", "cat", 
+          "cat", "cat", "cat", "cat", "cat", 
+          "cat", "cat", "cat", "cat", "cat"]
 
 # Predicted values
 y_pred = ["dog", "cat", "cat", "cat", "cat",
-       "cat", "dog", "dog", "cat", "cat", "cat",
-       "cat", "cat", "cat", "cat", "cat",
-       "dog", "dog", "cat", "dog"]
+          "cat", "dog", "dog", "cat", "cat", 
+          "cat", "cat", "cat", "cat", "cat", 
+          "cat", "dog", "dog", "cat", "dog"]
 
 labels = ["cat", "dog"]
 
