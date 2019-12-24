@@ -173,6 +173,10 @@ Run these python scripts to analyze data. Each python script begins with `import
     - Usage: `python src/python/slack/interactive.py`
     - Requirements: chart-studio, matplotlib, pandas, plotly.
 
+* In `stat`, `confusion.py` : This creates a confusion matrix based on predicted and observed experimental values. 
+    - Usage: `python src/python/stat/confusion.py`
+    - Requirements: matplotlib, numpy, scikit-learn. 
+
 * In `twitter`, `interactive.py` : This script makes interactive network graphs of tweets from an input `tweets.json` file found in `data/twitter`.
     - Usage: `python src/python/twitter/interactive.py` 
     - Requirements: chart-studio, json, matplotlib, networkx, pandas, plotly. 
