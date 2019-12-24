@@ -90,10 +90,6 @@ Run these python scripts to analyze data. Each python script begins with `import
     - This script is written to be as succinct and concise, using as few lines of code as possible.
     - A full explanation is found here: https://hussainather.com/2019/12/17/make-a-word-cloud-in-a-single-line-of-python/
 
-  * `uncertainty.py` : This script has simple statistics tests for evaluating uncertainty.
-    - Usage: `python uncertainty.py`
-    - Requirements: matplotlib, numpy.
-
   * `visualizeDataset.py` : This script creates an example dataset and plots it.
     - Usage: `python visualizeDataset.py`
     - Requirements: matplotlib, pandas, seaborn. 
@@ -180,6 +176,10 @@ Run these python scripts to analyze data. Each python script begins with `import
   * `regression.py` : Perform regression on sample data.
     - Usage: `python src/python/stat/regression.py`
     - Requirements: matplotlib, numpy, pandas, [scipy](https://anaconda.org/anaconda/scipy), seaborn.
+
+  * `uncertainty.py` : This script has simple statistics tests for evaluating uncertainty.
+    - Usage: `python uncertainty.py`
+    - Requirements: matplotlib, numpy.
 
 * In `twitter`, `interactive.py` : This script makes interactive network graphs of tweets from an input `tweets.json` file found in `data/twitter`.
     - Usage: `python src/python/twitter/interactive.py` 
