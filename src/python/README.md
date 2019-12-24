@@ -177,6 +177,10 @@ Run these python scripts to analyze data. Each python script begins with `import
     - Usage: `python src/python/stat/confusion.py`
     - Requirements: matplotlib, numpy, scikit-learn. 
 
+  * `regression.py` : Perform regression on sample data.
+    - Usage: `python src/python/stat/regression.py`
+    - Requirements: matplotlib, numpy, pandas, [scipy](https://anaconda.org/anaconda/scipy), seaborn.
+
 * In `twitter`, `interactive.py` : This script makes interactive network graphs of tweets from an input `tweets.json` file found in `data/twitter`.
     - Usage: `python src/python/twitter/interactive.py` 
     - Requirements: chart-studio, json, matplotlib, networkx, pandas, plotly. 
