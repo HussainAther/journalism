@@ -169,13 +169,17 @@ Run these python scripts to analyze data. Each python script begins with `import
     - Usage: `python src/python/slack/interactive.py`
     - Requirements: chart-studio, matplotlib, pandas, plotly.
 
-* In `stat`, `confusion.py` : This creates a confusion matrix based on predicted and observed experimental values. 
+* In `stat`, `beta.py` : Create a Beta distribution on how likely it is to flip certain amounts of heads after flipping a coin.
+    - Usage: `python src/python/stat/beta.py`
+    - Requirements: matplotlib, numpy, [scipy](https://anaconda.org/anaconda/scipy).
+
+  * `confusion.py` : This creates a confusion matrix based on predicted and observed experimental values. 
     - Usage: `python src/python/stat/confusion.py`
     - Requirements: matplotlib, numpy, scikit-learn. 
 
   * `regression.py` : Perform regression on sample data.
     - Usage: `python src/python/stat/regression.py`
-    - Requirements: matplotlib, numpy, pandas, [scipy](https://anaconda.org/anaconda/scipy), seaborn.
+    - Requirements: matplotlib, numpy, pandas, scipy, seaborn.
 
   * `uncertainty.py` : This script has simple statistics tests for evaluating uncertainty.
     - Usage: `python uncertainty.py`
