@@ -33,12 +33,12 @@ cax = ax.matshow(cm)
 
 # Label the matrix.
 for (i, j), z in np.ndenumerate(cm):
-    ax.text(j, i, "{:0.1f}".format(z), ha="center", va="center")
+    ax.text(j, i, "{:0.1f}".format(z), ha="center", va="center", fontsize=36, bbox=dict(facecolor="white"))
 
 plt.title("Confusion matrix of the classifier")
 fig.colorbar(cax)
-ax.set_xticklabels([""] + labels)
-ax.set_yticklabels([""] + labels)
-plt.xlabel("Predicted")
-plt.ylabel("True")
+ax.set_xticklabels([""] + labels, fontsize="large")
+ax.set_yticklabels([""] + labels, fontsize="large")
+plt.xlabel("Predicted", fontsize="large")
+plt.ylabel("True", fontsize="large")
 plt.show()
